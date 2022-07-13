@@ -1,0 +1,11 @@
+{
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ]
+}
