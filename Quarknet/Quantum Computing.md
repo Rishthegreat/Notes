@@ -191,4 +191,3 @@
 		- Probability to not get through -> $sin^2\theta$
 		- ![[Quantum Computing 2022-07-13 10.53.44.excalidraw]]
 			- Each individual line is a polarizer in the direction of the red arrows
-- C
