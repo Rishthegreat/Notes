@@ -32,7 +32,8 @@
 		- This is what we have done so far
 
 - ![[Pasted image 20220803191153.png]]
-	- The 
+	- The way the computer detects that this is a 4
+		- We have a convolusional layer, then a pooling layer, then another convlutional and pooling and then ...
 
 
 
