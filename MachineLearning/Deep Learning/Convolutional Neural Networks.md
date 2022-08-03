@@ -5,6 +5,7 @@
 - To the CNN, a colored image that is 2 x 2 is a 3d array because of rgb
 - ![[Pasted image 20220803180534.png]]
 	- Convolutional operation
+	- Below is the intuitive way to look at this equation
 - ![[Pasted image 20220803180859.png]]
 	- You take the Feature Detector aka Kernel aka Filter and apply it to the image
 		- Usually the Filter is 3 x 3 but some use 5 x 5, etc
@@ -14,10 +15,11 @@
 	- The goal of this step is to make the image smaller to make the processing faster and also to detect certain features
 	- We create multiple feature maps to obtain our first convolutional layer
 		- ![[Pasted image 20220803182134.png]]
-	- A ReLU Layer is applying the rectfier function to the pixels in the feature map. This gets rid of all the negative values and increases non-linearity
+	- A ReLU Layer is applying the rectfier function to the pixels in the feature map. This gets rid of all the negative values and increases non-linearity. Not everything can be modelled linearly, so we need to intorduce non-linearity. Mathematically, if all we use is linear functions, then the neural network is basically just 1 linear equation which is useless in complex applicatio
+
 
 - Max Pooling
-	- The neural network should be able to find features even if they are distorted. Eg - A cheetah looking in a different direc
+	- The neural network should be able to find features even if they are distorted. Eg - A cheetah looking in a different direction, under different lighting and in a different part of the image
 
 
 
