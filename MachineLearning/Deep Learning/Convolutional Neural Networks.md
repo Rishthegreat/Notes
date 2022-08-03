@@ -39,7 +39,7 @@
 	- This is Flattening and this is done so that we can use this as an input to a ANN
 
 - Full Connection
-	- 
+	- In step, we add a whole ANN
 
 
 
