@@ -14,7 +14,7 @@
 	- The goal of this step is to make the image smaller to make the processing faster and also to detect certain features
 	- We create multiple feature maps to obtain our first convolutional layer
 		- ![[Pasted image 20220803182134.png]]
-	- A ReLU Layer is applyin
+	- A ReLU Layer is applying the rectfier function to the pixels in the feature map. This gets rid of all the negative values and increases non-linearity
 
 
 
