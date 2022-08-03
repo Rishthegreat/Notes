@@ -19,8 +19,10 @@
 	- A ReLU Layer is applying the rectfier function to the pixels in the feature map. This gets rid of all the negative values and increases non-linearity. Not everything can be modelled linearly, so we need to intorduce non-linearity. Mathematically, if all we use is linear functions, then the neural network is basically just 1 linear equation which is useless in complex applications.
 
 
-- Max Pooling
+- Pooling
 	- The neural network should be able to find features even if they are distorted. Eg - A cheetah looking in a different direction, under different lighting and in a different part of the image
+	- Max Pooling (One type of Pooling)
+		- We take the feature map and select a box size such as 2 x 2 and a stride and then you look at the pixels in the box, select the maximum value, record it and then move on according to the stride
 
 
 
