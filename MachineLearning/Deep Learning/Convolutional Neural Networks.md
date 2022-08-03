@@ -23,6 +23,9 @@
 	- The neural network should be able to find features even if they are distorted. Eg - A cheetah looking in a different direction, under different lighting and in a different part of the image
 	- Max Pooling (One type of Pooling)
 		- We take the feature map and select a box size such as 2 x 2 and a stride and then you look at the pixels in the box, select the maximum value, record it and then move on according to the stride
+		- We are getting rid of information that we do not need (Features that do not show up in the feature map)
+			- By taking the maximum, we are also taking into account of distortion
+			- In the Cheetah example, if the feature in another cheetah is slightly positioned to the right, we still detect it
 
 
 
