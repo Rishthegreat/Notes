@@ -30,7 +30,9 @@
 			- We are reducing the chances of overfitting in the neural network
 	- ![[Pasted image 20220803190618.png]]
 		- This is what we have done so far
-	- 
+
+- ![[Pasted image 20220803191153.png]]
+	- The 
 
 
 
