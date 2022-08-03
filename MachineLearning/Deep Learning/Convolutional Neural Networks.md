@@ -11,7 +11,7 @@
 	- You match the 3 by 3 sqaure to the filter to see if the pixels match
 		- The number of pixels that match up is the nuber you put in the feature map aka convulved feature aka activation map
 	- The stride is the number of pixels that you move then you take the next set of pixels to compare
-	- The goal of this step is to make the image smaller to make the processing faster and also to detect 
+	- The goal of this step is to make the image smaller to make the processing faster and also to detect certain features
 
 
 
