@@ -13,8 +13,7 @@
 	- The stride is the number of pixels that you move then you take the next set of pixels to compare
 	- The goal of this step is to make the image smaller to make the processing faster and also to detect certain features
 	- We create multiple feature maps to obtain our first convolutional layer
-		- ![[Pasted image 20220803182134.png]]
-		- 
+		- ![[Pasted image 20220803182134.png]] 
 
 
 
