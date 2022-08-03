@@ -16,7 +16,8 @@
 		- ![[Pasted image 20220803182134.png]]
 	- A ReLU Layer is applying the rectfier function to the pixels in the feature map. This gets rid of all the negative values and increases non-linearity
 
-
+- Max Pooling
+	- The neural network should be able to find features even if they are distorted. Eg - A cheetah looking in a different direc
 
 
 
