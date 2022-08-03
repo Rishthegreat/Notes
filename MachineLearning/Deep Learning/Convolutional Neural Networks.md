@@ -19,7 +19,7 @@
 	- A ReLU Layer is applying the rectfier function to the pixels in the feature map. This gets rid of all the negative values and increases non-linearity. Not everything can be modelled linearly, so we need to intorduce non-linearity. Mathematically, if all we use is linear functions, then the neural network is basically just 1 linear equation which is useless in complex applications.
 
 
-- Pooling
+- Pooling aka downsampling
 	- The neural network should be able to find features even if they are distorted. Eg - A cheetah looking in a different direction, under different lighting and in a different part of the image
 	- Max Pooling (One type of Pooling)
 		- ![[Pasted image 20220803190215.png]]
@@ -28,7 +28,9 @@
 			- By taking the maximum, we are also taking into account of distortion
 				- In the Cheetah example, if the feature in another cheetah is slightly positioned to the right, we still detect it
 			- We are reducing the chances of overfitting in the neural network
-			- 
+	- ![[Pasted image 20220803190618.png]]
+		- This is what we have done so far
+	- 
 
 
 
