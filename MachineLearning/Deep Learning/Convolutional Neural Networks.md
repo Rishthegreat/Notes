@@ -35,7 +35,11 @@
 	- The way the computer detects that this is a 4
 		- We have a convolusional layer, then a pooling layer, then another convlutional and pooling and then ...
 
-- 
+- ![[Pasted image 20220803191600.png]]
+	- This is Flattening and this is done so that we can use this as an input to a ANN
+
+- Full Connection
+	- 
 
 
 
