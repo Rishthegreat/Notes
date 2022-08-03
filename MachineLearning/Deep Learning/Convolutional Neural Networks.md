@@ -7,7 +7,8 @@
 	- Convolutional operation
 - ![[Pasted image 20220803180859.png]]
 	- You take the Feature Detector aka Kernel aka Filter and apply it to the image
-		- Usually 
+		- Usually the Filter is 3 x 3 bu some use 5 x 5, etc
+	- 
 
 
 
