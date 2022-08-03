@@ -1,2 +1,2 @@
-**Convolutional Neural Networks**
+**What are Convolutional Neural Networks**
 
