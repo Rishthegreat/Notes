@@ -49,7 +49,9 @@
 		- This function allows the probabilities of the different categories to add up to 1
 	- ![[Pasted image 20220804131707.png]]
 		- Cross-Entropy function
-		- 
+		- ![[Pasted image 20220804132345.png]]
+			- Cross - Entropy is used to calculated to find error
+		- Cross entropy is favored over MSE because it helps 
 
 
 
