@@ -41,7 +41,7 @@
 - Full Connection
 	- In step, we add a whole ANN
 	- ![[Pasted image 20220803204135.png]]
-		- We feed the model and image and then it spits out the fact that the picture is a dog instead of a cat. Then the loss function is calculated and all the weights are adjusted along with the 
+		- We feed the model and image and then it spits out the fact that the picture is a dog instead of a cat. Then the loss function is calculated and all the weights are adjusted along with the feature detectors because what if we are looking for the wrong features
 
 
 
