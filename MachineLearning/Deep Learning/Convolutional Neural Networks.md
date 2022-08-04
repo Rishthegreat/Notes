@@ -51,7 +51,9 @@
 		- Cross-Entropy function
 		- ![[Pasted image 20220804132345.png]]
 			- Cross - Entropy is used to calculated to find error
-		- Cross entropy is favored over MSE because it helps 
+		- Cross entropy is favored over MSE because it helps the neural network more accurately adjust weights
+			- EG - your goal is to get an output of 1, but your output right now is a millionth of a 1.
+				- So after adjusting your weights, if you 
 
 
 
