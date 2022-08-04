@@ -53,7 +53,8 @@
 			- Cross - Entropy is used to calculated to find error
 		- Cross entropy is favored over MSE because it helps the neural network more accurately adjust weights
 			- EG - your goal is to get an output of 1, but your output right now is a millionth of a 1.
-				- So after adjusting your weights, if you 
+				- So after adjusting your weights, if you now get an output of a thousandth of a 1, MSE will count that as a very very small improvement
+				- On the other hand, Cross - Entropy will count that as a big improvement because it is logarithmic, so the model is able to more quickly and accurately adjust weights this way
 
 
 
