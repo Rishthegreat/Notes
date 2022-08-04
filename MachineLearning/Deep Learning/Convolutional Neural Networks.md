@@ -47,6 +47,9 @@
 	- ![[Pasted image 20220803211427.png]]
 		- Softmax function
 		- This function allows the probabilities of the different categories to add up to 1
+	- ![[Pasted image 20220804131707.png]]
+		- Cross-Entropy function
+		- I
 
 
 
