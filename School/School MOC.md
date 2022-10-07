@@ -2,7 +2,9 @@
 
 ## Classes
 
-```
+```dataview
+table
+from #course
 ```
 
 ## Notes
