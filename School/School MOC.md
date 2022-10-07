@@ -3,7 +3,7 @@
 ## Classes
 
 ```dataview
-table
+table block
 from #course
 ```
 
