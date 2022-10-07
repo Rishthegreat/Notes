@@ -1,8 +1,8 @@
 ---
 block: 2
+tags: course
 ---
 
-#course
 
 # APUSH
 
