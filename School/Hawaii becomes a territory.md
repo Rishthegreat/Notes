@@ -34,3 +34,6 @@ Created: 10-08-2022
 #### During the [[Spanish-American War]]
 - Pearl Harbor had a strategic use as a naval base during the War and a dominant military precense in the Pacific
 - The US had a lot of business interest there
+- President William McKinley negotiated a treaty with the Republic of Hawaii in 1897
+- In 1898, the [[Spanish-American War]] broke out, and pushed Congress to approve formal annexation
+- 2 years later, Hawaii was organized into a formal US territory and in 1959 it entered the US as the 50th state
