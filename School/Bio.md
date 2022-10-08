@@ -1,6 +1,6 @@
 ---
 block: 7
-tags: course, bio
+tags: course
 ---
 
 [[School MOC]]
