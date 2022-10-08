@@ -1,6 +1,7 @@
 ---
 block: 
 tags: course
+links
 ---
 
 [[School MOC]]

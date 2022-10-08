@@ -1,6 +1,6 @@
 ---
-Tags:
-Links:
+tags:
+links:
 ---
 ---
 # <% tp.file.title %>
