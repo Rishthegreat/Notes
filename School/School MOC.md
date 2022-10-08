@@ -9,7 +9,7 @@ sort block
 ```
 
 ## Assignments
-
+- [ ] BC videos 📅 2022-10-13 #
 
 ## Notes
 
