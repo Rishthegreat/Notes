@@ -31,4 +31,5 @@ Created: 10-08-2022
 	- Hawaii remained as The Independent Republic of Hawaii, mostly run by the businessmen and their influence
 
 #### During the [[Spanish-American War]]
-- Pearl Harbor had a strategic use as a naval base during the War
+- Pearl Harbor had a strategic use as a naval base during the War and a dominant military precense in the Pacific
+- The US had a lot of business interest there
