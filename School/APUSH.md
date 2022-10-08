@@ -8,8 +8,8 @@ tags: course
 
 ## Units
 
-- [[Unit 6 (1865 - 1900)]]
-- [[]]
+- [[Unit 6 (1865 - 1900)]] - Gilded Age
+- [[Unit 7 (1890 - 1945)]] - Imperialism
 
 
 ## Assignments
