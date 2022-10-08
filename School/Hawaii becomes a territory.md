@@ -28,4 +28,7 @@ Created: 10-08-2022
 	- Most Hawaiians also opposed the annexation
 - Cleveland, then sends a new US minister to Hawaii to restore the queen to power under the 1887 Constitution, but Dole refused to step aside
 	- Cleveland did not want to use force to overthrow the government
-	- hawa
+	- Hawaii remained as The Independent Republic of Hawaii, mostly run by the businessmen and their influence
+
+#### During the [[Spanish-American War]]
+- Pearl Harbor had a strategic use as a naval base during the War
