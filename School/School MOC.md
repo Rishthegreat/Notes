@@ -9,7 +9,10 @@ sort block
 ```
 
 ## Assignments
-
+```dataview
+task
+from #course 
+```
 
 ## Notes
 
