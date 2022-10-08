@@ -1,10 +1,10 @@
 ---
-block: 
+block: 7
 tags: course
 ---
 
 [[School MOC]]
-# <% tp.file.title %>
+# Bio
 
 ## Notes
 
