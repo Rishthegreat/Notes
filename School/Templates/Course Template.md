@@ -1,7 +1,7 @@
 ---
 block: 
 tags: course
-links
+links: [[School MOC]]
 ---
 
 [[School MOC]]
