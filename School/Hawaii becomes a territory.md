@@ -15,6 +15,8 @@ Created: 10-08-2022
 
 #### Prior to [[Spanish-American War]]
 - [[McKinley Tarrif of 1890]]
-	- Caused high tarrifs for import
+	- Caused high tarrifs from goods moving from Hawaii to the US because if was not a US territory or state
+		- US buinessmen did not like this
 - Liliuokalani becomes the queen in 1891
 	- She does not recognize the constitution of 1887 and replaces it with another which increases her authority
+- In January 1893, a revolutionary "Committee of Safety," organized 
