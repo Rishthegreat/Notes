@@ -19,4 +19,7 @@ Created: 10-08-2022
 		- US buinessmen did not like this
 - Liliuokalani becomes the queen in 1891
 	- She does not recognize the constitution of 1887 and replaces it with another which increases her authority
-- In January 1893, a revolutionary "Committee of Safety," organized 
+- In January 1893, a revolutionary "Committee of Safety," organized by Sanford B. Dole, staged a coup against the queen
+	- Comprised of American sugar planters
+	- Many US businessmen supported this
+	- On Feb 1 1893, US Minister to Hawaii
