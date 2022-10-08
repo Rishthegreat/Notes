@@ -15,6 +15,6 @@ Created: 10-08-2022
 
 #### Prior to [[Spanish-American War]]
 - [[McKinley Tarrif of 1890]]
-	- 
+	- Caused high tarrifs for import
 - Liliuokalani becomes the queen in 1891
 	- She does not recognize the constitution of 1887 and replaces it with another which increases her authority
