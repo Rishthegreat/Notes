@@ -1,6 +1,6 @@
 ---
 block: 7
-tags: course
+tags: course, bio
 ---
 
 [[School MOC]]
@@ -10,7 +10,3 @@ tags: course
 
 
 ## Assignments
-```dataview
-task
-from #bio 
-```

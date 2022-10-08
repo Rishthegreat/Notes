@@ -9,7 +9,10 @@ sort block
 ```
 
 ## Assignments
-- [ ] BC videos 📅 2022-10-13 #bio
-- [ ] testing
+```dataview
+task
+from #bio 
+```
+
 ## Notes
 
