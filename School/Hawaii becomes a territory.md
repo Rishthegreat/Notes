@@ -25,6 +25,7 @@ Created: 10-08-2022
 	- On Feb 1 1893, US Minister to Hawaii John Stevens recognized Dole's new government on his own authority and proclaimed Hawaii as a US protectorate.
 - Dole submitted a treaty of annexation to the US Senate
 	- Cleveland, a democrat opposed republican efforts to annex Hawaii as did most democrats
+		- He believed that the white American planters there had unjustly overthrown the queen
 	- Most Hawaiians also opposed the annexation
 - Cleveland, then sends a new US minister to Hawaii to restore the queen to power under the 1887 Constitution, but Dole refused to step aside
 	- Cleveland did not want to use force to overthrow the government
