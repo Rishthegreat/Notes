@@ -5,4 +5,4 @@ Links:
 ---
 # <% tp.file.title %>
 ---
-Created: <% tp.date.now("")
+Created: <% tp.date.now("MM-DD-YYYY") %>
