@@ -4,7 +4,7 @@
 
 ```dataview
 table block
-from #course
+from #course and !"Templates"
 ```
 
 ## Assignments
