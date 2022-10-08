@@ -22,4 +22,7 @@ Created: 10-08-2022
 - In January 1893, a revolutionary "Committee of Safety," organized by Sanford B. Dole, staged a coup against the queen
 	- Comprised of American sugar planters
 	- Many US businessmen supported this
-	- On Feb 1 1893, US Minister to Hawaii
+	- On Feb 1 1893, US Minister to Hawaii John Stevens recognized Dole's new government on his own authority and proclaimed Hawaii as a US protectorate.
+- Dole submitted a treaty of annexation to the US Senate
+	- Cleveland, a democrat opposed republican efforts to annex Hawaii as did most democrats
+	- Most Hawaiians also opposed the 
