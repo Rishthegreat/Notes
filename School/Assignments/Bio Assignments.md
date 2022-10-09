@@ -1,5 +1,5 @@
 ---
 tags: bio, assignments
 ---
-[[School MOC]]
+[[School MOC]] [[Bio]]
 # Bio Assignments

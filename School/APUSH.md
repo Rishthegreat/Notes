@@ -12,8 +12,9 @@ tags: course
 - [[Unit 7 (1890 - 1945)]] - Imperialism
 
 
-## Assignments
+## Assignments 
+[[APUSH Assignments]]
 ```dataview
-tasks
-from #
+task
+from #apush
 ```

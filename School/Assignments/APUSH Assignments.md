@@ -1,6 +1,6 @@
 ---
 tags: apush, assignments
 ---
-[[School MOC]]
+[[School MOC]] [[APUSH]]
 # APUSH Assignments
 - [ ] APUSH test
