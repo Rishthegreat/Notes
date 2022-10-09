@@ -1,7 +1,6 @@
----
-tags:
-links: [[Spanish-American War]]
----
+Tags:
+Links: [[Spanish-American War]]
+
 ---
 Created: 10-09-2022
 # Yellow Journalism
