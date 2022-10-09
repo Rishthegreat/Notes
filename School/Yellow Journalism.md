@@ -1,6 +1,6 @@
 ---
 tags:
-links: 
+links: [[Spanish-American War]]
 ---
 ---
 Created: 10-09-2022
