@@ -15,6 +15,7 @@ sort block
 task
 from #assignments
 where !completed
+sort due
 ```
 ---
 ```dataview
