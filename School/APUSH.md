@@ -13,3 +13,7 @@ tags: course
 
 
 ## Assignments
+```dataview
+tasks
+from #
+```
