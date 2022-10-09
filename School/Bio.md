@@ -10,3 +10,8 @@ tags: course
 
 
 ## Assignments
+[[Bio Assignments]]
+```dataview
+task
+from #bio
+```

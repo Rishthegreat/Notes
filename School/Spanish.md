@@ -10,3 +10,9 @@ tags: course
 
 
 ## Assignments
+[[Spanish Assignments]]
+```dataview
+task
+from #spanish 
+```
+
