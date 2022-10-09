@@ -3,7 +3,7 @@ tags:
 links: 
 ---
 ---
-Created: 10-09-2022
-# yellow-journalism
+Created: <% tp.date.now("MM-DD-YYYY") %>
+# <% tp.file.title %>
 ---
 
