@@ -12,7 +12,7 @@ sort block
 
 ## Assignments
 ```dataview
-calendar
+task
 from #assignments
 where !completed
 ```
