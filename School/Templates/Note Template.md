@@ -1,7 +1,7 @@
 Tags:
 Links: 
 ---
-Created: 10-09-2022
+Created: <% tp.date.now("MM-DD-YYYY")
 # <% tp.file.title %>
 ---
 
