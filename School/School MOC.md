@@ -14,7 +14,7 @@ task
 from #assignments 
 ```
 ```dataview
-table numberAssignments
+table length(filter(file.tasks, (t) =>)) AS "Uncompleted"
 from #assignments
 
 ```
