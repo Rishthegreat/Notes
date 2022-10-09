@@ -12,9 +12,10 @@ sort block
 ```dataview
 task
 from #assignments 
+sort task.duedate
 ```
 ```dataview
-table length(filter(file.tasks, (t) =>)) AS "Uncompleted"
+table length(filter(file.tasks, (t) => !t.completed)) AS "Uncompleted"
 from #assignments
 
 ```
