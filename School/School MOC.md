@@ -11,7 +11,7 @@ sort block
 ## Assignments
 ```dataview
 task
-from #bio 
+from #assignments 
 ```
 
 ## Notes
