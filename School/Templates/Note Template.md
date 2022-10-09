@@ -1,9 +1,7 @@
+Tags:
+Links: 
 ---
-tags:
-links: 
----
----
-Created: <% tp.date.now("MM-DD-YYYY") %>
+Created: 10-09-2022
 # <% tp.file.title %>
 ---
 
