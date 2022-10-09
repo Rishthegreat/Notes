@@ -4,7 +4,7 @@ tags: course
 ---
 
 [[School MOC]]
-# <% tp.file.title %>
+# yellow-journalism
 
 ## Notes
 
