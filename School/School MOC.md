@@ -13,8 +13,9 @@ sort block
 task
 from #assignments 
 ```
-```tableview
-
+```dataview
+table
+from #assignments
 ```
 
 ## Notes
