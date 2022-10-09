@@ -16,4 +16,4 @@ Created: 10-08-2022
     - Newspapers were selling and the people wanted to fight
   - Hearst to Frederick Remington:
     - You furnish the pictures and I'll furnish the war
-      - Just give me soething and I'll make a story
+      - Just give me something and I'll make a story
