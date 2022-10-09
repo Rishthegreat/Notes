@@ -14,8 +14,9 @@ task
 from #assignments 
 ```
 ```dataview
-table
+table numberAssignments
 from #assignments
+
 ```
 
 ## Notes
