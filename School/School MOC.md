@@ -25,3 +25,8 @@ from #assignments
 
 ## Notes
 
+```dataview
+table file.task
+from #assignments
+```
+
