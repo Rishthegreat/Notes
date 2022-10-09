@@ -7,7 +7,7 @@ table block
 from #course and !"Templates"
 sort block
 ```
-Today is `$= moment().format(“dddd, MMMM D, YYYY”)`
+Today is `$= dv.spanmoment().format("dddd, MMMM, D, YYYY")`
 ## Assignments
 ```dataview
 task
