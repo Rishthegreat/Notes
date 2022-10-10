@@ -6,3 +6,5 @@ tags: assignments
 - [ ] Study for AMC 12 📅 2022-11-16 
 - [ ] Study for USACO 📅 2022-12-01 
 - [ ] Congressional App Challenge 📅 2022-11-01 
+- [ ] Fbla meeting in 158 📅 2022-10-11
+- [ ] Deca money and slides + interest form
