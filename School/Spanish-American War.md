@@ -69,7 +69,13 @@ Created: 10-08-2022
 	- Spain gave up Puerto Rico and the island of Guam
 	- The US paid Spain 20mil for the Philipines
 		- Relatively cheap
-	- There is a lot of nationalism and pride
-		- "The splendid little war"
-		- US become an imperial power
+
+#### The End of the War
+- There is a lot of nationalism and pride
+	- "The splendid little war"
+	- US become an imperial power
 - Leads to a huge debate over the ratification
+	- The American Anti-Imperilist League
+		- Founded in 1899
+		- Mark Twain, Andrew Carnegie, Eilliam James, Samuel Gompers and William Jennings Bryan amonf the leaders
+		- Did not want the annexation of the Philipies and other acts of imperialism
