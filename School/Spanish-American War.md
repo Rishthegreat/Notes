@@ -62,3 +62,9 @@ Created: 10-08-2022
 		- Army inadequately equipped and prepared
 		- Over 5 thousand Americans die from disease while only 500 die in battle
 		- But Spanish was worse off
+- In a few weeks, the US invades Puerto Rico becasue it was controlled by Spain - August 12
+- The Treaty of Paris - 1898
+	- December 10
+	- Cuba becomes free from Spanish rule
+	- Spain gave up Puerto Rico and the island of Guam
+	- The US
