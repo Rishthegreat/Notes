@@ -50,5 +50,8 @@ Created: 10-08-2022
 		- The US has no tintention of taking control of Cuba once peace is restored to the Island
 
 #### Fighting the War
-- Victory at Manilla Bay - April 30 (Shows the wa)
-	- The Americans had a fleet in Hong Kong and was told to wait for the declaration of war, to attack the philipines 
+- Victory at Manilla Bay - April 30
+	- The Americans had a fleet in Hong Kong and was told to wait for the declaration of war, to attack the Philipines
+		- Dewey captures Manilla and destroys the Spanish fleet in Phillipines
+		- People question whether the war was really about Cuba
+	- Amilio Aguinaldo was the LEader of the Filipino Uprising and the US helps them atta
