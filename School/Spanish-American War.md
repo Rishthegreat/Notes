@@ -21,4 +21,8 @@ Created: 10-08-2022
     - You furnish the pictures and I'll furnish the war
       - Just give me something and I'll make a story
 
-#### 
+#### Causes and consequences of the War
+- Encouraging involvment in the Cuban war to help the Cubans through journalism
+- Dupuy de Lome, Spanish ambassador to the US
+	- He critizied President McKinley as weak and a bidder for the admiration of the crowd
+		- Due to this he had to resign 
