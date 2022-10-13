@@ -17,3 +17,6 @@ Created: 10-08-2022
   - Hearst to Frederick Remington:
     - You furnish the pictures and I'll furnish the war
       - Just give me something and I'll make a story
+- Thomas Jefferson and many other politicians had talked about owning Cuba because it was a great defense point for the south-eastern United States
+	- US's national mythology was to stand up for freedom and side with the Cubans, but if the US wanted to own Cuba, they should have supported the Spanish suppression
+	- Needs to decide which cause to support before it can move forward
