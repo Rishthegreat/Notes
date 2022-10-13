@@ -20,3 +20,5 @@ Created: 10-08-2022
   - Hearst to Frederick Remington:
     - You furnish the pictures and I'll furnish the war
       - Just give me something and I'll make a story
+
+#### 
