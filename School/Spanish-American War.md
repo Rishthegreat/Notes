@@ -55,8 +55,10 @@ Created: 10-08-2022
 		- Dewey captures Manilla and destroys the Spanish fleet in Phillipines
 		- People question whether the war was really about Cuba
 	- Amilio Aguinaldo was the leader of the Filipino Uprising and the US helps them attack Spain presence to free the Philipines
-- Rough Riders - San Juan Hill
+- Rough Riders - San Juan Hill - July 1-2
+	- Teddy Rosevelt resigns as the assistant secretary
 - July 16 - Agree to terms of Surrender in Cuba
 	- Bad planning on the US for the war
 		- Army inadequately equipped and prepared
 		- Over 5 thousand Americans die from disease while only 500 die in battle
+		- But Spanish was worse off
