@@ -9,4 +9,4 @@ Created: 10-13-2022
 | [[Pretérito]]         | [[Imperfecto]] |
 | --------------------- | -------------- |
 | [[Condicional]]       | [[Futuro]]     |
-| [[Presente Perfecto]] | [[Subjuntivo]]      |
+| [[Presente Perfecto]] | [[Subjuntivo]]   |
