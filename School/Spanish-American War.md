@@ -67,4 +67,9 @@ Created: 10-08-2022
 	- December 10
 	- Cuba becomes free from Spanish rule
 	- Spain gave up Puerto Rico and the island of Guam
-	- The US
+	- The US paid Spain 20mil for the Philipines
+		- Relatively cheap
+	- There is a lot of nationalism and pride
+		- "The splendid little war"
+		- US become an imperial power
+- Leads to a huge debate over the ratification
