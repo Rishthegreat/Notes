@@ -43,4 +43,8 @@ Created: 10-08-2022
 - After all this pressure - 
 	- McKinley anncounced the Declaration of War on April 11, 1898
 		- End bloodshed, starvation and miseries in Cuba
-		- P
+		- Protect the lives and propoerty of the US citizens
+		- End the injury to commerce trade, and business of our people
+	- This happened despite the Spanish listening to the US demands of ending the camps
+	- The Teller Amendment was passed just before going to war
+		- The US has no tintention of taking control of Cuba once peace is restored to the Island
