@@ -29,4 +29,10 @@ Created: 10-08-2022
 		- People said the same thing about him, but the difference is that people did not like the Spanish saying this about the president
 - February 15, 1898
 	- The Maine ship was exploded, killing 260
-		- The Americans then assume that The Spanish do
+		- The Americans then assume that The Spanish do it and there is outrage in America
+			- "Remember the Maine and to Hell with Spain"
+		- Yellow Journalism made this worse by exxagerating and making assumptions
+		- There were 2 investigations - one done by Americans and the Spanish
+			- The Spanish said that it was an internal explosion
+			- The Americans said that it was an external cause
+			- In 1970, t
