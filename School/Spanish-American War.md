@@ -71,11 +71,14 @@ Created: 10-08-2022
 		- Relatively cheap
 
 #### The End of the War
+
+^end_ofwar
+
 - There is a lot of nationalism and pride
 	- "The splendid little war"
 	- US become an imperial power
 - Leads to a huge debate over the ratification
 	- The American Anti-Imperilist League
 		- Founded in 1899
-		- Mark Twain, Andrew Carnegie, Eilliam James, Samuel Gompers and William Jennings Bryan amonf the leaders
+		- Mark Twain, Andrew Carnegie, Eilliam James, Samuel Gompers and William Jennings Bryan among the leaders
 		- Did not want the annexation of the Philipies and other acts of imperialism
