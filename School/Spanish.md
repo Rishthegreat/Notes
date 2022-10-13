@@ -7,6 +7,7 @@ tags: course
 # Spanish
 
 ## Notes
+- All [[Tenses]]
 
 
 ## Assignments
