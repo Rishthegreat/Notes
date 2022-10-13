@@ -25,4 +25,8 @@ Created: 10-08-2022
 - Encouraging involvment in the Cuban war to help the Cubans through journalism
 - Dupuy de Lome, Spanish ambassador to the US
 	- He critizied President McKinley as weak and a bidder for the admiration of the crowd
-		- Due to this he had to resign 
+		- Due to this he had to resign his post and leave the country
+		- People said the same thing about him, but the difference is that people did not like the Spanish saying this about the president
+- February 15, 1898
+	- The Maine ship was exploded, killing 260
+		- The Americans then assume that The Spanish do
