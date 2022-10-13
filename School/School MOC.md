@@ -27,4 +27,5 @@ from #assignments
 ## Notes
 
 Bailey Daily - 
-- Yo he viajado a Singapore, Bali, Thailand
+- Yo he viajado a Singapore, Bali, Thailand, Malaysia, Japan, India, y los Estados Unidos
+- Mi lugar favorito que
