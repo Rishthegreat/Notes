@@ -8,7 +8,6 @@ tags: course
 
 ## Notes
 - All [[Tenses]]
-|[[Monroe Doctrine]]
 
 ## Assignments
 [[Spanish Assignments]]
