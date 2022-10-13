@@ -35,4 +35,7 @@ Created: 10-08-2022
 		- There were 2 investigations - one done by Americans and the Spanish
 			- The Spanish said that it was an internal explosion
 			- The Americans said that it was an external cause
-			- In 1970, t
+			- In 1970, the US dug out the ship and found out that Spain was correct
+	- Spain did not want to fight the US because they were a fading empire
+- Theodore Roosevelt - Assistant Secretary of the Navy in the McKinley administration
+	- He was a Republican and American national many other Republicans along with him critizied McKinley
