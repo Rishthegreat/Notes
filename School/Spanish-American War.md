@@ -48,3 +48,7 @@ Created: 10-08-2022
 	- This happened despite the Spanish listening to the US demands of ending the camps
 	- The Teller Amendment was passed just before going to war
 		- The US has no tintention of taking control of Cuba once peace is restored to the Island
+
+#### Fighting the War
+- Victory at Manilla Bay - April 30 (Shows the wa)
+	- The Americans had a fleet in Hong Kong and was told to wait for the declaration of war, to attack the philipines 
