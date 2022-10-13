@@ -26,3 +26,5 @@ from #assignments
 
 ## Notes
 
+Bailey Daily - 
+- Yo he viajado a Singapore, Bali, Thailand
