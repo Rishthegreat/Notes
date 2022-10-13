@@ -30,4 +30,4 @@ Bailey Daily -
 - Yo he viajado a Singapore, Bali, Thailand, Malaysia, Japan, India, y los Estados Unidos
 - Mi lugar favorito que he visitado era 
 - En el futuro, gustaría viajar a Rome.
-- No sé dónde será mi proximo v
+- No sé dónde será mi proximo viaje. 
