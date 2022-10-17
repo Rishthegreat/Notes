@@ -1,0 +1,9 @@
+- Society of Rightful and Harmonius Fists
+    - One of the secret societies
+- In the Year 1900, the boxers rebell
+    - They kill the foreigns
+    - Attack settlements, murdered missionaries
+    - International force to quell the rebellion
+        - A group of 8 nations including US, Russia, etc
+            - Made China pay lots of money for this
+- Showed the resentment many of the peasant class had against the imperialists and missionaries
