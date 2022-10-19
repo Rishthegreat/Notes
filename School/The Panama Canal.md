@@ -11,7 +11,7 @@
             - Agent provocateur
         - Revolt in Panama, in support of the US
 
-- It took 10 years to build the canal andthey first built the railroad in order to help
+- It took 10 years to build the canal and they first built the railroad in order to help
 - As ships come in, the water levels would rise (locks)
 - Dr William Gorgas
 	- Previously the workers were dying of diseases
