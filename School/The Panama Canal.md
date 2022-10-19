@@ -9,4 +9,6 @@
     - Roosevelt was angry
         - Philippe Buanau-Varilla
             - Agent provocateur
-        - Revolt in Panama, in support
+        - Revolt in Panama, in support of the US
+
+- It took 10 years to build the canal andthey first built the railroad in order to help
