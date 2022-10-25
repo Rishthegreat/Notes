@@ -3,4 +3,4 @@ tags: ve, assignments
 ---
 [[School MOC]]
 # VE Assignments
-- [ ] Job Application 📅 2022-10-14
+- [x] Job Application 📅 2022-10-14 ✅ 2022-10-25
