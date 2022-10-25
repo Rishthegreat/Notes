@@ -20,6 +20,7 @@ from #spanish
 Spanish Flipgrid - 
 - En el quinto grado fui...Malaysia
 - Temprano por la mañana...escuela...aeropuerto...Autobús
-- Fuimos al mostrador
+- Fuimos al mostrador y dimos nos mochilas, maletas y equipajes en la cosigna de equipaje
+- 
 
 
