@@ -21,6 +21,7 @@ Spanish Flipgrid -
 - En el quinto grado fui...Malaysia...programa de liderazgo
 - Temprano por la mañana...escuela...aeropuerto...Autobús
 - Fuimos al mostrador y dimos nos mochilas, maletas y equipajes en la cosigna de equipaje
-- 
+- después, fuimos a la seguridad y subimos al avión
+- El vuelo...masnome
 
 
