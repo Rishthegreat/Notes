@@ -27,6 +27,6 @@ Spanish Flipgrid -
 - En la viaje, visitamos muchas lugares como museos y estudiamos con un estudiante en Malaysia en su escuela
 - Las lecturas son in Malay y mis amigos y yo no entendimos
 - Cada persona tenían...que les explicaba lo que estaba sucediendo
-- 
+- La viaje fue muy interesante y divertido
 
 
