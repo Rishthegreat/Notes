@@ -19,5 +19,6 @@ from #spanish
 
 Spanish Flipgrid - 
 - En el quinto grado fui...Malaysia
+- Temprano por la mañana...escuela...aeropuerto
 
 
