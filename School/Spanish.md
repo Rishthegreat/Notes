@@ -6,8 +6,6 @@ tags: course
 [[School MOC]]
 # Spanish
 
-## Notes
-- All [[Tenses]]
 
 ## Assignments
 [[Spanish Assignments]]
@@ -15,4 +13,11 @@ tags: course
 task
 from #spanish 
 ```
+
+## Notes
+- All [[Tenses]]
+
+Spanish Flipgrid - 
+- En el quinto graedo
+
 
