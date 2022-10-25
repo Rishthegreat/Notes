@@ -22,6 +22,7 @@ Spanish Flipgrid -
 - Temprano por la mañana...escuela...aeropuerto...Autobús
 - Fuimos al mostrador y dimos nos mochilas, maletas y equipajes en la cosigna de equipaje
 - después, fuimos a la seguridad y subimos al avión
-- El vuelo...masnome
+- El vuelo...masnomes... 1.30 horas.
+- Nos quedamos en Malaysia por 3 días en un hotel pero no recordar en que ciudad
 
 
