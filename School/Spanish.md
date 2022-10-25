@@ -24,5 +24,6 @@ Spanish Flipgrid -
 - después, fuimos a la seguridad y subimos al avión
 - El vuelo...masnomes... 1.30 horas.
 - Nos quedamos en Malaysia por 3 días en un hotel pero no recordar en que ciudad
+- En la viaje, visitamos muchas lugares como un muse
 
 
