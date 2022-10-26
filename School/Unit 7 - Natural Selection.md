@@ -18,4 +18,8 @@ Created: 10-25-2022
 	- Do not reproduce with other groups
 	- Look different
 	- Adapted to different resources
-- Bacteria do not really have species because they reproduce wit
+- Bacteria do not really have species because they reproduce without a partner
+	- Bacteria species are defined by differences in DNA sequences
+- Fossils cannot be analyzed for who they reproduced with
+	- Fossil species are defined by differences in anatomy, age, and where they were found
+- Basically, the best way to define a species is based upon what you are studying and what you are trying to do
