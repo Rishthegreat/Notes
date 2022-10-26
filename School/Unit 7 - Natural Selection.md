@@ -18,3 +18,4 @@ Created: 10-25-2022
 	- Do not reproduce with other groups
 	- Look different
 	- Adapted to different resources
+- Bacteria do not really have species because they reproduce wit
