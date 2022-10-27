@@ -21,4 +21,7 @@ Created: 10-26-2022
 - Genetic incompatibility
 	- Difference in sex cells, number of chromosomes, etc
 
-- Reproductive isolations causes linea
+- Reproductive isolations causes lineages to branch
+- Mutation and allele shuffling generate varation within each branch
+- Natural selection causes those bracnhes to diverge as each population adapts to different surroundings
+- This pattern, when repeated many times cause cause a single bracnh to expand into millions over time
