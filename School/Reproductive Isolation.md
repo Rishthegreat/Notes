@@ -20,3 +20,5 @@ Created: 10-26-2022
 	- Different pollinators using different methods to polinize a plant (example)
 - Genetic incompatibility
 	- Difference in sex cells, number of chromosomes, etc
+
+- Reproductive isolations causes linea
