@@ -16,4 +16,7 @@ Created: 10-26-2022
 - Timing
 	- Differing timings for when the groups mate
 - Anatomy
-	- Different methi
+	- Different methods of reproduction
+	- Different pollinators using different methods to polinize a plant (example)
+- Genetic incompatibility
+	- Difference in sex cells, number of chromosomes, etc
