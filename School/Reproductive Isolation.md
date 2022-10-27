@@ -11,3 +11,9 @@ Created: 10-26-2022
 
 #### Types of Reproductive Barriers
 - Geography
+- Behavior
+	- Difference in mating behavior, in mating calls/songs
+- Timing
+	- Differing timings for when the groups mate
+- Anatomy
+	- Different methi
