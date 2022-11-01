@@ -23,5 +23,6 @@ Created: 11-01-2022
 | $\cos^{-1}{x}$ | $-\frac{1}{\sqrt{1-x^2}}$        |
 | $\tan^{-1}{x}$ | $\frac{1}{1+x^2}$                |
 | $\cot^{-1}{x}$ | $-\frac{1}{1+x^2}$               |
-| $\csc^{-1}{x}$ |  $-\frac{1}{|x|\sqrt{x^2-1}}$  |
-| $\sec^{-1}{x}$ | $\frac{1}{|x|\sqrt{x^2-1}}$ |
+| $\csc^{-1}{x}$ |  $-\frac{1}{\lvert x \rvert \sqrt{x^2-1}}$  |
+| $\sec^{-1}{x}$ | $\frac{1}{\lvert x \rvert\sqrt{x^2-1}}$ |
+
