@@ -1,5 +1,5 @@
 Tags:
-Links: 
+Links: [[APUSH]] [[]]
 
 ---
 Created: 11-01-2022
@@ -155,7 +155,7 @@ Created: 11-01-2022
 	- National Association for the Advancement of Colored People - the Niagara Movement was a precursor to this
 		- Wanted to get court decisions to achieve equality
 
-**The Great Migration**
+#### The Great Migration
 - A major trend of the time period is movement
 	- In 1900 9 in 10 African Americans lived in the North
 	- From 1910 to 1930 1 million African Americans travelled North to seek jobs
@@ -164,7 +164,7 @@ Created: 11-01-2022
 - Urban areas began seeing a large increase in the African American population
 - The National Urban League was a lesser known Civil Rights movement helping African Americans in the cities. 
 
-**Immigration**
+#### Immigration
 - The progressive era is the largest period of immigration in the United States
 	- New Immigrants
 		- Italians, Russians, Greeks
@@ -182,7 +182,7 @@ Created: 11-01-2022
 		- Targeted African Americans, Native Americans
 	- Died down in the 1930s after comparisons to Nazism 
 
-**Progressive Women**
+#### Progressive Women
 - Big period of rights for women
 - Many Progressives were women
 - The most famous women reformers were the settlement house women
@@ -221,7 +221,7 @@ Created: 11-01-2022
 		- Sprinklers in factory
 		- Worker compensation
 
-**Temperance**
+#### Temperance
 - Carrie Nation
 	- Went inside saloons and broke everything with an axe
 - Temperance advocates believed that alcohol hurt the family
