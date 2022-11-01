@@ -17,10 +17,11 @@ Created: 11-01-2022
 | $\csc{x}$ | $-\csc{x}\cot{x}$ |
 
 #### Derivaties of Inverse Trig Functions
-| Function       | Derivative                |
-| -------------- | ------------------------- |
-| $\sin^{-1}{x}$ | $\frac{1}{\sqrt{1-x^2}}$  |
-| $\cos^{-1}{x}$ | $-\frac{1}{\sqrt{1-x^2}}$ |
-| $\tan^{-1}{x}$ | $\frac{1}{1+x^2}$         |
-| $\cot^{-1}{x}$ | $-\frac{1}{1+x^2}$        |
-| $\csc^{-1}{x}$ |                           |
+| Function       | Derivative                |     |                 |
+| -------------- | ------------------------- | --- | --------------- |
+| $\sin^{-1}{x}$ | $\frac{1}{\sqrt{1-x^2}}$  |     |                 |
+| $\cos^{-1}{x}$ | $-\frac{1}{\sqrt{1-x^2}}$ |     |                 |
+| $\tan^{-1}{x}$ | $\frac{1}{1+x^2}$         |     |                 |
+| $\cot^{-1}{x}$ | $-\frac{1}{1+x^2}$        |     |                 |
+| $\csc^{-1}{x}$ | $-\frac{1}{               | x   | \\sqrt{x^2-1}}$ |
+|                |                           |     |                 |
