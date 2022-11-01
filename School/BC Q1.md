@@ -7,3 +7,4 @@ Created: 11-01-2022
 ---
 
 #### Linear Approximation
+![[]]
