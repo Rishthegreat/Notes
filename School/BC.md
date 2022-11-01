@@ -13,4 +13,5 @@ from #bc
 ```
 
 ## Notes
-![[Book of Memories]]
+[[Book of Memories]]
+
