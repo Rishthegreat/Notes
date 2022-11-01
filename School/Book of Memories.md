@@ -16,5 +16,8 @@ Created: 11-01-2022
 | $\sec{x}$ | $\sec{x}\tan{x}$  |
 | $\csc{x}$ | $-\csc{x}\cot{x}$ |
 
-#### 
-Derivaties of 
+#### Derivaties of Inverse Trig Functions
+| Function       | Derivative               |
+| -------------- | ------------------------ |
+| $\sin^{-1}{x}$ | $\frac{1}{\sqrt{1-x^2}}$ |
+|                |                          |
