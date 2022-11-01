@@ -16,4 +16,4 @@ Created: 11-01-2022
 | $\sec{x}$ | $\sec{x}\tan{x}$  |
 | $\csc{x}$ | $-\csc{x}\cot{x}$ |
 
-df
+#### 
