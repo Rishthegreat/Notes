@@ -11,4 +11,4 @@ Created: 11-01-2022
 - $f(a)$ has to be easy to calculate
 - $x$ has to be close to $a$
 - $L$ is the linearization of $f$ centered at $x=a$
-- 
+	- $L(x) = f(a) + f'(a)(x-a)$
