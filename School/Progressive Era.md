@@ -157,7 +157,7 @@ Created: 11-01-2022
 
 #### The Great Migration
 - A major trend of the time period is movement
-	- In 1900 9 in 10 African Americans lived in the North
+	- In 1900, 9 in 10 African Americans lived in the North
 	- From 1910 to 1930 1 million African Americans travelled North to seek jobs
 	- Internal Migration
 - They moved for racial issues (segregation not mandated by law, less bigoted), economic issues (more economic issues in the North, factories would generally hire everyone they could), WW1 (factories need more workers), almost no jobs in the South (destruction of the cotton crop)
