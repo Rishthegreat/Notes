@@ -12,4 +12,4 @@ Created: 11-01-2022
 - $x$ has to be close to $a$
 - $L$ is the linearization of $f$ centered at $x=a$
 	- $L(x) = f(a) + f'(a)(x-a)$
-- $$
+- $\Delta f \approx f'(a)\Delta x$  
