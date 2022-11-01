@@ -17,3 +17,4 @@ Created: 11-01-2022
 | $\csc{x}$ | $-\csc{x}\cot{x}$ |
 
 #### 
+Derivaties of 
