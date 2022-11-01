@@ -7,6 +7,9 @@ Created: 11-01-2022
 ---
 
 #### Derivaties of Trig Functions
-| Function | Derivative |
-| -------- | ---------- |
-| $si$         |            |
+| Function  | Derivative  |
+| --------- | ----------- |
+| $\sin{x}$ | $\cos{x}$   |
+| $\cos{x}$ | $-\sin{x}$  |
+| $\tan{x}$ | $\sec^2{x}$ |
+| $$          |             |
