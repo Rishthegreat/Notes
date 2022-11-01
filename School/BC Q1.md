@@ -7,7 +7,7 @@ Created: 11-01-2022
 ---
 
 #### Derivative of inverse of $f(x)$
-$\dd$
+$\frac{d}{dx}[f^{-1}(b) =$
 
 #### Linear Approximation
 ![[BC Q1 2022-11-01 15.43.04.excalidraw]]
