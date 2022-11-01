@@ -130,3 +130,98 @@ Created: 11-01-2022
 	- Disliked by the American Federation of labor which was still the largest labor union in the US
 	- They were feared by many of the middle class
 
+#### Civil Rights
+- Period of a lot of inequality
+- Most white progressive reformers did not champion civil rights
+- Plessy v. Ferguson
+	- Upheld segregation
+	- Entrenched disenfranchisement
+	- High period of lynchings
+		- People would be taken out of their homes and hanged without trial
+- Ida B Wells
+	- African American Civil Rights Leader
+	- Wrote about many of the lynchings 
+	- Founding member of the NAACP
+- Booker T Washington
+	- Believed that African Americans should work their way up through increasing their technical skills 
+		- Tuskegee Institute for vocational training
+	- Born into slavery, wanted whites to hire African Americans over immigrants
+	- Did not believe in full equality, wanted industrial skills and economic progress before full integration
+	- Sometimes called an Accommodationist or an Uncle Tom
+- W.E.B Du Bois
+	- Du Bois rejected Washington's idea of simple vocational training
+		- Believed that increasing higher education opportunities would help African Americans as a whole
+	- Wanted to abolish all forms of segregation
+	- National Association for the Advancement of Colored People - the Niagara Movement was a precursor to this
+		- Wanted to get court decisions to achieve equality
+
+**The Great Migration**
+- A major trend of the time period is movement
+	- In 1900 9 in 10 African Americans lived in the North
+	- From 1910 to 1930 1 million African Americans travelled North to seek jobs
+	- Internal Migration
+- They moved for racial issues (segregation not mandated by law, less bigoted), economic issues (more economic issues in the North, factories would generally hire everyone they could), WW1 (factories need more workers), almost no jobs in the South (destruction of the cotton crop)
+- Urban areas began seeing a large increase in the African American population
+- The National Urban League was a lesser known Civil Rights movement helping African Americans in the cities. 
+
+**Immigration**
+- The progressive era is the largest period of immigration in the United States
+	- New Immigrants
+		- Italians, Russians, Greeks
+- Some Progressives tried to help the immigrants
+	- Settlement Houses
+		- Origins of social work
+- Progressive reformers wanted to expand democracy, but only for certain people
+- Progressive Reformers proposed literacy tests to disenfranchise immigrants
+	- Many Gilded Age presidents would veto these laws
+- Ideas like Eugenics also became popular 
+	- "Breed a better America" 
+		- Smart intelligent and moral people should have children
+		- You do not want poor and unintelligent people to reproduce
+	- Over 30 states passed sterilization laws to sterilize the mentally ill and other groups. 
+		- Targeted African Americans, Native Americans
+	- Died down in the 1930s after comparisons to Nazism 
+
+**Progressive Women**
+- Big period of rights for women
+- Many Progressives were women
+- The most famous women reformers were the settlement house women
+	- College Educated white women of the middle class
+	- Most famous would be Jane Addams and Hull House in Chicago
+- Women were seen as being tied to the home
+	- Women said they were championing maternal issues, so they could fight for reform
+- Women fought against:
+	- Child Labor (argued it was against their motherly instincts)
+	- Sweatshops
+	- Clean Living conditions (they didn't want families to deal with it)
+	- Safe food (milk was corrupt, beef was bad)
+	- Better schools (The easiest way to end child labor)
+		- Many families would send their kids to work to get more money, chores could be considered child labor technically, businesses fought against child labor
+		- Mandating school made it against the law to work all day because you had to go to school
+- Lewis Hines
+	- Teacher who became a muckraker	
+	- He would pretend to get jobs in the companies to take pictures of terrible working conditions for children
+- Factory Reform
+	- National Consumer League and Florence Kelly - organized boycotts at local and national levels
+	- Fought against unsafe working conditions
+- The main work for women was domestic service, but the second largest was textiles
+- International Ladies' Garment Workers Union
+	- largest women union
+- Muller v Oregon (1907)
+	- Gave shorter work days for women
+	- Made arguments that women were inferior to men
+- Triangle Shirtwaist Factory Fire (NYC 1911)
+	- One of the most important parts of factory reform
+	- 146 people were killed due to unsafe working conditions (long hours, tightly packed, bad fire escape, no sprinklers, poorly designed stairs)
+	- Mostly immigrant women worked in this factory which was basically a sweatshop
+	- The sweatshop had closed elevators and stairs to prevent people from sneaking out early to do Easter shopping
+	- New York State started the trend of creating new laws to protect workers
+		- Worker Protections 
+		- Fire Codes
+		- Sprinklers in factory
+		- Worker compensation
+
+**Temperance**
+- Carrie Nation
+	- Went inside saloons and broke everything with an axe
+- Temperance advocates believed that alcohol hurt the family
