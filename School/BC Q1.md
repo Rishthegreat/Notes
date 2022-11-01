@@ -6,6 +6,9 @@ Created: 11-01-2022
 # BC Q1
 ---
 
+#### Derivative of inverse of $f(x)$
+$\dd$
+
 #### Linear Approximation
 ![[BC Q1 2022-11-01 15.43.04.excalidraw]]
 - $f(a)$ has to be easy to calculate
