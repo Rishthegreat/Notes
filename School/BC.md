@@ -1,5 +1,5 @@
 ---
-block: 
+block: 1
 tags: course
 ---
 
@@ -13,3 +13,4 @@ from #bc
 ```
 
 ## Notes
+![[Book of Memories]]
