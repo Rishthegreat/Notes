@@ -57,7 +57,15 @@ Created: 11-02-2022
 	- Forest Reserve Act of 1891
 		- Government created this act which can set aside federal lands as national reserves
 		- This is used by Teddy often
+	- Newland Reclamation Act of 1902
 	- 
+	- Conservation vs Presevation
+		- Preservation
+			- Favor national parks
+			- Has to be pristine
+		- Conservation
+			- Roosevelt was a conservationists
+			- 
 
 #### Elections
 - Wins the election of 1904
