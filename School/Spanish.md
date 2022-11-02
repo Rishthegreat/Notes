@@ -30,4 +30,4 @@ Spanish Story
 
 Story in español - 
 
-Soy Reeves. Michael Reeves. Soy un capitan de un avión y no sólo
+Soy Reeves. Michael Reeves. Soy un capitan de un avión y no cualquier capitan, pero un capitan que todo el mundo respeta
