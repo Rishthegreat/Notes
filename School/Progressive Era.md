@@ -225,3 +225,4 @@ Created: 11-01-2022
 - Carrie Nation
 	- Went inside saloons and broke everything with an axe
 - Temperance advocates believed that alcohol hurt the family
+
