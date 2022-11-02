@@ -32,4 +32,4 @@ Story in español -
 
 Soy Reeves. Michael Reeves. Soy veinte ocho años y soy un capitan de un avión y no cualquier capitan, pero un capitan que todo el mundo respeta. Dos años pasado, un vuelo cambié la vida de mi y mis pasajeros y el mundo nunca lo olvidará.
 
-Qatar Airways avión numero 9768 a España desde los Estados Unidos fue un involvidable vuelo. El cinco de marzo 2017, estaba _packing_ mis maletas para mi vuelo. Usualmente, en ese tiempo del año, hace muy calor en España así que necesité llevar mis _shorts_ y _beach shirts_. También, 
+Qatar Airways avión numero 9768 a España desde los Estados Unidos fue un involvidable vuelo. El cinco de marzo 2017, estaba _packing_ mis maletas para mi vuelo. Usualmente, en ese tiempo del año, hace muy calor en España así que necesité llevar mis _shorts_ y _beach shirts_. También, yo llevé más ropa de mi trabajo como mis suits que me pon
