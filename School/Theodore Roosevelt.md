@@ -15,7 +15,7 @@ Created: 11-02-2022
 #### Foreign Policies
 
 #### Domestic Policies
-- The square deal
+- **The square deal**
 - 3Cs
 	- Corporate Control, Consumer Protection, Conservation
 - Greatly increased the power of the PResidency
@@ -26,4 +26,11 @@ Created: 11-02-2022
 	- 6 Month strike of coal workers
 	- Owners refuse to arbitrate
 		- mening
-	- Teddy calls both to the White House
+	- Teddy calls both to the White House and threatens the owners with takeover by federal troops
+	- Solution 
+		- 10% pay increase, 9 hour workday, owners don't have to recognize union
+	- First president to threaten to nationalize private industry
+	- He wanted to give both sides a **Square Deal**
+	- Department of Commerce
+		- Still exists
+		- Bureau of Cor
