@@ -271,4 +271,6 @@ Created: 11-01-2022
 		- Broke up 90 companies like Standard Oil and US Steel
 			- This angers Roosevelt
 	- Mann Elkins Act
-		- ICC power over telephone, 
+		- ICC power over telephone, telegraph, cable companies
+	- 16th Amendment - 1913 - National Income Tax
+		- As first only applies to the very wealthy
