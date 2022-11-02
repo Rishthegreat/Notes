@@ -58,14 +58,14 @@ Created: 11-02-2022
 		- Government created this act which can set aside federal lands as national reserves
 		- This is used by Teddy often
 	- Newland Reclamation Act of 1902
-	- 
+		- Money from sale of public land to be set aside for irrigation projects & dam construction
 	- Conservation vs Presevation
 		- Preservation
 			- Favor national parks
 			- Has to be pristine
 		- Conservation
 			- Roosevelt was a conservationists
-			- 
+			- You can still cut trees down, 
 
 #### Elections
 - Wins the election of 1904
