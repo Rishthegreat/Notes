@@ -233,5 +233,9 @@ Created: 11-01-2022
 	- Men would drink away their wages
 	- Men would get drunk and get involved in prostitution
 - Anti Saloon League
-	- "Wets "
+	- "Wets vs Drys"
+		- Dry laws supported the views of the women who wanted temperance
+- Alcohol and saloons was seen more in urban places so wets were mostly in urban areas while the drys were in rural areas
+- In 1919, 18th amendment was passed
+	- Banning the production and consumption of alcohol
 
