@@ -248,4 +248,7 @@ Created: 11-01-2022
 - National Women's Party
 	- More radical, educated women
 	- Chained themselved to the white house fence during WW1
-- 
+- Cult of Domesticity
+	- Women should be at home, taking care of the kids, etc
+	- If they enter politics and in power, it would hurt the family and bad for society
+	- Many of the advocates were conservative women themsevles
