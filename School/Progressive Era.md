@@ -252,4 +252,7 @@ Created: 11-01-2022
 	- Women should be at home, taking care of the kids, etc
 	- If they enter politics and in power, it would hurt the family and bad for society
 	- Many of the advocates were conservative women themsevles
-- Although the women brought about a lot of change in schools, etc and once the 18th amendment was passed, the women's role was primarily unchanged and status remain mostly unchanged. 
+- Although the women brought about a lot of change in schools, etc and once the 18th amendment was passed, the women's role was primarily unchanged and status remain mostly unchanged. Women mostly voted like their fathers or husbands
+- Birth control education and planned parenthood organization
+	- Margaret Sanger, Emma Goldman
+	- Supporters of these ideas were mostly socialists
