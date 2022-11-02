@@ -240,8 +240,12 @@ Created: 11-01-2022
 	- Banning the production and consumption of alcohol
 
 #### Women's Suffrage
-- Largest group
-	- National American Woman Suffrage Association (NAWSA)
-		- Led by Carrie Chapman
-		- More conservative views to appeal to men and middle class American
-		- Bringing about a better soceity
+- National American Woman Suffrage Association (NAWSA)
+	-  Largest group
+	- Led by Carrie Chapman Chatt
+	- More conservative views to appeal to men and middle class American
+	- Bringing about a better soceity rather than radical views
+- National Women's Party
+	- More radical, educated women
+	- Chained themselved to the white house fence during WW1
+- 
