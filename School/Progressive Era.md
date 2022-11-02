@@ -226,6 +226,9 @@ Created: 11-01-2022
 	- But gained a lot of speed now
 - Carrie Nation
 	- Went inside saloons and broke everything with an axe
-	- She wou
+	- She would get down on her knees and just start praying
 - Temperance advocates believed that alcohol hurt the family
+	- Men would be abusive
+	- Men would drink away their wages
+	- Men would get drunk and get involved in prostitution
 
