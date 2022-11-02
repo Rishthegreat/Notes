@@ -17,7 +17,7 @@ Created: 11-02-2022
 #### Domestic Policies
 - **The square deal**
 - 3Cs
-	- Corporate Control, Consumer Protection, Conservation
+	- **Corporate Control, Consumer Protection, Conservation**
 - Greatly increased the power of the PResidency
 	- The president should set Legislative Agenda
 		- I will come up with the solution to the problem and I will ensure that you follow the solution
@@ -46,6 +46,11 @@ Created: 11-02-2022
 	- Government, not the big businesses have the power
 	- He gave a lot of power to US Steel which also ended up aquiring another company
 	- In the public, he was seen as a trust buster which made him more popular
+- Consumer Protection
+	- Upton Sinclair, The Jungle (1906)
+	- Meat Inspection Act (1906)
+	- Pure Food and Drug Act (1906)
+		- Food and Drug Administration (FDA)
 
 #### Elections
 - Wins the election of 1904
