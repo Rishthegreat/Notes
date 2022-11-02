@@ -263,3 +263,4 @@ Created: 11-01-2022
 
 - [[Theodore Roosevelt]]
 	- [[Panic Of 1907]]
+- William Howard 
