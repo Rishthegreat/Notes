@@ -267,3 +267,8 @@ Created: 11-01-2022
 	- Taft was an imperialist
 	- He believed in Dollar Diplomacy
 		- Promote US business and trade abroad to support American enterprise, defense, and stabilize region
+	- More of a trustbuster
+		- Broke up 90 companies like Standard Oil and US Steel
+			- This angers Roosevelt
+	- Mann Elkins Act
+		- ICC power over telephone, 

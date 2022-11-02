@@ -42,6 +42,7 @@ Created: 11-02-2022
 	- Can fix and just reasonable rates for railroads
 	- Interstate Commerce Commision
 - "Trust Regulator"
+	- Broke up 44 companies
 	- "Good" vs "Bad" trusts
 	- Government, not the big businesses have the power
 	- He gave a lot of power to US Steel which also ended up aquiring another company
