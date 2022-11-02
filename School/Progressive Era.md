@@ -239,3 +239,9 @@ Created: 11-01-2022
 - In 1919, 18th amendment was passed
 	- Banning the production and consumption of alcohol
 
+#### Women's Suffrage
+- Largest group
+	- National American Woman Suffrage Association (NAWSA)
+		- Led by Carrie Chapman
+		- More conservative views to appeal to men and middle class American
+		- Bringing about a better soceity
