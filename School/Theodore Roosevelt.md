@@ -73,3 +73,5 @@ Created: 11-02-2022
 - Wins the election of 1904
 - Makes a mistake when he says that he is not going to run after 1908
 	- He really liked being president
+	- He does not run, so he hand picks his successor - 
+		- He did not want to be president, so his wife had to convince him
