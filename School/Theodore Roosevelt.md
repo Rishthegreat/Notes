@@ -46,3 +46,8 @@ Created: 11-02-2022
 	- Government, not the big businesses have the power
 	- He gave a lot of power to US Steel which also ended up aquiring another company
 	- In the public, he was seen as a trust buster which made him more popular
+
+#### Elections
+- Wins the election of 1904
+- Makes a mistake when he says that he is not going to run after 1908
+	- He really liked being president
