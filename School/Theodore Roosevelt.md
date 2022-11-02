@@ -61,11 +61,13 @@ Created: 11-02-2022
 		- Money from sale of public land to be set aside for irrigation projects & dam construction
 	- Conservation vs Presevation
 		- Preservation
-			- Favor national parks
+			- Favor only national parks
 			- Has to be pristine
 		- Conservation
+			- Favor national parks as well as other things
 			- Roosevelt was a conservationists
-			- You can still cut trees down, 
+			- You can still cut trees down, but not excessively
+	- 
 
 #### Elections
 - Wins the election of 1904
