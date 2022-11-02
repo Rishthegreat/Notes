@@ -52,6 +52,12 @@ Created: 11-02-2022
 	- Pure Food and Drug Act (1906)
 		- Food and Drug Administration (FDA)
 			- Government regulatory agency that can create laws
+- Conservation
+	- Roosevelt was an avid lover of the outdoors and was well known for this conservation efforts
+	- Forest Reserve Act of 1891
+		- Government created this act which can set aside federal lands as national reserves
+		- This is used by Teddy often
+	- 
 
 #### Elections
 - Wins the election of 1904
