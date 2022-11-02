@@ -222,7 +222,10 @@ Created: 11-01-2022
 		- Worker compensation
 
 #### Temperance
+- Started during the [[Antebellum Period]]
+	- But gained a lot of speed now
 - Carrie Nation
 	- Went inside saloons and broke everything with an axe
+	- She wou
 - Temperance advocates believed that alcohol hurt the family
 
