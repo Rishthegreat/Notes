@@ -263,4 +263,7 @@ Created: 11-01-2022
 
 - [[Theodore Roosevelt]]
 	- [[Panic Of 1907]]
-- William Howard 
+- William Howard Taft
+	- Taft was an imperialist
+	- He believed in Dollar Diplomacy
+		- Promote US business and trade abroad to support American enterprise, defense, and stabilize region
