@@ -30,4 +30,5 @@ Spanish Story
 
 Story in español - 
 
-Soy Reeves. Michael Reeves. Soy un capitan de un avión y no cualquier capitan, pero un capitan que todo el mundo respeta. Dos años pasado, un vuelo cambié la vida de mi y mis pasajeros. 
+Soy Reeves. Michael Reeves. Soy un capitan de un avión y no cualquier capitan, pero un capitan que todo el mundo respeta. Dos años pasado, un vuelo cambié la vida de mi y mis pasajeros y el mundo nunca lo olvidará.
+
