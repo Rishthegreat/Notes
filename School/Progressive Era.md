@@ -224,6 +224,7 @@ Created: 11-01-2022
 #### Temperance
 - Started during the [[Antebellum Period]]
 	- But gained a lot of speed now
+- Women's Christian Temperance Union (WCTU)
 - Carrie Nation
 	- Went inside saloons and broke everything with an axe
 	- She would get down on her knees and just start praying
@@ -231,4 +232,6 @@ Created: 11-01-2022
 	- Men would be abusive
 	- Men would drink away their wages
 	- Men would get drunk and get involved in prostitution
+- Anti Saloon League
+	- "Wets "
 
