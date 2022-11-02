@@ -51,6 +51,7 @@ Created: 11-02-2022
 	- Meat Inspection Act (1906)
 	- Pure Food and Drug Act (1906)
 		- Food and Drug Administration (FDA)
+			- Government regulatory agency that can create laws
 
 #### Elections
 - Wins the election of 1904
