@@ -21,6 +21,7 @@ Created: 11-02-2022
 - Greatly increased the power of the PResidency
 	- The president should set Legislative Agenda
 		- I will come up with the solution to the problem and I will ensure that you follow the solution
+
 - ##### First Problem
 	- Anthracite Coal Mine Strike, PA, 1902
 	- 6 Month strike of coal workers
@@ -31,6 +32,10 @@ Created: 11-02-2022
 		- 10% pay increase, 9 hour workday, owners don't have to recognize union
 	- First president to threaten to nationalize private industry
 	- He wanted to give both sides a **Square Deal**
-	- Department of Commerce
-		- Still exists
-		- Bureau of Cor
+- Department of Commerce
+	- Still exists
+	- Bureau of Corporations
+		- Power to prosecute bad business practices
+	- Elkins Act (1903) - Attacking Rebates
+	- Hepburn Act (1906)
+		- Can fix and just
