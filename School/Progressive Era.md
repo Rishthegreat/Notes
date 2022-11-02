@@ -275,8 +275,9 @@ Created: 11-01-2022
 	- 16th Amendment - 1913 - National Income Tax
 		- As first only applies to the very wealthy
 	- Created the Bureau of Mines
-	- Roosevelt goes to Europe and elsewhere and when he comes back, he feel that Taft is not doing what he is supposed to do
+	- Roosevelt goes to Europe and elsewhere and when he comes back, he feel that Taft is not doing what he is supposed to do (He acts like an old-guard republican instead of liberal)
 		- Payne-Aldrich Tarrif
 			- It was a low tarrif, but when it went to the house, it got changed and became higher, against what the liberalists wanted
 		- Ballinger - Pinchot Controversy
 			- Richard Ballinger - Secretary of the Interior
+			- Gifford Pinchot - Chief Forester
