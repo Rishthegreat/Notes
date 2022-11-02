@@ -18,6 +18,8 @@ from #spanish
 - All [[Tenses]]
 
 Spanish Story
-- A person is going on a vacation to Spain from the United States
+- A person is a pilot who is flying a plane from United States to Spain
+- While on the way, lights start flickering and the tv in the plane starts showing static
+- A blue light from the top shines in and aliens start taking over the plane
 - 
 
