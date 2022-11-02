@@ -21,5 +21,5 @@ from #apush
 
 ## Notes
 
-- Ne
+- Need to know 16 to 19 amendments
 

@@ -274,3 +274,5 @@ Created: 11-01-2022
 		- ICC power over telephone, telegraph, cable companies
 	- 16th Amendment - 1913 - National Income Tax
 		- As first only applies to the very wealthy
+	- Created the Bureau of Mines
+	- Roosevelt goes to Europe and elsewhere an
