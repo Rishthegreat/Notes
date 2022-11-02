@@ -43,3 +43,6 @@ Created: 11-02-2022
 	- Interstate Commerce Commision
 - "Trust Regulator"
 	- "Good" vs "Bad" trusts
+	- Government, not the big businesses have the power
+	- He gave a lot of power to US Steel which also ended up aquiring another company
+	- In the public, he was seen as a trust buster which made him more popular
