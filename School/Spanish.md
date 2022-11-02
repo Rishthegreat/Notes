@@ -18,5 +18,6 @@ from #spanish
 - All [[Tenses]]
 
 Spanish Story
-- A 
+- A person is going on a vacation to Spain from the United States
+- 
 
