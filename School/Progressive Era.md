@@ -260,5 +260,9 @@ Created: 11-01-2022
 	- Not mainstream, but shows the beginning of this in the progressive period
 
 ### Presidents in the Progressive Era
-
-#### 
+[[Theodore Roosevelt]]
+#### Teddy Roosevelt
+- Becomes president after McKinley was shot
+- Roosevelt wanted a strong government
+	- Stronger than all the other businessmen
+- Bully Pulpit
