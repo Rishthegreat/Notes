@@ -30,10 +30,10 @@ Spanish Story
 
 Story in español - 
 
-Soy Reeves. Michael Reeves. Soy veinte ocho años y soy un **capitan** de un **avión** y no cualquier **capitan**, pero un **capitan** que todo el mundo respeta. Dos años pasado, un **vuelo** cambié la vida de mi y mis **pasajeros** y el mundo nunca lo olvidará.
+Soy Reeves. Michael Reeves. Soy veinte ocho años y soy un **capitán** de un **avión** y no cualquier **capitán**, pero un **capitán** que todo el mundo respeta. Dos años pasado, un **vuelo** cambié la vida de mi y mis **pasajeros** y el mundo nunca lo olvidará.
 
 Qatar Airways **avión** numero 9768 a España desde los Estados Unidos fue un involvidable vuelo. El cinco de junio 2017, estaba empacando mis **maletas** para mi **vuelo**. Usualmente, en ese tiempo del año, hace muy calor en España así que necesité llevar mis camisas cortas y playeras. También, yo tuve que llevas más ropa de mi trabajo como mis trajes que uso cuando vuelo.
 
 En el **aeropuerto**, fui al **mostrador** para **facturar mi equipage** y **recibir un billete** después de mostrar mi **pasaporte**. Tuve una mochila conmigo como **equipaje de mano**. Un poco después cuando yo pasé por **la seguridad**, la policía abrío mi mochila y luego me miró. Si no fuera quien era, me habría arrestado. Yo lo saludé y caminé a mi **avión**. 
 
-Durante el **vuelo**, sucedió. Las luces y la televisión detrás de **los asientos** comenzaron a parpadear. Unos segundos más tarde, una luz azul estaba en el **avión** y ¡los extraterrestres comenzaron aparecer! Yo supe exactamente que tuve que hacer. Sin vacilar, abrí mi mochila y saqué mi cuchillo. Usando mi entrenamiento en artes marciales dif
+Durante el **vuelo**, sucedió. Las luces y la televisión detrás de **los asientos** comenzaron a parpadear. Unos segundos más tarde, una luz azul estaba en el **avión** y ¡los extraterrestres comenzaron aparecer! Yo supe exactamente que tuve que hacer. Sin vacilar, abrí mi mochila y saqué mi cuchillo. Usando mi entrenamiento en artes marciales diferentes, salí de la **cabina**.
