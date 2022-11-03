@@ -36,4 +36,4 @@ Qatar Airways **avión** numero 9768 a España desde los Estados Unidos fue un i
 
 En el **aeropuerto**, fui al **mostrador** para **facturar mi equipage** y **recibir un billete** después de mostrar mi **pasaporte**. Tuve una mochila conmigo como **equipaje de mano**. Un poco después cuando yo pasé por **la seguridad**, la policía abrío mi mochila y luego me miró. Si no fuera quien era, me habría arrestado. Yo lo saludé y caminé a mi **avión**. 
 
-Durante el vuelo, 
+Durante el **vuelo**, sucedió. Las luces y la televisión detrás de los asientos comenzaron a pa
