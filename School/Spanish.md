@@ -34,4 +34,4 @@ Soy Reeves. Michael Reeves. Soy veinte ocho años y soy un **capitan** de un **a
 
 Qatar Airways **avión** numero 9768 a España desde los Estados Unidos fue un involvidable vuelo. El cinco de junio 2017, estaba empacando mis **maletas** para mi **vuelo**. Usualmente, en ese tiempo del año, hace muy calor en España así que necesité llevar mis camisas cortas y playeras. También, yo tuve que llevas más ropa de mi trabajo como mis trajes que uso cuando vuelo.
 
-En el aeropuerto, 
+En el aeropuerto, fui al mostrador 
