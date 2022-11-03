@@ -3,5 +3,5 @@ tags: english, assignments
 ---
 [[School MOC]]
 # English Assignments
-- [x] Lang - Carson read, annotate thesis 📅 2022-10-14
-- [ ] Lang - Find video 📅 2022-10-26 
+- [ ] Lang - Vocabulary 📅 2022-11-07 
+- [ ] Lang - Teach your trope 📅 2022-11-07 
