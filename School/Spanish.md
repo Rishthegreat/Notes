@@ -36,4 +36,4 @@ Qatar Airways **avión** numero 9768 a España desde los Estados Unidos fue un i
 
 En el **aeropuerto**, fui al **mostrador** para **facturar mi equipage** y **recibir un billete** después de mostrar mi **pasaporte**. Tuve una mochila conmigo como **equipaje de mano**. Un poco después cuando yo pasé por **la seguridad**, la policía abrío mi mochila y luego me miró. Si no fuera quien era, me habría arrestado. Yo lo saludé y caminé a mi **avión**. 
 
-Durante el **vuelo**, sucedió. Las luces y la televisión detrás de **los asientos** comenzaron a parpadear. Unos segundos más tarde, una luz azul estaba en el avión y los extraterrestres comenzaron aparecer en el centro de la avióñ
+Durante el **vuelo**, sucedió. Las luces y la televisión detrás de **los asientos** comenzaron a parpadear. Unos segundos más tarde, una luz azul estaba en el **avión** y ¡los extraterrestres comenzaron aparecer! Yo sa
