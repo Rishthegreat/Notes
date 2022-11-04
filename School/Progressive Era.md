@@ -325,6 +325,10 @@ Created: 11-01-2022
 			- "State of the Union"
 		- Underwood-Simmons Act (1913)
 			- Substantial reduction of tax rates in 50 years
-		- Sam
+		- Same thing happened with this Act as happened to Taft where the rates were increased by Congress as it was getting passed
+			- But Wilson appealed to the public, blaming Congress
+		- He also had a graduated income tax
 	- The Banks
+		- Glaring defects during the Panic fo 1907
+			- There was no federal bank to help the economy to pump some money in during recessions like the 
 	- The Trusts
