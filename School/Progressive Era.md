@@ -330,5 +330,8 @@ Created: 11-01-2022
 		- He also had a graduated income tax
 	- The Banks
 		- Glaring defects during the Panic fo 1907
-			- There was no federal bank to help the economy to pump some money in during recessions like the 
+			- There was no federal bank to help the economy to pump some money in during recessions like the Panic of 1907
+		- Federal Reserve Act (1913)
+			- 
+		- There were 12 federal reserve banks in the US and the one in NY is one of the most important
 	- The Trusts
