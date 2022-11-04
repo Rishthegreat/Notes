@@ -329,6 +329,7 @@ Created: 11-01-2022
 			- But Wilson appealed to the public, blaming Congress
 		- He also had a graduated income tax
 	- The Banks
+		- Wilson gave another speech to Congress regarding this issue
 		- Glaring defects during the Panic fo 1907
 			- There was no federal bank to help the economy to pump some money in during recessions like the Panic of 1907
 		- Federal Reserve Act (1913)
@@ -338,5 +339,12 @@ Created: 11-01-2022
 		- Private Banks serve people and can borrow from Federal Reserve
 		- Federal Reserve Notes
 			- Dollar Bills
-		- There 
+		- There have not been many changes to this since its inception
 	- The Trusts
+		- Another Special Address to Congress
+		- Federal Trade Commission (1914)
+			- Enforce Antitrust Laws
+			- Special Investigations of Business
+		- Clayton AntiTrust Act
+			- Extend and strengthen the Sherman AntiTrust Act
+			- Supports Unions, Strikes, and Boycotts, peaceful pickets le
