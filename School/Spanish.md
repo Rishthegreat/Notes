@@ -38,4 +38,4 @@ En el **aeropuerto**, fui al **mostrador** para **facturar mi equipage** y **rec
 
 Durante el **vuelo**, sucedió. Las luces y la televisión detrás de **los asientos** comenzaron a parpadear. Unos segundos más tarde, una luz azul estaba en el **avión** y ¡los extraterrestres comenzaron aparecer! Yo supe exactamente que tuve que hacer. Sin vacilar, abrí mi mochila y saqué mi cuchillo. Usando mi entrenamiento en artes marciales diferentes, salí de la **cabina**.
 
-Había tres extraterrestres en el vuelo. El primer estuvo enfrente de la cabina. Yo lo maté en silencio y puse el cuerpo en la cabina 
+Había tres extraterrestres en el vuelo. El primer estuvo enfrente de la cabina. Yo lo maté en silencio y puse el cuerpo en la cabina detrás de mi. La segunda estuvo en el centro de la vuelo. Mientras los pasajeron gritaban, yo 
