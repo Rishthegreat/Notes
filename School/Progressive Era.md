@@ -313,4 +313,4 @@ Created: 11-01-2022
 - Roosevelt gets shot during one of his speeches, but he had a book and it saved him, but instead evacuating, he continues his speech
 	- "I will make this speech or die"
 - Wilson wins the election with 82% of the electoral college vote and 42% of the popular vote
-
+- In 1920, the Republican party becomes very conservative because all the liberals start moving to the Bull Moose Party. Soon, the liberals start joining the Democrats. This election is influential because the parties start getting more idealogical
