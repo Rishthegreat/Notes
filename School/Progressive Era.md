@@ -356,4 +356,8 @@ Created: 11-01-2022
 	- Outlaws interstate trade of prosucts on child labor under 14 years
 	- It become Unconstitutional during Hammer V. Dagenhart
 - Workingman Compensation Act (1916)
-	- 
+	- Accident and injury protection for workers
+- Laws to help farmers secure loans, work hours for train employees
+- Louis Brandeis - first Jewish man appointed to the Supreme Court
+- Wilson was born in the South post-civil war and he was very racist
+	- He was not supportive of racial equality and Civil Rights
