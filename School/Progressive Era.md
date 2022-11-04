@@ -309,6 +309,8 @@ Created: 11-01-2022
 | Supporting Unions and their 8 hour workday                                                                                                    | Fragmentation of corporation (Large companies and monopolies were not good, but liked American capitalism and wanted to preserve it) |
 | Supported heavy taxes on wealthy corporations                                                                                                 |                                                                                                                                      |
 
+- Roosevelt's ideas are not yet implemented, but will be in the future
 - Roosevelt gets shot during one of his speeches, but he had a book and it saved him, but instead evacuating, he continues his speech
 	- "I will make this speech or die"
+- Wilson wins the election with 82% of the electoral college vote and 42% of the popular vote
 
