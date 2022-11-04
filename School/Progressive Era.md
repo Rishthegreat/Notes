@@ -300,7 +300,12 @@ Created: 11-01-2022
 - All the candidates are liberal, most conservative is Taft
 
 - Most probable winners were Roosevelt and Wilson
-| **Roosevelt**    | **Wilson** |
-| ---------------- | ---------- |
-| Women's suffrage |            |
+| **Roosevelt**                                 | **Wilson**                      |
+| --------------------------------------------- | ------------------------------- |
+| Women's suffrage                              | State's Rights                  |
+| Social Welfare and higher minimum wages       | Downward revision in the tarrif |
+| Federal Regulatory Agencies                   | Against Women's suffrage        |
+| Labor and Health legislation                  | Laissez Faire                                |
+| Supporting Unions and their 8 hour workday    |                                 |
+| Supported heavy taxes on wealthy corporations |                                 |
 
