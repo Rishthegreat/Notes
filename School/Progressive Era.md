@@ -290,16 +290,17 @@ Created: 11-01-2022
 	- Roosevelt's sides then storms out and forms a new party called the Progressive Party
 		- "Bull Moose" party
 		- Roosevelt says that "We stand at armageddon and we battle for the lord"
-			- He says that this si the most important election in American history
+			- He says that this is the most important election in American history
+		- He argued that going for a third term would be fine because it was not consecutive. 
 - Democrats elect Progressive Woodrow Wilson
 	- Elected governor of NJ
 	- He was seen as a good person trying to reform some of the party bosses and corruption in NJ politics
 	- It took 46 votes between other candidates to finally decide who would run
 - The Socialists run Eugine V. Debs
-- All the candidates are liberal, most conservative is 
-- Roosevelt runs against Taft in the election of 1912
-- Taft wins the candidacy of the Republicans, so Roosevelt decides to run as a third party
-	- (Republican party splits)
-- He argued that going for a third term would be fine because it was not consecutive. 
-- However, since the Republican party is divided, the Democratic candidate, Woodrow Wilson wins the election
+- All the candidates are liberal, most conservative is Taft
+
+- Most probable winners were Roosevelt and Wilson
+| **Roosevelt**    | **Wilson** |
+| ---------------- | ---------- |
+| Women's suffrage |            |
 
