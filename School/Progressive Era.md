@@ -314,3 +314,12 @@ Created: 11-01-2022
 	- "I will make this speech or die"
 - Wilson wins the election with 82% of the electoral college vote and 42% of the popular vote
 - In 1920, the Republican party becomes very conservative because all the liberals start moving to the Bull Moose Party. Soon, the liberals start joining the Democrats. This election is influential because the parties start getting more idealogical
+
+#### Woodrow Wilson
+- As a democrat, Wilson was a bit sympathetic to the South
+- He was a smart person some positino in Princeton
+- He was a very good public speaker
+- He believed that there were 3 bad things
+	- The Tarrifs
+	- The Banks
+	- The Trusts
