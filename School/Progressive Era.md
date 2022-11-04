@@ -350,3 +350,10 @@ Created: 11-01-2022
 			- Supports Unions, Strikes, and Boycotts, peaceful pickets legal
 			- Wilson files 100 antitrust suits
 - Wilson was very successful as the president
+
+#### High Tide of Progressivism
+- Child Labor Act (1916) - Keating Owen
+	- Outlaws interstate trade of prosucts on child labor under 14 years
+	- It become Unconstitutional during Hammer V. Dagenhart
+- Workingman Compensation Act (1916)
+	- 
