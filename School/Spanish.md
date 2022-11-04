@@ -40,4 +40,4 @@ Durante el **vuelo**, sucedió. Las luces y la televisión detrás de **los asie
 
 Había tres extraterrestres en el vuelo. El primer estuvo enfrente de la cabina. Yo lo maté en silencio y puse el cuerpo en la cabina detrás de mi. La segunda estuvo en el centro de la vuelo. Mientras los pasajeron gritaban, yo agaché en **el pasillo** detrás de él y lo apuñalé en el cuello. Pero, durante eso, el extraterrestre final me miró y corrío a mi.
 
-Salto sobre mi y comenzó a golpearme. 
+Salto sobre mi y comenzó a golpearme. Pude evadir alugos de ellos y entonces, le di una patada en el pecho 
