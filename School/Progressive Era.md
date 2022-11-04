@@ -292,7 +292,11 @@ Created: 11-01-2022
 		- Roosevelt says that "We stand at armageddon and we battle for the lord"
 			- He says that this si the most important election in American history
 - Democrats elect Progressive Woodrow Wilson
-	- Elect
+	- Elected governor of NJ
+	- He was seen as a good person trying to reform some of the party bosses and corruption in NJ politics
+	- It took 46 votes between other candidates to finally decide who would run
+- The Socialists run Eugine V. Debs
+- All the candidates are liberal, most conservative is 
 - Roosevelt runs against Taft in the election of 1912
 - Taft wins the candidacy of the Republicans, so Roosevelt decides to run as a third party
 	- (Republican party splits)
