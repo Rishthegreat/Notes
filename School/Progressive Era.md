@@ -260,7 +260,6 @@ Created: 11-01-2022
 	- Not mainstream, but shows the beginning of this in the progressive period
 
 ### Presidents in the Progressive Era
-
 - [[Theodore Roosevelt]]
 	- [[Panic Of 1907]]
 - William Howard Taft
@@ -285,10 +284,12 @@ Created: 11-01-2022
 		- Republican lose house to the democrats
 
 #### Election of 1812
-
+- Republican convention in Chicago
+	- Roosevelt has the majority of support of the republican party
+	- 
 - Roosevelt runs against Taft in the election of 1912
 - Taft wins the candidacy of the Republicans, so Roosevelt decides to run as a third party
 	- (Republican party splits)
 - He argued that going for a third term would be fine because it was not consecutive. 
-- However, since the Republican party is divided, the Democratic 
+- However, since the Republican party is divided, the Democratic candidate, Woodrow Wilson wins the election
 
