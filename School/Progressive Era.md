@@ -263,7 +263,7 @@ Created: 11-01-2022
 
 - [[Theodore Roosevelt]]
 	- [[Panic Of 1907]]
-- William Howard Taft
+- William Howard Taft (Electio)
 	- Taft was an imperialist
 	- He believed in Dollar Diplomacy
 		- Promote US business and trade abroad to support American enterprise, defense, and stabilize region
@@ -284,3 +284,4 @@ Created: 11-01-2022
 	- Midterm elections of 1910
 		- Republican lose house to the democrats
 
+#### Election of 1812
