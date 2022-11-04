@@ -319,7 +319,12 @@ Created: 11-01-2022
 - As a democrat, Wilson was a bit sympathetic to the South
 - He was a smart person some positino in Princeton
 - He was a very good public speaker
-- He believed that there were 3 bad things
+- He believed that there were 3 bad things ("The Triple Walls of Priveledge")
 	- The Tarrifs
+		- He addresses Congress himself on the First day of presidency in a long time
+			- "State of the Union"
+		- Underwood-Simmons Act (1913)
+			- Substantial reduction of tax rates in 50 years
+		- Sam
 	- The Banks
 	- The Trusts
