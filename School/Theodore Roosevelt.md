@@ -78,4 +78,4 @@ Created: 11-02-2022
 		- He did not want to be president, so his wife had to convince him
 		- Taft's opponent is William Jennings Bryan
 		- Taft won because Roosevelt was very popular and he was seen as carrying out Roosevelt's policies
-- Roosevelt runs against Taft in the election of 1912
+- Roosevelt runs against Taft in the election of 1912 [[Progressive Era#Election of 1812]]

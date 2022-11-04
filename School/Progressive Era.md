@@ -286,4 +286,5 @@ Created: 11-01-2022
 
 #### Election of 1812
 
+- Roosevelt runs against Taft in the election of 1912
 
