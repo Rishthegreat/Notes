@@ -300,12 +300,12 @@ Created: 11-01-2022
 - All the candidates are liberal, most conservative is Taft
 
 - Most probable winners were Roosevelt and Wilson
-| **Roosevelt**                                 | **Wilson**                      |
-| --------------------------------------------- | ------------------------------- |
-| Women's suffrage                              | State's Rights                  |
-| Social Welfare and higher minimum wages       | Downward revision in the tarrif |
-| Federal Regulatory Agencies                   | Against Women's suffrage        |
-| Labor and Health legislation                  | Laissez Faire                                |
-| Supporting Unions and their 8 hour workday    |                                 |
-| Supported heavy taxes on wealthy corporations |                                 |
+| **Roosevelt**                                                                                                                                 | **Wilson**      (From Virginia)                                      |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| Women's suffrage                                                                                                                              | State's Rights                                                       |
+| Social Welfare and higher minimum wages                                                                                                       | Downward revision in the tarrif                                      |
+| Federal Regulatory Agencies                                                                                                                   | Against Women's suffrage                                             |
+| Labor and Health legislation (Other countries like germany already had this and he felt that the US needed to match other European countries) | Laissez Faire economic principles protected to encourage competition |
+| Supporting Unions and their 8 hour workday                                                                                                    | Fragmentation of corporation (Large companies and monopolies were not good, but liked American capitalism and wa)                                    |
+| Supported heavy taxes on wealthy corporations                                                                                                 |                                                                      |
 
