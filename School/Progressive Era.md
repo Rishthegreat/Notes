@@ -286,7 +286,13 @@ Created: 11-01-2022
 #### Election of 1812
 - Republican convention in Chicago
 	- Roosevelt has the majority of support of the republican party
-	- 
+	- Old Guard Conservarive Republican party wants Taft to win
+	- Roosevelt's sides then storms out and forms a new party called the Progressive Party
+		- "Bull Moose" party
+		- Roosevelt says that "We stand at armageddon and we battle for the lord"
+			- He says that this si the most important election in American history
+- Democrats elect Progressive Woodrow Wilson
+	- Elect
 - Roosevelt runs against Taft in the election of 1912
 - Taft wins the candidacy of the Republicans, so Roosevelt decides to run as a third party
 	- (Republican party splits)
