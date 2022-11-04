@@ -332,6 +332,11 @@ Created: 11-01-2022
 		- Glaring defects during the Panic fo 1907
 			- There was no federal bank to help the economy to pump some money in during recessions like the Panic of 1907
 		- Federal Reserve Act (1913)
-			- 
+			- Nation's Banking under supervision of Federal Government
+			- Federal Reserve Board Members run the system
 		- There were 12 federal reserve banks in the US and the one in NY is one of the most important
+		- Private Banks serve people and can borrow from Federal Reserve
+		- Federal Reserve Notes
+			- Dollar Bills
+		- There 
 	- The Trusts
