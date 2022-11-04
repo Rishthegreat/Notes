@@ -347,4 +347,6 @@ Created: 11-01-2022
 			- Special Investigations of Business
 		- Clayton AntiTrust Act
 			- Extend and strengthen the Sherman AntiTrust Act
-			- Supports Unions, Strikes, and Boycotts, peaceful pickets le
+			- Supports Unions, Strikes, and Boycotts, peaceful pickets legal
+			- Wilson files 100 antitrust suits
+- Wilson was very successful as the president
