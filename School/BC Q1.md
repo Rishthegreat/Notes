@@ -20,5 +20,7 @@ $\frac{d}{dx}[f^{-1}(b)] = \frac{1}{f'(a)}$ where $f(a)=b$
 
 
 - First derivative test if for finding local extremes of $f(x)$
-- The second derivative test is for finding
+- The second derivative test is for finding concavity
+	- f is concave up on (a, b) because $f''(x) > 0$ ($f'(x)$ is increasing on this interval)
+	- f has a point of inflection 
 
