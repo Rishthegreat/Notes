@@ -18,3 +18,7 @@ $\frac{d}{dx}[f^{-1}(b)] = \frac{1}{f'(a)}$ where $f(a)=b$
 	- $L(x) = f(a) + f'(a)(x-a)$
 - $\Delta f \approx f'(a)\Delta x$  → estimating the change in $f$
 
+
+- First derivative test if for finding local extremes of $f(x)$
+- The second derivative test is for finding
+
