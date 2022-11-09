@@ -5,3 +5,4 @@ tags: english, assignments
 # English Assignments
 - [ ] Lang - Vocabulary 📅 2022-11-07 
 - [ ] Lang - Teach your trope 📅 2022-11-07 
+- [ ] Lang - Re-read letter from jail and seminar 📅 2022-11-17
