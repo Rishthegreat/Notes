@@ -103,7 +103,9 @@ Created: 11-14-2022
 	- Exxagerated through the [[Yellow Journalism]] painting the Germans as evil for invading the Belgiums
 	- Atrocities commited in Beligium like the raping of women
 - Wilson was worried that the the opinions, divisions, and journalism would result in America getting dragged into the war and he gave a speech on August 19, 1914 (Wilson's Statement of Neutrality)
-
+- Since the US was neutral, it could trade with both sides and this resulted in a boom for the economy, due to increased food production and manufacturing
+- Why does US trade more with the allies
+	- The US favors the allies, but the main reason is because American ships cannot get to Germany and the British have a successful blockade on Germany (it is also a significant reason why the Germans lost the War). Many starved to death.
 
 
 
