@@ -68,5 +68,9 @@ Created: 11-14-2022
 	- Serbian leaders want independence from Austria-Hungary for Bosnia-Herzegovina
 - Heir to the throne of Austria-Hungary (The Archduke) was visiting Serbia for a speech
 - The Black Hand terrorist organization to create a "Greater Serbia"
-	- 
+	- Mostly made of teenagers
+- Serbian teenager Gavrilo Princip assasinated the Archduke Franz Ferdinand of Austria-Hungary
+	- Also killed his wife
+
+- This kicks in a domino effect of alliances leading to the War
 
