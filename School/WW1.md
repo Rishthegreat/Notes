@@ -41,11 +41,17 @@ Created: 11-14-2022
 		- [[Scramble for Africa]]
 	- Militarism
 		- All these countries had long standing large armies
+			- US did not have this
 	- Nationalism
+		- Pride and power of nations
+			- Superiority
+		- Nation of Germ
+		- Nations should be based upon ethnicities
+			- Germans should be with Germans, etc
 	- Alliances
-- There were a lot of wars in Europe and European nations thought that alliances would prevent it
-	- I dont wanna fight you because you are allied with this other nation
-	- Triple Antente (Becomes Allied Powers)
-		- France, Great Britain, and Russia
-	- Triple Alliance (Becomes Central Powers)
-		- Germany, Austria-Hungary, and Italy
+		- There were a lot of wars in Europe and European nations thought that alliances would prevent it
+			- I dont wanna fight you because you are allied with this other nation
+			- Triple Antente (Becomes Allied Powers)
+				- France, Great Britain, and Russia
+			- Triple Alliance (Becomes Central Powers)
+				- Germany, Austria-Hungary, and Italy
