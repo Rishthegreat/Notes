@@ -27,7 +27,8 @@ Created: 11-14-2022
 #### The Hunt for Pancho Villa
 - Villa wants US and Mexico to go to War
 - He starts killing Americans
-	- Killed 20 Americans
-	- Raided the town of Columbus, New Mexico, killing Americans
-- In Mexico, he is seen as a bandit defying 
-- US is now starts hu
+	- Raided the town of Columbus, New Mexico, killing 20 Americans
+- In Mexico, he is seen as a bandit defying America
+- US is now starts hunting for Villa in Northern Mexico
+	- Technically invading because US army is in Mexico
+	- US eventually abandons this hunt in early 1917 because of the entry into WW1
