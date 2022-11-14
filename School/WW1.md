@@ -90,5 +90,7 @@ Created: 11-14-2022
 	- Some on the Western Front
 - This was truly the world's first global war
 - Germany almost takes France and Paris
+	- But the French hold and this results in a stalemate for 3-4 years
+		- Brutal fighting and not going anywhere
 
 
