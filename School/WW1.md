@@ -102,6 +102,10 @@ Created: 11-14-2022
 - There is a lot of British media in the United States
 	- Exxagerated through the [[Yellow Journalism]] painting the Germans as evil for invading the Belgiums
 	- Atrocities commited in Beligium like the raping of women
-- Wilson was worried that the the opinions, divisions, and journalism 
+- Wilson was worried that the the opinions, divisions, and journalism would result in America getting dragged into the war and he gave a speech on August 19, 1914 (Wilson's Statement of Neutrality)
+
+
+
+
 
 
