@@ -33,3 +33,12 @@ Created: 11-14-2022
 
 - America was very close to war with Mexico prior to WW1
 	- [[Crisis in Mexico]]
+
+#### Causes of War
+- Rising tensions in Europe in 1914 a result of 4 main long term causes
+	- Imperialism
+	- Militarism
+	- Nationalism
+	- Alliances
+- There were a lot of wars in Europe and European nations thought that alliances would prevent it
+	- I dont wanna fight you because you
