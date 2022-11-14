@@ -94,6 +94,10 @@ Created: 11-14-2022
 		- Brutal fighting and not going anywhere
 
 #### United States
-- US does not want to enter the War and Wilson says that the US is neutra
+- US does not want to enter the War and Wilson says that the US is neutral
+- The problem was that many people in the United States had some relations with the foreign nations
+	- Many were immigrants
+	- They would root for certain sides
+- Naturally, the United States would have supported the Allied Powers because there were mor
 
 
