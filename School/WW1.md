@@ -45,7 +45,10 @@ Created: 11-14-2022
 	- Nationalism
 		- Pride and power of nations
 			- Superiority
-		- Nation of Germ
+		- Nation of Germany was formed in the 1870s
+			- Germanic people were around for a long time, but they formed a new nation
+		- Italy was founded
+			- Italians were around since the Romans
 		- Nations should be based upon ethnicities
 			- Germans should be with Germans, etc
 	- Alliances
@@ -55,3 +58,5 @@ Created: 11-14-2022
 				- France, Great Britain, and Russia
 			- Triple Alliance (Becomes Central Powers)
 				- Germany, Austria-Hungary, and Italy
+- The Austria-Hungary Empire ruled over many differed people of different nations
+- Nation of S
