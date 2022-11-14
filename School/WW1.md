@@ -98,6 +98,10 @@ Created: 11-14-2022
 - The problem was that many people in the United States had some relations with the foreign nations
 	- Many were immigrants
 	- They would root for certain sides
-- Naturally, the United States would have supported the Allied Powers because there were mor
+- Naturally, the United States would have supported the Allied Powers because there were more cultural connections
+- There is a lot of British media in the United States
+	- Exxagerated through the [[Yellow Journalism]] painting the Germans as evil for invading the Belgiums
+	- Atrocities commited in Beligium like the raping of women
+- Wilson was worried that the the opinions, divisions, and journalism 
 
 
