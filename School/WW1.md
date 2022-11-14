@@ -63,5 +63,10 @@ Created: 11-14-2022
 - Nation of Serbia (Not part of Austria-Hungary)
 	- Carved out of the old-fading empire of the Ottoman Empire
 	- New Nations
+- Great nationalistic tensions in the Balkans in Serbia
 - They wanted to combine into one into Yukoslavia
-	- Serbian leaders want independence from Austria-Hungary for Bosnia-Herzegovin
+	- Serbian leaders want independence from Austria-Hungary for Bosnia-Herzegovina
+- Heir to the throne of Austria-Hungary (The Archduke) was visiting Serbia for a speech
+- The Black Hand terrorist organization to create a "Greater Serbia"
+	- 
+
