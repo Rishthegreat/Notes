@@ -16,4 +16,10 @@ Created: 11-14-2022
 #### Tampico Incident
 - US sailors were arrested at Tampico in April 1914
 	- Mexico then apologizes and releases the prisoners
-	- However, 
+	- However, US wanted a more formal apology
+- US Navy then occupies Vera Cruz
+- ABC Powers mediate the dispute
+	- Argentina, Brazil, Chile
+	- US would win the war and it would benefit from this due to gained land
+- After this incident, Huerta was overthrown and Carranza is in power
+	- Carranza, although supp
