@@ -109,7 +109,10 @@ Created: 11-14-2022
 - Germany did not have a strong navy, but it had submaries that it invested in
 	- This resulted in a maritime warfare, disrupting US trade interests
 		- US ships were also sunk
-	- US was not happy at British because the British
+	- US was not happy at British because the British's blockage would result in British confiscation of supplies, but no deaths
+		- Forced Americans ashore (Not killed)
+	- However, US was even more mad because the Germans were killing Americans
+		- This is going to be a main reason that America enters the War on the Allied side
 
 
 
