@@ -22,4 +22,12 @@ Created: 11-14-2022
 	- Argentina, Brazil, Chile
 	- US would win the war and it would benefit from this due to gained land
 - After this incident, Huerta was overthrown and Carranza is in power
-	- Carranza, although supp
+	- Carranza, although supported by the US, was not especially happy with the US meddling
+
+#### The Hunt for Pancho Villa
+- Villa wants US and Mexico to go to War
+- He starts killing Americans
+	- Killed 20 Americans
+	- Raided the town of Columbus, New Mexico, killing Americans
+- In Mexico, he is seen as a bandit defying 
+- US is now starts hu
