@@ -85,12 +85,15 @@ Created: 11-14-2022
 
 - Allied Powers - France, Great Britain, Russia
 - Central Powers - German Empire, Austrian-Hungarian Empire, Ottoman Empire
-	- Italians join the the War a year later
+	- Italians join the the War a year later siding with the Allied Powers
 - Most of the fighting happens on the Western Front
 	- Some on the Western Front
 - This was truly the world's first global war
 - Germany almost takes France and Paris
 	- But the French hold and this results in a stalemate for 3-4 years
 		- Brutal fighting and not going anywhere
+
+#### United States
+- US does not want to enter the War and Wilson says that the US is neutra
 
 
