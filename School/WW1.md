@@ -24,8 +24,12 @@ Created: 11-14-2022
 		- Granted US citizenship to all inhabitants
 
 - However, sometimes, Wilson did act like Roosevelt and Taft
-- Wilson's Military Intervention
+- Wilson's Military Interventions
 	- Haiti - Marines in 1915
 	- Dominic Republic - Marines in 1916
 	- Virgin Islands - 1917
 		- Purchased from Denmark
+		- Still owned today
+
+- America was very close to war with Mexico prior to WW1
+	- [[Crisis in Mexico]]
