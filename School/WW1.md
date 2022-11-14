@@ -6,6 +6,6 @@ Created: 11-14-2022
 # WW1
 ---
 
-#### Causes of the War
-
-- 
+#### Ideology of Wilson's Foreign Policy
+- Big Stick Diplomacy - 
+- Dollar Diplo
