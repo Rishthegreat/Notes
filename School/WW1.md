@@ -77,6 +77,12 @@ Created: 11-14-2022
 	- Russia, protector of the Slavs, begins to mobilize, declares war on Austria
 	- Germany, Austria's ally declares war on Russia and France
 		- Germany had been planning for this potential war for decades
-	- Russia does not have a standing army so it would take a long time
-	- 
+- Russia does not have a standing army so it would take a long time
+- France was heavily fortified
+	- Germany had a plan to go through neutral Belgium
+		- The Schlieffen plan
+	- This causes the British to join the War
+
+
+
 
