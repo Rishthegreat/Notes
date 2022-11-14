@@ -20,5 +20,12 @@ Created: 11-14-2022
 		- Added Bill of Rights to the Philippine Constitution and added made suffrage
 		- And "promised" independence
 			- Never stated when
-	- Puerto Rico 1917
+	- Puerto Rico 1917 (Went over this in Imperialism Unit - [[Unit 7 (1890 - 1945)]])
 		- Granted US citizenship to all inhabitants
+
+- However, sometimes, Wilson did act like Roosevelt and Taft
+- Wilson's Military Intervention
+	- Haiti - Marines in 1915
+	- Dominic Republic - Marines in 1916
+	- Virgin Islands - 1917
+		- Purchased from Denmark
