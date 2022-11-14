@@ -37,8 +37,15 @@ Created: 11-14-2022
 #### Causes of War
 - Rising tensions in Europe in 1914 a result of 4 main long term causes
 	- Imperialism
+		- Set up natural rivalries
+		- [[Scramble for Africa]]
 	- Militarism
+		- All these countries had long standing large armies
 	- Nationalism
 	- Alliances
 - There were a lot of wars in Europe and European nations thought that alliances would prevent it
-	- I dont wanna fight you because you
+	- I dont wanna fight you because you are allied with this other nation
+	- Triple Antente (Becomes Allied Powers)
+		- France, Great Britain, and Russia
+	- Triple Alliance (Becomes Central Powers)
+		- Germany, Austria-Hungary, and Italy
