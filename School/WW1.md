@@ -83,6 +83,12 @@ Created: 11-14-2022
 		- The Schlieffen plan
 	- This causes the British to join the War
 
-
+- Allied Powers - France, Great Britain, Russia
+- Central Powers - German Empire, Austrian-Hungarian Empire, Ottoman Empire
+	- Italians join the the War a year later
+- Most of the fighting happens on the Western Front
+	- Some on the Western Front
+- This was truly the world's first global war
+- Germany almost takes France and Paris
 
 
