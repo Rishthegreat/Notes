@@ -59,4 +59,9 @@ Created: 11-14-2022
 			- Triple Alliance (Becomes Central Powers)
 				- Germany, Austria-Hungary, and Italy
 - The Austria-Hungary Empire ruled over many differed people of different nations
-- Nation of S
+- Bosnia had many ethnic Serbians
+- Nation of Serbia (Not part of Austria-Hungary)
+	- Carved out of the old-fading empire of the Ottoman Empire
+	- New Nations
+- They wanted to combine into one into Yukoslavia
+	- Serbian leaders want independence from Austria-Hungary for Bosnia-Herzegovin
