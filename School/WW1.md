@@ -108,7 +108,8 @@ Created: 11-14-2022
 	- The US favors the allies, but the main reason is because American ships cannot get to Germany and the British have a successful blockade on Germany (it is also a significant reason why the Germans lost the War). Many starved to death.
 - Germany did not have a strong navy, but it had submaries that it invested in
 	- This resulted in a maritime warfare, disrupting US trade interests
-	- US ships were also sunk
+		- US ships were also sunk
+	- US was not happy at British because the British
 
 
 
