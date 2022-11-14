@@ -73,4 +73,10 @@ Created: 11-14-2022
 	- Also killed his wife
 
 - This kicks in a domino effect of alliances leading to the War
+	- Austria-Hungary declares war on Serbia
+	- Russia, protector of the Slavs, begins to mobilize, declares war on Austria
+	- Germany, Austria's ally declares war on Russia and France
+		- Germany had been planning for this potential war for decades
+	- Russia does not have a standing army so it would take a long time
+	- 
 
