@@ -7,6 +7,7 @@ tags: course
 # Bio
 
 ## Notes
+- [[Unit 1 - Chemistry of Life]]
 - [[Unit 7 - Natural Selection]]
 
 ## Assignments
