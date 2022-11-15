@@ -9,25 +9,25 @@ Created: 10-25-2022
 
 ### Artificial Selection 7.3
 
-### Population Genetics
+### Population Genetics 7.4
 
-### Hardy-Weinberg Equilibrium
+### Hardy-Weinberg Equilibrium 7.5
 
-### Evidence for Evolution
+### Evidence for Evolution 7.6
 
-### Common Ancestry
+### Common Ancestry 7.7
 
-### Continuing Evolution
+### Continuing Evolution 7.8
 
-### Phylogeny
+### Phylogeny 7.9
 
-### Speciation
+### Speciation 7.10
 
-### Extinction
+### Extinction 7.11
 
-### Variations in Populations
+### Variations in Populations 7.12
 
-### Origins of Life on Earth
+### Origins of Life on Earth 7.13
 
 #### What is a species?
 - Biologists
