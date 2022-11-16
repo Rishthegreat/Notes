@@ -122,4 +122,7 @@ Created: 11-14-2022
 		- 24 million men registered for the draft by the end of 1918
 		- 8 million men served in WW1 (2 million saw active combat)
 			- 2.8 million drafted
-			- 
+			- 2 million volunteered
+	- They were called the American Expeditionary 
+
+- 
