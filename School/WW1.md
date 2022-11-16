@@ -116,4 +116,10 @@ Created: 11-14-2022
 
 ### How the US is in the War
 - The US did not have a long standing army
+	- US needed a draft and the last draft was during the Civil War and it was pretty bad
 	- 1917 - Selective Service Act
+		- All men between 21 and 30 register (later changed to 18 and 45)
+		- 24 million men registered for the draft by the end of 1918
+		- 8 million men served in WW1 (2 million saw active combat)
+			- 2.8 million drafted
+			- 
