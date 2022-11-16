@@ -93,7 +93,7 @@ Created: 11-14-2022
 	- But the French hold and this results in a stalemate for 3-4 years
 		- Brutal fighting and not going anywhere
 
-#### United States
+#### United States's Involvement in the War
 - US does not want to enter the War and Wilson says that the US is neutral
 - The problem was that many people in the United States had some relations with the foreign nations
 	- Many were immigrants
@@ -114,7 +114,6 @@ Created: 11-14-2022
 	- However, US was even more mad because the Germans were killing Americans
 		- This is going to be a main reason that America enters the War on the Allied side
 
-
-
-
-
+### How the US is in the War
+- The US did not have a long standing army
+	- 1917 - Selective Service Act
