@@ -51,4 +51,5 @@ Las expresiones impersonales →
 | Es lógico que | Its logical   |
 
 Examples →
-- 
+- Yo me alegro de que nosotros estemos bién
+- La médica deplora que 
