@@ -220,6 +220,8 @@ Created: 11-14-2022
 					- Selling American Culture
 					- This committe was very successful about promoting American culture
 					- The Nazis actually studied Creel for their own propoganda
+
+##### Government Excess and Threats to the Civil Liberties of Americans
 - Espionage Act - 1917
 	- Forbade actions that obstructed recruitment or efforts to promote insubordination in the military
 	- Fines of up to 10k and or up to 20 years in prision
@@ -227,9 +229,10 @@ Created: 11-14-2022
 	- It was a crime to speak against the purchase of war bonds or **willfully utter, print, write or publish any disloyal, profane, scurrilous, or abusive language** about this form of US government, and US Constitution, or the US armed forces
 		- Tended to target socialists, and anti-war groups
 			- Eugene Debbs ran for presidency from a jail cell because of speaking against the war effort
-- Since this was against freeodm of speech
+- Since this was against freedom of speech
 	- Schneck was arrested because he sent out phamplets for anti-war
 	- Schneck v US - 1919
 		- In ordinary times the mailing of the leaflets would be protected in the Constitution
-		- But, every act of speech must be judged accordi
+		- But, every act of speech must be judged according to the circumstances in which it was spoken
+			- If an act of speech poses a clear and present danger, then Congress has power to restrain such speech
 
