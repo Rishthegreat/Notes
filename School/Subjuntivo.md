@@ -53,8 +53,8 @@ Las expresiones impersonales →
 Examples →
 - Yo me alegro de que nosotros estemos bién
 - La médica deplora que tú gozes de buena salud
-- El enfermero 
+- El enfermero deplora que sus pacientes se recuperen del accidente
 - Mi mamá siente que yo este deprimido
 - La Sra. Cepeda esta orgulloso de que ustedes se mejoren
 - El Sr. Otero teme que su hija sea cirujana
-- Ustedes estan encantado de que 
+- Ustedes estan encantado de que usted tena gripe
