@@ -18,5 +18,7 @@ Created: 11-17-2022
 
 #### A dehydration synthesis creates proteins
 - Protein monomers are called amino acids
-- Each amino acid has an amino group $NH\sub{2}$
+- Each amino acid has an amino group $NH_2$ terminus and a carboxyl group $COOH$ terminus
+- A Hydoxide is lost from the carboxyl group of one amino acid an hydrogen atom is lost from the aminno acid group of another amino acid
+- 
 
