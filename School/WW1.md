@@ -114,7 +114,7 @@ Created: 11-14-2022
 	- However, US was even more mad because the Germans were killing Americans
 		- This is going to be a main reason that America enters the War on the Allied side
 
-### How the US is in the War
+### US Army
 - The US did not have a long standing army
 	- US needed a draft and the last draft was during the Civil War and it was pretty bad
 	- 1917 - Selective Service Act
@@ -124,5 +124,3 @@ Created: 11-14-2022
 			- 2.8 million drafted
 			- 2 million volunteered
 	- They were called the American Expeditionary 
-
-- 
