@@ -33,6 +33,7 @@ Created: 11-18-2022
 		- - zar → ce
 
 #### Expressing Different Emotions
-| **Emotion**        | **Examples** |
-| ------------------ | ------------ |
-| Alegría (Happines) | alegrarse (to be happy; to rejoice) de que             |
+| **Emotion**                          | **Examples**                                                                                         |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+| Alegría (Happines)                   | alegrarse (to be happy; to rejoice) de que, estar encantado de que, (me) gusta que, (me) encanta que |
+| Tristeza y Pena (Sadness and Regret) | entristecerse que (to feel sad), sentir [ie] que, lamentar (to regret) que, dep                                                                                                  |
