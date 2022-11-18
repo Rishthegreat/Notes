@@ -201,4 +201,8 @@ Created: 11-14-2022
 					- Chicago - 1919
 						- A black boy swam to the white part of the beach and white boys threw stones at him until he drowned
 							- Resulted in a lot of riots and clashes
-						- 
+	- Opportunities for Immigrants
+		- There were a lot of posters in different languages geared towards buying bonds
+			- It is a message about your duty about supporting the US government
+				- You came to the US for freedom, now its time to give back
+		- 
