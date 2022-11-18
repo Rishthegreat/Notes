@@ -236,3 +236,9 @@ Created: 11-14-2022
 		- But, every act of speech must be judged according to the circumstances in which it was spoken
 			- If an act of speech poses a clear and present danger, then Congress has power to restrain such speech
 
+##### Unions
+- It is important the workers are working and government is worried about strikes, etc, so the government creates the National War Labor Board led by William Howard Taft
+	- Judges disputes between workers and management
+	- Attempts to improve working conditions, shorten work days, equal pay for women
+		- Wages go up during the War
+	- Uion
