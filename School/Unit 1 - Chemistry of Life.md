@@ -22,6 +22,11 @@ Created: 11-15-2022
 	- Can be used to form basic cell structure
 
 ### Introduction to Biological Macromolecules 1.3
+- Monomers are chemical subunits used to create polymers
+	- Polymers are macromolecules made of many monomers
+	- A covalent bond is used to connect monomers
+	- Monomers have specific chemical properties that allow them to interact with one another
+
 
 ### Properties of Biological Macromolecules 1.4
 
