@@ -223,5 +223,8 @@ Created: 11-14-2022
 - Espionage Act - 1917
 	- Forbade actions that obstructed recruitment or efforts to promote insubordination in the military
 	- Fines of up to 10k and or up to 20 years in prision
-- The 
+- The Sedition Act - 1918
+	- It was a crime to speak against the purchase of war bonds or **willfully utter, print, write or publish any disloyal, profane, scurrilous, or abusive language** about this form of US Govet, and US Constitution, or the US armed forces
+		- Tended to target socialists, and anti-war groups
+			- Eugene Debbs ran for presidency from a jail cell because of speaking against the war effort
 
