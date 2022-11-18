@@ -11,7 +11,7 @@ Created: 11-15-2022
 ### Elements of Life 1.2
 - Living systems require a constant input of energy because they need energy to grow, reproduce, and mantain organization
 - Living systems mainly use the energy stored in chemical bonds
-- Atoms and molecules from the environment are necessary to build new molecules such as Carbohydrates, Rpteins, Nucleic Acids, and Lipids
+- Atoms and molecules from the environment are necessary to build new molecules such as Carbohydrates, Proteins, Nucleic Acids, and Lipids
 	- Carbon is used for all
 	- Nitrogen is used to build proteins and nucleic acids
 	- Phosphorous is used to build nucleic acids and certain lipids
@@ -26,6 +26,13 @@ Created: 11-15-2022
 	- Polymers are macromolecules made of many monomers
 	- A covalent bond is used to connect monomers
 	- Monomers have specific chemical properties that allow them to interact with one another
+	- Polymers are specific to the monomers they consist of
+| **Monomer**    | **Polymer**  |
+| -------------- | ------------ |
+| Monosaccharide | Carbohydrate |
+| Amino Acid     | Protein      |
+| Nucleotode     | Nucleic Acid |
+| Fatty Acid     |              |
 
 
 ### Properties of Biological Macromolecules 1.4
