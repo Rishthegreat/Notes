@@ -241,4 +241,12 @@ Created: 11-14-2022
 	- Judges disputes between workers and management
 	- Attempts to improve working conditions, shorten work days, equal pay for women
 		- Wages go up during the War
-	- Uion
+	- Union membership increased during the war
+		- AFL - loyal to the war effort
+		- IWW - do not support the war and promoted strikes
+	- During the War most union workers support the war
+	- Post War Labor Strikes
+		- Coal Miners Strike of 1919
+		- Steel Strike of 1919
+		- Boston Police Strike of 1919
+		- 
