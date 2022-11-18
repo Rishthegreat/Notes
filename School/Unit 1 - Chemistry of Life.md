@@ -37,8 +37,6 @@ Created: 11-15-2022
 	- [[Dehydration Synthesis]]
 	- [[Hydrolysis Reactions]]
 
-
-
 ### Properties of Biological Macromolecules 1.4
 
 ### Structure and Function of Biological Macromolecules 1.5
