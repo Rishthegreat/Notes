@@ -55,4 +55,4 @@ Examples →
 - La médica deplora que tú gozes de buena salud
 - El enfermero 
 - Mi mamá siente que yo este deprimido
-- La Sra. Ce
+- La Sra. Cepeda esta orgulloso de que ustedes se mejoren
