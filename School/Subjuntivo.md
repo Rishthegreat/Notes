@@ -33,4 +33,6 @@ Created: 11-18-2022
 		- - zar → ce
 
 #### Expressing Different Emotions
-| ****
+| **Emotion**        | **Examples** |
+| ------------------ | ------------ |
+| Alegría (Happines) | alegrarse (to be happy; to rejoice) de que             |
