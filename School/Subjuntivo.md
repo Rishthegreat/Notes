@@ -15,8 +15,11 @@ Created: 11-18-2022
 | E          | Emotions                         | Siento que *estés* en enferma                           |
 | D          | Doubt                            | No creo que *tenga* gripe                               |
 | D          | Denial                           | No es cierto que mi esposo *sea* cirujano                 |
-| I          | Impersonal (No subject attached) | Es necesario que se cuide mejor (It is necessary, It is probable that) |
+| I          | Impersonal (No subject attached) | Es necesario que *se cuide* mejor (It is necessary, It is probable that) |
 | N          | Negation/Non existent            | ¿Hay alguien que *sea* médico?                            |
 | G          | God willing                      | Ojalá                                                   |
 
-
+- First step is to put it in the yo form with stem changes
+- Then, drop the o
+- Add on the opposite ending
+	- AR
