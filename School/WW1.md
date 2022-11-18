@@ -218,5 +218,10 @@ Created: 11-14-2022
 							- Goveror of Iowa said "God only understands prayers in English"
 						- Germans-Americans were killed just for being German
 					- Selling American Culture
-					- This committe was seei
+					- This committe was very successful about promoting American culture
+					- The Nazis actually studied Creel for their own propoganda
+- Espionage Act - 1917
+	- Forbade actions that obstructed recruitment or efforts to promote insubordination in the military
+	- Fines of up to 10k and or up to 20 years in prision
+- The 
 
