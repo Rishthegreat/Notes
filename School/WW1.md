@@ -205,4 +205,8 @@ Created: 11-14-2022
 		- There were a lot of posters in different languages geared towards buying bonds
 			- It is a message about your duty about supporting the US government
 				- You came to the US for freedom, now its time to give back
-		- 
+			- Propoganda
+				- The Committee of Public Information
+					- Wilson Hired George Creel, a former muckracker to sell the idea of being Americans to immigrants to support the war who ran this committee
+						- America's "Propoganda Minister"
+						- 
