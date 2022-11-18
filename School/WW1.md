@@ -174,4 +174,6 @@ Created: 11-14-2022
 		- We see this more prominent during [[WW2]]
 - Unprecedented opportunities for disadvantaged groups
 	- Opportunities for Women
-		- Certain g
+		- Certain women like Jane Addams and the Suffrage Jets and some groups opposed the War, but many remained loyal and supported it
+		- 1 million women worked in war industries
+		- Woodrow Wilson was initially against women working, but when he saw that most were supportive and they could work, he championed women suffrage
