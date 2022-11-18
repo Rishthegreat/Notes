@@ -165,4 +165,9 @@ Created: 11-14-2022
 - Unemployment virtually disappeared
 	- More workers needed
 	- Many worked more than 1 job
-	- 
+- Expansion of the "big government"
+	- Excessive governmnet regulations in the economy
+	- This is the largest we see the US government uptil this point in US history
+- Close cooperation between public and private sectors
+	- They tolerated this because they were making more money
+- Unprecedented opportunities for disadvantaged groups
