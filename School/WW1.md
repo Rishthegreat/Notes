@@ -123,4 +123,8 @@ Created: 11-14-2022
 		- 8 million men served in WW1 (2 million saw active combat)
 			- 2.8 million drafted
 			- 2 million volunteered
-	- They were called the American Expeditionary 
+	- They were called the American Expeditionary
+
+#### America on the Homefront
+- The Citizens of the country are usually impacted and ask more of their citizens during times of crisis
+- WW1 is mostly popular, but mid0western dems, socialists, a
