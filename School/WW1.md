@@ -133,4 +133,9 @@ Created: 11-14-2022
 		- War Industries Board - Bernard Baruch
 			- Regulates all war material
 			- Control over raw materials and prices
-			- Increases Production 
+			- Increases Production by 20%
+				- Considered successful
+				- Creative ways to ask for donations
+					- One way was to ask gradles from women to use the steel to make battleships
+		- Food Administration - Herbert Hoover
+			- Hoover became popular because 
