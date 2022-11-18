@@ -16,7 +16,10 @@ Created: 11-15-2022
 	- Nitrogen is used to build proteins and nucleic acids
 	- Phosphorous is used to build nucleic acids and certain lipids
 - Carbon can bond to other carbon atoms creating carbon skeletons to which other atoms attach
-	- !![[Unit 1 - Chemistry of Life 2022-11-17 20.20.43.excalidraw]]
+	- ![[Unit 1 - Chemistry of Life 2022-11-17 20.20.43.excalidraw]]
+	- Skeletons allow for the creation of very large and complex molecules
+	- Can be used to store energy
+	- Can be used to form basic cell structure
 
 ### Introduction to Biological Macromolecules 1.3
 
