@@ -189,4 +189,9 @@ Created: 11-14-2022
 		- They were paid less than white workers, but still paid
 		- More opportunity, but no more equality
 		- 400000 African Americans served in segregated units
-		- African American leader like W.E.B. Du Bois though fighting would bring equal
+			- Harlem Hellfighters are the most popular
+				- France gave them the highest ranking medals
+				- US did not give them and did not recognize their achievements
+					- Obama gave a medal to one of the grandsons in 2015
+		- African American leader like W.E.B. Du Bois thought fighting would bring equal rights
+		- 
