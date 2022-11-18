@@ -15,7 +15,8 @@ Created: 11-15-2022
 	- Carbon is used for all
 	- Nitrogen is used to build proteins and nucleic acids
 	- Phosphorous is used to build nucleic acids and certain lipids
-- Carbon can bond to other carbon atoms 
+- Carbon can bond to other carbon atoms creating carbon skeletons to which other atoms attach
+	- !![[Unit 1 - Chemistry of Life 2022-11-17 20.20.43.excalidraw]]
 
 ### Introduction to Biological Macromolecules 1.3
 
