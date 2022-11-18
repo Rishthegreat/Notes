@@ -22,8 +22,8 @@ Created: 11-18-2022
 - First step is to put it in the yo form with stem changes
 - Then, drop the o
 - Add on the ending (ar and er/ir is reversed)
-	- AR - e, es, e, emos, en
-	- ER/IR - a, as, a, amos, an
+	- AR → e, es, e, emos, en
+	- ER/IR → a, as, a, amos, an
 
 - Irregular
 	- ![[Pasted image 20221118142302.png]]
@@ -31,3 +31,6 @@ Created: 11-18-2022
 		- -car → que
 		- - gar → gue
 		- - zar → ce
+
+#### Expressing Different Emotions
+| ****
