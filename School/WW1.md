@@ -144,8 +144,11 @@ Created: 11-14-2022
 				- Plant your own food so more can go overseas
 			- Lever Act
 				- Government can set prices of certain commodities
+			- There were many political cartoons asking people to make some sacrifices so that food can be conserved and sent abroad
 		- Fuel Administration - Harry Garfield
 			- "Lightless Nights", "Gasless Sundays", daylight saving saves time so less energy is used up
 		- US Railroad Administration - William McAdoo
 			- During the War, the government was controlling the railroads
+	- US Shipping Board
+		- A lot of posters promoting workers since 5 million men are abroad fighting the war
 	- The private companies were making a lot of money, so they did not complain too much about the increased regulation
