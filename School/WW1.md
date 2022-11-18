@@ -193,5 +193,12 @@ Created: 11-14-2022
 				- France gave them the highest ranking medals
 				- US did not give them and did not recognize their achievements
 					- Obama gave a medal to one of the grandsons in 2015
-		- African American leader like W.E.B. Du Bois thought fighting would bring equal rights
-		- 
+		- African American leader like W.E.B. Du Bois thought fighting would bring equal rights - bitterly disappointed by results
+		- Post War Race Riots
+			- African Americans were used a lot as strike breakers
+				- Resulted in riots like 
+					- St. Louis - 1917
+					- Chicago - 1919
+						- A black boy swam to the white part of the beach and white boys threw stones at him until he drowned
+							- Resulted in a lot of riots and clashes
+						- 
