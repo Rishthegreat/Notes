@@ -224,7 +224,12 @@ Created: 11-14-2022
 	- Forbade actions that obstructed recruitment or efforts to promote insubordination in the military
 	- Fines of up to 10k and or up to 20 years in prision
 - The Sedition Act - 1918
-	- It was a crime to speak against the purchase of war bonds or **willfully utter, print, write or publish any disloyal, profane, scurrilous, or abusive language** about this form of US Govet, and US Constitution, or the US armed forces
+	- It was a crime to speak against the purchase of war bonds or **willfully utter, print, write or publish any disloyal, profane, scurrilous, or abusive language** about this form of US government, and US Constitution, or the US armed forces
 		- Tended to target socialists, and anti-war groups
 			- Eugene Debbs ran for presidency from a jail cell because of speaking against the war effort
+- Since this was against freeodm of speech
+	- Schneck was arrested because he sent out phamplets for anti-war
+	- Schneck v US - 1919
+		- In ordinary times the mailing of the leaflets would be protected in the Constitution
+		- But, every act of speech must be judged accordi
 
