@@ -32,7 +32,10 @@ Created: 11-15-2022
 | Monosaccharide | Carbohydrate |
 | Amino Acid     | Protein      |
 | Nucleotode     | Nucleic Acid |
-| Fatty Acid     |              |
+| Fatty Acid     | Lipids       |
+- 2 Key reactions
+	- [[Dehydration Synthesis]]
+	- 
 
 
 ### Properties of Biological Macromolecules 1.4
