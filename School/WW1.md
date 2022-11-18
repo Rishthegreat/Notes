@@ -209,4 +209,8 @@ Created: 11-14-2022
 				- The Committee of Public Information
 					- Wilson Hired George Creel, a former muckracker to sell the idea of being Americans to immigrants to support the war who ran this committee
 						- America's "Propoganda Minister"
-						- 
+					- Anti-German sentiment
+						- Prevent the raping of women in Belgium
+						- Depicted the Germans as brutes
+					- Selling American Culture
+
