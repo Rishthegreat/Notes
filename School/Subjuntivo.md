@@ -7,4 +7,9 @@ Created: 11-18-2022
 ---
 
 #### How to form subjuctive
-- Wedding,
+- WEDDING, que, change in subject
+
+| **Letter** | **Choice**       | **Example** |
+| ---------- | ---------------- | ----------- |
+| W          | Wishes and Wants | Le recomiendo que             |
+|            |                  |             |
