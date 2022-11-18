@@ -170,4 +170,8 @@ Created: 11-14-2022
 	- This is the largest we see the US government uptil this point in US history
 - Close cooperation between public and private sectors
 	- They tolerated this because they were making more money
+	- This is an early example of massive production due to the capitalist nature of US economy
+		- We see this more prominent during [[WW2]]
 - Unprecedented opportunities for disadvantaged groups
+	- Opportunities for Women
+		- Certain g
