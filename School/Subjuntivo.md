@@ -52,4 +52,5 @@ Las expresiones impersonales →
 
 Examples →
 - Yo me alegro de que nosotros estemos bién
-- La médica deplora que 
+- La médica deplora que tú gozes de buena salud
+- El enfermero 
