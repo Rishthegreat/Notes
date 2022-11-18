@@ -246,7 +246,9 @@ Created: 11-14-2022
 		- IWW - do not support the war and promoted strikes
 	- During the War most union workers support the war
 	- Post War Labor Strikes
+		- Economic downturn after the War
 		- Coal Miners Strike of 1919
 		- Steel Strike of 1919
 		- Boston Police Strike of 1919
-		- 
+		- Over 4 million striking workers in 1919
+		- Middle-class Americans did not like this and viewed the workers as being unloyal
