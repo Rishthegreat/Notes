@@ -16,9 +16,11 @@ Created: 11-17-2022
 - Carbohydrate monomers have hydroxides and hydrogen atoms attached to them
 - One monomer will lose an entire hydroxide while the other will only lose a hydrogen from a hydroxide
 
-#### A dehydration synthesis creates proteins
+#### A Dehydration Synthesis Creates Proteins
 - Protein monomers are called amino acids
 - Each amino acid has an amino group $NH_2$ terminus and a carboxyl group $COOH$ terminus
-- A Hydoxide is lost from the carboxyl group of one amino acid an hydrogen atom is lost from the aminno acid group of another amino acid
-- 
-
+- A Hydoxide is lost from the carboxyl group of one amino acid an hydrogen atom is lost from the aminno group of another amino acid
+	- ![[Pasted image 20221117212226.png]]
+- Covalent bond will form between the monomers in the location where the hydroxide and hydrogen atom were removed
+	- ![[Pasted image 20221117212347.png]]
+- The hydroxide and hydrogen atom will become water
