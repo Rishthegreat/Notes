@@ -127,4 +127,10 @@ Created: 11-14-2022
 
 #### America on the Homefront
 - The Citizens of the country are usually impacted and ask more of their citizens during times of crisis
-- WW1 is mostly popular, but mid0western dems, socialists, a
+- WW1 is mostly popular, but a minority (mid-western dems, socialists, and immigrants) do not support war
+- During WW1, governmnet is very involved in private business and create a lot of agencies for the War
+	- Council of National Defense
+		- War Industries Board - Bernard Baruch
+			- Regulates all war material
+			- Control over raw materials and prices
+			- Increases Production 
