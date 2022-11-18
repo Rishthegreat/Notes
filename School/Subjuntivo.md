@@ -43,6 +43,11 @@ Created: 11-18-2022
 | Sopresa y Emoción                    | (me) sorprende que, (me) emociona (it touches, thrills me) que                                                                     |     |
 
 Las expresiones impersonales →
-| **Spanish** | **English** |
-| ----------- | ----------- |
-| Es bueno            |             |
+| **Spanish**   | **English**   |
+| ------------- | ------------- |
+| Es bueno      | Its good      |
+| Es dudoso     | Its doubtful  |
+| Es importante | Its important |
+| Es lógico que | Its logical   |
+
+
