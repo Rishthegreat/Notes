@@ -54,4 +54,5 @@ Examples →
 - Yo me alegro de que nosotros estemos bién
 - La médica deplora que tú gozes de buena salud
 - El enfermero 
-- Mi mamá 
+- Mi mamá siente que yo este deprimido
+- La Sra. Ce
