@@ -184,6 +184,9 @@ Created: 11-14-2022
 			- The 19th Amendment came at the end of war
 			- A lot of the women went back home after the war and went back to traditional female occupations
 	- Opportunities for African Americans
-		- "Great Migration"
-			- 1916 -> 1919
-			- Moved to 
+		- "Great Migration" 1916 to 1919
+			- Moved to Northern cities due to the War
+		- They were paid less than white workers, but still paid
+		- More opportunity, but no more equality
+		- 400000 African Americans served in segregated units
+		- African American leader like W.E.B. Du Bois though fighting would bring equal
