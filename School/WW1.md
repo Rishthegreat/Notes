@@ -138,4 +138,11 @@ Created: 11-14-2022
 				- Creative ways to ask for donations
 					- One way was to ask gradles from women to use the steel to make battleships
 		- Food Administration - Herbert Hoover
-			- Hoover became popular because 
+			- Hoover became popular because at the start of the war he raised money for the starving belgium citizens
+			- Meatless Tuesdays, Wheatless Wednesdays
+			- Victory Gardens
+				- Plant your own food so more can go overseas
+			- Lever Act
+				- Government can set prices of certain commodities
+		- Fuel Administration - Harry Garfield
+			- "Lightless Nights", "Gasless Sundays", daylight saving sa
