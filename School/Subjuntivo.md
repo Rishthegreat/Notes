@@ -25,4 +25,9 @@ Created: 11-18-2022
 	- AR - e, es, e, emos, en
 	- ER/IR - a, as, a, amos, an
 
-- Irregular stems
+- Irregular
+	- ![[Pasted image 20221118142302.png]]
+	- Spelling changes
+		- -car → que
+		- - gar → gue
+		- - zar → ce
