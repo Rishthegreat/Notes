@@ -145,4 +145,7 @@ Created: 11-14-2022
 			- Lever Act
 				- Government can set prices of certain commodities
 		- Fuel Administration - Harry Garfield
-			- "Lightless Nights", "Gasless Sundays", daylight saving sa
+			- "Lightless Nights", "Gasless Sundays", daylight saving saves time so less energy is used up
+		- US Railroad Administration - William McAdoo
+			- During the War, the government was controlling the railroads
+	- The private companies were making a lot of money, so they did not complain too much about the increased regulation
