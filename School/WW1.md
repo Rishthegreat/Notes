@@ -152,3 +152,12 @@ Created: 11-14-2022
 	- US Shipping Board
 		- A lot of posters promoting workers since 5 million men are abroad fighting the war
 	- The private companies were making a lot of money, so they did not complain too much about the increased regulation
+
+#### Financing the War
+- The war is very expensive
+	- The way the government does this is through Bonds
+- Liberty Bond Drive (21 Billion)
+	- Average American lent war effort $400
+		- T
+- Raised personal income taxes on wealthy Americans and excise tax on luxury items
+- Government reaised 33 Bil in 2 years
