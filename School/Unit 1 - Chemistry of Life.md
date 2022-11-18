@@ -35,7 +35,7 @@ Created: 11-15-2022
 | Fatty Acid     | Lipids       |
 - 2 Key reactions
 	- [[Dehydration Synthesis]]
-	- 
+	- [[Hydrolysis]]
 
 
 ### Properties of Biological Macromolecules 1.4
