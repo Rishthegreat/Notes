@@ -209,8 +209,14 @@ Created: 11-14-2022
 				- The Committee of Public Information
 					- Wilson Hired George Creel, a former muckracker to sell the idea of being Americans to immigrants to support the war who ran this committee
 						- America's "Propoganda Minister"
-					- Anti-German sentiment
+					- Anti-German sentiment and propoganda
 						- Prevent the raping of women in Belgium
 						- Depicted the Germans as brutes
+						- Banned the teaching of German in schools
+						- They would not play German composers
+						- Certain states banned the speaking of any other language other than English like Iowa
+							- Goveror of Iowa said "God only understands prayers in English"
+						- Germans-Americans were killed just for being German
 					- Selling American Culture
+					- This committe was seei
 
