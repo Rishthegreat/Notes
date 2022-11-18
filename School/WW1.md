@@ -180,4 +180,10 @@ Created: 11-14-2022
 		- This became a point in history where women became a big part of nurses
 			- Nurses were the most common job women had
 			- Many joined in the Red Cross
-		- The
+		- End of War
+			- The 19th Amendment came at the end of war
+			- A lot of the women went back home after the war and went back to traditional female occupations
+	- Opportunities for African Americans
+		- "Great Migration"
+			- 1916 -> 1919
+			- Moved to 
