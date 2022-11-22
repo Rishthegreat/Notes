@@ -32,4 +32,10 @@ Created: 11-22-2022
 - People like Hitler hated this
 - Many historians believe that this sets up an angry Germany for [[WW2]]
 
+- Other results of the treaty
+	- Territory taken from Germany, Russia, Austria-Hungary and the Ottoman Turks
+	- New Nations in Europe
+	- League of Nations
+		- Wilson believed that through the League of Nations, some of the shortcomings of the treaty could be solved
+
 
