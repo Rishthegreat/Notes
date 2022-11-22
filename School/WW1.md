@@ -262,6 +262,7 @@ Created: 11-14-2022
 	- The US troops were not necessarily the best, but the US had a lot of numbers, and one of the reasons that pushed Germany to sign the armstice was the fear of more Americans coming
 - Wilson delivers his [[14 Point Speech]] in the beginning of 1918 advocating for world peace
 	- He believes that this war could be the end of all wars
+	- Wilsonian idealism
 - The [[Treaty of Versailles]] is signed and results in the formation of [[League of Nations]]
 	- However, the US never ratifies the treaty and does not join the League of Nations [[League of Nations#Rejection of the Treaty]]
 - Wilson says that the next election of 1920 will be based on the solemn referendum of the league, they will gain control in Congress and ratify the treaty that Wilson wanted
@@ -273,4 +274,5 @@ Created: 11-14-2022
 	- This shows indicates a shift and a “return to normalcy”
 		- Appeals to the public
 		- The 1920s was a very conservative period
-	- First 
+	- First big election where the women can vote
+		- Some voted for him because they thought that he was handsome and looked presidential
