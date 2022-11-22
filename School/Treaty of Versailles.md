@@ -34,8 +34,9 @@ Created: 11-22-2022
 
 - Other results of the treaty
 	- Territory taken from Germany, Russia, Austria-Hungary and the Ottoman Turks
+		- Some of the taking of the land encouraged democracy, but also resulted in conflicts and soon set up [[WW2]]
 	- New Nations in Europe
 	- League of Nations
-		- Wilson believed that through the League of Nations, some of the shortcomings of the treaty could be solved
+		- Wilson believed that through the [[League of Nations]], some of the shortcomings of the treaty could be solved
 
 
