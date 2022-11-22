@@ -6,4 +6,12 @@ Created: 11-22-2022
 # League of Nations
 ---
 
-- Body of Delegates of the League 
+- Body of Delegates of the League
+	- Each Signer of the Treaty gets 1 vote
+- Executive Council
+	- US, British, 
+- Article X
+	- Each memeber nation stand ready to protect the independence and territorial integrity of other nations
+		- US thought that they would just get constantly get dragged into European wars
+		- A lot of Republicans and isolationists oppose this article
+			- Not necessarily the League 
