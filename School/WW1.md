@@ -267,5 +267,10 @@ Created: 11-14-2022
 - Wilson says that the next election of 1920 will be based on the solemn referendum of the league, they will gain control in Congress and ratify the treaty that Wilson wanted
 
 #### Election of 1920
-- The Democrats nominate __ as their president and FDR as their vice president
-- T
+- The Democrats nominate James Cox as their president and FDR as their vice president
+- The Republicans nominate Warren Harding as their president
+	- The republicans win everything but the South
+	- This shows indicates a shift and a “return to normalcy”
+		- Appeals to the public
+		- The 1920s was a very conservative period
+	- First 
