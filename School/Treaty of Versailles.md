@@ -18,5 +18,13 @@ Created: 11-22-2022
 | Self-Determination                                | Self-Determination for independent countries                                                                               |
 | Morality                                          | -                                                                                                                          |
 | League of Nations                                 | -                                                                                                                          |
-|                                                   |                                                                                                                            |
+
+- Due to these differences, 
+- The most important thing is the Germany is given the sole responsibility of the War
+	- Pay $33 billion dollars in war reparations
+	- Disarm its military
+	- Stripped of colonies
+	- Lost national territory
+	- French occupation of the Rhineland for 15 years
+- People like Hitler hated this
 
