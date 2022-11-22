@@ -258,4 +258,5 @@ Created: 11-14-2022
 #### America’s Role in Fighting the War
 - It takes the US a full year to mobilize
 	- Rasing an army, training the army, moving the army to the European continent
-- Initially, the US troops were used as replacement troops for the French, but later, the Americans had their own 
+- Initially, the US troops were used as replacement troops for the French, but later, the Americans had their own front
+	- The US troops were not necessarily the best, but the US had a lot of numbers, and one of the reasons that pushed Germany to sign the armstice was the fear of more Americans coming
