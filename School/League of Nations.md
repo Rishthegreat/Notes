@@ -33,7 +33,8 @@ Created: 11-22-2022
 
 - Lodge does not think he can defeat the treaty
 	- Attempts to amend it with changes
+- On the other hand, Wilson advocates for the treaty as it is, without any amendments
 - Wilson goes on a speaking tour while he is sick
 	- Doctors tell him not to go
 	- He collapses in Colorado, suffers a massive stroke and never recovers
-	- People and his own 
+	- The American people and his own cabinet did got get to see him
