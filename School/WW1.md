@@ -252,3 +252,5 @@ Created: 11-14-2022
 		- Boston Police Strike of 1919
 		- Over 4 million striking workers in 1919
 		- Middle-class Americans did not like this and viewed the workers as being unloyal
+
+#### America’s Role in Fighting the War
