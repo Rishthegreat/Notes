@@ -264,4 +264,8 @@ Created: 11-14-2022
 	- He believes that this war could be the end of all wars
 - The [[Treaty of Versailles]] is signed and results in the formation of [[League of Nations]]
 	- However, the US never ratifies the treaty and does not join the League of Nations [[League of Nations#Rejection of the Treaty]]
-	- 
+- Wilson says that the next election of 1920 will be based on the solemn referendum of the league, they will gain control in Congress and ratify the treaty that Wilson wanted
+
+#### Election of 1920
+- The Democrats nominate __ as their president and FDR as their vice president
+- T
