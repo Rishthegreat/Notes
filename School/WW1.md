@@ -252,6 +252,7 @@ Created: 11-14-2022
 		- Boston Police Strike of 1919
 		- Over 4 million striking workers in 1919
 		- Middle-class Americans did not like this and viewed the workers as being unloyal
-- In all the countries that were involved in the War, huge numbers of 
+- In all the countries that were involved in the War, huge numbers of young men die which reduces the birth rates for decades and many do not recover until after WW2
+- On the other hand, the US, having no battle on its own soil and profiting off the War, clearly emerges as the most powerful nation in the world
 
 #### America’s Role in Fighting the War
