@@ -44,4 +44,6 @@ Created: 11-22-2022
 - Wilson directs Democrats to defeat the Treaty with Reservations
 	- Wanted issue to be solved at the next election “Solemn Referendum”
 	- Treaty would have passed, most Americans support Treaty with reservations
-- America n
+- America never joins the League
+	- The strongest country and the country that created the League never joined
+	- US never ratifies the [[Treaty of Versailles]] and signs a separate peace treaty with the Germans

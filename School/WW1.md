@@ -263,3 +263,5 @@ Created: 11-14-2022
 - Wilson delivers his [[14 Point Speech]] in the beginning of 1918 advocating for world peace
 	- He believes that this war could be the end of all wars
 - The [[Treaty of Versailles]] is signed and results in the formation of [[League of Nations]]
+	- However, the US never ratifies the treaty and does not join the League of Nations [[League of Nations#Rejection of the Treaty]]
+	- 
