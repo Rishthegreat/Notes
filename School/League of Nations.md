@@ -19,4 +19,9 @@ Created: 11-22-2022
 	- In the Midterm Election of 1918
 		- Wilson tells the American people to vote democratic if they supported the 14 point speech
 		- At the timing of the ratification, Republicans control Congress
-	- Lodge vs
+	- Lodge vs Wilson
+		- They have a personal rivalry
+| **Irreconcilables**                          | **Reservationists** |
+| -------------------------------------------- | ------------------- |
+| Complete Isolationists                       | Led by Lodge        |
+| USA can not be a member of League of Nations | Want Reservations to the treaty                    |
