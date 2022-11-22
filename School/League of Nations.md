@@ -31,4 +31,9 @@ Created: 11-22-2022
 | USA can not be a member of League of Nations | Want Reservations to the treaty |
 | -                                            | Against Article X                                |
 
-- 
+- Lodge does not think he can defeat the treaty
+	- Attempts to amend it with changes
+- Wilson goes on a speaking tour while he is sick
+	- Doctors tell him not to go
+	- He collapses in Colorado, suffers a massive stroke and never recovers
+	- People and his own 
