@@ -23,4 +23,4 @@ Created: 11-22-2022
 - The allies showered phamplets with the speech all over German cities and the citizens thought that Germany was signing to the 14 Point Speech.
 - When Wilson went to Europe, he recieved a hero’s welcome and Wilson could deliver a lasting peace
 - Since this was just a speech, it needed to be written down into a document
-- Wilson went to Paris for the tr
+- Wilson went to Paris for the [[Treaty of Versailles]]
