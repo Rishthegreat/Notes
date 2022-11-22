@@ -38,3 +38,10 @@ Created: 11-22-2022
 	- Doctors tell him not to go
 	- He collapses in Colorado, suffers a massive stroke and never recovers
 	- The American people and his own cabinet did got get to see him
+
+#### Rejection of the Treaty
+- Vote for the treaty happens twice with Lodge’s Reservations
+- Wilson directs Democrats to defeat the Treaty with Reservations
+	- Wanted issue to be solved at the next election “Solemn Referendum”
+	- Treaty would have passed, most Americans support Treaty with reservations
+- America n
