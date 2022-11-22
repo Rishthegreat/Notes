@@ -260,3 +260,4 @@ Created: 11-14-2022
 	- Rasing an army, training the army, moving the army to the European continent
 - Initially, the US troops were used as replacement troops for the French, but later, the Americans had their own front
 	- The US troops were not necessarily the best, but the US had a lot of numbers, and one of the reasons that pushed Germany to sign the armstice was the fear of more Americans coming
+- Wilson delivers his 14 Point Speech in the beginning of 1918
