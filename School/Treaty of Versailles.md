@@ -19,12 +19,17 @@ Created: 11-22-2022
 | Morality                                          | -                                                                                                                          |
 | League of Nations                                 | -                                                                                                                          |
 
-- Due to these differences, 
+- Due to these differences, many of Wilson’s ideas did not make it into the treaty (compromise after compromise)
+	- Only 4 of them did
+		- League of nations also made it in
 - The most important thing is the Germany is given the sole responsibility of the War
 	- Pay $33 billion dollars in war reparations
 	- Disarm its military
 	- Stripped of colonies
 	- Lost national territory
 	- French occupation of the Rhineland for 15 years
+- Germany could not survive with all this load on its back and its already suffering
 - People like Hitler hated this
+- Many historians believe that this sets up an angry Germany for [[WW2]]
+
 
