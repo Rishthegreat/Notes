@@ -256,3 +256,6 @@ Created: 11-14-2022
 - On the other hand, the US, having no battle on its own soil and profiting off the War, clearly emerges as the most powerful nation in the world
 
 #### America’s Role in Fighting the War
+- It takes the US a full year to mobilize
+	- Rasing an army, training the army, moving the army to the European continent
+- Initially, the US troops were used as replacement troops for the French, but later, the Americans had their own 
