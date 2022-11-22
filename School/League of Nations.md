@@ -16,4 +16,7 @@ Created: 11-22-2022
 		- A lot of Republicans and isolationists oppose this article
 			- Not necessarily the League itself
 - Wilson signs this treaty despite their being many consequences and now he has to convince the Senate to ratify it
-	- In the Midterm
+	- In the Midterm Election of 1918
+		- Wilson tells the American people to vote democratic if they supported the 14 point speech
+		- At the timing of the ratification, Republicans control Congress
+	- Lodge vs
