@@ -262,3 +262,4 @@ Created: 11-14-2022
 	- The US troops were not necessarily the best, but the US had a lot of numbers, and one of the reasons that pushed Germany to sign the armstice was the fear of more Americans coming
 - Wilson delivers his [[14 Point Speech]] in the beginning of 1918 advocating for world peace
 	- He believes that this war could be the end of all wars
+- The [[Treaty of Versailles]] is signed and results in the formation of [[League of Nations]]
