@@ -276,3 +276,5 @@ Created: 11-14-2022
 		- The 1920s was a very conservative period
 	- First big election where the women can vote
 		- Some voted for him because they thought that he was handsome and looked presidential
+
+#### Impact of War
