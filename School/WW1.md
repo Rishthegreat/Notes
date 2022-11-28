@@ -302,4 +302,5 @@ Created: 11-14-2022
 	- Deadly outbreak of Spanish Flu - 1918
 		- 25% of the population sick
 		- 675, 000
-		- Some cities and neighborhoods 
+		- Some cities and neighborhoods just had bodies on the streets because they did not have enough coffins
+	- It is called the Spanish flu because the Spanish newspapers were the first to report about this epidemic because the rest of the countries were at war and did not wa
