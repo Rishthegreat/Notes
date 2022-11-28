@@ -284,4 +284,8 @@ Created: 11-14-2022
 	- Overthrow of monarchies
 		- Bad war for the empires in the world
 	- Unrest in colonies
-		- 
+		- Wilson called for the end of Imperialism, and the treaty does not have this, so there is a lot of unrest and start to fight against colonialism
+	- New Nations in Europe
+		- Nations like Poland, Lithuania, Yugoslavia
+		- New boundaries, still problems of nationalities
+		- Political unrest, upheaval, and change
