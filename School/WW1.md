@@ -295,4 +295,11 @@ Created: 11-14-2022
 	- Many US Businessmen really prosper
 	- Inflation - US (Post War trouble) - 1919
 		- Labor strikes, unrest
-		- Usually happens after war since markets are opening up
+		- Usually happens after war since markets are opening up, takes time for things to settle back to normal
+	- Farmers hit the hardest in the US after European farm products are back in market
+- Social
+	- European countries devastated by losses
+	- Deadly outbreak of Spanish Flu - 1918
+		- 25% of the population sick
+		- 675, 000
+		- Some cities and neighborhoods 
