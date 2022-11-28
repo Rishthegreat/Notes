@@ -312,4 +312,11 @@ Created: 11-14-2022
 		- Higher wages, increase in membership
 		- Unrest in 1919 - wave of strikes
 			- Due to inflation
-			- BEings ant
+			- Brings anti-union sentiment
+	- Violation of Civil Liberties
+		- Anti-German feelings
+		- Red Scare - 1919
+			- Fear of spreading communism
+	- Prohibition - 18th amendment
+		- Many of the Europeans favored “Wet” laws because alcohol was more tied to their culture
+		- Many
