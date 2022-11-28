@@ -289,3 +289,10 @@ Created: 11-14-2022
 		- Nations like Poland, Lithuania, Yugoslavia
 		- New boundaries, still problems of nationalities
 		- Political unrest, upheaval, and change
+- Economic
+	- European economies devastated
+	- US and Japan prospered from the war and emerged as rivals
+	- Many US Businessmen really prosper
+	- Inflation - US (Post War trouble) - 1919
+		- Labor strikes, unrest
+		- Usually happens after war since markets are opening up
