@@ -57,7 +57,7 @@ Created: 11-14-2022
 			- Triple Antente (Becomes Allied Powers)
 				- France, Great Britain, and Russia
 			- Triple Alliance (Becomes Central Powers)
-				- Germany, Austria-Hungary, and Italy
+				- Germany, Austria-Hungary, and Italy (Italy switches sides)
 - The Austria-Hungary Empire ruled over many differed people of different nations
 - Bosnia had many ethnic Serbians
 - Nation of Serbia (Not part of Austria-Hungary)
