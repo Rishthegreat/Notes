@@ -303,4 +303,13 @@ Created: 11-14-2022
 		- 25% of the population sick
 		- 675, 000
 		- Some cities and neighborhoods just had bodies on the streets because they did not have enough coffins
-	- It is called the Spanish flu because the Spanish newspapers were the first to report about this epidemic because the rest of the countries were at war and did not wa
+	- It is called the Spanish flu because the Spanish newspapers were the first to report about this epidemic because the rest of the countries were at war and did not want to publish this information to prevent panic
+	- African Americans move towards the city
+		- Opportunities in war industries
+		- Violence and problems to ensue (Post War Race Riots - 1919 - Red Summer of Hate)
+	- Changing role of women - 19th amendment
+	- Great impact on Labor Unions
+		- Higher wages, increase in membership
+		- Unrest in 1919 - wave of strikes
+			- Due to inflation
+			- BEings ant
