@@ -67,4 +67,6 @@ Examples →
 | Pensar que       | No pensar que       |
 | Estar seguro que | No estar seguro que |
 | Es verdad que    | No es verdad que    |
-| Es cierto que                 |                     |
+| Es cierto que    | Es dudoso que       |
+| Es evidente que  | Es imposible que    |
+
