@@ -319,4 +319,4 @@ Created: 11-14-2022
 			- Fear of spreading communism
 	- Prohibition - 18th amendment
 		- Many of the Europeans favored “Wet” laws because alcohol was more tied to their culture
-		- Many
+		- Many of the breweries were run by Germans
