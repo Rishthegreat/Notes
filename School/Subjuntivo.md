@@ -58,3 +58,13 @@ Examples →
 - La Sra. Cepeda esta orgulloso de que ustedes se mejoren
 - El Sr. Otero teme que su hija sea cirujana
 - Ustedes estan encantado de que usted tena gripe
+
+| **La Certeza**   | **La duda**         |
+| ---------------- | ------------------- |
+| Saber que        | Dudar que           |
+| Creer que        | Negar que           |
+| Es obvio que     | No creer que        |
+| Pensar que       | No pensar que       |
+| Estar seguro que | No estar seguro que |
+| Es verdad que    | No es verdad que    |
+| Es cierto que                 |                     |
