@@ -278,3 +278,10 @@ Created: 11-14-2022
 		- Some voted for him because they thought that he was handsome and looked presidential
 
 #### Impact of War
+- Political events
+	- The Russian Revolution
+		- First a democratic revolution, then the world’s first communist revolution
+	- Overthrow of monarchies
+		- Bad war for the empires in the world
+	- Unrest in colonies
+		- 
