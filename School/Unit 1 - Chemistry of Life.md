@@ -25,7 +25,7 @@ Created: 11-15-2022
 	- Examples
 		- How does water get to the leaves of a tall tree from a root?
 			- ![[Unit 1 - Chemistry of Life 2022-11-29 12.11.35.excalidraw]]
-			- It is like a conveyer belt that travels from the roots to the leaves
+			- It is like a conveyer belt that travels from the roots to the leaves of the stomata. Water evaporates from it, escaping into the surroundings and pulls more water up
 - Unique Density
 	- Less dense as a solid
 - Biological Solvent
