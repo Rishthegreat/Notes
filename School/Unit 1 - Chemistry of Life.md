@@ -11,6 +11,7 @@ Created: 11-15-2022
 ![[Unit 1 - Chemistry of Life 2022-11-29 11.27.01.excalidraw]]
 - The oxygen side of the “shared electron” pulls more on the electron and this causes the oxygen side to be more negatively charged
 	- Oxygen and Hydrogen have a big electronegatively gap
+- 
 
 ### Elements of Life 1.2
 - Living systems require a constant input of energy because they need energy to grow, reproduce, and mantain organization
