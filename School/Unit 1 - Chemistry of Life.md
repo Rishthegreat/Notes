@@ -17,15 +17,18 @@ Created: 11-15-2022
 - Hydrophobic
 	- Not water loving
 	- Non-polar
-##### Cohesion
-- Between water molecules
 
-##### Adhesion
-- Between water molecules and other surfaces
-
+##### Properties
+- Cohesion
+	- Between water molecules
+- Adhesion
+	- Between water molecules and other surfaces
 - Unique Density
+	- Less dense as a solid
 - Biological Solvent
+	- Dissociation/ionization of materials
 - High Specific Heat
+	- Resistant to temperature change
 
 ### Elements of Life 1.2
 - Living systems require a constant input of energy because they need energy to grow, reproduce, and mantain organization
