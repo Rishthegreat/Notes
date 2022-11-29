@@ -18,7 +18,10 @@ Created: 11-15-2022
 	- Not water loving
 	- Non-polar
 ##### Cohesion
+- Between water molecules
+
 ##### Adhesion
+- Between water molecules and other surfaces
 
 ### Elements of Life 1.2
 - Living systems require a constant input of energy because they need energy to grow, reproduce, and mantain organization
