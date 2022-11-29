@@ -7,7 +7,7 @@ Created: 11-15-2022
 ---
 
 ### Structure of Water and Hydrogen Bonding 1.1
-
+- Need to look at the chemistry of water to see why it is important for life
 
 ### Elements of Life 1.2
 - Living systems require a constant input of energy because they need energy to grow, reproduce, and mantain organization
