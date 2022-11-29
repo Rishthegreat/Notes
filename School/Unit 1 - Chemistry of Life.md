@@ -19,10 +19,12 @@ Created: 11-15-2022
 	- Non-polar
 
 ##### Properties
-- Cohesion
+- Cohesion/Adhesion
 	- Between water molecules
-- Adhesion
 	- Between water molecules and other surfaces
+	- Examples
+		- How does water get to the leaves of a tall tree from a root?
+			- ![[Unit 1 - Chemistry of Life 2022-11-29 12.11.35.excalidraw]]
 - Unique Density
 	- Less dense as a solid
 - Biological Solvent
