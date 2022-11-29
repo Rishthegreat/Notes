@@ -9,7 +9,7 @@ Created: 11-15-2022
 ### Structure of Water and Hydrogen Bonding 1.1
 - Need to look at the chemistry of water to see why it is important for life
 ![[Unit 1 - Chemistry of Life 2022-11-29 11.27.01.excalidraw]]
-
+- The oxygen side of the “shared electron” pulls more on the 
 
 ### Elements of Life 1.2
 - Living systems require a constant input of energy because they need energy to grow, reproduce, and mantain organization
