@@ -10,6 +10,7 @@ Created: 11-15-2022
 - Need to look at the chemistry of water to see why it is important for life
 ![[Unit 1 - Chemistry of Life 2022-11-29 11.27.01.excalidraw]]
 
+
 ### Elements of Life 1.2
 - Living systems require a constant input of energy because they need energy to grow, reproduce, and mantain organization
 - Living systems mainly use the energy stored in chemical bonds
