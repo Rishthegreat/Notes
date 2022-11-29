@@ -33,6 +33,7 @@ Created: 11-15-2022
 - High Specific Heat
 	- Resistant to temperature change
 
+
 ### Elements of Life 1.2
 - Living systems require a constant input of energy because they need energy to grow, reproduce, and mantain organization
 - Living systems mainly use the energy stored in chemical bonds
