@@ -20,6 +20,6 @@ from #spanish
 Bailey Daily
 - Creo que tienes gripe. Te recomiendo que te quedes en cama y bebas mucha agua
 - Se recomiendo que ella se guarde la cama por una semana y no camine mucho
-- Creo que necesitan descansar mas
+- Creo que necesitan descansar mas en el noche
 - s
-- 
+- Creo que visitas el dentisto para ese problema y no comes muchas
