@@ -16,3 +16,7 @@ from #spanish
 
 ## Notes
 - All [[Tenses]]
+
+Bailey Daily
+- Creo que tienes gripe. Te recomiendo que te quedes en cama y bebas mucha agua
+- Te recom
