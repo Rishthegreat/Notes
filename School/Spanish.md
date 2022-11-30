@@ -19,4 +19,5 @@ from #spanish
 
 Bailey Daily
 - Creo que tienes gripe. Te recomiendo que te quedes en cama y bebas mucha agua
-- Te recom
+- Se recomiendo que ella se guarde la cama por una semana y no camine mucho
+- Creo que necesitan descansar 
