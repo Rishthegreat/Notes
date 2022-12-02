@@ -25,3 +25,4 @@ from #assignments
 ```
 
 ## Notes
+[American Rhetoric: The Power of Oratory in the United States](https://www.americanrhetoric.com/)
