@@ -56,12 +56,12 @@ Created: 11-15-2022
 - 1 is monomer
 - 2 is dimer
 - 3 or more is polymer
-| **Monomer**    | **Polymer**  | **Bonds to combine** |
-| -------------- | ------------ | -------------------- |
-| Monosaccharide | Carbohydrate |                      |
-| Amino Acid     | Protein      | Peptide bonds        |
-| Nucleotide     | Nucleic Acid |                      |
-| Fatty Acid     | Lipids       |                      |
+| **Monomer**    | **Polymer**  | **Bonds to combine**                 |
+| -------------- | ------------ | ------------------------------------ |
+| Monosaccharide (eg: glucose) | Carbohydrate | For right now, it is a covalent bond |
+| Amino Acid     | Protein      | Peptide bonds                        |
+| Nucleotide     | Nucleic Acid |                                      |
+| Fatty Acid     | Lipids       |                                      |
 - 2 Key reactions
 	- [[Dehydration Synthesis]]
 	- [[Hydrolysis Reactions]]
