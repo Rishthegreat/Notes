@@ -6,7 +6,7 @@ Created: 11-17-2022
 # Dehydration Synthesis
 ---
 
-- This reaction is taking water out of the macromo
+- This reaction is taking water out of the macromolecules
 - These reactions are used to create macromolecules
 - The subcomponents of a water molecule (Hydrogen and Hydroxide) are removed from interacting monomers and a covalent bond forms between them
 - The subcomponents join together to form a molecute of water (water is a byproduct)
@@ -16,6 +16,7 @@ Created: 11-17-2022
 ![[Dehydration Synthesis 2022-11-17 21.12.48.excalidraw]]
 - Carbohydrate monomers have hydroxides and hydrogen atoms attached to them
 - One monomer will lose an entire hydroxide while the other will only lose a hydrogen from a hydroxide
+	- This forms water
 
 #### A Dehydration Synthesis Creates Proteins
 - Protein monomers are called amino acids
