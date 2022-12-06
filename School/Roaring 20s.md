@@ -65,6 +65,9 @@ Created: 12-02-2022
 	- They are conservative and have a restricted view of the bible
 	- They do not like the fact that schools in cities are teaching science
 		- They did not like Darwinism and evolution
-			- “Bible Belts” led a big push to 
+			- “Bible Belts” led a big push to stop the teaching of Darwin’s theory of evolution
+				- Some states actually banned this teaching and most of them were Southern
+		- American Civil Liberties Union (ACLU)
+			- They convinced a teacher, John T. Scopes to break the law and teach 
 	- They believed that cities were corrupt
 	- So, they had preachers who went on the radio to preach about this
