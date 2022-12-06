@@ -91,3 +91,4 @@ Created: 12-02-2022
 		- Gangs
 		- Some of them also became popular because they were seen as anti-heroes such as Al Capone
 - After the Great Depression struck, there was a lot of support for repealing Prohibition
+	- In order for the government to earn money, they could then tax alcohol by making it legal
