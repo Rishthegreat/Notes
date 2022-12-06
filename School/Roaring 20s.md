@@ -25,5 +25,10 @@ Created: 12-02-2022
 - Throughout American history with the exception of the Chinese Immigration Act, immigrants were free to come to the US
 - During WW1, no immigrants were allowed to come to the US
 - After WW1, there was a big influx
-- Emergency quota act
-	- 3% 
+- Emergency Quota Act of 1921
+	- 3% of a specific nationality could come to the US
+		- Using the Censur of 1910
+- National Origins Act (Immigration Act of 1924)
+	- 2% of a specific nationality could come to the US
+		- Using the 1890 census
+		- This limited Asian immigrants
