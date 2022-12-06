@@ -73,6 +73,7 @@ Created: 12-02-2022
 				- Clarence Darrow was defending Scopes
 				- William Jennings Bryan came on in as an expert on the bible
 					- Darrow made him look foolish
-				- Overall, the 
+					- He dies 5 days after the trial due to the stress during the trial
+				- Overall, the liberal won the battle of the media and the public arena
 	- They believed that cities were corrupt
 	- So, they had preachers who went on the radio to preach about this
