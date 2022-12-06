@@ -55,3 +55,8 @@ Created: 12-02-2022
 #### Race Riots of 1919
 - This is called the Race Summer of Hate due to the enormous amount of racial violence during this time period
 - Most famous one in Chicago
+
+#### Rural vs Urban life
+- Now more people start to live in urban areas than rural areas
+- Historically, cities have tended to be more liberal with more opportunities for other minorites, sexes, and races
+- 
