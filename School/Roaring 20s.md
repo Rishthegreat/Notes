@@ -77,3 +77,7 @@ Created: 12-02-2022
 				- Overall, the liberal won the battle of the media and the public arena
 	- They believed that cities were corrupt
 	- So, they had preachers who went on the radio to preach about this
+
+- Prohibition is sometimes called the noble experiment
+	- The women had good intentions, even though it was eventually a failture
+- Volstead At
