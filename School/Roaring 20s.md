@@ -82,7 +82,8 @@ Created: 12-02-2022
 	- In urban areas, younger women adopted new trends that went against the norm
 		- New ideas about sexuality, dating, etc
 		- Rural areas disliked this
-		- More push for bi
+		- More push for birth control
+	- 
 
 #### Prohibition
 - Prohibition is sometimes called the noble experiment
