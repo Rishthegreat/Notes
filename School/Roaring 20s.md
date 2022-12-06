@@ -37,4 +37,7 @@ Created: 12-02-2022
 
 - Revival of the KKK
 	- 1915 to 1920
-	- anti-socialist, 
+	- anti-socialist, anti-catholic, pro-prohibition
+	- Had a lot of members
+	- Controlled politics because you could not get positions in office without being a member of the KKK
+	- The Birth of a NAtion
