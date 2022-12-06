@@ -61,6 +61,10 @@ Created: 12-02-2022
 - Historically, cities have tended to be more liberal with more opportunities for other minorites, sexes, and races
 - As transportation and cars started to get better, we see a little bit of the growth of suburbs
 - Large number of African Americans start moving in to the cities
-- Many rural areas feel that their ideas are under attack
+- Many rural areas feel that their ideas are under attack (They were fundamentalist)
 	- They are conservative and have a restricted view of the bible
 	- They do not like the fact that schools in cities are teaching science
+		- They did not like Darwinism and evolution
+			- “Bible Belts” led a big push to 
+	- They believed that cities were corrupt
+	- So, they had preachers who went on the radio to preach about this
