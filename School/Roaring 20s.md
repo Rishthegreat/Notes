@@ -89,7 +89,8 @@ Created: 12-02-2022
 - There was a birth of celebrity culture
 	- Movies, sports, radio
 	- America becomes more connected with this culture and the technology
-	- Charles Lindbergh became the most famous man in the US during this time beccause he flew 
+	- Charles Lindbergh became the most famous man in the US during this time beccause he flew across the Atlantic to Paris
+- Planes were new technology and were mostly used for mail and military
 
 #### Prohibition
 - Prohibition is sometimes called the noble experiment
