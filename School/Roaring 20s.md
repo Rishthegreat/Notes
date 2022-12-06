@@ -59,4 +59,8 @@ Created: 12-02-2022
 #### Rural vs Urban life
 - Now more people start to live in urban areas than rural areas
 - Historically, cities have tended to be more liberal with more opportunities for other minorites, sexes, and races
-- As transportation and cars
+- As transportation and cars started to get better, we see a little bit of the growth of suburbs
+- Large number of African Americans start moving in to the cities
+- Many rural areas feel that their ideas are under attack
+	- They are conservative and have a restricted view of the bible
+	- They do not like the fact that schools in cities are teaching science
