@@ -24,11 +24,12 @@ Created: 12-02-2022
 	- In 1961, a test of Sacco’s gun using modern forensic techniques apparently proved it was his gun that killed the guard, though little evidence has been found to substantiate Vanzetti’s guilt. In 1977, Massachusetts Governor Michael Dukakis issued a proclamation vindicating Sacco and Vanzetti, stating that they had been treated unjustly and that no stigma should be associated with their names.
 - Throughout American history with the exception of the Chinese Immigration Act, immigrants were free to come to the US
 - During WW1, no immigrants were allowed to come to the US
-- After WW1, there was a big influx
-- Emergency Quota Act of 1921
-	- 3% of a specific nationality could come to the US
-		- Using the Censur of 1910
-- National Origins Act (Immigration Act of 1924)
-	- 2% of a specific nationality could come to the US
-		- Using the 1890 census
-		- This limited Asian immigrants
+- After WW1, there was a big influx of Immigrants and this caused a backlash against immigrants and this is reflected in the immigrants laws that follow
+	- Emergency Quota Act of 1921
+		- 3% of a specific nationality could come to the US
+			- Using the Censur of 1910
+	- National Origins Act (Immigration Act of 1924)
+		- 2% of a specific nationality could come to the US
+			- Using the 1890 census
+			- This limited Asian immigrants
+	- During this time period, North and South America had not
