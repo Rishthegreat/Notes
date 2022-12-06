@@ -87,7 +87,8 @@ Created: 12-02-2022
 	- By 1930, 1 in 4 women worked
 		- By 1900, it was 1 in 5
 - There was a birth of celebrity culture
-	- Movies, sports
+	- Movies, sports, radio
+	- America becomes more connected with this culture and the technology
 
 #### Prohibition
 - Prohibition is sometimes called the noble experiment
