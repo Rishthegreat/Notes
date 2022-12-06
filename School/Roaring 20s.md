@@ -90,3 +90,4 @@ Created: 12-02-2022
 	- This also led to organized crime
 		- Gangs
 		- Some of them also became popular because they were seen as anti-heroes such as Al Capone
+- After the Great Depression struck, there was a lot of support for repealing Prohibition
