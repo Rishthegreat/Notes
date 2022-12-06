@@ -54,3 +54,8 @@ Created: 12-02-2022
 
 #### Race Riots of 1919
 - This is called the Race Summer of Hate due to the enormous amount of racial violence during this time period
+- Most famous one in Chicago
+
+- Tusla Race Massacre 1921
+	- Black Wall Street
+		- A bustling 
