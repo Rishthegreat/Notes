@@ -77,6 +77,9 @@ Created: 12-02-2022
 				- Overall, the liberal won the battle of the media and the public arena
 	- They believed that cities were corrupt
 	- So, they had preachers who went on the radio to preach about this
+- Rise of the Flapper Women
+	- Most women were not flappers
+	- In urban areas, younger women adopted new trends that went against the norm
 
 #### Prohibition
 - Prohibition is sometimes called the noble experiment
