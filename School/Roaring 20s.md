@@ -10,4 +10,6 @@ Created: 12-02-2022
 - In 1919, there is a lot of unrest after the war
 	- High inflation
 	- Labor strikes
-- The Bolshevik revolution in 
+- The Bolshevik revolution in Russia causes fear in Americans about radical socialist groups
+	- The Red Scare is about how Americans feared that the radical socialists would try to take over the US
+- Due to this, many American citizens were deported to Russia due to fear of them being radical and connects to the IWW
