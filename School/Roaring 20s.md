@@ -40,4 +40,10 @@ Created: 12-02-2022
 	- anti-socialist, anti-catholic, pro-prohibition
 	- Had a lot of members
 	- Controlled politics because you could not get positions in office without being a member of the KKK
-	- The Birth of a NAtion
+	- The Birth of a Nation
+		- Very racist, but popular film at that time
+			- Woodrow Wilson had a private screning of this in the white house and he said that he really liked the movies
+			- Africans were shown to be unable to control their sexual desire with white women and in the movie, the KKK “saved” the day
+	- It died down because there were reports that the KKK was very corrupt
+	- DC Stephenson
+		- Leader of a 
