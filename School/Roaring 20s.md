@@ -68,6 +68,11 @@ Created: 12-02-2022
 			- “Bible Belts” led a big push to stop the teaching of Darwin’s theory of evolution
 				- Some states actually banned this teaching and most of them were Southern
 		- American Civil Liberties Union (ACLU)
-			- They convinced a teacher, John T. Scopes to break the law and teach 
+			- They convinced a teacher, John T. Scopes to break the law and teach evolution
+			- He was arrested and the Monkey trial became very famous
+				- Clarence Darrow was defending Scopes
+				- William Jennings Bryan came on in as an expert on the bible
+					- Darrow made him look foolish
+				- Overall, the 
 	- They believed that cities were corrupt
 	- So, they had preachers who went on the radio to preach about this
