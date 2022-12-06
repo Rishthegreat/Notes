@@ -32,4 +32,9 @@ Created: 12-02-2022
 		- 2% of a specific nationality could come to the US
 			- Using the 1890 census
 			- This limited Asian immigrants
-	- During this time period, North and South America had not
+	- During this time period, North and Central America had no restrictions
+		- Mexican migrants helped the economy
+
+- Revival of the KKK
+	- 1915 to 1920
+	- anti-socialist, 
