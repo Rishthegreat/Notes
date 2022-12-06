@@ -78,9 +78,12 @@ Created: 12-02-2022
 	- They believed that cities were corrupt
 	- So, they had preachers who went on the radio to preach about this
 
+#### Prohibition
 - Prohibition is sometimes called the noble experiment
 	- The women had good intentions, even though it was eventually a failture
 - Volstead Act
 	- Law enacted in 1919 (and taking effect in 1920)
-	- provide enforcement for the Eighteenth Amendment, prohibiting the manufacture and sale of alcoholic beverages. It is named for Minnesota Rep. Andrew Volstead, chairman of the House Judiciary Committee, who had championed the bill and prohibition.
+	- Provide enforcement for the Eighteenth Amendment, prohibiting the manufacture and sale of alcoholic beverages. 
 	- The act was vetoed by Pres. Woodrow Wilson, but it became law after Congress voted to override the veto. In addition, individual states passed further enabling and enforcing legislation. All the states enacted laws to help carry the Volstead Act into effect, although Nevada’s was later held unconstitutional. Such state laws were repealed in five cases (New York in 1923; Wisconsin, Montana, and Nevada in 1929; and Illinois in 1931).
+- The prohibition was supposed to be enforced by local police officers
+	- The local police made a lot of money to not enforcing the law because thie rpay was really lo
