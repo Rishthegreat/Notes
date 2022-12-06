@@ -83,7 +83,11 @@ Created: 12-02-2022
 		- New ideas about sexuality, dating, etc
 		- Rural areas disliked this
 		- More push for birth control
-	- 
+	- After WW1, mnay women returned back home
+	- By 1930, 1 in 4 women worked
+		- By 1900, it was 1 in 5
+- There was a birth of celebrity culture
+	- Movies, sports
 
 #### Prohibition
 - Prohibition is sometimes called the noble experiment
