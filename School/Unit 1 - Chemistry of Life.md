@@ -67,7 +67,7 @@ Created: 11-15-2022
 	- [[Hydrolysis Reactions]]
 
 ### Properties of Biological Macromolecules 1.4
-
+- The linear sequence of all nucleuc acids is characterized by a 3’ hydroxyl and 5’ phosphate of the sugar in the nucl
 
 ### Structure and Function of Biological Macromolecules 1.5
 
