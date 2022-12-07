@@ -90,8 +90,8 @@ Created: 11-15-2022
 	- ![[Pasted image 20221206201519.png|375]]
 	- Amino acids are connected by the formation of covalent bonds at the carboxyl terminus of the growing peptide chain
 		- ![[Pasted image 20221206201801.png|325]]
+##### How the Protein Folds
 - 4 elements of Protein Structure
-
 
 | Structure            | Image                                     | Description                                                                                                                                                                                                                                                                                                                                                                           |
 | -------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -99,6 +99,9 @@ Created: 11-15-2022
 | Secondary Structure  | ![[Pasted image 20221206202222.png\|150]] | Structure arises through local folding of the amino acid chain into elements such as alpha-helices and beta sheets. Even here, more folding is required for it to be functional                                                                                                                                                                                                       |
 | Tertiary Structure   | ![[Pasted image 20221206202345.png\|150]] | Structure is the overall 3D shape of the protein and often minimizes free energy. More stable level of structure for protein and many will fucntion at this level. Various types of bonds and interactions stabilize the protein at this level, paticularly with the R-groups of the amino acid that could vary in chemical properties based on the side chains that are linked there |
 | Quaternary Structure | ![[Pasted image 20221206202709.png\|150]] | Some proteins require a 4th level of structure. This strucutre arises from the interaction between multiple polypeptide units. Here, there are 3 whole polypeptide chains working together. Hemoglobin is an example of a protein that reaches this structure (found in red blood cell to help transport oxygen)                                                                                                                                                                                                                                                                                                                                                                                     |
+
+![[Pasted image 20221207104153.png|300]]
+- Red beads are non polar because they have non polar R groups and blue beads are polar because they have polar R groups
 
 ### Nucleic Acids 1.6
 
