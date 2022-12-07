@@ -110,8 +110,11 @@ Created: 11-15-2022
 	- Red beads, being non polar would want to fold towards the core of the protein
 	- Blue beads, being hydrophillic would want to fold towards the core, but on the outside so it can interact with water
 	- ![[Pasted image 20221207105453.png|200]]
+		- Let us assume that this is a receptor protein
+			- Responsible for receiving chemical sign
 - Quartinary
-	- 
+	- ![[Pasted image 20221207105558.png|200]]
+	- Multiple polypeptide chains
 
 ### Nucleic Acids 1.6
 
