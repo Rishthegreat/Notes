@@ -119,7 +119,10 @@ Created: 11-15-2022
 	- Multiple polypeptide chains
 
 #### Carbohydrates
-- Carbohydrates are made up
+- Carbohydrates are made up of linear chains of sugar monomers connected by covalent bonds
+- ![[Pasted image 20221207110819.png|125]]
+	- The small direction change in this molecule can result in functional differences
+		- When alpha glucose are 
 
 ### Nucleic Acids 1.6
 
