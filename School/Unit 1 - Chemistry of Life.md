@@ -68,10 +68,14 @@ Created: 11-15-2022
 
 ### Properties of Biological Macromolecules 1.4
 - The linear sequence of all nucleuc acids is characterized by a 3’ hydroxyl and 5’ phosphate of the sugar in the nucleotide
-- ![[Pasted image 20221206195841.png|500]]
+- ![[Pasted image 20221206195841.png|425]]
 	- DNA is a nucleic acid polymer containing two strands, each strand in an antiparallel 5’-3’ direction
 	- Adenine-Thymine base pairs are held together by 2 hydrogen bonds and Guanine-Cytosine are held together by 3
-		- The more bonds in total, betwee
+		- The more bonds in total, between the molecules, the more stable it is
+
+- ![[Pasted image 20221206200445.png|450]]
+	- The linear squence of nucleotides encodes biological information
+
 
 ### Structure and Function of Biological Macromolecules 1.5
 
