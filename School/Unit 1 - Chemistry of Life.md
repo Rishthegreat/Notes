@@ -8,7 +8,7 @@ Created: 11-15-2022
 
 ### Structure of Water and Hydrogen Bonding 1.1
 - Need to look at the chemistry of water to see why it is important for life
-![[Unit 1 - Chemistry of Life 2022-11-29 11.27.01.excalidraw]]
+![[Unit 1 - Chemistry of Life 2022-11-29 11.27.01.excalidraw|325]]
 - The oxygen side of the “shared electron” pulls more on the electron and this causes the oxygen side to be more negatively charged
 	- Oxygen and Hydrogen have a big electronegatively gap
 - Hydrophillic
@@ -24,7 +24,7 @@ Created: 11-15-2022
 	- Between water molecules and other surfaces
 	- Examples
 		- How does water get to the leaves of a tall tree from a root?
-			- ![[Unit 1 - Chemistry of Life 2022-11-29 12.11.35.excalidraw]]
+			- ![[Unit 1 - Chemistry of Life 2022-11-29 12.11.35.excalidraw|325]]
 			- It is like a conveyer belt that travels from the roots to the leaves.
 - Unique Density
 	- Less dense as a solid
@@ -68,7 +68,8 @@ Created: 11-15-2022
 
 ### Properties of Biological Macromolecules 1.4
 - The linear sequence of all nucleuc acids is characterized by a 3’ hydroxyl and 5’ phosphate of the sugar in the nucleotide
-- ![[Pasted image 20221206195841.png]]
+- ![[Pasted image 20221206195841.png|500]]
+	- DNA 
 
 ### Structure and Function of Biological Macromolecules 1.5
 
