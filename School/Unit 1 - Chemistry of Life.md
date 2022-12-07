@@ -90,9 +90,10 @@ Created: 11-15-2022
 	- Amino acids are connected by the formation of covalent bonds at the carboxyl terminus of the growing peptide chain
 		- ![[Pasted image 20221206201801.png|325]]
 - 4 elements of Protein Structure
-| Structure         | Image                                     | Description                                                                                                  |
-| ----------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| Primary Structure | ![[Pasted image 20221206202026.png\|250]] | Structure is determined by the sequence of amino acids held together by covalend bonds, called peptide bonds. Proteins are not functional at this level and aditional folding i |
-|                   |                                           |                                                                                                              |
+| Structure           | Image                                     | Description                                                                                                                                                                             |
+| ------------------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Primary Structure   | ![[Pasted image 20221206202026.png\|250]] | Structure is determined by the sequence of amino acids held together by covalend bonds, called peptide bonds. Proteins are not functional at this level and aditional folding is needed |
+| Secondary Structure | ![[Pasted image 20221206202222.png\|250]] | Structure arises through local folding of the amino acid chain into elements such as alpha-helices and beta sheets. Even here, more folding is required for it to be functional         |
+| Tertiary Structure  | ![[Pasted image 20221206202345.png\|175]]                                          |                                                                                                                                                                                         |
 
 ### Nucleic Acids 1.6
