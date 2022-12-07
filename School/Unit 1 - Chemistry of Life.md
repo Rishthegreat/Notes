@@ -107,7 +107,11 @@ Created: 11-15-2022
 	- ![[Pasted image 20221207105017.png|275]]
 - Tertiary
 	- Assume that there is some water in the surrounding areas of the protein
-	- Red beads, being non polar would want to fold inward, towards the core of the protein
+	- Red beads, being non polar would want to fold towards the core of the protein
+	- Blue beads, being hydrophillic would want to fold towards the core, but on the outside so it can interact with water
+	- ![[Pasted image 20221207105453.png|200]]
+- Quartinary
+	- 
 
 ### Nucleic Acids 1.6
 
