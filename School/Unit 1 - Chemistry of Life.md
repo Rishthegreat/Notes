@@ -122,7 +122,11 @@ Created: 11-15-2022
 - Carbohydrates are made up of linear chains of sugar monomers connected by covalent bonds
 - ![[Pasted image 20221207110819.png|125]]
 	- The small direction change in this molecule can result in functional differences
-		- When alpha glucose are 
+		- When alpha glucose are joined, they form starch
+		- When beta glucose are joined, then cellulose is formed
+			- Used for structural support in plants
+		- ![[Pasted image 20221207111047.png|225]]
+			- Here, even the covalent bond has a different orientation
 
 ### Nucleic Acids 1.6
 
