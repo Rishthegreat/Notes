@@ -24,7 +24,7 @@ Created: 11-15-2022
 	- Between water molecules and other surfaces
 	- Examples
 		- How does water get to the leaves of a tall tree from a root?
-			- ![[Unit 1 - Chemistry of Life 2022-11-29 12.11.35.excalidraw|325]]
+			- ![[Unit 1 - Chemistry of Life 2022-11-29 12.11.35.excalidraw|225]]
 			- It is like a conveyer belt that travels from the roots to the leaves.
 - Unique Density
 	- Less dense as a solid
@@ -41,7 +41,7 @@ Created: 11-15-2022
 	- Nitrogen is used to build proteins and nucleic acids
 	- Phosphorous is used to build nucleic acids and certain lipids
 - Carbon can bond to other carbon atoms creating carbon skeletons to which other atoms attach
-	- ![[Unit 1 - Chemistry of Life 2022-11-17 20.20.43.excalidraw]]
+	- ![[Unit 1 - Chemistry of Life 2022-11-17 20.20.43.excalidraw|350]]
 	- Skeletons allow for the creation of very large and complex molecules
 	- Can be used to store energy
 	- Can be used to form basic cell structure
@@ -68,13 +68,15 @@ Created: 11-15-2022
 
 ### Properties of Biological Macromolecules 1.4
 - The linear sequence of all nucleuc acids is characterized by a 3’ hydroxyl and 5’ phosphate of the sugar in the nucleotide
-- ![[Pasted image 20221206195841.png|425]]
+- ![[Pasted image 20221206195841.png|400]]
 	- DNA is a nucleic acid polymer containing two strands, each strand in an antiparallel 5’-3’ direction
 	- Adenine-Thymine base pairs are held together by 2 hydrogen bonds and Guanine-Cytosine are held together by 3
 		- The more bonds in total, between the molecules, the more stable it is
 
-- ![[Pasted image 20221206200445.png|450]]
+- ![[Pasted image 20221206200445.png|425]]
 	- The linear squence of nucleotides encodes biological information
+- When synthesizing nucleic acid polymers, nucleotides can only be added to the 3’ end
+	- ![[Pasted image 20221206200654.png|350]]
 
 
 ### Structure and Function of Biological Macromolecules 1.5
