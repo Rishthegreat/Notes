@@ -111,7 +111,8 @@ Created: 11-15-2022
 	- Blue beads, being hydrophillic would want to fold towards the core, but on the outside so it can interact with water
 	- ![[Pasted image 20221207105453.png|200]]
 		- Let us assume that this is a receptor protein
-			- Responsible for receiving chemical sign
+			- Responsible for receiving chemical signals
+			- The signal molecule must have a similar structure as the receptor protein in order to connect
 - Quartinary
 	- ![[Pasted image 20221207105558.png|200]]
 	- Multiple polypeptide chains
