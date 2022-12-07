@@ -56,6 +56,7 @@ Created: 11-15-2022
 - 1 is monomer
 - 2 is dimer
 - 3 or more is polymer
+
 | Monomer                      | Polymer      | Bonds to combine                     |
 | ---------------------------- | ------------ | ------------------------------------ |
 | Monosaccharide (eg: glucose) | Carbohydrate | For right now, it is a covalent bond |
@@ -90,6 +91,7 @@ Created: 11-15-2022
 	- Amino acids are connected by the formation of covalent bonds at the carboxyl terminus of the growing peptide chain
 		- ![[Pasted image 20221206201801.png|325]]
 - 4 elements of Protein Structure
+
 | Structure            | Image                                     | Description                                                                                                                                                                                                                                                                                                                                                                           |
 | -------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Primary Structure    | ![[Pasted image 20221206202026.png\|250]] | Structure is determined by the sequence of amino acids held together by covalend bonds, called peptide bonds. Proteins are not functional at this level and aditional folding is needed                                                                                                                                                                                               |
