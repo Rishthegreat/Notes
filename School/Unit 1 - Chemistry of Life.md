@@ -105,7 +105,9 @@ Created: 11-15-2022
 	- ![[Pasted image 20221207104153.png|300]]
 - Secondary
 	- ![[Pasted image 20221207105017.png|275]]
-- 
+- Tertiary
+	- Assume that there is some water in the surrounding areas of the protein
+	- Red beads, being non polar would want to fold inward, towards the core of the protein
 
 ### Nucleic Acids 1.6
 
