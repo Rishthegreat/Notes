@@ -102,9 +102,9 @@ Created: 11-15-2022
 
 - Red beads are non polar because they have non polar R groups and blue beads are polar because they have polar R groups
 - Primary
-	- ![[Pasted image 20221207104153.png|300]]
+	- ![[Pasted image 20221207104153.png|250]]
 - Secondary
-	- ![[Pasted image 20221207105017.png|275]]
+	- ![[Pasted image 20221207105017.png|250]]
 - Tertiary
 	- Assume that there is some water in the surrounding areas of the protein
 	- Red beads, being non polar would want to fold towards the core of the protein
@@ -113,6 +113,7 @@ Created: 11-15-2022
 		- Let us assume that this is a receptor protein
 			- Responsible for receiving chemical signals
 			- The signal molecule must have a similar structure as the receptor protein in order to connect
+			- ![[Pasted image 20221207110018.png|175]]
 - Quartinary
 	- ![[Pasted image 20221207105558.png|200]]
 	- Multiple polypeptide chains
