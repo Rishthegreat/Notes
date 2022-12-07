@@ -118,5 +118,8 @@ Created: 11-15-2022
 	- ![[Pasted image 20221207105558.png|200]]
 	- Multiple polypeptide chains
 
+#### Carbohydrates
+- Carbohydrates are made up
+
 ### Nucleic Acids 1.6
 
