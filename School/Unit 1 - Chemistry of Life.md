@@ -88,5 +88,9 @@ Created: 11-15-2022
 	- ![[Pasted image 20221206201457.png|300]]
 	- ![[Pasted image 20221206201519.png|375]]
 	- Amino acids are connected by the formation of covalent bonds at the carboxyl terminus of the growing peptide chain
+		- ![[Pasted image 20221206201801.png|325]]
+- 4 elements of Protein Structure
+| Structure | 
+| --------- |
 
 ### Nucleic Acids 1.6
