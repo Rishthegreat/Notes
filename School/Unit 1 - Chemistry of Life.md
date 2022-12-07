@@ -70,6 +70,8 @@ Created: 11-15-2022
 
 
 ### Structure and Function of Biological Macromolecules 1.5
+
+#### Nucleotides
 - The linear sequence of all nucleuc acids is characterized by a 3’ hydroxyl and 5’ phosphate of the sugar in the nucleotide
 - ![[Pasted image 20221206195841.png|400]]
 	- DNA is a nucleic acid polymer containing two strands, each strand in an antiparallel 5’-3’ direction
@@ -81,9 +83,10 @@ Created: 11-15-2022
 - When synthesizing nucleic acid polymers, nucleotides can only be added to the 3’ end
 	- ![[Pasted image 20221206200654.png|350]]
 
+#### Amino Acids
 - Proteins comprise linear chains of amino acids that ave directionality with an amino terminus and a carboxyl terminus
 	- ![[Pasted image 20221206201457.png|300]]
 	- ![[Pasted image 20221206201519.png|375]]
-	- Amino acids are connected by the formation of covalent bonds at the carboxyl terminus of
+	- Amino acids are connected by the formation of covalent bonds at the carboxyl terminus of the growing peptide chain
 
 ### Nucleic Acids 1.6
