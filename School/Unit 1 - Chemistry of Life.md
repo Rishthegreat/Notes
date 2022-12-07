@@ -92,6 +92,7 @@ Created: 11-15-2022
 		- ![[Pasted image 20221206201801.png|325]]
 - 4 elements of Protein Structure
 
+
 | Structure            | Image                                     | Description                                                                                                                                                                                                                                                                                                                                                                           |
 | -------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Primary Structure    | ![[Pasted image 20221206202026.png\|150]] | Structure is determined by the sequence of amino acids held together by covalend bonds, called peptide bonds. Proteins are not functional at this level and aditional folding is needed                                                                                                                                                                                               |
@@ -100,3 +101,4 @@ Created: 11-15-2022
 | Quaternary Structure | ![[Pasted image 20221206202709.png\|150]] | Some proteins require a 4th level of structure. This strucutre arises from the interaction between multiple polypeptide units. Here, there are 3 whole polypeptide chains working together. Hemoglobin is an example of a protein that reaches this structure (found in red blood cell to help transport oxygen)                                                                                                                                                                                                                                                                                                                                                                                     |
 
 ### Nucleic Acids 1.6
+
