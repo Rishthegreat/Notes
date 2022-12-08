@@ -103,6 +103,10 @@ Created: 12-02-2022
 - With the great migration of African Americans to the North, African-American communites come about
 	- Harlem Renaissance (Harlem is a place in NYC)
 	- Their art, music, literature, dancing reflected the African American experience
+- Marcus Garvey
+	- He was a believer in back to Africa movement
+	- Black pride and nationalism
+	- Black and beautiful
 
 #### Prohibition
 - Prohibition is sometimes called the noble experiment
