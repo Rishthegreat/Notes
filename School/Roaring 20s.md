@@ -171,3 +171,12 @@ Created: 12-02-2022
 	- Unequal distribution of wealth
 		- Wealth becomes concentrated to the wealthy
 		- 40% of the US still lived in poverty
+- Effects
+	- Unprecedented economic growth (1922-1929)
+		- Real income increases
+			- Workers wages increases
+	- Unemployment drop
+	- Per capita income triples
+	- Standard of living increase
+	- Indoor pumbing, heating electrification
+	- 
