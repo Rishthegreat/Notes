@@ -96,7 +96,8 @@ Created: 12-02-2022
 		- Jazz became very popular and had some controversy because it had African-American background
 	- America becomes more connected with this culture and the technology
 	- Charles Lindbergh became the most famous man in the US during this time beccause he flew across the Atlantic to Paris
-- Planes were new technology and were mostly used for mail and military
+		- Planes were new technology and were mostly used for mail and military
+- Literature also gains a lot of footing around the world such as F. Scott Fitzgerald (The Great Gatsby) and T.S. Eliot (The Waste Land)
 
 #### Prohibition
 - Prohibition is sometimes called the noble experiment
