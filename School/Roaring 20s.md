@@ -98,6 +98,8 @@ Created: 12-02-2022
 	- Charles Lindbergh became the most famous man in the US during this time beccause he flew across the Atlantic to Paris
 		- Planes were new technology and were mostly used for mail and military
 - Literature also gains a lot of footing around the world such as F. Scott Fitzgerald (The Great Gatsby) and T.S. Eliot (The Waste Land)
+	- Many of these writers critized American prosperity, and materialism.
+	- Some of them did not even live in the US
 
 #### Prohibition
 - Prohibition is sometimes called the noble experiment
