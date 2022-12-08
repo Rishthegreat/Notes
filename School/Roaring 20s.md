@@ -211,7 +211,8 @@ Created: 12-02-2022
 			- Secretary of the Interior
 			- Convinced the secretary of the navy to transfer the reserve to the interior department
 			- He then took bribes in exchange for selling public oil lands to private companies
-	- Attorney General H
+	- Attorney General Harry Daugherty
+		- He took a lot of bribes in exchange for not prosecuting certain cases and instead giving out pardons
 
 #### Supreme Court in 1920s
 - Taft - Chief Justice of the Supreme Court
