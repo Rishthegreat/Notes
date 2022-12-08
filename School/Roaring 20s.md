@@ -149,6 +149,10 @@ Created: 12-02-2022
 	- New technologies and machines
 	- Consumer market, marketing, use of credit
 	- Impact of automobile
+		- They are relatively affordable
+		- It also helped other industries like steel, leather, 
 	- Soaring stock market
 	- Non enforcement of antitrust laws
-	- People started
+	- People started buying things on credit
+		- $10 a month instead of everything upfront
+		- This is short term prospertity, but becomes one of the causes of the Great Depression
