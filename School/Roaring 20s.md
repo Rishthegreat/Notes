@@ -141,3 +141,8 @@ Created: 12-02-2022
 	- Union membership declines in the 1920s
 		- Labor strikes associated with immigrant radicalism causes the decline during the ecnonomic downturn after the war
 		- Some companies started treating workers better and paying more, which also contributed to the decline
+- We see massive prosperity during this time period
+	- Mass production, increase worker productivity, scientific management, assembly line production
+		-  Workers did not like being robotic
+	- New industries, natural resources
+		- Energy, oil
