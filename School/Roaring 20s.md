@@ -150,9 +150,11 @@ Created: 12-02-2022
 	- Consumer market, marketing, use of credit
 	- Impact of automobile
 		- They are relatively affordable
-		- It also helped other industries like steel, leather, 
+		- It also helped other industries like steel, leather, oil, gas, glass, rubber, etc
 	- Soaring stock market
 	- Non enforcement of antitrust laws
+		- Clayton anti-trust act not being used
+		- Growth of large corporations
 	- People started buying things on credit
 		- $10 a month instead of everything upfront
 		- This is short term prospertity, but becomes one of the causes of the Great Depression
