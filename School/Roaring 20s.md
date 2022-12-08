@@ -139,3 +139,5 @@ Created: 12-02-2022
 - Belief that government policies are causing prosperity
 - Reversal of reform of the progressive era and government control during the WW1 era
 	- Union membership declines in the 1920s
+		- Labor strikes associated with immigrant radicalism causes the decline during the ecnonomic downturn after the war
+		- Some companies started treating workers better and paying more, which also contributed to the decline
