@@ -126,3 +126,6 @@ Created: 12-02-2022
 - We see a birth of modern advertisement
 	- On the radio and in print ads
 	- Many of the household tools were directed at women because their role was still mostly restricted at home
+
+#### Economic Policies
+- Return to conservatism
