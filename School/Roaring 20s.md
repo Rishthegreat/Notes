@@ -107,6 +107,9 @@ Created: 12-02-2022
 	- He was a believer in back to Africa movement
 	- Black pride and nationalism
 	- Black and beautiful
+	- He was a Jamacian immigrant and in the mid 1920s, got deported back because he was seen as radical
+- We see a birth of modern advertisement
+	- On the radio and in print ads
 
 #### Prohibition
 - Prohibition is sometimes called the noble experiment
