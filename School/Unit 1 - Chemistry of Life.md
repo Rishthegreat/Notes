@@ -127,6 +127,9 @@ Created: 11-15-2022
 			- Used for structural support in plants
 		- ![[Pasted image 20221207111047.png|225]]
 			- Here, even the covalent bond has a different orientation
+- Carbohydrate polymers can be linear or branched
+	- ![[Pasted image 20221207111216.png|325]]
+
 
 ### Nucleic Acids 1.6
 
