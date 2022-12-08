@@ -86,11 +86,14 @@ Created: 12-02-2022
 	- After WW1, mnay women returned back home
 	- By 1930, 1 in 4 women worked
 		- By 1900, it was 1 in 5
+
+#### Culture
 - There was a birth of celebrity culture
 	- Movies, sports, radio
 		- Radio and movies become a big business
 		- As people have more money, they get more leisure time
 		- College sports also became very popular
+		- Jazz became very popular and had some controversy because it had African-American background
 	- America becomes more connected with this culture and the technology
 	- Charles Lindbergh became the most famous man in the US during this time beccause he flew across the Atlantic to Paris
 - Planes were new technology and were mostly used for mail and military
