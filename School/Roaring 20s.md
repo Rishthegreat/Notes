@@ -206,7 +206,12 @@ Created: 12-02-2022
 	- The “Ohio Gang”
 		- He appointed that some of his friends in office, but this was bad because they were corrupt
 	- Teapot Dome Scandal
+		- Name of a oil reserve used by the Navy and run by the Navy department
 		- Albert B. Fall
+			- Secretary of the Interior
+			- Convinced the secretary of the navy to transfer the reserve to the interior department
+			- He then took bribes in exchange for selling public oil lands to private companies
+	- Attorney General H
 
 #### Supreme Court in 1920s
 - Taft - Chief Justice of the Supreme Court
