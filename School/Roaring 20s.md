@@ -179,4 +179,8 @@ Created: 12-02-2022
 	- Per capita income triples
 	- Standard of living increase
 	- Indoor pumbing, heating electrification
-	- 
+	- Gross Nation Product Rises 40%
+
+#### Veterans Rights
+- Veterans Bureau (1921)
+	- Is now called Department of Veterans Affairs ()
