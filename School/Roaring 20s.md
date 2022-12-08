@@ -183,4 +183,11 @@ Created: 12-02-2022
 
 #### Veterans Rights
 - Veterans Bureau (1921)
-	- Is now called Department of Veterans Affairs ()
+	- Is now called Department of Veterans Affairs (DA)
+- American Legion
+	- Formed by Roosevelt after WW1
+	- Private organization
+- Veterans wanted a bonus 
+- Adjusted Compensation Act (1924)
+	- Passed over Coolidge’s veto
+	- Collected in 20 years
