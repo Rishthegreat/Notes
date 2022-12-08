@@ -87,7 +87,22 @@ Created: 12-02-2022
 	- By 1930, 1 in 4 women worked
 		- By 1900, it was 1 in 5
 
-#### Culture
+#### Prohibition
+- Prohibition is sometimes called the noble experiment
+	- The women had good intentions, even though it was eventually a failture
+- Volstead Act
+	- Law enacted in 1919 (and taking effect in 1920)
+	- Provide enforcement for the Eighteenth Amendment, prohibiting the manufacture and sale of alcoholic beverages. 
+	- The act was vetoed by Pres. Woodrow Wilson, but it became law after Congress voted to override the veto. In addition, individual states passed further enabling and enforcing legislation. All the states enacted laws to help carry the Volstead Act into effect, although Nevada’s was later held unconstitutional. Such state laws were repealed in five cases (New York in 1923; Wisconsin, Montana, and Nevada in 1929; and Illinois in 1931).
+- The prohibition was supposed to be enforced by local police officers
+	- The local police made a lot of money to not enforcing the law because thier pay was really low
+	- This also led to organized crime
+		- Gangs
+		- Some of them also became popular because they were seen as anti-heroes such as Al Capone
+- After the Great Depression struck, there was a lot of support for repealing Prohibition
+	- In order for the government to earn money, they could then tax alcohol by making it legal
+
+#### Culture and Social Trends
 - There was a birth of celebrity culture
 	- Movies, sports, radio
 		- Radio and movies become a big business
@@ -111,20 +126,3 @@ Created: 12-02-2022
 - We see a birth of modern advertisement
 	- On the radio and in print ads
 	- Many of the household tools were directed at women because their role was still mostly restricted at home
-
-#### Prohibition
-- Prohibition is sometimes called the noble experiment
-	- The women had good intentions, even though it was eventually a failture
-- Volstead Act
-	- Law enacted in 1919 (and taking effect in 1920)
-	- Provide enforcement for the Eighteenth Amendment, prohibiting the manufacture and sale of alcoholic beverages. 
-	- The act was vetoed by Pres. Woodrow Wilson, but it became law after Congress voted to override the veto. In addition, individual states passed further enabling and enforcing legislation. All the states enacted laws to help carry the Volstead Act into effect, although Nevada’s was later held unconstitutional. Such state laws were repealed in five cases (New York in 1923; Wisconsin, Montana, and Nevada in 1929; and Illinois in 1931).
-- The prohibition was supposed to be enforced by local police officers
-	- The local police made a lot of money to not enforcing the law because thier pay was really low
-	- This also led to organized crime
-		- Gangs
-		- Some of them also became popular because they were seen as anti-heroes such as Al Capone
-- After the Great Depression struck, there was a lot of support for repealing Prohibition
-	- In order for the government to earn money, they could then tax alcohol by making it legal
-
-
