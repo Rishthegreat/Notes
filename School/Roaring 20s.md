@@ -145,4 +145,10 @@ Created: 12-02-2022
 	- Mass production, increase worker productivity, scientific management, assembly line production
 		-  Workers did not like being robotic
 	- New industries, natural resources
-		- Energy, oil
+		- Energy, oil and electricity in homes
+	- New technologies and machines
+	- Consumer market, marketing, use of credit
+	- Impact of automobile
+	- Soaring stock market
+	- Non enforcement of antitrust laws
+	- People started
