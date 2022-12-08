@@ -100,6 +100,9 @@ Created: 12-02-2022
 - Literature also gains a lot of footing around the world such as F. Scott Fitzgerald (The Great Gatsby) and T.S. Eliot (The Waste Land)
 	- Many of these writers critized American prosperity, and materialism.
 	- Some of them did not even live in the US
+- With the great migration of African Americans to the North, African-American communites come about
+	- Harlem Renaissance (Harlem is a place in NYC)
+	- Their art, music, literature, dancing reflected the African American e
 
 #### Prohibition
 - Prohibition is sometimes called the noble experiment
