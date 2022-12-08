@@ -158,3 +158,9 @@ Created: 12-02-2022
 	- People started buying things on credit
 		- $10 a month instead of everything upfront
 		- This is short term prospertity, but becomes one of the causes of the Great Depression
+- Tax Policies
+	- Andrew Mellon - Secretary of Treasury
+	- Large tax cuts for wealthy Americans
+	- Reduction of the income tax
+		- Large cuts for the wealthy and corporate tax (1/3 reduction)
+			- Feels taxing the wealthy is taking money away from busines
