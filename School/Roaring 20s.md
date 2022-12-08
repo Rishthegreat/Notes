@@ -205,8 +205,15 @@ Created: 12-02-2022
 
 #### Supreme Court in 1920s
 - Taft - Chief Justice of the Supreme Court
+	- He was more liberal, but the court was overall very conservative
+	- He liked being chief justice more than president
 - Rules Progressive legislation Unconstitutional
 - Adkins vs Children’s Hospital
 	- Since women are now equal in the eyes of the law as men, they do not need any special protection
 	- This reverses Muller vs Oregon
 	- They used a liberal idea to champion a conservative one
+
+#### Domestic Policy
+- Fordney-McCumber Tarrif Act of 1922
+	- Increases tariff rates
+	- Hurt the European countries
