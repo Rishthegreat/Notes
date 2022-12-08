@@ -89,7 +89,8 @@ Created: 12-02-2022
 - There was a birth of celebrity culture
 	- Movies, sports, radio
 		- Radio and movies become a big business
-		- As people have more money, they get more leisure 
+		- As people have more money, they get more leisure time
+		- College sports also became very popular
 	- America becomes more connected with this culture and the technology
 	- Charles Lindbergh became the most famous man in the US during this time beccause he flew across the Atlantic to Paris
 - Planes were new technology and were mostly used for mail and military
