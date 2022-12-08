@@ -194,7 +194,6 @@ Created: 12-02-2022
 
 #### Warren Harding
 - Conservative, republican president from Ohio (1921-1923)
-- Republican 
 - Campaign slogan
 	- “Return to Normalcy”
 - We was one of the worst presidents in US history
@@ -203,3 +202,11 @@ Created: 12-02-2022
 	- Commerce - Herbert Hoover
 	- Treasury - Andrew Mellon
 - Harding called them the “best minds”
+
+#### Supreme Court in 1920s
+- Taft - Chief Justice of the Supreme Court
+- Rules Progressive legislation Unconstitutional
+- Adkins vs Children’s Hospital
+	- Since women are now equal in the eyes of the law as men, they do not need any special protection
+	- This reverses Muller vs Oregon
+	- They used a liberal idea to champion a conservative one
