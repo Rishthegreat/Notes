@@ -131,7 +131,7 @@ Created: 12-02-2022
 - Return to conservatism
 	- Reaction against the war, reaction against foreignism
 - 3 conservative old guard republicans, pro business
-	- Warren G. Harding
+	- Warren G. Harding [[Roaring 20s#Warren Harding]]
 	- Calvin Coolidge
 	- Herbert Hoover
 - Limited government regulation to aid business
@@ -187,7 +187,12 @@ Created: 12-02-2022
 - American Legion
 	- Formed by Roosevelt after WW1
 	- Private organization
-- Veterans wanted a bonus 
+- Veterans wanted a bonus due to the working time lost during WW1
 - Adjusted Compensation Act (1924)
 	- Passed over Coolidge’s veto
-	- Collected in 20 years
+	- If you fought in the War, you would get a bonus check in 20 years
+
+#### Warren Harding
+- Conservative president from Ohio
+- Republican (1921-1923)
+- C
