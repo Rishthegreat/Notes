@@ -129,3 +129,11 @@ Created: 12-02-2022
 
 #### Economic Policies
 - Return to conservatism
+	- Reaction against the war, reaction against foreignism
+- 3 conservative old guard republicans, pro business
+	- Warren G. Harding
+	- Calvin Coolidge
+	- Herbert Hoover
+- Limited government regulation to aid business
+- Business and pursuit of profits will benefit the ecnomu
+- 
