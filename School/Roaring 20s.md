@@ -193,6 +193,13 @@ Created: 12-02-2022
 	- If you fought in the War, you would get a bonus check in 20 years
 
 #### Warren Harding
-- Conservative president from Ohio
-- Republican (1921-1923)
-- C
+- Conservative, republican president from Ohio (1921-1923)
+- Republican 
+- Campaign slogan
+	- “Return to Normalcy”
+- We was one of the worst presidents in US history
+- His cabinet
+	- State - Charles Evan Hughes
+	- Commerce - Herbert Hoover
+	- Treasury - Andrew Mellon
+- Harding called them the “best minds”
