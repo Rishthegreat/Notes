@@ -135,5 +135,7 @@ Created: 12-02-2022
 	- Calvin Coolidge
 	- Herbert Hoover
 - Limited government regulation to aid business
-- Business and pursuit of profits will benefit the ecnomu
-- 
+- Business and pursuit of profits will benefit the economy
+- Belief that government policies are causing prosperity
+- Reversal of reform of the progressive era and government control during the WW1 era
+	- Union membership declines in the 1920s
