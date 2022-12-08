@@ -160,7 +160,13 @@ Created: 12-02-2022
 		- This is short term prospertity, but becomes one of the causes of the Great Depression
 - Tax Policies
 	- Andrew Mellon - Secretary of Treasury
+		- He was very popular because the ecno
 	- Large tax cuts for wealthy Americans
 	- Reduction of the income tax
 		- Large cuts for the wealthy and corporate tax (1/3 reduction)
-			- Feels taxing the wealthy is taking money away from busines
+			- Feels taxing the wealthy is taking money away from businesses
+			- Want to create the ability for wealthy people to spend their money into the economy and market, so that it helps the economy
+		- Tax burden shifted to middle income groups
+	- Unequal distribution of wealth
+		- Wealth becomes concentrated to the wealthy
+		- 40% of the US still lived in poverty
