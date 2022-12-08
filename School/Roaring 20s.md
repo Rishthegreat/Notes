@@ -202,6 +202,11 @@ Created: 12-02-2022
 	- Commerce - Herbert Hoover
 	- Treasury - Andrew Mellon
 - Harding called them the “best minds”
+- He is known for scandals
+	- The “Ohio Gang”
+		- He appointed that some of his friends in office, but this was bad because they were corrupt
+	- Teapot Dome Scandal
+		- Albert B. Fall
 
 #### Supreme Court in 1920s
 - Taft - Chief Justice of the Supreme Court
@@ -216,4 +221,5 @@ Created: 12-02-2022
 #### Domestic Policy
 - Fordney-McCumber Tarrif Act of 1922
 	- Increases tariff rates
-	- Hurt the European countries
+	- Hurt the European countries which needed to trade in order to recover their economy
+	- Not a lot of international trade during this time
