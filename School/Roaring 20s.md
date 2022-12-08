@@ -88,6 +88,8 @@ Created: 12-02-2022
 		- By 1900, it was 1 in 5
 - There was a birth of celebrity culture
 	- Movies, sports, radio
+		- Radio and movies become a big business
+		- As people have more money, they get more leisure 
 	- America becomes more connected with this culture and the technology
 	- Charles Lindbergh became the most famous man in the US during this time beccause he flew across the Atlantic to Paris
 - Planes were new technology and were mostly used for mail and military
@@ -106,3 +108,5 @@ Created: 12-02-2022
 		- Some of them also became popular because they were seen as anti-heroes such as Al Capone
 - After the Great Depression struck, there was a lot of support for repealing Prohibition
 	- In order for the government to earn money, they could then tax alcohol by making it legal
+
+
