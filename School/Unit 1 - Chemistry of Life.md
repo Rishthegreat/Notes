@@ -61,7 +61,7 @@ Created: 11-15-2022
 | ---------------------------- | ------------ | ------------------------------------ |
 | Monosaccharide (eg: glucose) | Carbohydrate | For right now, it is a covalent bond |
 | Amino Acid                   | Protein      | Peptide bonds                        |
-| Nucleotide                   | Nucleic Acid |                                      |
+| Nucleotide                   | Nucleic Acid | Phosphodiester Bonds between the Nucleotides to form the stru                                     |
 | Fatty Acid                   | Lipids       |                                      |
 - 2 Key reactions
 	- [[Dehydration Synthesis]]
