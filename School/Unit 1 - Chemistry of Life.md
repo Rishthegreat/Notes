@@ -149,4 +149,5 @@ Created: 11-15-2022
 - Differences
 	- ![[Pasted image 20221208212059.png|375]]
 	- DNA contains deoxyribose sugar while RNA contains ribose sugar
-	- 
+	- DNA contains thymine and RNA contains uracil
+	- DNA is usually double stranded while RNA is usually single stranded
