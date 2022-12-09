@@ -137,10 +137,16 @@ Created: 11-15-2022
 ### Nucleic Acids 1.6
 
 - Similarities between DNA and RNA
+- ![[Pasted image 20221208211942.png|400]]
 	- Both are assembled from nuclieotide subunits which are comprised of a 
 		- 5 carbon sugar
 		- Phosphate group
 		- Nitrogenous base
 	- Each nucleotide monomer is connected by covalent bonds forming the sugar-phosphate backbone
 	- Each linear strand of nucleotides has a 5’ end and a 3’ end
-	- The nitrogenous bases are perpendicular to t
+	- The nitrogenous bases are perpendicular to the sugar-phosphate backbone
+
+- Differences
+	- ![[Pasted image 20221208212059.png|375]]
+	- DNA contains deoxyribose sugar while RNA contains ribose sugar
+	- 
