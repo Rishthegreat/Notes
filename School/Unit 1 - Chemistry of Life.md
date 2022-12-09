@@ -129,6 +129,8 @@ Created: 11-15-2022
 			- Here, even the covalent bond has a different orientation
 - Carbohydrate polymers can be linear or branched
 	- ![[Pasted image 20221207111216.png|325]]
+		- Starch and glycogen both function in energy storage (starch in plants and glycogen in humans and other vertebrates)
+			- One thing to keep note of is that sometimes starch is found linear rather than branched
 
 
 ### Nucleic Acids 1.6
