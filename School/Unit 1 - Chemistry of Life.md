@@ -130,7 +130,8 @@ Created: 11-15-2022
 - Carbohydrate polymers can be linear or branched
 	- ![[Pasted image 20221207111216.png|325]]
 		- Starch and glycogen both function in energy storage (starch in plants and glycogen in humans and other vertebrates)
-			- One thing to keep note of is that sometimes starch is found linear rather than branched
+			- One thing to keep note of is that sometimes starch is found linear chains rather than branched
+		- Cellulose provides strength to plant cell wall
 
 
 ### Nucleic Acids 1.6
