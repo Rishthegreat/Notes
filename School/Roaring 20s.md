@@ -287,4 +287,10 @@ Created: 12-02-2022
 
 - There is a lot of involvement in Latin America
 - Middle East has a lot of oil and US interest grows there
-	- Charles Evan Hughes wants American companies to be ab
+	- Charles Evan Hughes wants American companies to be able to access oil deposits in the middle east
+
+#### War Debt and Reparations
+- American banks lent 10 billion dollars to the allies
+- Tangle of loans, war debt, and German reparations
+- US wants every penny back of $10 billion loaned to allies during the war
+	- Allies want
