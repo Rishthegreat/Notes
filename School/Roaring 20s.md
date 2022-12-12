@@ -299,3 +299,6 @@ Created: 12-02-2022
 
 - Dawes Plan
 	- ![[Roaring 20s 2022-12-12 11.38.41.excalidraw]]
+	- This plan would have benefited the US most
+	- 1924 - 1930
+		- After this, the US stopped loaning because of the great depression
