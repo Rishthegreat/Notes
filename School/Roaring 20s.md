@@ -284,3 +284,7 @@ Created: 12-02-2022
 			- Allows defensive wars
 			- No means of enforcement
 		- Nobel Peace Prize - Frank Kellogg US Secretary of State
+
+- There is a lot of involvement in Latin America
+- Middle East has a lot of oil and US interest grows there
+	- Charles Evan Hughes wants American companies to be ab
