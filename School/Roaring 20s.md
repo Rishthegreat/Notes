@@ -233,6 +233,8 @@ Created: 12-02-2022
 #### Calvin Coolidge
 - Won the election of 1924
 	- Keep Cool with Coolidge
+	- La Follette ran as a third party (The Progressives)
+		- He got 5 million votes
 - “Silent Cal”
 	- He was known for not speaking much
 - Limited Government
@@ -241,3 +243,10 @@ Created: 12-02-2022
 - Era of Business Prosperity
 	- He was highly regarded because he was the president during this time period of prosperity
 - “The Business of America is Business”
+
+#### Problems for Farmers
+- Wartime prosperity
+- New technology leads to over cultivation and sinking prices
+- Growing debt and depression for farmers
+	- 1 in 4 Farms collapse
+- Coolidge 
