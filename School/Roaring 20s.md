@@ -231,6 +231,8 @@ Created: 12-02-2022
 	- Not a lot of international trade during this time
 
 #### Calvin Coolidge
+- Won the election of 1924
+	- Keep Cool with Coolidge
 - “Silent Cal”
 	- He was known for not speaking much
 - Limited Government
