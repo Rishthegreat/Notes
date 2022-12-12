@@ -229,3 +229,8 @@ Created: 12-02-2022
 	- Increases tariff rates
 	- Hurt the European countries which needed to trade in order to recover their economy
 	- Not a lot of international trade during this time
+
+#### Calvin Coolidge
+- “Silent Cal”
+- Limited Government
+- Cuts spending to thebo
