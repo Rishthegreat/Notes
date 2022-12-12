@@ -249,4 +249,7 @@ Created: 12-02-2022
 - New technology leads to over cultivation and sinking prices
 - Growing debt and depression for farmers
 	- 1 in 4 Farms collapse
-- Coolidge 
+- Coolidge vetoes McNary-Haugen Bill
+	- Government buy surpluses and sell overseas
+	- This would have helped the farmers because it would reduce the amount of crops in the US market, increasing the prices and also allow the government to earn money from selling overseas
+		- “parity”
