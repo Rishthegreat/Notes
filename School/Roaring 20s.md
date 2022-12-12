@@ -232,5 +232,10 @@ Created: 12-02-2022
 
 #### Calvin Coolidge
 - “Silent Cal”
+	- He was known for not speaking much
 - Limited Government
-- Cuts spending to thebo
+- Cuts spending to the bone
+	- Constantly vetoed bills
+- Era of Business Prosperity
+	- He was highly regarded because he was the president during this time period of prosperity
+- “The Business of America is Business”
