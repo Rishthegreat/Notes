@@ -260,4 +260,11 @@ Created: 12-02-2022
 	- Aviod European entaglements and problems
 - “Observer” at the League of Nations
 
-##### Disarmament and
+##### Disarmament and Peace
+- Charles Evan Hughes - Republican Secretary of State
+- Washington Naval Conference, 1922
+	- Five Power Treaty - Limits only on Warships
+		- US, Great Britain, Japan, France, Italy
+		- 5:5:3:1.67:1.67
+			- This way, the ratio of the
+		- No limit on other ships, Japan - fortify possessions
