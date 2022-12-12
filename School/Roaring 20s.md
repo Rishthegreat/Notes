@@ -293,4 +293,9 @@ Created: 12-02-2022
 - American banks lent 10 billion dollars to the allies
 - Tangle of loans, war debt, and German reparations
 - US wants every penny back of $10 billion loaned to allies during the war
-	- Allies want
+	- Allies want the debt to be forgiven because their economies are destroyed and many of their people had died
+- Allies want German War Reparations paid
+	- 32 Billion
+
+- Dawes Plan
+	- ![[Roaring 20s 2022-12-12 11.38.41.excalidraw]]
