@@ -260,7 +260,7 @@ Created: 12-02-2022
 	- Aviod European entaglements and problems
 - “Observer” at the League of Nations
 
-##### Disarmament and Peace
+#### Disarmament and Peace
 - Charles Evan Hughes - Republican Secretary of State
 - Washington Naval Conference, 1922
 	- Russia was not invited because they were communist
@@ -275,3 +275,12 @@ Created: 12-02-2022
 			- Territorial Integrity in the Pacific
 	- Nine Power Treaty
 		- Respecting the Open Door Policy in China
+
+- Problems
+	- Kellogg-Briand Pact 1928
+		- Renounces Aggressive Force as means of National Ends - singed by 62 nations
+		- It was celebrated
+		- Extremely ineffectice
+			- Allows defensive wars
+			- No means of enforcement
+		- Nobel Peace Prize - Frank Kellogg US Secretary of State
