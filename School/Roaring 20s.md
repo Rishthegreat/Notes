@@ -253,3 +253,11 @@ Created: 12-02-2022
 	- Government buy surpluses and sell overseas
 	- This would have helped the farmers because it would reduce the amount of crops in the US market, increasing the prices and also allow the government to earn money from selling overseas
 		- “parity”
+
+#### General Trends
+- Return to more isolationist policies but still a leading world powerful and rich nation
+	- High tarrifs
+	- Aviod European entaglements and problems
+- “Observer” at the League of Nations
+
+##### Disarmament and
