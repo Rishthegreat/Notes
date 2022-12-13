@@ -52,7 +52,7 @@ Created: 11-15-2022
 	- A covalent bond is used to connect monomers
 	- Monomers have specific chemical properties that allow them to interact with one another
 	- Polymers are specific to the monomers they consist of
-- Complex carbs are just glucose attached to glucose, etc\
+- Complex carbs are just glucose attached to glucose, etc
 - 1 is monomer
 - 2 is dimer
 - 3 or more is polymer
