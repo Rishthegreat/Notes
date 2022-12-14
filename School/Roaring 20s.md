@@ -27,11 +27,11 @@ Created: 12-02-2022
 - After WW1, there was a big influx of Immigrants and this caused a backlash against immigrants and this is reflected in the immigrants laws that follow
 	- Emergency Quota Act of 1921
 		- 3% of a specific nationality could come to the US
-			- Using the Censur of 1910
+			- Using the Census of 1910
 	- National Origins Act (Immigration Act of 1924)
 		- 2% of a specific nationality could come to the US
 			- Using the 1890 census
-			- This limited Asian immigrants
+			- This limited Asian immigrants and favored old immigrants
 	- During this time period, North and Central America had no restrictions
 		- Mexican migrants helped the economy
 
@@ -42,7 +42,7 @@ Created: 12-02-2022
 	- Controlled politics because you could not get positions in office without being a member of the KKK
 	- The Birth of a Nation
 		- Very racist, but popular film at that time
-			- Woodrow Wilson had a private screning of this in the white house and he said that he really liked the movies
+			- Woodrow Wilson had a private screning of this in the white house and he said that he really liked the movie
 			- Africans were shown to be unable to control their sexual desire with white women and in the movie, the KKK “saved” the day
 	- It died down because there were reports that the KKK was very corrupt
 	- DC Stephenson
@@ -50,7 +50,7 @@ Created: 12-02-2022
 		- Prominent figure in Indiana politics
 		- He ate a woman 
 			- cannabalism
-		- This also contribution to the Klan losing popularity
+		- This also contributed to the Klan losing popularity
 
 #### Race Riots of 1919
 - This is called the Race Summer of Hate due to the enormous amount of racial violence during this time period
