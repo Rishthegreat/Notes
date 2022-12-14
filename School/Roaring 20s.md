@@ -88,7 +88,7 @@ Created: 12-02-2022
 		- By 1900, it was 1 in 5
 
 #### Prohibition
-- Prohibition is sometimes called the noble experiment
+- Prohibition is sometimes called the noble experiment (18th amendment)
 	- The women had good intentions, even though it was eventually a failture
 - Volstead Act
 	- Law enacted in 1919 (and taking effect in 1920)
