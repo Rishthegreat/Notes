@@ -132,7 +132,7 @@ Created: 12-02-2022
 	- Reaction against the war, reaction against foreignism
 - 3 conservative old guard republicans, pro business
 	- Warren G. Harding [[Roaring 20s#Warren Harding]]
-	- Calvin Coolidge
+	- Calvin Coolidge [[Roaring 20s#Calvin Coolidge]]
 	- Herbert Hoover
 - Limited government regulation to aid business
 - Business and pursuit of profits will benefit the economy
