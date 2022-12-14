@@ -268,11 +268,13 @@ Created: 12-02-2022
 		- US, Great Britain, Japan, France, Italy
 		- 5:5:3:1.67:1.67
 			- This way, the ratio of the naval power remains the same
+			- For every 5 warships that the US builds, Japan can build 3, etc
 			- It does limit warships, but does not limit war machines, submaries, so it was not really very effective
 		- No limit on other ships, Japan - fortify possessions
 	- Four Power Treaty
 		- First 4 nations minus Italy
 			- Territorial Integrity in the Pacific
+		- Agreed to consult with each other in the event of a future crisis in East Asia before taking action
 	- Nine Power Treaty
 		- Respecting the Open Door Policy in China
 
