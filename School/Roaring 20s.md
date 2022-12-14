@@ -95,7 +95,7 @@ Created: 12-02-2022
 	- Provide enforcement for the Eighteenth Amendment, prohibiting the manufacture and sale of alcoholic beverages. 
 	- The act was vetoed by Pres. Woodrow Wilson, but it became law after Congress voted to override the veto. In addition, individual states passed further enabling and enforcing legislation. All the states enacted laws to help carry the Volstead Act into effect, although Nevada’s was later held unconstitutional. Such state laws were repealed in five cases (New York in 1923; Wisconsin, Montana, and Nevada in 1929; and Illinois in 1931).
 - The prohibition was supposed to be enforced by local police officers
-	- The local police made a lot of money to not enforcing the law because thier pay was really low
+	- The local police made a lot of money to not enforcing the law because their pay was really low
 	- This also led to organized crime
 		- Gangs
 		- Some of them also became popular because they were seen as anti-heroes such as Al Capone
