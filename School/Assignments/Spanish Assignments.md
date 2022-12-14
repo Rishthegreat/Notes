@@ -3,4 +3,4 @@ tags: spanish, assignments
 ---
 [[School MOC]] [[Spanish]]
 # Spanish Assignments
-- [x] Spanish - Complete vocab 📅 2022-10-17
+- [ ] Spanish all HW 📅 2022-12-17
