@@ -20,6 +20,7 @@ from #apush
 	- [[Progressive Era]]
 	- [[WW1]]
 	- [[Roaring 20s]]
+	- [[Great Depression]]
 
 ## Notes
 
