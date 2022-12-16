@@ -29,4 +29,5 @@ from #apush
 	- Too much credit (Doc H)
 	- Many people were in poverty and there was a large wealth gap (Doc K)
 	- There was a large number of independent banks. Weak structure of the banks (Doc L)
-	- Ov
+	- Over-production leads to falling prices and harms the farm industry (Doc N)
+	- 
