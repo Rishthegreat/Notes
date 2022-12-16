@@ -31,8 +31,13 @@ Created: 12-16-2022
 	- Panics before in American History followed by small period of recession
 		- 1819, 1837, 1857, 1873, 1893
 	- Natural Pulse of Free Enterprise Economy
-
 - Stock values continually increase
+	- It was not based upon anything like profits
+	- People just threw money into the stock market
+	- It is called a bubble and it did pop
 - Shares being trades triples in over 10 years
 - 18 straight months of raising stock prices to September 1929
 - Belief you could get rich - speculation
+
+- There is a lot of confidence in the government
+	- The Republican lassiez-faire polici
