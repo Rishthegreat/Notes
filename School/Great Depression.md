@@ -41,27 +41,22 @@ Created: 12-16-2022
 - There is a lot of confidence in the government
 	- People thought that The Republican lassiez-faire policies was causing all this prosperity
 		- high tarrif, low taxes, etc
-- Causes of the Great Depression
-	- Investing in stocks not because the company is doing well, but just gambling (Doc F)
-	- There is a cycle of people unable to pay back the banks, leading to them having to sell, which causes the price to drop and that means more people have to sell their stocks because they are unable to pay the banks, which drives the stock prices even lower, and repeat (Doc G)
-	- Too much credit (Doc H)
-	- Many people were in poverty and there was a large wealth gap (Doc K)
-	- There was a large number of independent banks. Weak structure of the banks (Doc L)
-	- Over-production leads to falling prices and harms the farm industry (Doc N)
 
 - Causes
-	- Uneven distribution of income
+	- **Uneven distribution of income**
 		- Wealthiest 1% income grow 75%, average worker 10%
 		- Not enough money going into salaries and wages - purchasing power of the middle class dried up
 			- The goods start being bought on credit, credit that could not be paid
-	- Stock market speculation
+	- **Stock market speculation**
 		- Los of speculation in stocks
 			- Not investing in the long term
 		- Buying on margin
 			- Buy stocks with loans from stockbrokers - only 10% of price paid by the person
 			- Margin call - brokers ask for money back with interest
 			- Federal Reserve Board ties to stop this practice, private corporations continue to loan to brokers
-		- People being to loose everything that they had because they did not sell and they boro
+		- People being to loose everything that they had because they did not sell and they borrowed money and could not pay back the borrowed money
+	- **Excessive use of Credit**
+		- Intallment b
 
 - Black Tuesday
 	- October 29, 1929
