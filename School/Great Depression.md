@@ -58,9 +58,14 @@ Created: 12-16-2022
 	- **Excessive use of Credit**
 		- People were buying everything on installments that they could not pay back
 		- People were out-purchasing their means
-	- Overproduction of consumer goods
+	- **Overproduction of consumer goods**
 		- Too many goods that the nation cannot consume
 		- They could not sell the products because the people could not afford to buy it
+	- **Weak farm economy**
+		- Overproduction, high debt, low prices since WW1
+		- They were in massive debt and many were losing thier morgages
+			- 1 in 4 farmers lost it
+	- 
 
 - Black Tuesday
 	- October 29, 1929
