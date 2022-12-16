@@ -26,4 +26,8 @@ Created: 12-16-2022
 - The republicans won by a really big margin
 	- Many people were excited about Hoover because he had a reputation of being a humanitarian and a good business leader
 
-##### E
+##### Economy
+- Many economists think that the economy goes through a cyclical pattern and that the presidents do not really impact it
+	- Panics before in American History followed by small period of recession
+		- 1819, 1837, 1857, 1873, 1893
+	- Natural Pulse of Free Enterprise Economy
