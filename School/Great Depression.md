@@ -42,3 +42,9 @@ Created: 12-16-2022
 - There is a lot of confidence in the government
 	- People thought that The Republican lassiez-faire policies was causing all this prosperity
 		- high tarrif, low taxes, etc
+
+- Black Tuesday
+	- October 29, 1929
+	- Bottom falls out - $16 million shares of stock sold
+	- Market value drops $16 billion in a few days
+	- $40 billino by the end of the year
