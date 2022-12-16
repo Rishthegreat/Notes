@@ -65,7 +65,12 @@ Created: 12-16-2022
 		- Overproduction, high debt, low prices since WW1
 		- They were in massive debt and many were losing thier morgages
 			- 1 in 4 farmers lost it
-	- 
+	- **Government Policies**
+		- Little to control or regulate business
+		- High tariffs - hurt farmers and international trade
+		- Tight money supply - failure of throusands of banks - tight credit
+			- Weak banking system
+			- 9 million bank
 
 - Black Tuesday
 	- October 29, 1929
