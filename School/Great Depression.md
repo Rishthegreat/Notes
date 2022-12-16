@@ -52,7 +52,13 @@ Created: 12-16-2022
 - Causes
 	- Uneven distribution of income
 		- Wealthiest 1% income grow 75%, average worker 10%
-		- Not enough money going into
+		- Not enough money going into salaries and wages - purchasing power of the middle class dried up
+			- The goods start being bought on credit, credit that could not be paid
+	- Stock market speculation
+		- Los of speculation in stocks
+			- Not investing in the long term
+		- Buying on margin
+			- Buy stocks with loans from stockbro
 
 - Black Tuesday
 	- October 29, 1929
