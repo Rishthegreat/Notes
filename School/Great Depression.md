@@ -9,4 +9,11 @@ Created: 12-16-2022
 
 ##### Election of 1928
 - Republicans pick Herbert Hoover
-	- F
+	- Fed the starving Belgiums during WW1
+	- He was an orphan boy from Iowa and went to Stanford, working his way in business to become one of the richest men in America
+	- He had never held a government’s office before being elected as president
+	- He was running on Coolidge’s Republican prosperity
+	- “Chicken in every pot and a car in every garage”
+		- He wanted to eradiate poverty
+- Alfred Smith nominated by Democrats
+- 
