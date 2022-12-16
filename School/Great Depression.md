@@ -20,5 +20,10 @@ Created: 12-16-2022
 		- A lot of anti-Catholic sentiment
 		- People said that the pope would run the country instead of Smith
 	- New Yorker, “Wet”, Colorful, Catholic
+		- Wet meaning he did not like prohibition
 		- People did not like how he sounded on the radio in places other then New York such as Texas
-- First election where the radio played a big ro
+- First election where the radio played a big role
+- The republicans won by a really big margin
+	- Many people were excited about Hoover because he had a reputation of being a humanitarian and a good business leader
+
+##### E
