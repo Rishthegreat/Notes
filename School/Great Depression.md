@@ -72,6 +72,10 @@ Created: 12-16-2022
 			- Weak banking system
 			- 9 million bank accounts wiped out
 		- 25% of banks closed during the great depression
+	- **Global Economic Problems**
+		- Europe never fully recovered from WW1
+		- US Policies don’t help Europe
+			- Insistenc
 
 - Black Tuesday
 	- October 29, 1929
