@@ -26,6 +26,7 @@ from #apush
 - Causes of the Great Depression
 	- Investing in stocks not because the company is doing well, but just gambling (Doc F)
 	- There is a cycle of people unable to pay back the banks, leading to them having to sell, which causes the price to drop and that means more people have to sell their stocks because they are unable to pay the banks, which drives the stock prices even lower, and repeat (Doc G)
-	- Too much credit (Doc)
+	- Too much credit (Doc H)
 	- Many people were in poverty and there was a large wealth gap (Doc K)
-	- There was a large number of independent banks
+	- There was a large number of independent banks. Weak structure of the banks (Doc L)
+	- Ov
