@@ -56,7 +56,11 @@ Created: 12-16-2022
 			- Federal Reserve Board ties to stop this practice, private corporations continue to loan to brokers
 		- People being to loose everything that they had because they did not sell and they borrowed money and could not pay back the borrowed money
 	- **Excessive use of Credit**
-		- Intallment b
+		- People were buying everything on installments that they could not pay back
+		- People were out-purchasing their means
+	- Overproduction of consumer goods
+		- Too many goods that the nation cannot consume
+		- They could not sell the products because the people could not afford to buy it
 
 - Black Tuesday
 	- October 29, 1929
