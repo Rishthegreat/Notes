@@ -70,7 +70,8 @@ Created: 12-16-2022
 		- High tariffs - hurt farmers and international trade
 		- Tight money supply - failure of throusands of banks - tight credit
 			- Weak banking system
-			- 9 million bank
+			- 9 million bank accounts wiped out
+		- 25% of banks closed during the great depression
 
 - Black Tuesday
 	- October 29, 1929
