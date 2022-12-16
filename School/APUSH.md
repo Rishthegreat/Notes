@@ -23,5 +23,6 @@ from #apush
 	- [[Great Depression]]
 
 ## Notes
-
-
+- Causes of the Great Depression
+	- Investing in stocks not because the company is doing well, but just gambling
+	
