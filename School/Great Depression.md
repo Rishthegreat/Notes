@@ -40,4 +40,5 @@ Created: 12-16-2022
 - Belief you could get rich - speculation
 
 - There is a lot of confidence in the government
-	- The Republican lassiez-faire polici
+	- People thought that The Republican lassiez-faire policies was causing all this prosperity
+		- high tarrif, low taxes, etc
