@@ -58,7 +58,10 @@ Created: 12-16-2022
 		- Los of speculation in stocks
 			- Not investing in the long term
 		- Buying on margin
-			- Buy stocks with loans from stockbro
+			- Buy stocks with loans from stockbrokers - only 10% of price paid by the person
+			- Margin call - brokers ask for money back with interest
+			- Federal Reserve Board ties to stop this practice, private corporations continue to loan to brokers
+		- People being to loose everything that they had because they did not sell and they boro
 
 - Black Tuesday
 	- October 29, 1929
