@@ -185,7 +185,7 @@ Created: 12-16-2022
 		- Farmers did not rotate the crops well
 		- Top soil disappeared slowly
 		- Then droughts happened which made the soil very dry
-		- Then storms and 
+		- Then storms and tornadoes happened which caused a lot of wind erosion
 	- People lining up to get their money from failing banks - people panicking
 	- Poorly built housing, called Hoovervilles
 	- - 
