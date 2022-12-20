@@ -134,4 +134,8 @@ Created: 12-16-2022
 
 - **Bonus March**
 	- Bonus Bill
-		- The Cash award promis
+		- The Cash award promised for WW1 veterans in 1945
+	- The Bonus army was formed - “Bonus Expeditionary Force”
+		- Veterans and families set up camp near capital - 20, 000
+		- Demanded the money now
+	- 
