@@ -101,4 +101,9 @@ Created: 12-16-2022
 #### Hoover’s Response
 - Little Government Intervention
 - “Rugged Individualism”
-- Voluntary Action and 
+	- America is a country that will figure it out
+	- If the government just handed people money, Americans would loose their character
+- Voluntary Action and Restrain
+- Believed Nation would get through rough times
+- First set of aid goes to banks, railroads, corporations
+- Changes philosophy by end of Presidency and calls for more direcy government act
