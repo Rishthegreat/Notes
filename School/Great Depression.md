@@ -180,4 +180,8 @@ Created: 12-16-2022
 “The only thing we have to fear is fear itself” - one of the most famous quote from Roosevelt’s speeches
 
 #### Culture and Life During the Depression
-- There were many images taken during the Great Depression and many of them were about the 
+- There were many images taken during the Great Depression
+	- Dust Bowl
+	- People lining up to get their money from failing banks - people panicking
+	- Images of poorly built housing, called Hoovervilles
+	- 
