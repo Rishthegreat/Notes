@@ -142,3 +142,11 @@ Created: 12-16-2022
 	- Police and Soldiers clear the area as order by Hoover
 		- They went a bit too far and it resulted in Hooverville being burned down
 		- This made him look very uncaring for the plight of the poor and veterans
+
+#### Franklin Delano Roosevelt (FDR)
+- From one of the wealthiest families in the US
+- Democratic Nominee
+- Paralyzed due to Polio in the 1920s
+- Eleanor Roosevelt was his wife
+- Governor of NY- relief programs
+- Wonderful oratory voice
