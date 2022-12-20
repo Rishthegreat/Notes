@@ -179,4 +179,5 @@ Created: 12-16-2022
 
 “The only thing we have to fear is fear itself” - one of the most famous quote from Roosevelt’s speeches
 
-#### Culture of Depression
+#### Culture and Life During the Depression
+- There were many images taken during the Great Depression and many of them were about the 
