@@ -138,4 +138,7 @@ Created: 12-16-2022
 	- The Bonus army was formed - “Bonus Expeditionary Force”
 		- Veterans and families set up camp near capital - 20, 000
 		- Demanded the money now
-	- 
+	- Congress refuses to pass bill to give 50% of it now
+	- Police and Soldiers clear the area as order by Hoover
+		- They went a bit too far and it resulted in Hooverville being burned down
+		- This made him look very uncaring for the plight of the poor and veterans
