@@ -151,6 +151,8 @@ Created: 12-16-2022
 	- People thought that he had suffered and they were suffering right now so he understands their 
 - Eleanor Roosevelt was his wife
 	- She was Teddy’s niece
-	- 3rd Cousin
+	- 3rd Cousin marriage
+	- They were pretty distant and had a lot of tensions, but publically showed that they were in a good relationship
 - Governor of NY- relief programs
+	- He tried a lot of things to help the people and it was appreciated
 - Wonderful oratory voice
