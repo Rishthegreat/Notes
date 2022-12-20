@@ -160,8 +160,13 @@ Created: 12-16-2022
 **His Campaign**
 - He adresses the convention and gives a speech after being nominated
 - “I pledge you, I pledge myself to a new deal for the American people”
-	- HE never said what we h
+	- He never said what he was going to do, but he just talked about “bold new programs”
 - Repeal prohibition
 - “The Forgotten Man”
 - “Roosevelt is Robust”
 - “Happy days are here again”
+
+- He won almost all the states
+	- He makes the democratic party very powerful
+
+**Effe**
