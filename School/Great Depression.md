@@ -86,3 +86,9 @@ Created: 12-16-2022
 	- Market value drops $16 billion in a few days
 	- $40 billino by the end of the year
 
+#### Effects
+- GNP drops over 40%
+- National income declines by half
+- 20% of all banks close
+	- People could not repay their loans to banks
+	- Banks could n
