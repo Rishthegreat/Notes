@@ -169,4 +169,9 @@ Created: 12-16-2022
 - He won almost all the states
 	- He makes the democratic party very powerful
 
-**Effe**
+**Effects of the Election**
+- Black vote over to the Democratic party
+	- Eleanor Roosevelt was a champion of blacks
+- Hoover - Lame Duck President
+	- Roosevelt won’t cooperate with Hoover and does not want to be tied to his policies
+	- 20th Amendment - “lame duck amendment”
