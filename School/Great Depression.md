@@ -91,4 +91,9 @@ Created: 12-16-2022
 - National income declines by half
 - 20% of all banks close
 	- People could not repay their loans to banks
-	- Banks could n
+	- Banks could not give depositors their money and closed
+	- People lost their life savings - 9 million individual savings accounts
+- 1933 - 25% of workforce unemployed, 13 million people
+- Drought and Dust Bowl torch Mississipi Valley-hundreds of thousands foreclose
+- Ended Republican domination of government
+	- Because the Republican party 
