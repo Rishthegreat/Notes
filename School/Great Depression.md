@@ -186,3 +186,4 @@ Created: 12-16-2022
 	- Poorly built housing, called Hoovervilles
 	- - 
 	- People hanging on the side of trains because they need to migrate, but have no money to do so
+	- A lot of people lining up outside soup kitchens
