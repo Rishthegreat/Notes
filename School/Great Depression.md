@@ -106,4 +106,6 @@ Created: 12-16-2022
 - Voluntary Action and Restrain
 - Believed Nation would get through rough times
 - First set of aid goes to banks, railroads, corporations
-- Changes philosophy by end of Presidency and calls for more direcy government act
+- Changes philosophy by end of Presidency and calls for more direcy government action
+	- Too little and too late
+	- Vilified by the American Public
