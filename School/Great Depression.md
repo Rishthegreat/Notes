@@ -182,6 +182,10 @@ Created: 12-16-2022
 #### Culture and Life During the Depression
 - There were many images taken during the Great Depression
 	- Dust Bowl
+		- Farmers did not rotate the crops well
+		- Top soil disappeared slowly
+		- Then droughts happened which made the soil very dry
+		- Then storms and 
 	- People lining up to get their money from failing banks - people panicking
 	- Poorly built housing, called Hoovervilles
 	- - 
@@ -189,4 +193,4 @@ Created: 12-16-2022
 	- A lot of people lining up outside soup kitchens
 	- Many people lining up outside movie theatres in order to watch movies for entertainment
 	- People protesting and demanding for work
-	- Segregation was still prevalentk
+	- Segregation was still prevalent
