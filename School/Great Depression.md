@@ -187,3 +187,4 @@ Created: 12-16-2022
 	- - 
 	- People hanging on the side of trains because they need to migrate, but have no money to do so
 	- A lot of people lining up outside soup kitchens
+	- Many people lining up outside movie theatres in order to watch movies for entertainment
