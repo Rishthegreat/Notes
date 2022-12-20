@@ -85,3 +85,4 @@ Created: 12-16-2022
 	- Bottom falls out - $16 million shares of stock sold
 	- Market value drops $16 billion in a few days
 	- $40 billino by the end of the year
+
