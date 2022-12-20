@@ -75,7 +75,10 @@ Created: 12-16-2022
 	- **Global Economic Problems**
 		- Europe never fully recovered from WW1
 		- US Policies don’t help Europe
-			- Insistenc
+			- Insistence on loan repayment
+			- High Tariffs
+			- Lack of world trade
+		- Worldwide Great Depression
 
 - Black Tuesday
 	- October 29, 1929
