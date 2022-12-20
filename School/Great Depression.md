@@ -170,9 +170,13 @@ Created: 12-16-2022
 	- He makes the democratic party very powerful
 
 **Effects of the Election**
-- Black vote over to the Democratic party
+- Black vote over to the Democratic party from the Republicans
 	- Eleanor Roosevelt was a champion of blacks
 - Hoover - Lame Duck President
 	- Roosevelt won’t cooperate with Hoover and does not want to be tied to his policies
 	- 20th Amendment - “lame duck amendment”
 	- Changed the inauguration day to Jan 20 because Hoover was still president during the worst time of the depression and Roosevelt did not want to be associated with Hoover’s policies until March
+
+“The only thing we have to fear is fear itself” - one of the most famous quote from Roosevelt’s speeches
+
+#### Culture of Depression
