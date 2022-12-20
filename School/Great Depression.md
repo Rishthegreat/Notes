@@ -96,4 +96,9 @@ Created: 12-16-2022
 - 1933 - 25% of workforce unemployed, 13 million people
 - Drought and Dust Bowl torch Mississipi Valley-hundreds of thousands foreclose
 - Ended Republican domination of government
-	- Because the Republican party 
+	- Because the Republican party was in power during the Great Depression, the democrats start to become more prevalent in the next 30 years
+
+#### Hoover’s Response
+- Little Government Intervention
+- “Rugged Individualism”
+- Voluntary Action and 
