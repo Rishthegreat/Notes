@@ -26,12 +26,4 @@ from #assignments
 
 ## Notes
 
-- Good if used correctly
-	- Inherently it is good, but the people that use it determine whether it is good or bad
-	- Same thing with any thing (a chair)
-		- It is useful but if I throw it at someone, then it is bad
-		- Social media is a tool, not inherently bad or good
-
-- Disagree
-	- It is bad because of hate 
-		- Counter, hate is created by the people, not the tool itself
+[[Projects]]
