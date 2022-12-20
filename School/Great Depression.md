@@ -128,4 +128,10 @@ Created: 12-16-2022
 		- People thought that this was just a way for the government to help the rich, who according to them caused the depression in the first place
 
 - **Hoover Dam**
-	- Resulted in millions of dollars of government sp
+	- Resulted in millions of dollars of government spending which allowed many people to work
+	- This dam helped water and electricity reach a new place in the US
+	- The idea that you put people to work and better the infrastructure of the country is something that FDR also carries on later
+
+- **Bonus March**
+	- Bonus Bill
+		- The Cash award promis
