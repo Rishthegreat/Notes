@@ -121,4 +121,11 @@ Created: 12-16-2022
 - **Federal Farm Board** - 1929
 	- Help farmers stabilize prices
 	- Hold surpluses in storage by buying them
-- **Reconstruction Finance Coporation** - 
+- **Reconstruction Finance Coporation** - RFC - 1932
+	- Emergency loans to faltering institutions
+	- Railroads, banks, financial institutions
+	- Critics - “Millionaires Dole”
+		- People thought that this was just a way for the government to help the rich, who according to them caused the depression in the first place
+
+- **Hoover Dam**
+	- Resulted in millions of dollars of government sp
