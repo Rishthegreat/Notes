@@ -183,5 +183,6 @@ Created: 12-16-2022
 - There were many images taken during the Great Depression
 	- Dust Bowl
 	- People lining up to get their money from failing banks - people panicking
-	- Images of poorly built housing, called Hoovervilles
-	- 
+	- Poorly built housing, called Hoovervilles
+	- - 
+	- People hanging on the side of trains because they need to migrate, but have no money to do so
