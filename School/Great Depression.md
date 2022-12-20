@@ -109,3 +109,9 @@ Created: 12-16-2022
 - Changes philosophy by end of Presidency and calls for more direcy government action
 	- Too little and too late
 	- Vilified by the American Public
+- **Hawley Smoot Tarrif** - 1930
+	- Highest tariff rates in US history
+	- Protect market from foreign competition
+	- Angers European countries
+		- They enact their own high tariff, which reduces trade
+	- 
