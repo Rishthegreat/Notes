@@ -156,3 +156,12 @@ Created: 12-16-2022
 - Governor of NY- relief programs
 	- He tried a lot of things to help the people and it was appreciated
 - Wonderful oratory voice
+
+**His Campaign**
+- He adresses the convention and gives a speech after being nominated
+- “I pledge you, I pledge myself to a new deal for the American people”
+	- HE never said what we h
+- Repeal prohibition
+- “The Forgotten Man”
+- “Roosevelt is Robust”
+- “Happy days are here again”
