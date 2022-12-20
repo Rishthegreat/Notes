@@ -175,3 +175,4 @@ Created: 12-16-2022
 - Hoover - Lame Duck President
 	- Roosevelt won’t cooperate with Hoover and does not want to be tied to his policies
 	- 20th Amendment - “lame duck amendment”
+	- Changed the inauguration day to Jan 20 because Hoover was still president during the worst time of the depression and Roosevelt did not want to be associated with Hoover’s policies until March
