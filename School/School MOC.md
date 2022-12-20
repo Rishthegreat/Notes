@@ -33,4 +33,4 @@ Laser Settings
 	- Old - 25/100/700 cut
 - 1/8 Acrylic
 	- 15/100/Chart cut
-	- default settings on 
+	- default settings on laser
