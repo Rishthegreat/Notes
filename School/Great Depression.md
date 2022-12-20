@@ -145,8 +145,12 @@ Created: 12-16-2022
 
 #### Franklin Delano Roosevelt (FDR)
 - From one of the wealthiest families in the US
+- Distant cousin of Teddy Roosevelt
 - Democratic Nominee
 - Paralyzed due to Polio in the 1920s
+	- People thought that he had suffered and they were suffering right now so he understands their 
 - Eleanor Roosevelt was his wife
+	- She was Teddy’s niece
+	- 3rd Cousin
 - Governor of NY- relief programs
 - Wonderful oratory voice
