@@ -29,6 +29,7 @@ from #assignments
 [[Projects]]
 
 Laser Settings
+Old Laser
 - 1/8 Wood
 	- Old - 25/100/700 cut
 - 1/8 Acrylic
