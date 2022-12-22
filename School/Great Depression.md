@@ -183,6 +183,7 @@ Created: 12-16-2022
 - There were many images taken during the Great Depression
 	- Dust Bowl
 		- Farmers did not rotate the crops well
+			- Overcultivation of the soil
 		- Top soil disappeared slowly
 		- Then droughts happened which made the soil very dry
 		- Then storms and tornadoes happened which caused a lot of wind erosion
