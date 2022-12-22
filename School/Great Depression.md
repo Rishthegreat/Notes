@@ -188,6 +188,7 @@ Created: 12-16-2022
 		- Then droughts happened which made the soil very dry
 		- Then storms and tornadoes happened which caused a lot of wind erosion
 	- People lining up to get their money from failing banks - people panicking
+	- People lining up outside unemployment offices
 	- Poorly built housing, called Hoovervilles
 	- - 
 	- People hanging on the side of trains because they need to migrate, but have no money to do so
