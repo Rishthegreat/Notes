@@ -204,3 +204,5 @@ Created: 12-16-2022
 		- They still were labor issues
 		- Sit-down strikes - People would show up to work and just do nothing and refuse to work and just occupy the factory
 	- Segregation was still prevalent
+	- Migrant camps
+		- Like a hoovervile, mostly in the west, but for farmers
