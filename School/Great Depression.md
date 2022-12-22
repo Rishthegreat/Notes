@@ -190,7 +190,9 @@ Created: 12-16-2022
 	- People lining up to get their money from failing banks - people panicking
 	- People lining up outside unemployment offices
 	- Poorly built housing, called Hoovervilles
-	- - 
+	- Pictures of hobos
+		- People who just wander around looking for jobs
+		- They also had their own codes
 	- People hanging on the side of trains because they need to migrate, but have no money to do so
 	- A lot of people lining up outside soup kitchens
 	- Many people lining up outside movie theatres in order to watch movies for entertainment
