@@ -198,5 +198,6 @@ Created: 12-16-2022
 		- “Riding the rails”
 	- A lot of people lining up outside soup kitchens and bread lines
 	- Many people lining up outside movie theatres in order to watch movies for entertainment
+		- #1 form of entertainment because they were cheap
 	- People protesting and demanding for work
 	- Segregation was still prevalent
