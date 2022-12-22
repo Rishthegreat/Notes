@@ -192,8 +192,10 @@ Created: 12-16-2022
 	- Poorly built housing, called Hoovervilles
 	- Pictures of hobos
 		- People who just wander around looking for jobs
-		- They also had their own codes
+		- They also had their own codes which allowed them to communicate
+			- They marked places to help other hobos
 	- People hanging on the side of trains because they need to migrate, but have no money to do so
+		- “Riding the rails”
 	- A lot of people lining up outside soup kitchens
 	- Many people lining up outside movie theatres in order to watch movies for entertainment
 	- People protesting and demanding for work
