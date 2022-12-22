@@ -198,6 +198,9 @@ Created: 12-16-2022
 		- “Riding the rails”
 	- A lot of people lining up outside soup kitchens and bread lines
 	- Many people lining up outside movie theatres in order to watch movies for entertainment
-		- #1 form of entertainment because they were cheap
-	- People protesting and demanding for work
+		- #1 form of entertainment because they were cheap and escapism
+		- 3rd leading industry in the US
+	- People protesting and strikes
+		- They still were labor issues
+		- Sit-down strikes - People would show up to work and just do nothing and refuse to work and just occupy the factory
 	- Segregation was still prevalent
