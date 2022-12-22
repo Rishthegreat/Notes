@@ -196,7 +196,7 @@ Created: 12-16-2022
 			- They marked places to help other hobos
 	- People hanging on the side of trains because they need to migrate, but have no money to do so
 		- “Riding the rails”
-	- A lot of people lining up outside soup kitchens
+	- A lot of people lining up outside soup kitchens and bread lines
 	- Many people lining up outside movie theatres in order to watch movies for entertainment
 	- People protesting and demanding for work
 	- Segregation was still prevalent
