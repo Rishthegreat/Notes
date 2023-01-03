@@ -235,4 +235,8 @@ Created: 12-16-2022
 	- Plus the thousands that failed in the previous years
 - Banking Holiday March 6 - March 10
 	- Closed all banks, examine the finances and reopen the banks that are not about to fail
-	- The main th
+	- The main thing that he was trying to do with this was to calm the public chaos and instill trust in the banks
+- Emergency Banking Relief Act
+	- Authorize governmnet authority to examine bank finances and reopen those judged to be sound
+- Glass Steagall Banking Reform Act
+	- Increased regulation of banks, limit how banks could invest customer’s money, separate commercial and investment banking
