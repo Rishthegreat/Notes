@@ -273,4 +273,5 @@ Created: 12-16-2022
 - **Public Works Administration (PWA)**
 	- Money to state and local government for building roads, bridges, dams, and other “public works” - $4 billion
 	- Harold Ickes, secretary of the interior
-		- 
+- **Tennessee Valley Authority (TVA)**
+	- Sen
