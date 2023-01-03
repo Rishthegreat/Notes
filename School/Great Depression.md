@@ -229,6 +229,7 @@ Created: 12-16-2022
 			- He was going to “war” against the Depression and needed more authority and power
 	- Progressive Legacy
 	- “Alphabet Soup” Agencies
+		- All the different programs c
 
 ##### Banking and Financial Programs
 - Over 5000 banks fail in 1933 alone
@@ -250,6 +251,9 @@ Created: 12-16-2022
 - Returns to limited gold standard for international trade (1934)
 	- $35 per ounce
 
-- FDR Fireside Chat
+- **FDR Fireside Chat**
 	- First one was on March 12, 1933
 	- Talks about the war, the the current situation and what the government plans to do
+
+- Beer-Wine Revenue Act
+- 21st Amendment was passed a few months later to repeal the 18th amendment
