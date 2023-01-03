@@ -279,4 +279,6 @@ Created: 12-16-2022
 	- They built dams, provided electricity, control flooding, replenish soil, etc
 	- Sold electricity at rates way below those of a private power company - federal corporation with private enterprise
 	- One of the most successful and controversial New Deal programs
-		- Critics - “Socialistic”
+		- Critics called it “Socialistic”
+		- Conservatives, republicans, and owners of private businesses hated this
+- ****
