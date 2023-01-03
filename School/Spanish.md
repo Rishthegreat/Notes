@@ -26,4 +26,6 @@ from #spanish
 Apuntes para los presentacion
 - recursos
 - Estados Unidos - modelo mas privado
-- Basico en Americano Latinabhbh
+- Basico en Americano Latina
+- Cuál sistema es mojor?
+	- El sistema en America Latina es mejor porque es más acessible y asequible. Para la gente en general, 
