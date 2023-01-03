@@ -28,4 +28,4 @@ Apuntes para los presentacion
 - Estados Unidos - modelo mas privado
 - Basico en Americano Latina
 - Cuál sistema es mojor?
-	- El sistema en America Latina es mejor porque es más acessible y asequible. En general, la gente no tiene tratamiento mucho avanzada porque no lo necesitan para common diseases y tratamientos. Si la gente necesitan algo como surgery, entonces,  
+	- El sistema en America Latina es mejor porque es más acessible y asequible. En general, la gente no tiene tratamiento mucho avanzada porque no lo necesitan para enfermedades comunes y tratamientos. Si la gente necesitan algo como cirugía, entonces, el tratamiento carro con doctores muy especialidas es bien.
