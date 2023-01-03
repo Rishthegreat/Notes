@@ -206,3 +206,4 @@ Created: 12-16-2022
 	- Segregation was still prevalent
 	- Migrant camps
 		- Like a hoovervile, mostly in the west, but for farmers
+		- Hooverviles were mostly metal, but migrant camps were tents
