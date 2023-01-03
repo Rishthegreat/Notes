@@ -295,6 +295,7 @@ Created: 12-16-2022
 	- Encourage farmers to reduce production by offering to pay government subsidies for acres not plowed
 	- Idea to Boost Prices and eliminate surplus
 	- Declared unconstitutional in 1936
-	- Highly controversial idea of destroying food in t
+	- Highly controversial idea of destroying food in the midst of a depression
 	- Secretary of Agriculture - Henry Wallace
 	- This hurts migrant farmers, tenant farmers, sharecroppers but helped farmers who owned land
+	- Declared unconstituional in 1936
