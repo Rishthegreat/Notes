@@ -26,3 +26,4 @@ from #spanish
 Apuntes para los presentacion
 - recursos
 - Estados Unidos - modelo mas privado
+- Basico en Americano Latinabhbh
