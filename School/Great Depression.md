@@ -229,7 +229,6 @@ Created: 12-16-2022
 			- He was going to “war” against the Depression and needed more authority and power
 	- Progressive Legacy
 	- “Alphabet Soup” Agencies
-		- All the different programs c
 
 ##### Banking and Financial Programs
 - Over 5000 banks fail in 1933 alone
@@ -257,3 +256,10 @@ Created: 12-16-2022
 
 - Beer-Wine Revenue Act
 - 21st Amendment was passed a few months later to repeal the 18th amendment
+
+#### Alphabet Soup Agencies
+- **Civilian Conservation Corps**
+	- Employed Young Men (18 to 25) on conservation projects on Federal Lands
+		- 3 Million people
+		- Very popular
+	- Paid the 
