@@ -209,6 +209,7 @@ Created: 12-16-2022
 		- Hooverviles were mostly metal, but migrant camps were tents
 
 #### FDR and the New Deal
+- A very big swing to the left to the liberal ideas
 - Any program or law to combat the Great Depression during the 10 year period by Roosevelt or Congress is refered to as the New Deal
 - Roosevelt is inaugarated on March 4th 1933
 - The 3 “R”
@@ -221,4 +222,9 @@ Created: 12-16-2022
 - The First Hundred Days
 	- Special Session of Congress
 	- Democratic majority in both houses
-	- Congress pass
+	- Congress passes into law every request of President
+	- Executive Leadership is enhanced
+		- Legislative authority to president
+		- Roosevelt greatly increased his power during this time period
+	- Progressive Legacy
+	- “Alphabet Soup” Agencies
