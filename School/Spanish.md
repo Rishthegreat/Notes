@@ -22,3 +22,5 @@ from #spanish
 3. No es obvio que todos estemos cansados
 4. No es cierto que tenga gripe
 5. Los niños no piensan que la escuela sea divertida
+
+Apuntes para los presentacion
