@@ -209,3 +209,5 @@ Created: 12-16-2022
 		- Hooverviles were mostly metal, but migrant camps were tents
 
 #### FDR and the New Deal
+- Any program or law to combat the Great Depression during the 10 year period by Roosevelt or Congress is refered to as the New Deal
+- Roosevelt is inaugarated on Mar
