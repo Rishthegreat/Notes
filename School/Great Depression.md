@@ -277,4 +277,6 @@ Created: 12-16-2022
 	- Senator George Norris of Nebraska
 	- Took one of the porrest region in the country and created a federally run power company called the Tennessee Valley Authority
 	- They built dams, provided electricity, control flooding, replenish soil, etc
-	- Sold electricity at rates way below those of a private power company - federal corporation with private enterprise 
+	- Sold electricity at rates way below those of a private power company - federal corporation with private enterprise
+	- One of the most successful and controversial New Deal programs
+		- Critics - “Socialistic”
