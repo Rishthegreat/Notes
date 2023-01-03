@@ -252,4 +252,4 @@ Created: 12-16-2022
 
 - FDR Fireside Chat
 	- First one was on March 12, 1933
-	- Talks about the war, the the current situation
+	- Talks about the war, the the current situation and what the government plans to do
