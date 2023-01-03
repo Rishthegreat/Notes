@@ -229,3 +229,10 @@ Created: 12-16-2022
 			- He was going to “war” against the Depression and needed more authority and power
 	- Progressive Legacy
 	- “Alphabet Soup” Agencies
+
+##### Banking and Financial Programs
+- Over 5000 banks fail in 1933 alone
+	- Plus the thousands that failed in the previous years
+- Banking Holiday March 6 - March 10
+	- Closed all banks, examine the finances and reopen the banks that are not about to fail
+	- The main th
