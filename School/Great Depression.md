@@ -264,4 +264,10 @@ Created: 12-16-2022
 		- Very popular
 	- Paid the families some money monthly
 	- Creative way to employ young men, support families, and improve the environment
-- **Federal**
+- **Federal Emergency Release Act (FERA)**
+	- $3 Billion in grants to State and local governmnet that were operating soup kitchens and other forms of relief to the jobless and the homeless
+	- “Cash Relief” - Direct Dole
+		- “Here is money because you are suffering”
+	- Harry Hopkins
+		- Friend and influential advisor of FDR
+
