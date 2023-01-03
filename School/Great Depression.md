@@ -207,3 +207,5 @@ Created: 12-16-2022
 	- Migrant camps
 		- Like a hoovervile, mostly in the west, but for farmers
 		- Hooverviles were mostly metal, but migrant camps were tents
+
+#### FDR and the New Deal
