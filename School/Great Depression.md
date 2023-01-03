@@ -210,4 +210,15 @@ Created: 12-16-2022
 
 #### FDR and the New Deal
 - Any program or law to combat the Great Depression during the 10 year period by Roosevelt or Congress is refered to as the New Deal
-- Roosevelt is inaugarated on Mar
+- Roosevelt is inaugarated on March 4th 1933
+- The 3 “R”
+	- Relief
+		- For People out of Work
+	- Recovery
+		- For Business and the Economy
+	- Reform
+		- Of American Economic Institutions
+- The First Hundred Days
+	- Special Session of Congress
+	- Democratic majority in both houses
+	- Congress pass
