@@ -274,4 +274,7 @@ Created: 12-16-2022
 	- Money to state and local government for building roads, bridges, dams, and other “public works” - $4 billion
 	- Harold Ickes, secretary of the interior
 - **Tennessee Valley Authority (TVA)**
-	- Sen
+	- Senator George Norris of Nebraska
+	- Took one of the porrest region in the country and created a federally run power company called the Tennessee Valley Authority
+	- They built dams, provided electricity, control flooding, replenish soil, etc
+	- Sold electricity at rates way below those of a private power company - federal corporation with private enterprise 
