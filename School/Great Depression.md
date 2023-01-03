@@ -233,14 +233,17 @@ Created: 12-16-2022
 ##### Banking and Financial Programs
 - Over 5000 banks fail in 1933 alone
 	- Plus the thousands that failed in the previous years
-- Banking Holiday March 6 - March 10
+- **Banking Holiday March 6 - March 10**
 	- Closed all banks, examine the finances and reopen the banks that are not about to fail
 	- The main thing that he was trying to do with this was to calm the public chaos and instill trust in the banks
-- Emergency Banking Relief Act
+- **Emergency Banking Relief Act**
 	- Authorize governmnet authority to examine bank finances and reopen those judged to be sound
-		- Although the government did not examine the finances of all the banks in the US, by saying that the sound banks were reopening, 
-- Glass Steagall Banking Reform Act
+		- Although the government did not examine the finances of all the banks in the US, by saying that the sound banks were reopening, it gave the people confidence
+- **Glass Steagall Banking Reform Act - lasted until the early 90s**
 	- Increased regulation of banks, limit how banks could invest customer’s money, separate commercial and investment banking
 	- Federal Deposit Insurance Corporation (FDIC)
 		- Insures individual deposits up to 5000 - restore bank confidence
-- April 18 - FDR abandons gold standard 
+- **April 18 - FDR abandons gold standard** 
+- “Managed Currency” by buying gold to increase prices
+	- Trying to create inflation
+- Returns to limited gold standard for international trade
