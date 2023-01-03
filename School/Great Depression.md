@@ -270,4 +270,7 @@ Created: 12-16-2022
 		- “Here is money because you are suffering”
 	- Harry Hopkins
 		- Friend and influential advisor of FDR
-
+- **Public Works Administration (PWA)**
+	- Money to state and local government for building roads, bridges, dams, and other “public works” - $4 billion
+	- Harold Ickes, secretary of the interior
+		- 
