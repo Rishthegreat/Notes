@@ -287,3 +287,6 @@ Created: 12-16-2022
 	- Voluntary Compliance of industries
 	- “Fair Competition”
 	- Workers right to organize and collectively bargain
+	- Extremely popular at first but too much self sacrifice needed for long term success
+	- Ruled unconstitutional by supreme court
+		- Sch
