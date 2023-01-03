@@ -238,5 +238,9 @@ Created: 12-16-2022
 	- The main thing that he was trying to do with this was to calm the public chaos and instill trust in the banks
 - Emergency Banking Relief Act
 	- Authorize governmnet authority to examine bank finances and reopen those judged to be sound
+		- Although the government did not examine the finances of all the banks in the US, by saying that the sound banks were reopening, 
 - Glass Steagall Banking Reform Act
 	- Increased regulation of banks, limit how banks could invest customer’s money, separate commercial and investment banking
+	- Federal Deposit Insurance Corporation (FDIC)
+		- Insures individual deposits up to 5000 - restore bank confidence
+- April 18 - FDR abandons gold standard 
