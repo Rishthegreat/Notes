@@ -281,4 +281,9 @@ Created: 12-16-2022
 	- One of the most successful and controversial New Deal programs
 		- Critics called it “Socialistic”
 		- Conservatives, republicans, and owners of private businesses hated this
-- ****
+- **National Recovery Administration (NRA)**
+	- Attempt to guarantee reasonable profits for business and fair wages and hours for labor
+	- Series of Coes for wages, work hours, production levels, and prices for each industry (over 200)
+	- Voluntary Compliance of industries
+	- “Fair Competition”
+	- Workers right to organize and collectively bargain
