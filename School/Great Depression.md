@@ -226,5 +226,6 @@ Created: 12-16-2022
 	- Executive Leadership is enhanced
 		- Legislative authority to president
 		- Roosevelt greatly increased his power during this time period
+			- He was going to “war” against the Depression and needed more authority and power
 	- Progressive Legacy
 	- “Alphabet Soup” Agencies
