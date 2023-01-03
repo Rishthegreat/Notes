@@ -243,7 +243,13 @@ Created: 12-16-2022
 	- Increased regulation of banks, limit how banks could invest customer’s money, separate commercial and investment banking
 	- Federal Deposit Insurance Corporation (FDIC)
 		- Insures individual deposits up to 5000 - restore bank confidence
-- **April 18 - FDR abandons gold standard** 
+- **April 18 - FDR abandons gold standard**
+	- Only for a year
 - “Managed Currency” by buying gold to increase prices
 	- Trying to create inflation
-- Returns to limited gold standard for international trade
+- Returns to limited gold standard for international trade (1934)
+	- $35 per ounce
+
+- FDR Fireside Chat
+	- First one was on March 12, 1933
+	- Talks about the war, the the current situation
