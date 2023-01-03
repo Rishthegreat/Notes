@@ -289,4 +289,8 @@ Created: 12-16-2022
 	- Workers right to organize and collectively bargain
 	- Extremely popular at first but too much self sacrifice needed for long term success
 	- Ruled unconstitutional by supreme court
-		- Sch
+		- Schechter vs USA
+		- Legislative powers to executive branch
+- **Agricultural Adjustment Act (AAA)**
+	- Encourage farmers to reduce production by offering to pay government subsidies for acres not plowed
+	- Idea to Boost Prices and eliminate surpl
