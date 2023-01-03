@@ -262,4 +262,6 @@ Created: 12-16-2022
 	- Employed Young Men (18 to 25) on conservation projects on Federal Lands
 		- 3 Million people
 		- Very popular
-	- Paid the 
+	- Paid the families some money monthly
+	- Creative way to employ young men, support families, and improve the environment
+- **Federal**
