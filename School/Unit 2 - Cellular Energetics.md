@@ -8,7 +8,9 @@ Created: 01-04-2023
 
 #### Enzyme Structure 3.1
 - Exergonic Reactions - Release energy by breaking chemical bonds of a large reactant and producing smaller produce
+- Endergonic Reactions - Absorb energy by forming chemical bonds of smaller reactants to produce a larger product
 	- Plant takes in light, water, and carbon dioxide and creates oxygen and glucose
+- 
 - -ase suffix is enzymes (Are proteins)
 
 #### Enzyme Catalysis 3.2
