@@ -12,7 +12,8 @@ Created: 01-04-2023
 	- Plant takes in light, water, and carbon dioxide and creates oxygen and glucose
 - Coupled reaction - When an endergonic reaction is powered by an exergonic reaction
 	- Production of Adenosine TriPhosphate (ATP)
-		- 
+	- OIL RIG
+		- Oxidation is less electrons, Reduction is gain electrons
 - -ase suffix is enzymes (Are proteins)
 
 #### Enzyme Catalysis 3.2
