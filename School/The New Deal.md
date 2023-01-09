@@ -97,3 +97,10 @@ Created: 01-09-2023
 	- Secretary of Agriculture - Henry Wallace
 	- This hurts migrant farmers, tenant farmers, sharecroppers but helped farmers who owned land
 	- Declared unconstituional in 1936
+
+#### Recession 1937-1938
+- 1933-1937
+	- Banks stabilize, business earning up, unemployment drops to 15%
+- Winter of 1937
+	- BAckward slide and recession
+- Attempt to balance budget
