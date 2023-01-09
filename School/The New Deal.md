@@ -116,5 +116,12 @@ Created: 01-09-2023
 #### End of the New Deal
 - In Roosevelt’s second term
 	- Fair Labor Standards Act is only major New Deal reform
-- Court Packing Fight
-	- 
+- Court Packing Fight causes FDR to lose influence
+- New Deal Legislation is blocked
+- Begin to divert attention towards international concerns
+
+#### American Life during the New Deal
+- **Women**
+	- More women seek work and the % of labor force increases
+	- Met with some criticism from men because they were taking away jobs from men
+	- Did no
