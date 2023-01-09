@@ -102,5 +102,12 @@ Created: 01-09-2023
 - 1933-1937
 	- Banks stabilize, business earning up, unemployment drops to 15%
 - Winter of 1937
-	- BAckward slide and recession
-- Attempt to balance budget
+	- Backward slide and recession
+- Attempt to balance budget, reduce debt
+
+- Roosevelt then philisophically changes his mind
+	- John Maynard Keynes
+	- Keynesian Economics
+	- Deficit Speding
+		- Acceptable in in times of need to “prime the pump”
+	- This changes FDR’s philosophy in 1938
