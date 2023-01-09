@@ -124,4 +124,11 @@ Created: 01-09-2023
 - **Women**
 	- More women seek work and the % of labor force increases
 	- Met with some criticism from men because they were taking away jobs from men
-	- Did no
+	- Did not earn the same amount
+	- Frances Perkins - Secretary of Labor - 1st women to head and executive office
+	- Eleanor Roosevelt
+		- She was a femenist
+		- She went to a boarding school
+		- Championed the poor and the oppressed
+- **African Americans**
+	- Last hire
