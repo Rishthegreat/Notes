@@ -140,7 +140,11 @@ Created: 01-09-2023
 		- Hired by a few and segregated
 	- Eleanor Roosevelt
 		- She provides moral support
+		- During WW2 she supported for African-Americans fighting in the war
 	- FDR provides some support
 		- He does not want to alienate his base of white southern democratic voters
 	- Federal Council of Negro Affairs
-		- Mary McLeod Bethine
+		- Not all new deal programs helped the African-Americans
+			- Many programs were run by white males who excluded them from recieving benefits
+		- Mary McLeod Bethune
+		- Increase role in federal government
