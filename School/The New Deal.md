@@ -112,3 +112,9 @@ Created: 01-09-2023
 	- Deficit Speding
 		- Acceptable in in times of need to “prime the pump”
 	- This changes FDR’s philosophy in 1938
+
+#### End of the New Deal
+- In Roosevelt’s second term
+	- Fair Labor Standards Act is only major New Deal reform
+- Court Packing Fight
+	- 
