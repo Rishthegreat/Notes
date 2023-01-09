@@ -176,9 +176,9 @@ Created: 01-09-2023
 	- Pro–Union
 		- It led to better working conditions, pay, benefits
 	- Increased Regulation
-		- Many big businesses argued that the government 
+		- Many big businesses argued that the government meddling slowed down the recovery from the depression
 - American Liberty League
-	- Largest anit-new deal organization
+	- Largest anti-new deal organization
 	- Anti-new Deal organization
 - “Failed to cure depression”
 
