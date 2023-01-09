@@ -153,3 +153,9 @@ Created: 01-09-2023
 	- Discrimination and new job competition from white migrants workers (okies, etc)
 		- Whites were perfered over mexicans
 	- Thousands of Mexican-Americans return to Mexico
+- **Native Americans**
+	- Bureau of Indian Affairs (1933)
+		- Headed by John Coiller
+	- Indian Reorganization Act (Wheeler Act)
+		- Returns land to tribes and supports preservations of Native African culture
+			- Dawes Act was still in effec
