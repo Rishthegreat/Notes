@@ -143,8 +143,13 @@ Created: 01-09-2023
 		- During WW2 she supported for African-Americans fighting in the war
 	- FDR provides some support
 		- He does not want to alienate his base of white southern democratic voters
+	-  Not all new deal programs helped the African-Americans
+		- Many programs were run by white males who excluded them from recieving benefits
 	- Federal Council of Negro Affairs
-		- Not all new deal programs helped the African-Americans
-			- Many programs were run by white males who excluded them from recieving benefits
 		- Mary McLeod Bethune
 		- Increase role in federal government
+- **Mexican Americans**
+	- Many worked as seasonal pickers
+	- Discrimination and new job competition from white migrants workers (okies, etc)
+		- Whites were perfered over mexicans
+	- Thousands of Mexican-Americans return to Mexico
