@@ -131,4 +131,16 @@ Created: 01-09-2023
 		- She went to a boarding school
 		- Championed the poor and the oppressed
 - **African Americans**
-	- Last hire
+	- Last hired, first fired
+	- High unemployment - around 50%
+		- Black sharecroppers
+			- These groups suffered
+		- Continued migration to northern cities
+	- Excluded from many local relief programs
+		- Hired by a few and segregated
+	- Eleanor Roosevelt
+		- She provides moral support
+	- FDR provides some support
+		- He does not want to alienate his base of white southern democratic voters
+	- Federal Council of Negro Affairs
+		- Mary McLeod Bethine
