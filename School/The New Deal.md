@@ -158,4 +158,12 @@ Created: 01-09-2023
 		- Headed by John Coiller
 	- Indian Reorganization Act (Wheeler Act)
 		- Returns land to tribes and supports preservations of Native African culture
-			- Dawes Act was still in effec
+			- Dawes Act was still in effect uptil now
+	- These are called the Indian New Deal
+
+#### New Deal Critics
+- Many claimed that the acts were Socialistic and Communistic
+- Creation of large federal bureaucracy
+	- US government as the largest employer
+	- Might be good or bad, but some people did not like it
+- Unconstitutional
