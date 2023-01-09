@@ -299,3 +299,4 @@ Created: 12-16-2022
 	- Secretary of Agriculture - Henry Wallace
 	- This hurts migrant farmers, tenant farmers, sharecroppers but helped farmers who owned land
 	- Declared unconstituional in 1936
+
