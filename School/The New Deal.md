@@ -166,4 +166,14 @@ Created: 01-09-2023
 - Creation of large federal bureaucracy
 	- US government as the largest employer
 	- Might be good or bad, but some people did not like it
-- Unconstitutional
+- Unconstitutional, violation of state rights
+	- FDR has too much power and a bully to courts and Congress
+		- Often people would refer to the court packing plan
+- National debt rises to $40 billion
+	- To much deficit spending
+- USA = welfare state
+- Business Concerns
+	- Pro–Union
+	- Increased Regulation
+- American Liberty League
+- 
