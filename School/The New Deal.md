@@ -174,6 +174,12 @@ Created: 01-09-2023
 - USA = welfare state
 - Business Concerns
 	- Pro–Union
+		- It led to better working conditions, pay, benefits
 	- Increased Regulation
+		- Many big businesses argued that the government 
 - American Liberty League
-- 
+	- Largest anit-new deal organization
+	- Anti-new Deal organization
+- “Failed to cure depression”
+
+- Many people argued that this undermined the US’s characters and relied too much on handouts. It makes people lazy and unwilling to work and just live off the money given by the government.
