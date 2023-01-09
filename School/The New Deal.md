@@ -103,7 +103,8 @@ Created: 01-09-2023
 	- Banks stabilize, business earning up, unemployment drops to 15%
 - Winter of 1937
 	- Backward slide and recession
-- Attempt to balance budget, reduce debt
+- Believes that the government should balance the budget and reduces the budget and limit federal spending, however, this backfires
+	- Depression within the depression
 
 - Roosevelt then philisophically changes his mind
 	- John Maynard Keynes
