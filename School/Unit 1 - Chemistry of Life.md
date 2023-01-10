@@ -155,4 +155,4 @@ Created: 11-15-2022
 	- DNA is usually double stranded while RNA is usually single stranded
 - Central Dogma
 	- DNA to RNA to Protein
-	- Genetic Code is comm
+	- Genetic Code is common to all organisms
