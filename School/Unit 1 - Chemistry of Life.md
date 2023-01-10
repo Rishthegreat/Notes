@@ -84,6 +84,8 @@ Created: 11-15-2022
 - When synthesizing nucleic acid polymers, nucleotides can only be added to the 3’ end
 	- ![[Pasted image 20221206200654.png|350]]
 
+
+
 #### Amino Acids
 - Proteins comprise linear chains of amino acids that ave directionality with an amino terminus and a carboxyl terminus
 	- ![[Pasted image 20221206201457.png|300]]
@@ -151,3 +153,6 @@ Created: 11-15-2022
 	- DNA contains deoxyribose sugar while RNA contains ribose sugar
 	- DNA contains thymine and RNA contains uracil
 	- DNA is usually double stranded while RNA is usually single stranded
+- Central Dogma
+	- DNA to RNA to Protein
+	- Genetic Code is comm
