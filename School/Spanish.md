@@ -29,3 +29,6 @@ Apuntes para los presentacion
 - Basico en Americano Latina
 - Cuál sistema es mejor?
 	- El sistema en America Latina es mejor porque es más acessible y asequible. En general, la gente no tiene tratamiento mucho avanzada porque no lo necesitan para enfermedades comunes. Si la gente necesitan algo como cirugía, entonces, el tratamiento carro con doctores muy especialidas es bien.
+
+
+En la escena hay cuatro personas infermidades o injured Antonio tiene u
