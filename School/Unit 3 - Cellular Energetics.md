@@ -21,6 +21,9 @@ Created: 01-04-2023
 #### Cellular Energy 3.4
 #### Photosynthesis 3.5
 #### Cellular Respiration 3.6
-- Cellular respiration involves a series of enzyme-catalyzed reactions that harvest free energy from simple carbohydrate
+- Cellular respiration involves a series of enzyme-catalyzed reactions that harvest free energy from simple carbohydrates
+
+
+
 #### Fitness 3.7
 
