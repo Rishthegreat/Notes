@@ -12,6 +12,6 @@ Created: 01-12-2023
 ##### Phospholipid bi-layer
 ![[Pasted image 20230112120120.png]]
 - The bilayer is in water and water is polar
-![[Pasted image 20230112120342.png]]
-
 - If you are polar, you cannot get through the phospholipid bilayer
+
+![[Pasted image 20230112120530.png|475]]
