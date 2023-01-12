@@ -28,7 +28,15 @@ Created: 01-04-2023
 2. [[Kreb’s Cycle]]
 3. [[Electron Transport Chain (ETC) and Oxydative Phosphorylation]]
 
-$O_2$ → The final $e^-$ acceptors
+- Total Summary
+	- Investment
+		- 1 Glucose
+		- Oxygen
+	- Payoff
+		- Water
+		- $CO_2$
+		- 36-38 ATP
+	- 
 
 #### Fitness 3.7
 

@@ -28,5 +28,5 @@ Created: 01-12-2023
 	- Oxygen
 - Payoff
 	- 28 ATP (28 to 34)
-		- You need to Add the 2 from Glycolysis and 2 from the Kreb’s cycle
+		- You need to Add the ATP from Glycolysis and ATP from the Kreb’s cycle
 	- $H_2O$
