@@ -17,3 +17,5 @@ Payoff -
 - 2NADH
 
 This is an oxidation reaction
+
+![[Pasted image 20230112112157.png|450]]
