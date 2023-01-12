@@ -20,3 +20,13 @@ Created: 01-12-2023
 - The energy from the electrons is used to pump protons into the intermembrane space, forming an elecrochemical gradient
 	- Moving hydogens without electrons (basically a proton) against the concentration gradient
 - Protons diffuse through ATP synthase (chemiosmosis), which uses the energy of the gradient to synthesize ATP from ADP. Thus type of ATP synthesis is called Oxydative Phosphorelation
+
+- ETC Summary
+- Investment
+	- 10 NADH
+	- 2 FADH_2
+	- Oxygen
+- Payoff
+	- 28 ATP (28 to 34)
+		- You need to Add the 2 from Glycolysis and 2 from the Kreb’s cycle
+	- 
