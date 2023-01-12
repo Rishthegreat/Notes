@@ -28,6 +28,9 @@ Created: 01-12-2023
 	- Mitochondrial DNA comes from maternal DNA
 		- mtDNA
 			- DNA that was passed down to you from your mother
+- ![[Pasted image 20230112114345.png|325]]
 - This reaction is only showing 1 cycle with 1 Acetyl CoA. 1 glucose will result in 2 of these cycles because 1 glucose molecule will produce 2 Acetyl CoA
 - This is all redox and coupled reactions
 	- Harnessing the available energy in glucose through the bonds in order to get ATP to do work like create proteins, divide, etc
+
+- The Kreb’s Cycle produced 2 APT through substrate-level phosphorylation (Must occur twice for one glucose to be consumed)
