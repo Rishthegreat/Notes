@@ -1,5 +1,5 @@
 Tags:
-Links: [[Unit 3 - Cellular Energetics]]
+Links: [[Unit 3 - Cellular Energetics]] [[Kreb’s Cycle]]
 
 ---
 Created: 01-12-2023
@@ -19,3 +19,6 @@ Payoff -
 This is an oxidation reaction
 
 ![[Pasted image 20230112112157.png|450]]
+
+- Now, what happens to the pyruvate?
+	- [[Kreb’s Cycle]]
