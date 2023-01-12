@@ -3,7 +3,7 @@ Links:
 
 ---
 Created: 01-12-2023
-# Electron Transport Chain (ETC)
+Electron Transport Chain (ETC) and Oxydative Phosphorylation
 ---
 
 ![[Pasted image 20230112114345.png|400]]
@@ -19,4 +19,4 @@ Created: 01-12-2023
 - The electrons are passed from one carrier to the next until they are ultimately accepted by oxygen, forming water (Oxygen is the final electron acceptor)
 - The energy from the electrons is used to pump protons into the intermembrane space, forming an elecrochemical gradient
 	- Moving hydogens without electrons (basically a proton) against the concentration gradient
-- Protons diffuse through ATP synthase (ch)
+- Protons diffuse through ATP synthase (chemiosmosis), which uses the energy of the gradient to synthesize ATP from ADP. Thus type of ATP synthesis is called Oxydative Phosphorelation
