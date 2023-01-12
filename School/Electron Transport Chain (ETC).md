@@ -10,3 +10,5 @@ Created: 01-12-2023
 - The folds in the mitochondria allow for Oxidative Phosphorelation. More surface area = more area for reactions
 
 ##### Phospholipid bi-layer
+![[Pasted image 20230112120120.png]]
+- The bilayer is in water and water is polar
