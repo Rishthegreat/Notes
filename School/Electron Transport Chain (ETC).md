@@ -18,4 +18,5 @@ Created: 01-12-2023
 - Electrons that were extracted in the [[Kreb’s Cycle]] are carried by $NADH$ and $FADH_2$ to the Electron Transport Chain
 - The electrons are passed from one carrier to the next until they are ultimately accepted by oxygen, forming water (Oxygen is the final electron acceptor)
 - The energy from the electrons is used to pump protons into the intermembrane space, forming an elecrochemical gradient
-	- Moving against the concentration gradient
+	- Moving hydogens without electrons (basically a proton) against the concentration gradient
+- Protons diffuse through ATP synthase (ch)
