@@ -22,5 +22,7 @@ Created: 01-12-2023
 
 **Kreb’s Cycle aka Citric Cycle aka TCA cycle**
 ![[Pasted image 20230112113052.png|300]]
+- This reaction is only showing 1 cycle with 1 Acetyl CoA. 1 glucose will result in 2 of these cycles because 1 glucose molecule will produce 2 Acetyl CoA
+- NAD and FAD
 - This is all redox and coupled reactions
 	- Harnessing the available energy in glucose through the bonds in order to get ATP to do work like create proteins, divide, etc
