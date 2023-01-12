@@ -3,7 +3,7 @@ Links:
 
 ---
 Created: 01-12-2023
-Electron Transport Chain (ETC) and Oxydative Phosphorylation
+# Electron Transport Chain (ETC) and Oxydative Phosphorylation
 ---
 
 ![[Pasted image 20230112114345.png|400]]
