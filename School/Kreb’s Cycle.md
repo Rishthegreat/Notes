@@ -20,4 +20,5 @@ Created: 01-12-2023
 	- 2 NADH
 	- 2 $CO_2$ (Waste product)
 
-**Kreb’s Cycle aka Citric Cycle aka **
+**Kreb’s Cycle aka Citric Cycle aka TCA cycle**
+![[Pasted image 20230112113052.png|300]]
