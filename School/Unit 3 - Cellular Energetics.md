@@ -23,7 +23,9 @@ Created: 01-04-2023
 #### Cellular Respiration 3.6
 - Cellular respiration involves a series of enzyme-catalyzed reactions that harvest free energy from simple carbohydrates
 
+[[Glycolysis]]
 
+$O_2$ → The final $e^-$ acceptors
 
 #### Fitness 3.7
 
