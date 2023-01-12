@@ -16,4 +16,4 @@ Created: 01-12-2023
 
 ![[Pasted image 20230112120530.png|475]]
 - Electrons that were extracted in the [[Kreb’s Cycle]] are carried by $NADH$ and $FADH_2$ to the Electron Transport Chain
-- The electrons are passed from one carrier to the next until they are ultimately accepted by 
+- The electrons are passed from one carrier to the next until they are ultimately accepted by oxygen, forming water (Oxygen is the final electron acceptor)
