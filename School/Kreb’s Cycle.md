@@ -34,3 +34,4 @@ Created: 01-12-2023
 	- Harnessing the available energy in glucose through the bonds in order to get ATP to do work like create proteins, divide, etc
 
 - The Kreb’s Cycle produced 2 APT through substrate-level phosphorylation (Must occur twice for one glucose to be consumed)
+	- The enzyme is bringing together ADP and Pi to make ATP
