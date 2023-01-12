@@ -22,3 +22,5 @@ Created: 01-12-2023
 
 **Kreb’s Cycle aka Citric Cycle aka TCA cycle**
 ![[Pasted image 20230112113052.png|300]]
+- This is all redox and coupled reactions
+	- Harnessing the available energy in glucose through the bonds in order to get ATP to do work like create proteins, divide, etc
