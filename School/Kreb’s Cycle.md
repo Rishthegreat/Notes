@@ -10,10 +10,14 @@ Created: 01-12-2023
 
 ![[Pasted image 20230112112543.png|375]]
 
-**Transition Reaction**
+**Transition Reaction (Linked)**
 - Investment
 	- 2 pyruvate
+		- Each glucose molecule produces 2 pyruvates
 
 - Payoff
 	- 2 Acetyl Coenzyme A
-	- 
+	- 2 NADH
+	- 2 $CO_2$ (Waste product)
+
+**Kreb’s Cycle aka Citric Cycle aka **
