@@ -36,7 +36,7 @@ Created: 01-04-2023
 		- Water
 		- $CO_2$
 		- 36-38 ATP
-	- 
+	- Yields 686 kcal energy per mole of glucose oxidized
 
 #### Fitness 3.7
 
