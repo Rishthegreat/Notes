@@ -3,7 +3,7 @@ Links:
 
 ---
 Created: 01-04-2023
-# Unit 2 - Cellular Energetics
+# Unit 3 - Cellular Energetics
 ---
 
 #### Enzyme Structure 3.1
@@ -21,5 +21,6 @@ Created: 01-04-2023
 #### Cellular Energy 3.4
 #### Photosynthesis 3.5
 #### Cellular Respiration 3.6
+- Cellular respiration involves a series of enzyme-catalyzed reactions that harvest free energy from simple carbohydrate
 #### Fitness 3.7
 

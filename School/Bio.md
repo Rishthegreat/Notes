@@ -8,7 +8,7 @@ tags: course
 
 ## Notes
 - [[Unit 1 - Chemistry of Life]]
-- [[Unit 2 - Cellular Energetics]]
+- [[Unit 3 - Cellular Energetics]]
 - [[Unit 7 - Natural Selection]]
 
 ## Assignments
