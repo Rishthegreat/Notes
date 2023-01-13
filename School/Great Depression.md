@@ -63,7 +63,7 @@ Created: 12-16-2022
 		- They could not sell the products because the people could not afford to buy it
 	- **Weak farm economy**
 		- Overproduction, high debt, low prices since WW1
-		- They were in massive debt and many were losing thier morgages
+		- They were in massive debt and many were losing their morgages
 			- 1 in 4 farmers lost it
 	- **Government Policies**
 		- Little to control or regulate business
