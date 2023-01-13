@@ -53,7 +53,7 @@ Created: 12-16-2022
 		- Buying on margin
 			- Buy stocks with loans from stockbrokers - only 10% of price paid by the person
 			- Margin call - brokers ask for money back with interest
-			- Federal Reserve Board ties to stop this practice, private corporations continue to loan to brokers
+			- Federal Reserve Board tries to stop this practice, private corporations continue to loan to brokers
 		- People being to loose everything that they had because they did not sell and they borrowed money and could not pay back the borrowed money
 	- **Excessive use of Credit**
 		- People were buying everything on installments that they could not pay back
