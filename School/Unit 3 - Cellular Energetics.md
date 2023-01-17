@@ -41,5 +41,10 @@ Created: 01-04-2023
 	- Yields 686 kcal energy per mole of glucose oxidized
 
 In the absense of oxygen, ATP production can still continue. This is called fermentation
+- 2 major types
+	- Lactic Acid Fermentations in Animals
+	- Ethanol (alcohol) Fermentation in Bacteria like yeast
+
+
 #### Fitness 3.7
 
