@@ -21,4 +21,4 @@ Created: 01-17-2023
 
 ![[Pasted image 20230117113843.png|375]]
 
-- Pyruvate is converted to Ethanol 
+- Pyruvate is converted to Ethanol instead of 
