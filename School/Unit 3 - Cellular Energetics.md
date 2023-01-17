@@ -23,6 +23,8 @@ Created: 01-04-2023
 #### Cellular Respiration 3.6
 - Cellular respiration involves a series of enzyme-catalyzed reactions that harvest free energy from simple carbohydrates
 
+![[Pasted image 20230117111751.png|475]]
+
 3 Steps to cellular respiration
 1. [[Glycolysis]]
 2. [[Kreb’s Cycle]]
