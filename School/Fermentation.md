@@ -21,4 +21,12 @@ Created: 01-17-2023
 
 ![[Pasted image 20230117113843.png|375]]
 
-- Pyruvate is converted to Ethanol instead of 
+- Pyruvate is converted to Ethanol instead of Lactic Acid
+
+**Summary**
+- Investment
+	- 1 glucose
+- Payoff
+	- 2 ATP
+	- 2 $CO_2$
+

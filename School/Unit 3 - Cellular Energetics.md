@@ -27,6 +27,7 @@ Created: 01-04-2023
 
 3 Steps to cellular respiration with oxygen (aerobic respiration)
 1. [[Glycolysis]]
+	1. Gly
 2. [[Kreb’s Cycle]]
 3. [[Electron Transport Chain (ETC) and Oxydative Phosphorylation]]
 
