@@ -27,7 +27,7 @@ Created: 01-04-2023
 
 3 Steps to cellular respiration with oxygen (aerobic respiration)
 1. [[Glycolysis]]
-	1. Glycolysis is really just anerobic, but the products can go into other processes like the Kreb’s cycle for aerobic respiration
+	1. Glycolysis is really just anaerobic, but the products can go into other processes like the Kreb’s cycle for aerobic respiration
 2. [[Kreb’s Cycle]]
 3. [[Electron Transport Chain (ETC) and Oxydative Phosphorylation]]
 
