@@ -25,7 +25,7 @@ Created: 01-04-2023
 
 ![[Pasted image 20230117111751.png|475]]
 
-3 Steps to cellular respiration
+3 Steps to cellular respiration with oxygen (aerobic respiration)
 1. [[Glycolysis]]
 2. [[Kreb’s Cycle]]
 3. [[Electron Transport Chain (ETC) and Oxydative Phosphorylation]]
@@ -40,5 +40,6 @@ Created: 01-04-2023
 		- 36-38 ATP
 	- Yields 686 kcal energy per mole of glucose oxidized
 
+In the absense of oxygen, ATP production can still continue. This is called fermentation
 #### Fitness 3.7
 
