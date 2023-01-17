@@ -19,3 +19,6 @@ Created: 01-17-2023
 
 #### Ethanol Fermentation
 
+![[Pasted image 20230117113843.png|375]]
+
+- Pyruvate is converted to Ethanol 
