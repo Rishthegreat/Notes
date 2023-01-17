@@ -9,3 +9,7 @@ Created: 01-17-2023
 - 2 major types
 	- Lactic Acid Fermentations in Animals
 	- Ethanol (alcohol) Fermentation in Bacteria like yeast
+
+![[Pasted image 20230117112919.png|400]]
+
+- Glucose is going to get converted to pyruvate and gets converted to lactic acid 
