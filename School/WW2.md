@@ -12,4 +12,8 @@ Created: 01-18-2023
 	- Tydings McDuffie Act - 1934
 		- Freedom for the Philippines after a 12 year period of economic and political tutelage
 		- US sold the Philippines because it was seen more of a burden because it was not very profitable and no longer seen as a need
-		- However, military bases are still kept in the Philippines and som
+		- However, military bases are still kept in the Philippines and some are still there today
+		- Although this frees the Philipines, Japan captures in WW2, the US recaptures and the Philippines 
+	- FDR recognizes the Soviet Union
+		- FDR felt that recognizing Moscow might bolster the US against Japan
+		- Maybe trade with the USSR would help the US economy during the Depression
