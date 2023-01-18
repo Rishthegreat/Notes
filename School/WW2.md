@@ -43,4 +43,10 @@ Created: 01-18-2023
 	- American Response
 		- Hoover-Stimson Doctrine
 			- If any nation takes land by force, the US will not recognize it
-- [[Treaty of Versailles]] created a lot of problems
+- [[Treaty of Versailles]] created a lot of problems 
+	-  it created a lot of new countries and other coutries like USSR and Germany did not like that they had lost some land
+	- Germany resented the economic debt and the blame that the world placed on it
+		- A lot of resentment against Britain and France
+		- As soon as they loose, the mentality was we will get them next time
+			- People like Hitler want revenge
+		- 
