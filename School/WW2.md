@@ -25,4 +25,12 @@ Created: 01-18-2023
 		- Resists intervention in Mexico in favor of settlement
 			- There was an oil in Mexico and FDR favors diplomatic measures rather than intervention
 		- Pan-American Conferences (1933, 1936)
-			- US attends 2 of them and FDR is very popular in Latin America because of him trying to 
+			- US attends 2 of them and FDR is very popular in Latin America because of him trying to be less imperialistic
+	- Reciprocal Trade Agreements - 1934
+		- Lower tariff rates 50% if other countries were willing to do so
+		- Does not need Senate approval
+			- After the Senate passed this, then 
+		- Reverse tradition of high protective tariff
+		- Secretary of State Cordell Hull
+		- 21 agreements by 1939
+		- Foreign Trade increases
