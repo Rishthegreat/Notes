@@ -65,4 +65,9 @@ Created: 01-18-2023
 - 1934-1936 Nye Committee Hearings
 	- Trying to find out why the US entered the War
 	- Came to the conclusion that the US entered the war because of the economic prosperity gained from the War
-- 
+- Neutrality Acts 1935, 1936, 1937
+	- When the president proclaimed the existence of a foreign war, certain restrictions would automatically go into effect
+		- Prohibited sales of arms to belligerent nations (1935)
+		- Forbade Americans to travel on vessels of nations at war (1935)
+		- Prohibited lans and credits to belligerent nations (1936)
+		- Banned involvement in the Spanish Civil War (1937)
