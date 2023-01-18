@@ -54,7 +54,7 @@ Created: 01-18-2023
 - The great depression devastated many countries
 	- People who are hungry, angry are much more likely to adopt radical ideas and restore themselves to “greatness”
 - Heavy nationalistic sentiment has not yet died down
-- Many totalitarism regimes come out
+- Many totalitarian regimes come out
 	- Italy - Mussolini
 	- Germany - Hitler
 	- Stalin - USSR
