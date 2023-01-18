@@ -58,4 +58,5 @@ Created: 01-18-2023
 	- Italy - Mussolini
 	- Germany - Hitler
 	- Stalin - USSR
-	- Japan
+	- Military - Japan
+		- They have no real natural resources and needed to expand 
