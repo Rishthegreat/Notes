@@ -50,6 +50,11 @@ Created: 01-18-2023
 		- As soon as they loose, the mentality was we will get them next time
 			- People like Hitler want revenge
 	- League of Nations was very ineffective
-		- All they do is condemn things and there is no real acts to prevent aggression or have consequences\
+		- All they do is condemn things and there is no real acts to prevent aggression or have consequences
 - The great depression devastated many countries
-	- People who are hungry, angry are much more likely to adopt radical ideas and restr
+	- People who are hungry, angry are much more likely to adopt radical ideas and restore themselves to “greatness”
+- Heavy nationalistic sentiment has not yet died down
+- Many totalitarism regimes come out
+	- Italy - Mussolini
+	- Germany - Hitler
+	- Stalin - USSR
