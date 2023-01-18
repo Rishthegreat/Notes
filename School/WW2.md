@@ -62,12 +62,15 @@ Created: 01-18-2023
 		- They have no real natural resources and needed to expand for foreign materials
 
 #### Events leading up to War
-- 1934-1936 Nye Committee Hearings
+- **1934-1936 Nye Committee Hearings**
 	- Trying to find out why the US entered the War
 	- Came to the conclusion that the US entered the war because of the economic prosperity gained from the War
-- Neutrality Acts 1935, 1936, 1937
+- **Neutrality Acts 1935, 1936, 1937**
+	- One way to prevent American entry into another war is to limit foreign trade during war
 	- When the president proclaimed the existence of a foreign war, certain restrictions would automatically go into effect
 		- Prohibited sales of arms to belligerent nations (1935)
 		- Forbade Americans to travel on vessels of nations at war (1935)
 		- Prohibited lans and credits to belligerent nations (1936)
 		- Banned involvement in the Spanish Civil War (1937)
+	- These acts limited the options of the president in a crisis
+	- American in the 1930s declined to build up its forces
