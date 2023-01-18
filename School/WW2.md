@@ -60,3 +60,9 @@ Created: 01-18-2023
 	- Stalin - USSR
 	- Military - Japan
 		- They have no real natural resources and needed to expand for foreign materials
+
+#### Events leading up to War
+- 1934-1936 Nye Committee Hearings
+	- Trying to find out why the US entered the War
+	- Came to the conclusion that the US entered the war because of the economic prosperity gained from the War
+- 
