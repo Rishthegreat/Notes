@@ -59,4 +59,4 @@ Created: 01-18-2023
 	- Germany - Hitler
 	- Stalin - USSR
 	- Military - Japan
-		- They have no real natural resources and needed to expand 
+		- They have no real natural resources and needed to expand for foreign materials
