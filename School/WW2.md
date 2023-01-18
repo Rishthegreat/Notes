@@ -58,3 +58,4 @@ Created: 01-18-2023
 	- Italy - Mussolini
 	- Germany - Hitler
 	- Stalin - USSR
+	- Japan
