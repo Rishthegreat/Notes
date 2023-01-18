@@ -7,4 +7,4 @@ Created: 01-18-2023
 ---
 
 #### International Events During 1930s
-[[London Economic Conference]]
+1933 - [[London Economic Conference]]
