@@ -13,7 +13,13 @@ Created: 01-18-2023
 		- Freedom for the Philippines after a 12 year period of economic and political tutelage
 		- US sold the Philippines because it was seen more of a burden because it was not very profitable and no longer seen as a need
 		- However, military bases are still kept in the Philippines and some are still there today
-		- Although this frees the Philipines, Japan captures in WW2, the US recaptures and the Philippines 
-	- FDR recognizes the Soviet Union
+		- Although this frees the Philipines, Japan captures in WW2, the US recaptures and the Philippines gained their independence in 1946
+	- FDR recognizes the Soviet Union - late 1933
 		- FDR felt that recognizing Moscow might bolster the US against Japan
 		- Maybe trade with the USSR would help the US economy during the Depression
+	- FDR’s “Good Neighbor” Policy
+		- Important to have all nations in the Western Hemisphere united in lei of foreign agressions
+		- Policy of non-intervention and cooperation
+		- Nullify Platt Amendment in Cuba in 1934
+		- Removes marines from HAiti relaxes grip on Panama
+		- Resists intervention 
