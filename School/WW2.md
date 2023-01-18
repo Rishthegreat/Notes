@@ -21,5 +21,8 @@ Created: 01-18-2023
 		- Important to have all nations in the Western Hemisphere united in lei of foreign agressions
 		- Policy of non-intervention and cooperation
 		- Nullify Platt Amendment in Cuba in 1934
-		- Removes marines from HAiti relaxes grip on Panama
-		- Resists intervention 
+		- Removes marines from Haiti and relaxes grip on Panama
+		- Resists intervention in Mexico in favor of settlement
+			- There was an oil in Mexico and FDR favors diplomatic measures rather than intervention
+		- Pan-American Conferences (1933, 1936)
+			- US attends 2 of them and FDR is very popular in Latin America because of him trying to 
