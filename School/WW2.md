@@ -74,6 +74,8 @@ Created: 01-18-2023
 		- Banned involvement in the Spanish Civil War (1937)
 	- These acts limited the options of the president in a crisis
 	- American in the 1930s declined to build up its forces
+	- FDR does not like these acts because he sees what Hitler is trying to do
+		- He feels that these acts will prevent him from
 - **1935 - Italy Attacks Ethiopia**
 	- The League of Nations does not do anything and just condemns Italy
 	- The United States does not do anything because the Neutrality Acts go into effect
