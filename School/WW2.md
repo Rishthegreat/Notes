@@ -40,3 +40,7 @@ Created: 01-18-2023
 #### Foreign Aggression in the 1930s
 - 1931 - Japan attacks Manchuria
 	- Japan kicks off the aggression with this attack
+	- American Response
+		- Hoover-Stimson Doctrine
+			- If any nation takes land by force, the US will not recognize it
+- [[Treaty of Versailles]] created a lot of problems
