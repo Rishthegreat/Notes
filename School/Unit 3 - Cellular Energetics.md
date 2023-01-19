@@ -29,7 +29,7 @@ Created: 01-04-2023
 - Light-dependent reactions
 	- Takes place in the Thylakoid membrane
 	- Light energy is captured by chloroplasts and stored as ATP
-	- These reaction
+	- These reactions bank electrons
 - Light-independent reactions aka Calvin Cycle
 	- Takes place in the Stroma
 	- ATP is used to create sugars that the plant will use to grow and live 
