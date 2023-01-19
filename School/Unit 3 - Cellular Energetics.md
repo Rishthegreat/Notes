@@ -35,6 +35,8 @@ Created: 01-04-2023
 
 ![[Unit 3 - Cellular Energetics 2023-01-19 12.00.04.excalidraw]]
 
+
+
 #### Cellular Respiration 3.6
 - Cellular respiration involves a series of enzyme-catalyzed reactions that harvest free energy from simple carbohydrates
 
