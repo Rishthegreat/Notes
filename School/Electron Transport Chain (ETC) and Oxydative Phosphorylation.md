@@ -36,6 +36,7 @@ Created: 01-12-2023
 	- Complex 4, the electrons attach themselves to oxygen which splits from O2 to 2 oygen ions and then this forms 2 water molecules
 
 - At this point there is a massive hydrogen gradient
+- ADP takes advantage of the hydrogen gradient and uses that energy to turn into ATP which has more energy that the body can use
 
 - ETC Summary
 - Investment
