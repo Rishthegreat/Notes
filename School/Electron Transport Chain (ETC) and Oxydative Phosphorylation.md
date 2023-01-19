@@ -24,6 +24,7 @@ Created: 01-12-2023
 - Protons diffuse through ATP synthase (chemiosmosis), which uses the energy of the gradient to synthesize ATP from ADP. Thus type of ATP synthesis is called Oxydative Phosphorylation
 
 ![[Electron Transport Chain (ETC) and Oxydative Phosphorylation 2023-01-19 11.32.27.excalidraw]]
+- 
 
 - ETC Summary
 - Investment
