@@ -27,7 +27,11 @@ Created: 01-04-2023
 
 2 main stages of photosynthesis
 - Light-dependent reactions
+	- Takes place in the Thylakoid membrane
+	- Light energy is captured by chloroplasts and stored as ATP
 - Light-independent reactions aka Calvin Cycle
+	- Takes place in the Stroma
+	- ATP is used to create suga
 
 #### Cellular Respiration 3.6
 - Cellular respiration involves a series of enzyme-catalyzed reactions that harvest free energy from simple carbohydrates
