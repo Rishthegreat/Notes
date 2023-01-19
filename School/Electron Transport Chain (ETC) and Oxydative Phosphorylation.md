@@ -6,6 +6,8 @@ Created: 01-12-2023
 # Electron Transport Chain (ETC) and Oxydative Phosphorylation
 ---
 
+- The goal of the ETC is to couple energy stored in electron acceptors to a proton gradient that drives ATP synthesi
+
 ![[Pasted image 20230112114345.png|400]]
 - The folds in the mitochondria allow for Oxidative Phosphorelation. More surface area = more area for reactions
 
