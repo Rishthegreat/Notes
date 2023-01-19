@@ -33,7 +33,9 @@ Created: 01-12-2023
 	- CoQ gives the electrons to complex 3
 	- This supercharges the complex and allows hydrogen to move against the gradient
 - In complex 4
-	- Complex 4 
+	- Complex 4, the electrons attach themselves to oxygen which splits from O2 to 2 oygen ions and then this forms 2 water molecules
+
+- At this point there is a massive hydrogen gradient
 
 - ETC Summary
 - Investment
