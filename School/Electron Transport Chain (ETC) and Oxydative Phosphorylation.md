@@ -24,6 +24,7 @@ Created: 01-12-2023
 - Protons diffuse through ATP synthase (chemiosmosis), which uses the energy of the gradient to synthesize ATP from ADP. Thus type of ATP synthesis is called Oxydative Phosphorylation
 
 ![[Electron Transport Chain (ETC) and Oxydative Phosphorylation 2023-01-19 11.32.27.excalidraw]]
+- All the shapes are different protein complexes
 - In complex 1
 	- NADH gives its electrons to complex 1 and then they are given to CoQ
 	- This supercharges the complex and allows hydrogen to move against the gradient
