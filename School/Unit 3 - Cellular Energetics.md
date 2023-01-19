@@ -23,6 +23,12 @@ Created: 01-04-2023
 
 - Taking solar photon energy and converting it into chemical energy
 
+![[Pasted image 20230119115322.png|425]]
+
+2 main stages of photosynthesis
+- Light-dependent reactions
+- Light-independent reactions aka Calvin Cycle
+
 #### Cellular Respiration 3.6
 - Cellular respiration involves a series of enzyme-catalyzed reactions that harvest free energy from simple carbohydrates
 
