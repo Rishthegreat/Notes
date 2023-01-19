@@ -10,7 +10,7 @@ Created: 01-12-2023
 
 ![[Pasted image 20230112112543.png|375]]
 
-**Transition Reaction (Linked)**
+**Transition Reaction (Linked Reaction)**
 - Takes place in the mitochondrial matrix
 - Investment
 	- 2 pyruvate
