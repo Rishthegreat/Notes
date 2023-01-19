@@ -26,6 +26,14 @@ Created: 01-12-2023
 ![[Electron Transport Chain (ETC) and Oxydative Phosphorylation 2023-01-19 11.32.27.excalidraw]]
 - In complex 1
 	- NADH gives its electrons to complex 1 and then they are given to CoQ
+	- This supercharges the complex and allows hydrogen to move against the gradient
+- In complex 2
+	- FADH gives its electrons to complex 2 and then they are given to CoQ
+- In complex 3
+	- CoQ gives the electrons to complex 3
+	- This supercharges the complex and allows hydrogen to move against the gradient
+- In complex 4
+	- Complex 4 
 
 - ETC Summary
 - Investment
