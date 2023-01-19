@@ -20,6 +20,9 @@ Created: 01-04-2023
 #### Environmental Impacts on Enzyme Function 3.3
 #### Cellular Energy 3.4
 #### Photosynthesis 3.5
+
+- Taking solar photon energy and converting it into chemical energy
+
 #### Cellular Respiration 3.6
 - Cellular respiration involves a series of enzyme-catalyzed reactions that harvest free energy from simple carbohydrates
 
