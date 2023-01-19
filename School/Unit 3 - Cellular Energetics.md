@@ -31,7 +31,7 @@ Created: 01-04-2023
 	- Light energy is captured by chloroplasts and stored as ATP
 - Light-independent reactions aka Calvin Cycle
 	- Takes place in the Stroma
-	- ATP is used to create suga
+	- ATP is used to create sugars that the plant will use to grow and live 
 
 #### Cellular Respiration 3.6
 - Cellular respiration involves a series of enzyme-catalyzed reactions that harvest free energy from simple carbohydrates
