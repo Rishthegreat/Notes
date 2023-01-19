@@ -34,7 +34,18 @@ Created: 01-04-2023
 	- ATP is used to create sugars that the plant will use to grow and live 
 
 ![[Unit 3 - Cellular Energetics 2023-01-19 12.00.04.excalidraw]]
-
+- Plant Structure
+	- Chloroplasts
+		- Double membrane
+		- Stromata
+			- fluid-filled interior
+		- Thylakoid Sacs
+		- Grana Stacks
+	- Thylakoid membrane contains
+		- Chlorophyll molucles
+		- Electron transport chain
+		- ATP synthase
+			- $H^+$ gradient built up within thylakoid sac 
 
 
 #### Cellular Respiration 3.6
