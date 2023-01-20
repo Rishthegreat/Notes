@@ -125,4 +125,7 @@ Created: 01-18-2023
 - Many people wanted Germany and Austria to be together
 - Hitler marches the army into Austria and Germany and Austria become united
 **1938 - The Munich Agreement**
-- This leads to a conference in M
+- Hitler wanted the Sudetenland (Part of Czechoslovakia)
+- Munich Agreement in September of 1938
+	- Czechoslovakia not invited
+	- British Prime Minister Neville Chamberlain
