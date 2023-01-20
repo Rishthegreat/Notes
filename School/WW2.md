@@ -78,5 +78,9 @@ Created: 01-18-2023
 		- He feels that these acts will prevent him from excersising his power during war
 		- Since the public still does not want to enter, he wants to maintain public support and allows this to happen
 - **1935 - Italy Attacks Ethiopia**
-	- The League of Nations does not do anything and just condemns Italy
+	- The League of Nations does not do anything and just condemns Italy, but their are no sanctions to stop this
 	- The United States does not do anything because the Neutrality Acts go into effect
+	- Some would say that the United States helped the aggressors because they knew that the US would not get involved
+- **1936 - Rome - Berlin Axis**
+	- The “Pact of Steel”
+	- Formal alliance between M
