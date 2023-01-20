@@ -145,5 +145,13 @@ Created: 01-18-2023
 ##### US During These Events
 - During [[WW1]], there was some support for the Germans due to immigrants from those areas
 	- However, in WW2 there was an overwhelmingly negative response to the actions of Germany and Japan
-- Avoiding the Neutrality Acts
-	- FDR persuades Congress in special session to allow the US to aid European democracies in 
+- Avoiding the original Neutrality Acts
+	- FDR persuades Congress in special session to allow the US to aid European democracies in a limited way
+		- The US could sell weapons to the European democracies on a “cash-and-carry” basis
+		- FDR was authorized to proclaim danger zones which US ships and citizens could not enter
+
+**The Phoney War**
+- This phoney war ends in Spring 1940
+
+- Germany then invades Norway and Demark
+- Then they invade Belgium and N
