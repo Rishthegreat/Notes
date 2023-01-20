@@ -160,4 +160,13 @@ Created: 01-18-2023
 	- This awakes the US’s isolationist sentiment
 		- They were scared that if Britain falls next, then Germany would attack next
 
-- **1940 - Selective Ser**
+- **1940 - Selective Service Act**
+	- Registration for all Americans 21 and 35
+	- Training for 1.2 Million Troops
+	- Nation’s first peacetime draft
+	- America needs supplies - $37 billion to build airfleets, navy, etc
+		- This is also stimulating the economy and getting the US out of the Great Depression
+
+- Isolationists were called the “America First”
+	- They were mostly Republicans
+	- 
