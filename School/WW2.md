@@ -113,4 +113,8 @@ Created: 01-18-2023
 	- December 12 1937
 	- Japan bombed USS Panay gunbaot and three STandard Oil tankers on the Yangtze River - an international waterway
 	- Japan apologized, paid US an indemnity, and promised no further attacks
-	- 
+	- Most Americans were satisfied with the apology
+		- This showed that the US will not interfere
+
+##### 1936 - Germany Invades the Rhineland
+- 
