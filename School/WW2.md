@@ -109,18 +109,20 @@ Created: 01-18-2023
 	- We need to quarantine aggression and the US needs to take a larger role in quarantining agression
 	- The public did not like this because they were scared that it would lead the US into another war
 	- FDR had to tone it down
-- **1937 - Pannay Incident**
-	- December 12 1937
-	- Japan bombed USS Panay gunbaot and three STandard Oil tankers on the Yangtze River - an international waterway
-	- Japan apologized, paid US an indemnity, and promised no further attacks
-	- Most Americans were satisfied with the apology
-		- This showed that the US will not interfere
+	- **1937 - Pannay Incident**
+		- December 12 1937
+		- Japan bombed USS Panay gunbaot and three STandard Oil tankers on the Yangtze River - an international waterway
+		- Japan apologized, paid US an indemnity, and promised no further attacks
+		- Most Americans were satisfied with the apology
+			- This showed that the US will not interfere
 
 **1936 - Germany Invades the Rhineland**
 - March 7, 1936
 - Hitler remilitarizes this region with the German army
-
 **1938 - The Austrian Anschluss**
 - March 1938
 - Hitler was born in Austria
-- Hitler marches the army into Austria and Germany and 
+- Many people wanted Germany and Austria to be together
+- Hitler marches the army into Austria and Germany and Austria become united
+**1938 - The Munich Agreement**
+- This leads to a conference in M
