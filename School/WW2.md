@@ -97,7 +97,7 @@ Created: 01-18-2023
 			- Hitler does not aid Spain during WW2 and Spain does not join the war
 			- Hitler did not like Franco
 
-##### July 1937 - Japanese Invasion of China
+- **July 1937 - Japanese Invasion of China**
 - Their initial attack was named the “Rape of Nanking”
 - They famously made Korean women prostitutes for the army during WW2
 - Sometimes this war is called the start of WW2 in Asia
@@ -141,3 +141,5 @@ Created: 01-18-2023
 	- Germany attack first using their lightning speed tactic called Blitzkrieg
 	- 2 weeks later, the Soviets attacks Poland
 	- They end up splitting up Poland
+- During [[WW1]], there was some support for the Germans due to immigrants from those areas
+	- However,
