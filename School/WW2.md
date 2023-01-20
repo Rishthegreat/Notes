@@ -135,4 +135,4 @@ Created: 01-18-2023
 - **1939 - The Nazi-Soviet Non-Aggression Pact**
 	- August 1939
 	- Hitler and Stalin did not like each other
-	- 
+	- They said that it was mutually benef
