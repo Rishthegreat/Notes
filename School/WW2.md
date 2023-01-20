@@ -107,3 +107,10 @@ Created: 01-18-2023
 - Initially FDR does not declare this a war so he could give aid to the Chinese
 - FDR’s Quarantine Speech - 1937
 	- We need to quarantine aggression and the US needs to take a larger role in quarantining agression
+	- The public did not like this because they were scared that it would lead the US into another war
+	- FDR had to tone it down
+- **1937 - Pannay Incident**
+	- December 12 1937
+	- Japan bombed USS Panay gunbaot and three STandard Oil tankers on the Yangtze River - an international waterway
+	- Japan apologized, paid US an indemnity, and promised no further attacks
+	- 
