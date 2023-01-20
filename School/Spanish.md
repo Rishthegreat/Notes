@@ -31,4 +31,7 @@ Apuntes para los presentacion
 	- El sistema en America Latina es mejor porque es más acessible y asequible. En general, la gente no tiene tratamiento mucho avanzada porque no lo necesitan para enfermedades comunes. Si la gente necesitan algo como cirugía, entonces, el tratamiento carro con doctores muy especialidas es bien.
 
 
-- Hay 8
+- Hay 8 personas infermadades en la sala de espera
+	- tres persona leyendo
+	- Una persona con muletas
+	- Un nino juga
