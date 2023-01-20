@@ -154,4 +154,10 @@ Created: 01-18-2023
 - This phoney war ends in Spring 1940
 
 - Germany then invades Norway and Demark
-- Then they invade Belgium and N
+- Then they invade Belgium and Netherlands
+- Then they invade France
+	- France surrenders June 1940
+	- This awakes the US’s isolationist sentiment
+		- They were scared that if Britain falls next, then Germany would attack next
+
+- **1940 - Selective Ser**
