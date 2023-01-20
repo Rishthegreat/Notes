@@ -135,4 +135,9 @@ Created: 01-18-2023
 - **1939 - The Nazi-Soviet Non-Aggression Pact**
 	- August 1939
 	- Hitler and Stalin did not like each other
-	- They said that it was mutually benef
+	- They said that it was mutually beneficial to each other
+- **1939 - Germany Invades Poland**
+	- September 1, 1939
+	- Germany attack first using their lightning speed tactic called Blitzkrieg
+	- 2 weeks later, the Soviets attacks Poland
+	- They end up splitting up Poland
