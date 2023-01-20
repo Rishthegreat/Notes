@@ -167,6 +167,9 @@ Created: 01-18-2023
 	- America needs supplies - $37 billion to build airfleets, navy, etc
 		- This is also stimulating the economy and getting the US out of the Great Depression
 
-- Isolationists were called the “America First”
+- Isolationists were called the “America First” Committe
 	- They were mostly Republicans
-	- 
+	- Charles Lindbergh was one of the people leading this movement
+	- They believed that any type of aid to the allies would bring the US closer to the war
+- Groups that opposed this committee were called Destroyers for Bases
+	- 50 old
