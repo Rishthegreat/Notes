@@ -77,6 +77,8 @@ Created: 01-18-2023
 	- FDR does not like these acts because he sees what Hitler is trying to do
 		- He feels that these acts will prevent him from excersising his power during war
 		- Since the public still does not want to enter, he wants to maintain public support and allows this to happen
+
+##### 
 - **1935 - Italy Attacks Ethiopia**
 	- The League of Nations does not do anything and just condemns Italy, but their are no sanctions to stop this
 	- The United States does not do anything because the Neutrality Acts go into effect
@@ -89,4 +91,6 @@ Created: 01-18-2023
 		- They were a little bit socialistic
 	- Francisco Franco starts a revolution
 	- Since this was a Civil War, the US aids the Spanish government to fight against the facist revolution
-	- Congress finds out and they go nuts, so the neutrality acts are amended so that the US cannot 
+	- Congress finds out and they go nuts, so the neutrality acts are amended so that the US cannot give aid
+	- Franco wins the Civil War
+		- He stays in power 
