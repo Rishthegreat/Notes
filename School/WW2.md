@@ -102,4 +102,8 @@ Created: 01-18-2023
 - They famously made Korean women prostitutes for the army during WW2
 - Sometimes this war is called the start of WW2 in Asia
 - There is a Civil War in China at this moment in time
-	- They stopped the Civil War and 
+	- They stopped the Civil War to defend China
+	- They continued their War after the Civil War
+- Initially FDR does not declare this a war so he could give aid to the Chinese
+- FDR’s Quarantine Speech - 1937
+	- We need to quarantine aggression and the US needs to take a larger role in quarantining agression
