@@ -116,16 +116,18 @@ Created: 01-18-2023
 		- Most Americans were satisfied with the apology
 			- This showed that the US will not interfere
 
-**1936 - Germany Invades the Rhineland**
-- March 7, 1936
-- Hitler remilitarizes this region with the German army
-**1938 - The Austrian Anschluss**
-- March 1938
-- Hitler was born in Austria
-- Many people wanted Germany and Austria to be together
-- Hitler marches the army into Austria and Germany and Austria become united
-**1938 - The Munich Agreement**
-- Hitler wanted the Sudetenland (Part of Czechoslovakia)
-- Munich Agreement in September of 1938
-	- Czechoslovakia not invited
-	- British Prime Minister Neville Chamberlain
+- **1936 - Germany Invades the Rhineland**
+	- March 7, 1936
+	- Hitler remilitarizes this region with the German army
+- **1938 - The Austrian Anschluss**
+	- March 1938
+	- Hitler was born in Austria
+	- Many people wanted Germany and Austria to be together
+	- Hitler marches the army into Austria and Germany and Austria become united
+- **1938 - The Munich Agreement**
+	- Hitler wanted the Sudetenland (Part of Czechoslovakia)
+	- Munich Agreement in September of 1938
+		- Czechoslovakia not invited
+		- British Prime Minister Neville Chamberlain led this and he was celebrated at that time for this agreement for “peace in our time”
+		- Soon leads to appeasement
+	- Czechoslovakia becomes part of the Third Reich in March 1939
