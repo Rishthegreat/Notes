@@ -131,3 +131,8 @@ Created: 01-18-2023
 		- British Prime Minister Neville Chamberlain led this and he was celebrated at that time for this agreement for “peace in our time”
 		- Soon leads to appeasement
 	- Czechoslovakia becomes part of the Third Reich in March 1939
+		- After this, Britain and France said that if Hitler invades Poland, they would declare war
+- **1939 - The Nazi-Soviet Non-Aggression Pact**
+	- August 1939
+	- Hitler and Stalin did not like each other
+	- 
