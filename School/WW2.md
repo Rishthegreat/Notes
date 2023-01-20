@@ -83,4 +83,10 @@ Created: 01-18-2023
 	- Some would say that the United States helped the aggressors because they knew that the US would not get involved
 - **1936 - Rome - Berlin Axis**
 	- The “Pact of Steel”
-	- Formal alliance between M
+	- Formal alliance between Mussolini and Hitler
+- **1936 - 1939 The Spanish Civil War**
+	- The Spanish had a democratic government
+		- They were a little bit socialistic
+	- Francisco Franco starts a revolution
+	- Since this was a Civil War, the US aids the Spanish government to fight against the facist revolution
+	- Congress finds out and they go nuts, so the neutrality acts are amended so that the US cannot 
