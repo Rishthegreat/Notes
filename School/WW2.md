@@ -172,4 +172,4 @@ Created: 01-18-2023
 	- Charles Lindbergh was one of the people leading this movement
 	- They believed that any type of aid to the allies would bring the US closer to the war
 - Groups that opposed this committee were called Destroyers for Bases
-	- 50 old
+	- They wanted to do everything to help the British because they believed that if they fall, then the Nazis would come and destroy them
