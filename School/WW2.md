@@ -141,5 +141,9 @@ Created: 01-18-2023
 	- Germany attack first using their lightning speed tactic called Blitzkrieg
 	- 2 weeks later, the Soviets attacks Poland
 	- They end up splitting up Poland
+
+##### US During These Events
 - During [[WW1]], there was some support for the Germans due to immigrants from those areas
-	- However,
+	- However, in WW2 there was an overwhelmingly negative response to the actions of Germany and Japan
+- Avoiding the Neutrality Acts
+	- FDR persuades Congress in special session to allow the US to aid European democracies in 
