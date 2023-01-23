@@ -43,7 +43,7 @@ Created: 01-04-2023
 		- Thylakoid Sacs
 		- Grana Stacks
 	- Thylakoid membrane contains
-		- Chlorophyll molucles
+		- Chlorophyll molecules
 		- Electron transport chain
 		- ATP synthase
 			- $H^+$ gradient built up within thylakoid sac
