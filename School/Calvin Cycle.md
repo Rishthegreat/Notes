@@ -19,3 +19,5 @@ Created: 01-23-2023
 ##### C3 Pathway
 - This pathway came first in evolution
 ![[Pasted image 20230123113916.png|275]]
+- NADPH is like a dump truck for electrons
+	- It takes an electr
