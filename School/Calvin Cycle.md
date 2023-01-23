@@ -28,4 +28,4 @@ Created: 01-23-2023
 ![[Pasted image 20230123114812.png|475]]
 - Rubisco (enzyme)
 	- Fixes carbon to the RuBP
-- 
+- At the end, of the 12 G#
