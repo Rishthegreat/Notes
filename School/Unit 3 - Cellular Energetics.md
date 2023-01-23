@@ -49,7 +49,8 @@ Created: 01-04-2023
 			- $H^+$ gradient built up within thylakoid sac
 
 ![[Pasted image 20230119121225.png|425]]
-
+- Photolysis
+	- Using light to break apart water in order to provide the electrons and oxygens needed for the entire process
 
 #### Cellular Respiration 3.6
 - Cellular respiration involves a series of enzyme-catalyzed reactions that harvest free energy from simple carbohydrates
