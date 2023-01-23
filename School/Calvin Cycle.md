@@ -8,7 +8,7 @@ Created: 01-23-2023
 
 ![[Unit 3 - Cellular Energetics 2023-01-19 12.00.04.excalidraw]]
 ![[Pasted image 20230119121225.png|475]]
-![[Pasted image 20230123114812.png|450]]
+![[Pasted image 20230123114812.png|475]]
 - Takes place in the liquidy part called stroma
 - 3 Different pathways
 	- C3 Plant - [[Calvin Cycle#C3 Pathway]]
