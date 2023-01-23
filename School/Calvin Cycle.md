@@ -1,5 +1,5 @@
 Tags:
-Links: 
+Links: [[Unit 3 - Cellular Energetics]]
 
 ---
 Created: 01-23-2023
@@ -18,4 +18,4 @@ Created: 01-23-2023
 
 ##### C3 Pathway
 - This pathway came first in evolution
-- 
+![[Pasted image 20230123113916.png|275]]
