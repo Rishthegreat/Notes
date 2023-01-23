@@ -18,14 +18,14 @@ Created: 01-23-2023
 
 ##### C3 Pathway
 - This pathway came first in evolution
-![[Pasted image 20230123113916.png|275]]
-- MAterials Needed
+- Materials Needed
 	- $CO_2$
 	- $NADPH$
 		- $NADPH$ is like a dump truck for electrons
 	- $H_2O$
+	- RuBP
 
 ![[Pasted image 20230123114812.png|475]]
 - Rubisco (enzyme)
 	- Fixes carbon to the RuBP
-- At the end, of the 12 G#
+- At the end, of the 12 G3Ps, 2 of them are used to create a glucose molecule and the rest of the 10 are used to recreate 6 RuBP to keep the cycle going
