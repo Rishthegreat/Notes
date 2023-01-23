@@ -24,3 +24,7 @@ Created: 01-23-2023
 	- $NADPH$
 		- $NADPH$ is like a dump truck for electrons
 	- $H_2O$
+
+![[Pasted image 20230123114812.png|475]]
+- Rubisco (enzyme)
+	- Fixes carbon to the RuBP
