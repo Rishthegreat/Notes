@@ -25,4 +25,4 @@ Created: 01-23-2023
 	- Using light to break apart water in order to provide the electrons and oxygens needed for the entire process
 	- Provides the fuel in the ETC
 
-- Next comes the 
+- Next comes the [[Calvin Cycle]] that produces glucose
