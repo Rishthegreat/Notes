@@ -209,6 +209,7 @@ Created: 01-18-2023
 	- This is seen as “why we are eventually going to go to war, but not yet”
 
 - **“Lend-Lease” Act - 1941**
+	- The British were now broke and unable to “buy” supplies from the US
 	- US should just give Britain supplies and they can give it back later
 		- FDR knew that they would probably not be able to give it back but he still wanted to help
 	- “We should be an arsenal of democracy”
@@ -217,3 +218,4 @@ Created: 01-18-2023
 	- Very controverial and isolations viewed it as bringing US closer to war
 	- This is kind of like declaring economic war on Germany
 	- Germany begins to sink US ships
+		- Initially Hitler does not want to bring the US into the war, but now he does because US was helping the British
