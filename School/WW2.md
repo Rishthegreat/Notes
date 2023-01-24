@@ -236,3 +236,6 @@ Created: 01-18-2023
 	- September - Shoot on Sight
 		- Even if the Germans do not fire first, US ships can fire on German ships
 
+- **Japanese Expansion**
+	- When Japan takes over
+	- Summer of 1940, Japan attacks 
