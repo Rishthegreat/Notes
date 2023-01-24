@@ -197,4 +197,12 @@ Created: 01-18-2023
 	- Republicans nominated Wendell Willkie
 		- He was a recently converted Republicans and had similar foreign ideas to FDR
 		- His main problem with FDR is him running for 3rd term
+	- Roosevelt and Willkie respected each other
 
+- **Four Freedoms Speech - FDR**
+	- Gave this speech after he won the election
+	- The 4 freedoms are - 
+		- Speech
+		- Religion
+		- Freedom from fear
+		- Freedom from want
