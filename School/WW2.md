@@ -232,4 +232,7 @@ Created: 01-18-2023
 	- Anyone who signs the charter would join the allies
 
 - **July 1941 - Convoy Lend Lease Supplies**
-	- September
+	- However, even despite this, US ships still got sunk
+	- September - Shoot on Sight
+		- Even if the Germans do not fire first, US ships can fire on German ships
+
