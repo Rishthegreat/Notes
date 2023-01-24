@@ -179,4 +179,6 @@ Created: 01-18-2023
 	- Summer 1940
 	- They began to bomb strategic military bases to scare the public and then soon began to bomb major cities like London
 	- Winston Churchill emerges as the hero
+	- The RAF used new technology like the advances in radar to shoot down the German air forces, so Britain won the Battle of Britain and Germany never launched a full invasion of Britain
+	- This battle shows the desperation of the battle as Britain was reall
 
