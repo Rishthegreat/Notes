@@ -206,3 +206,9 @@ Created: 01-18-2023
 		- Religion
 		- Freedom from fear
 		- Freedom from want
+	- This is seen as “why we are eventually going to go to war, but not yet”
+
+- **“Lend-Lease” Act - 1941**
+	- US should just give Britain supplies and they can give it back later
+		- FDR knew that they would probably not be able to give it back but he still wanted to help
+	- “We should be an arsenal of democracy”
