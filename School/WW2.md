@@ -224,3 +224,5 @@ Created: 01-18-2023
 - **Operation Barbarossa**
 	- Germany backstabs the Soviets and attacks the Soviets in June 1941
 	- US gives aid to the Soviets using the Lend-Lease Act
+
+- b
