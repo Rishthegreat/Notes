@@ -191,8 +191,10 @@ Created: 01-18-2023
 	- If the war had not began, the FDR would have probably retired
 	- He says that if he is nominated by the democrats, he will run
 		- He is picked because he was popular and would have run
+			- He was a trusted leader who was a proven leader in crisis
 		- He gave very few speeches and focused more on the war because he already knew that he would win
+		- He did famously say “Your boys are not going to be sent into any foriegn war”
 	- Republicans nominated Wendell Willkie
 		- He was a recently converted Republicans and had similar foreign ideas to FDR
 		- His main problem with FDR is him running for 3rd term
-- 
+
