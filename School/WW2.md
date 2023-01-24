@@ -175,5 +175,8 @@ Created: 01-18-2023
 	- They wanted to do everything to help the British because they believed that if they fall, then the Nazis would come and destroy them
 
 - After the fall of France, Hitler’s focus shifts to Britain
-	- Battle of B
+	- Battle of Britain - The “Blitz”
+	- Summer 1940
+	- They began to bomb strategic military bases to scare the public and then soon began to bomb major cities like London
+	- Winston Churchill emerges as the hero
 
