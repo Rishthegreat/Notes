@@ -249,4 +249,4 @@ Created: 01-18-2023
 	- Japan has been planning the Pearl Harbor attack for months since the Summer even though they were having “diplomatic talks” with the US
 	- US knew that there was an attack coming, but most thought that it was going to be in places like guam
 	- Some people say that the US knew that the Japanese would attack because aircraft carriers (most important) left before days before the attack and while Hawaiian newspapers said that there was going to be an attack, the regular papers in the rest of the country had no mention of this
-	- On **December 7, 1941** 
+	- On **December 7, 1941**, the Japanese attack Pearl Harbor and within 24 hours, they attack multiple British and US 
