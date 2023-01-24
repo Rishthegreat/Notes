@@ -243,7 +243,9 @@ Created: 01-18-2023
 	- A year later, they attack the rest of IndoChina
 		- The US then places an embargo on oil
 		- This hurts the Japansese because they needed the oil to fuel their army
-		- US send the **Hull Note**
-			- This note says that the Japanese assets will be lifted if the Japanese leave China
-			- Both US and Japan knew that they are not going to do that
-		- Japan has been planning the Pearl Harbor attack for months since the Summer
+	- US send the **Hull Note**
+		- This note says that the Japanese assets will be lifted if the Japanese leave China
+		- Both US and Japan knew that they are not going to do that
+	- Japan has been planning the Pearl Harbor attack for months since the Summer even though they were having “diplomatic talks” with the US
+	- US knew that there was an attack coming, but most thought that it was going to be in places like guam
+	- Some people say that the US knew that the Japanese would attack 
