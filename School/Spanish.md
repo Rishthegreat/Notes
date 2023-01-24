@@ -33,7 +33,9 @@ Apuntes para los presentacion
 
 - Hay 8 personas infermadades en la sala de espera
 	- Este escena esta en la emergencia sala
-	- tres persona leyendo
+	- tres persona leyendo revistas y libros
 	- Una persona con muletas
 	- Un nino jugando con un pelota
-	- Son confusado
+	- Hay un persona en una silla de ruedas
+		- 
+	- Son aburridos
