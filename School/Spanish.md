@@ -35,7 +35,8 @@ Apuntes para los presentacion
 	- Este escena esta en la emergencia sala
 	- tres persona leyendo revistas y libros
 	- Una persona con muletas
+		- Tiene la pierna roto
 	- Un nino jugando con un pelota
 	- Hay un persona en una silla de ruedas
-		- 
+		- El medico está empujando el
 	- Son aburridos
