@@ -221,8 +221,15 @@ Created: 01-18-2023
 	- Germany begins to sink US ships
 		- Initially Hitler does not want to bring the US into the war, but now he does because US was helping the British
 
-- **Operation Barbarossa**
+- **1941 - Operation Barbarossa**
 	- Germany backstabs the Soviets and attacks the Soviets in June 1941
 	- US gives aid to the Soviets using the Lend-Lease Act
 
-- b
+- **1941 - The Atlantic Charter**
+	- Roosevelt and Churchill sign treaty of friendship in August 1941
+	- Solidifies alliance
+	- Calls for League of Nations type organization
+	- Anyone who signs the charter would join the allies
+
+- **July 1941 - Convoy Lend Lease Supplies**
+	- September
