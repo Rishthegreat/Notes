@@ -237,5 +237,9 @@ Created: 01-18-2023
 		- Even if the Germans do not fire first, US ships can fire on German ships
 
 - **Japanese Expansion**
-	- When Japan takes over
-	- Summer of 1940, Japan attacks 
+	- When Japan takes over China, the US does not do anything because they beuy a lot of oil, and other resources to feed their war machine
+	- Summer of 1940, Japan attacks IndoChina
+		- US places some restrictions on trade
+	- A year later, they attack the rest of IndoChina
+		- The US then places an embargo on oil
+		- This hurts the Japansese because they need
