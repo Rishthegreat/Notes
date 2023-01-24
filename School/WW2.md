@@ -212,3 +212,8 @@ Created: 01-18-2023
 	- US should just give Britain supplies and they can give it back later
 		- FDR knew that they would probably not be able to give it back but he still wanted to help
 	- “We should be an arsenal of democracy”
+	- To appeal to isolationists
+		- “Send guns, not sons”
+	- Very controverial and isolations viewed it as bringing US closer to war
+	- This is kind of like declaring economic war on Germany
+	- Germany begins to sink US ships
