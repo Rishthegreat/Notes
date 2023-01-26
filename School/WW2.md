@@ -279,7 +279,11 @@ Created: 01-18-2023
 	- This virtually ended the Great Depression
 - **Office of Price Administration (OPA)**
 	- In [[WW1]], they had things like Meatless Tuesdays to encourage rationing
+		- This was voluntary
 	- In WW2, it was mandatory and the United States gave out ration cards
 	- Had price controlling
 	- Had wage controlling
+- **War Labor Board**
+	- To figure out disputes between Unions and employers
+	- There was a massive growth of unions due to democratic policies of Roosevelt
 	- 
