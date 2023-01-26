@@ -267,5 +267,8 @@ Created: 01-18-2023
 				- It was prodcued in 1943
 		- Many Japanese were financially ruined due to this
 			- After the camps ended, their homes were taken, and their business was gone
+			- Camps were open for 3 years
 		- The camps were in isolation usually in a desert
-		- The people
+		- The people were given very little supplies
+		- However, the Japanese did try to establish some sort of community through schools, churches, etc
+		- In 1988
