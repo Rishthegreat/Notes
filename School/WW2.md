@@ -272,3 +272,7 @@ Created: 01-18-2023
 		- The people were given very little supplies
 		- However, the Japanese did try to establish some sort of community through schools, churches, etc
 		- In 1988, the Civil Liberties Act was passed that gave $20k to those who suffered and were affected by the Executive Order
+- **War Production Board (WPB)**
+	- One of the main reasons why the allies wins the war is because the US was able to outproduce the other nations
+	- Coordinated by this board
+	- They needed a lot of workers, so they had a lot of propoganda
