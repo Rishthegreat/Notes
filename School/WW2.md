@@ -252,4 +252,9 @@ Created: 01-18-2023
 	- On **December 7, 1941**, the Japanese attack Pearl Harbor and within 24 hours, they attack multiple British and US places to try to get the US to surrender before they were ready
 
 #### The Homefront
-- By this time, European-Americans become more integrated into US and are more loyal than how they were in [WW]
+- By this time, European-Americans become more integrated into US and are more loyal than how they were in [[WW1]]
+	- Many actually served in the war with other Americans
+- However, the attack on Pearl Harbor created a lot of Anti-Japanese sentiment
+	- Fueled prejudice against Asian-Americans on the West Coast
+- There was a genuine fear that the United States was going to be attacked by the Japanese on the West Coast
+	- The
