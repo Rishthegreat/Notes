@@ -275,4 +275,6 @@ Created: 01-18-2023
 - **War Production Board (WPB)**
 	- One of the main reasons why the allies wins the war is because the US was able to outproduce the other nations
 	- Coordinated by this board
-	- They needed a lot of workers, so they had a lot of propoganda
+	- They needed a lot of workers, so they had a lot of propoganda that encouraged the citizens to work
+	- This virtually ended the Great Depression
+- **Office of **
