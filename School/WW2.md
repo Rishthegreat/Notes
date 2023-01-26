@@ -267,3 +267,5 @@ Created: 01-18-2023
 				- It was prodcued in 1943
 		- Many Japanese were financially ruined due to this
 			- After the camps ended, their homes were taken, and their business was gone
+		- The camps were in isolation usually in a desert
+		- The people
