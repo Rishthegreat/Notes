@@ -265,3 +265,5 @@ Created: 01-18-2023
 		- The government also produced propoganda
 			- One such was a film to justify their actions for the relocation camps
 				- It was prodcued in 1943
+		- Many Japanese were financially ruined due to this
+			- After the camps ended, their homes were taken, and their business was gone
