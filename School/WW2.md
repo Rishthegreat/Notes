@@ -277,4 +277,9 @@ Created: 01-18-2023
 	- Coordinated by this board
 	- They needed a lot of workers, so they had a lot of propoganda that encouraged the citizens to work
 	- This virtually ended the Great Depression
-- **Office of **
+- **Office of Price Administration (OPA)**
+	- In [[WW1]], they had things like Meatless Tuesdays to encourage rationing
+	- In WW2, it was mandatory and the United States gave out ration cards
+	- Had price controlling
+	- Had wage controlling
+	- 
