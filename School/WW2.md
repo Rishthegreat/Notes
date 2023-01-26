@@ -289,5 +289,6 @@ Created: 01-18-2023
 	- However, unions were not allowed to go on strikes
 	- People were not happy with the wage freezes, but they tolerated it because they were just happy to work after no work during the Great Depression
 	- **Smith Conally Anti-Strike Act**
-		- Government during the war can take over any industry
+		- Government during the war can take over any industry which has workers striking
 		- Roosevelt tried to veto it, but Congress passed it over the veto
+		- Railroad workers striked during WW2 and this act was used against them
