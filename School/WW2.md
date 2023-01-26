@@ -271,4 +271,4 @@ Created: 01-18-2023
 		- The camps were in isolation usually in a desert
 		- The people were given very little supplies
 		- However, the Japanese did try to establish some sort of community through schools, churches, etc
-		- In 1988
+		- In 1988, the Civil Liberties Act was passed that gave $20k to those who suffered and were affected by the Executive Order
