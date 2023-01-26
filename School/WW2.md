@@ -286,4 +286,8 @@ Created: 01-18-2023
 - **War Labor Board**
 	- To figure out disputes between Unions and employers
 	- There was a massive growth of unions due to democratic policies of Roosevelt
-	- 
+	- However, unions were not allowed to go on strikes
+	- People were not happy with the wage freezes, but they tolerated it because they were just happy to work after no work during the Great Depression
+	- **Smith Conally Anti-Strike Act**
+		- Government during the war can take over any industry
+		- Roosevelt tried to veto it, but Congress passed it over the veto
