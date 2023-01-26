@@ -257,4 +257,9 @@ Created: 01-18-2023
 - However, the attack on Pearl Harbor created a lot of Anti-Japanese sentiment
 	- Fueled prejudice against Asian-Americans on the West Coast
 - There was a genuine fear that the United States was going to be attacked by the Japanese on the West Coast
-	- The
+	- The feeling was the Japanese-Americans living on the West Coast would be spies and help the Japanese in their attack
+	- This fear led to **Executive Order 9066**
+		- Japanese Interment Camps
+		- $2/3$ were actually American citizens who had Japanese lineage
+		- There were 10 camps around the country
+		- 
