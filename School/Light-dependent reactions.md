@@ -21,6 +21,11 @@ Created: 01-23-2023
 			- $H^+$ gradient built up within thylakoid sac
 
 ![[Pasted image 20230119121225.png|425]]
+
+- ETC in the Chloroplast
+- ![[Pasted image 20230127115350.png|550]]
+- Photo 
+
 - Photolysis
 	- Using light to break apart water in order to provide the electrons and oxygens needed for the entire process
 	- Provides the fuel in the ETC
