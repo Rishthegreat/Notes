@@ -20,7 +20,8 @@ REVIEW TOPICS:
 - Denaturation
 - transition state
 - cofactors or coenzymes
-- conformation change 
+- conformation change
+	- Alteration of the shape of the 
 - lock and key model vs induced fit model
 - competitive and non-competitive inhibition/allosteric inhibition
 - Factors that Affect Enzyme Activity
