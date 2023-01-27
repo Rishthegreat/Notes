@@ -33,7 +33,8 @@ REVIEW TOPICS:
 - Krebs cycle (citric acid cycle)
 - Substrate-Level Phosphorylation
 - Oxidative Phosphorylation
-- Photo PhosphorylationFAD/FADH2
+- Photo Phosphorylation
+- FAD/FADH2
 - NAD+/NADH
 - NADP+/NADPH
 - O2 Final e- acceptor
