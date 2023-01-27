@@ -8,7 +8,10 @@ Created: 01-27-2023
 
 REVIEW TOPICS:
 - Metabolism
-- Exergonic vs Endergonic 
+	- The different chemical reactions that the body undergoes
+- Exergonic vs Endergonic
+	- Exergonic reactions release energy while endergonic reactions need energy
+	- They can be coupled so that the energy released by the exergonic reaction is used to fuel the endergonic reaction
 - Enzymes
 - Enzyme Structure
 - enzyme-substrate complex
@@ -40,21 +43,21 @@ REVIEW TOPICS:
 - thylakoid membrane
 - Macromolecule Structures
 - ADP + Pi ---> ATP
-Coupled Reactions
-Redox Reactions
-OIL RIG
-ETC
-CHEMIOSMOSIS
-PROTON GRADIENT/ELECTRO-CHEMICAL GRADIENT/PROTON  MOTIVE FORCE/H+ GRADIENT
-ATP SYNTHASE
-Mitochondria vs Chloroplasts 
-Fermentation
-Standard Error of the Mean
-Graph Interpretations
-Photolysis
-Hydrolysis
-Dehydration Synthesis
-Phospholipid Bilayer
-Gibbs Free Energy/Available Energy
-Disulfide Bridges/Protein Structure
-Hydrogen Bonds
+- Coupled Reactions
+- Redox Reactions
+- OIL RIG
+- ETC
+- CHEMIOSMOSIS
+- PROTON GRADIENT/ELECTRO-CHEMICAL GRADIENT/PROTON  MOTIVE FORCE/H+ GRADIENT
+- ATP SYNTHASE
+- Mitochondria vs Chloroplasts 
+- Fermentation
+- Standard Error of the Mean
+- Graph Interpretations
+- Photolysis
+- Hydrolysis
+- Dehydration Synthesis
+- Phospholipid Bilayer
+- Gibbs Free Energy/Available Energy
+- Disulfide Bridges/Protein Structure
+- Hydrogen Bonds
