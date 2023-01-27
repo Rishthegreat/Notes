@@ -21,7 +21,7 @@ REVIEW TOPICS:
 - transition state
 - cofactors or coenzymes
 - conformation change
-	- Alteration of the shape of the 
+	- Alteration of the shape of the structure of a protein or enzyme due to changes in the environment pH level, temperature, etc and this affects the ability of the enzyme to catalyze a reaction
 - lock and key model vs induced fit model
 - competitive and non-competitive inhibition/allosteric inhibition
 - Factors that Affect Enzyme Activity
