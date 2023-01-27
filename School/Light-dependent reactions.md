@@ -24,10 +24,12 @@ Created: 01-23-2023
 
 - ETC in the Chloroplast
 - ![[Pasted image 20230127115350.png|550]]
-- Photo 
-
+- Photosystem 2 is on the left while the photosystem 1 is on the right
+	- 2 is phosphoryla
 - Photolysis
 	- Using light to break apart water in order to provide the electrons and oxygens needed for the entire process
+		- The light energizes the electrons
 	- Provides the fuel in the ETC
+
 
 - Next comes the [[Calvin Cycle]] that produces glucose
