@@ -25,7 +25,8 @@ Created: 01-23-2023
 - ETC in the Chloroplast
 - ![[Pasted image 20230127115350.png|550]]
 - Photosystem 2 is on the left while the photosystem 1 is on the right
-	- 2 is phosphoryla
+	- System 2 is phosphorylatation
+	- System 1 is taking electrons from 2 and moving it to NADP+ reductase
 - Photolysis
 	- Using light to break apart water in order to provide the electrons and oxygens needed for the entire process
 		- The light energizes the electrons
