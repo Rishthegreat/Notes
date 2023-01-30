@@ -401,5 +401,10 @@ Created: 01-18-2023
 		- Supply ships are protected through aircrafts
 		- Cracking of the German enigma code by the British scientists
 		- Control the shipping lanes and being able to send goods to Europe in order to fight
-- Battle in North
-	- Ge
+- Battle in North Africa
+	- German and Italians trying to taking over the Suez Canal in order to cut off the British in Egypt
+	- Fierce fighting between the Germans and the Brits
+	- November 1942 - Operation Torch
+		- First time Americans attack the Germans
+- Casablanca Conference
+	- 
