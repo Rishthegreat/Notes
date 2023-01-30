@@ -104,7 +104,7 @@ $|\mathbf{\varphi}_2 \rangle = \begin{cases} \tfrac{|x, 0\rangle - |x, 1\rangle}
 
 A more succinct way of writing it is:
 
-\[|\mathbf{\varphi}_2 \rangle = (-1)^{f(x)} \frac{|x, 0\rangle - |x, 1\rangle}{\sqrt{2}}.\]
+$|\mathbf{\varphi}_2 \rangle = (-1)^{f(x)} \frac{|x, 0\rangle - |x, 1\rangle}{\sqrt{2}}.$
 
 Once again, let’s see whether measuring the top or the bottom qubit help us at all: it turns out that again, we cannot figure out the nature of the function $f$ with this circuit configuration, by just using the output.
 
@@ -116,11 +116,11 @@ Now, we end up with the final setting, that will lead us to the Deutsch algorith
 
 Let us go through the circuit. We start with the state:
 
-\[|\mathbf{\varphi}_0 \rangle = |0, 1\rangle.\]
+$|\mathbf{\varphi}_0 \rangle = |0, 1\rangle.$
 
 Both inputs go through a Hadamard gate; this results into:
 
-\[|\mathbf{\varphi}_1 \rangle = |H \cdot 0, H \cdot 1\rangle = \frac{|0\rangle + |1\rangle }{\sqrt{2}} \otimes \frac{|0\rangle - |1\rangle }{\sqrt{2}}.\]
+$|\mathbf{\varphi}_1 \rangle = |H \cdot 0, H \cdot 1\rangle = \frac{|0\rangle + |1\rangle }{\sqrt{2}} \otimes \frac{|0\rangle - |1\rangle }{\sqrt{2}}.$
 
 In the next step, we go through the function $f$; remember that this function uses the top input to define the output. So far, the top input has the form:
 
