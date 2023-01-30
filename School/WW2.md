@@ -358,4 +358,7 @@ Created: 01-18-2023
 	- Ends the Great Depression
 	- Uneployment practically disappears
 	- Massive government spending and debt
+		- Considered one of the greatest successes in American history
+	- WW2 had a wartime bill of $330 Billion
+		- Nat
 
