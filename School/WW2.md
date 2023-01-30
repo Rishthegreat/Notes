@@ -392,7 +392,14 @@ Created: 01-18-2023
 		- This was more efficient to attack important islands and moving towards mainland Japan
 	- America thinks that they would have to launch a massive American invasion of Japan in order for them to surrender
 		- US did not know that they would use the atomic bomb
-##### War in Europe
+##### War in Europe and North Africa
 - Battle of the Atlantic
-	- In 1942, over 500 American ships are sunk by Germans
-	- 
+	- In 1942, over 500 American supply ships are sunk by Germans
+	- 1943  is the turning point
+		- After they are able to begin winning the Pacific, they can focus more on Atlantic
+		- Technology gets better
+		- Supply ships are protected through aircrafts
+		- Cracking of the German enigma code by the British scientists
+		- Control the shipping lanes and being able to send goods to Europe in order to fight
+- Battle in North
+	- Ge
