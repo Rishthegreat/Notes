@@ -298,6 +298,9 @@ Created: 01-18-2023
 	- Believed that it was their patriotic duty to fight the evil Japanese and Germans
 - Many women served in non-combat roles in the army
 	- Many worked as secretaries, typists, working for the war department
-	- 6 Million will work during 
+	- 6 Million will work during WW2 → Made up $1/3$ of the workforce
+		- Many were married, so there were 2 incomes streaming in
+			- Since there were not many products in the market, 
+			- Since women were working, many daycares were opened by the government
 
 
