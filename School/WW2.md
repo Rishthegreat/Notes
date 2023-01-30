@@ -332,6 +332,10 @@ Created: 01-18-2023
 		- NAtional Association for the Advancement of Colored People
 
 **Mexicans**
-- Since many Americans were 
-- 
+- Since many Americans were serving in the war, farms needed to be worked and mexican workers were needed now.
+- **Braceros Program**
+	- Temporary visa program
+- Influx of Mexicans led to racial riots
+	- Zoot Suit riots
+		- In L.A.
 
