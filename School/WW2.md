@@ -339,8 +339,15 @@ Created: 01-18-2023
 	- Zoot Suit riots
 		- In L.A.
 		- Naval Soldiers were attacking the Mexicans
+
 - Navajo “Code Talkers”
 	- Navajo Indians should be used as code talkers because their native language is very unique
 	- Used in the Korean War and WW2
 	- Code was unbroken during the war
+
+- Revenue raised through war bonds
+	- Citizens would buy bonds and then cash them in for money later
+	- $135 billion in bonds
+	- Very expensive war
+- Revenue raised through the
 
