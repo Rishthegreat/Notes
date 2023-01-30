@@ -338,4 +338,5 @@ Created: 01-18-2023
 - Influx of Mexicans led to racial riots
 	- Zoot Suit riots
 		- In L.A.
+		- Naval Soldiers were
 
