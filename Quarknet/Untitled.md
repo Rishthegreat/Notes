@@ -88,15 +88,15 @@ Here, we leave the top input as it is, but we transform the bottom input – whi
 
 Let’s go over this circuit and check its state at its time slot. At the beginning, we have:
 
-$|\mathbf{\varphi}_0 \rangle = |x, 1\rangle\
+$|\mathbf{\varphi}_0 \rangle = |x, 1\rangle$
 
 Using the Hadamard transform, at the next time “click” we obtain the state:
 
-\[|\mathbf{\varphi}_1 \rangle = |x, H \cdot 1\rangle = \frac{|x, 0\rangle - |x, 1\rangle }{\sqrt{2}}\]
+$|\mathbf{\varphi}_1 \rangle = |x, H \cdot 1\rangle = \frac{|x, 0\rangle - |x, 1\rangle }{\sqrt{2}}$
 
 After applying the function operation (remember, it applies only to the second input) we get:
 
-\[|\mathbf{\varphi}_2 \rangle = \frac{|x, 0 \oplus f(x)\rangle - |x, 1 \oplus f(x) \rangle }{\sqrt{2}}\]
+$|\mathbf{\varphi}_2 \rangle = \frac{|x, 0 \oplus f(x)\rangle - |x, 1 \oplus f(x) \rangle }{\sqrt{2}}$
 
 This results into the following “if-then-else” state for $|\mathbf{\varphi}_2 \rangle$:
 
