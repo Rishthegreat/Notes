@@ -417,8 +417,13 @@ Created: 01-18-2023
 	- Strategy during war is unconditional surrender
 		- No negotiations of terms
 		- The victor is completely in control of the terms and can rebuilt or do whatever however they please
-- The Italian Campaign, 1943
+- The Italian Campaign, 1943 aka the Mediteranian campaign
 	- Europe’s “Soft Underbelly”
-		- Fighting in Italy is fierce
+		- Fighting in Italy is fierce against the Germans
 		- Operation Husky
 		- The Italians rebell against Mussolini and then they surrender to the allies
+			- By the time the Germans surrender, we reached close to the top, but not all of it
+	- The Allies Liberate Rome June 5 1944
+		- Overshadowed by D-Day the next day
+- Tehran Conference
+	- In Persian Capital of Tehran from November 28 to
