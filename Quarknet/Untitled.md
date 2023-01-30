@@ -100,7 +100,7 @@ $|\mathbf{\varphi}_2 \rangle = \frac{|x, 0 \oplus f(x)\rangle - |x, 1 \oplus f(x
 
 This results into the following “if-then-else” state for $|\mathbf{\varphi}_2 \rangle$:
 
-\[|\mathbf{\varphi}_2 \rangle = \begin{cases} \tfrac{|x, 0\rangle - |x, 1\rangle}{\sqrt{2}}, & \text{if } f(x) = 0, \\ \tfrac{|x, 1\rangle - |x, 0\rangle}{\sqrt{2}}, & \text{if } f(x) = 1. \end{cases}\]
+$|\mathbf{\varphi}_2 \rangle = \begin{cases} \tfrac{|x, 0\rangle - |x, 1\rangle}{\sqrt{2}}, & \text{if } f(x) = 0, \\ \tfrac{|x, 1\rangle - |x, 0\rangle}{\sqrt{2}}, & \text{if } f(x) = 1. \end{cases}$
 
 A more succinct way of writing it is:
 
