@@ -360,5 +360,12 @@ Created: 01-18-2023
 	- Massive government spending and debt
 		- Considered one of the greatest successes in American history
 	- WW2 had a wartime bill of $330 Billion
-		- Nat
+		- National debt increased by a lot
+- **Office of Scientific Research and Development (OSRD)**
+	- Radar
+	- Sonar
+	- Penicillin
+	- Jet Engines
+	- Rockets
+	- Atomic Bombs
 
