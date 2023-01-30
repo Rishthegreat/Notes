@@ -325,5 +325,13 @@ Created: 01-18-2023
 	- Most Africans were not given combat roles
 - The war made civil rights more relevant
 	- Some said that they were fighting against facism abroad and racism at home
-	- 
+	- Rasied the consciousness of the war
+	- CORE
+		- Congress of Racial Equality
+	- NAACP
+		- NAtional Association for the Advancement of Colored People
+
+**Mexicans**
+- Since many Americans were 
+- 
 
