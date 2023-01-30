@@ -314,9 +314,11 @@ Created: 01-18-2023
 
 **FDR Executive Order 8802**
 - A lot of discrimination against hiring African Americans
-- A Philip Randolph ran a porter
+- A. Philip Randolph ran Brotherhood of Sleeping Car Porters (BSCP) 
 	- Many Africans were porters
-	- Proposed a march to Washington
+	- Proposed a march to Washington for equality 2 decades before King’s march
 - Roosevelt does not want this civil rights in the middle of the war
-	- Passed 
+	- Passed the Order 8802 to please Randolph
+	- Stated that race is not a factor in hiring of jobs in the war industry
+- There were segregated Units
 
