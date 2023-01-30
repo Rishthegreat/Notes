@@ -407,4 +407,10 @@ Created: 01-18-2023
 	- November 1942 - Operation Torch
 		- First time Americans attack the Germans
 - Casablanca Conference
-	- 
+	- There are a bunch of these meetings but 4 major ones
+	- January 14 to 24, 1943
+	- The soviets (not at the conference) feel that they are taking the brunt of the war
+		- They want the Americans to attack France
+		- Roosevelt is not opposed to this, but Churchill thinks that the allies are not ready
+			- He wants it to be a winning move because otherwise, it will end in a stalemate
+				- They invade Sicilly and Italy
