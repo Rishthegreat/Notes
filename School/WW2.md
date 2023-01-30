@@ -349,5 +349,13 @@ Created: 01-18-2023
 	- Citizens would buy bonds and then cash them in for money later
 	- $135 billion in bonds
 	- Very expensive war
-- Revenue raised through the
+- Revenue raised through the expansion income tax net
+	- Automatic withholding taxes from paychecks
+		- Still done today
+	- Private business and major corporations really prosper
+		- Lion share of the government contracts were given to the top and large companies
+	- Disposal income of American workers doubles
+	- Ends the Great Depression
+	- Uneployment practically disappears
+	- Massive government spending and debt
 
