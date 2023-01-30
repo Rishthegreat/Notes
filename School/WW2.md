@@ -311,5 +311,12 @@ Created: 01-18-2023
 		- So some moved to the South
 	- Many moved to the west coast like seattle from especially places like the midwest because of the war effort against Japan on the Pacific
 		- Many jobs open there
-	- 
+
+**FDR Executive Order 8802**
+- A lot of discrimination against hiring African Americans
+- A Philip Randolph ran a porter
+	- Many Africans were porters
+	- Proposed a march to Washington
+- Roosevelt does not want this civil rights in the middle of the war
+	- Passed 
 
