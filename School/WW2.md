@@ -386,3 +386,8 @@ Created: 01-18-2023
 	- Major American victory because if Japan took over, then they would have constant bombardment of Hawaii
 	- The aircraft carriers were very important
 	- Important turning point
+- Allied Counter-Offensive
+	- Traditional mitilary strategies said that US should attack all Japan owned islands
+	- “Island-Hopping”
+		- This was more efficient to attack important islands and moving towards mainland Japan
+	- America thinks that they would have to launch a massive American invasion of Japa
