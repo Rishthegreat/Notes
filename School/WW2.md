@@ -379,4 +379,10 @@ Created: 01-18-2023
 		- Cruel treatment of prisoners of war by the Japanese
 	- Take over Dutch East Indies, New Ginea
 	- They took over too much too quickly, overextended and made themselves weak
-- Battle of the Coral Sea - 
+- Battle of the Coral Sea - May 7-8 1942
+	- First no-loss of the Japanese by the allies
+- Battle of Midway Island June 4-6, 1942
+	- First major stopping the Japanese momentum
+	- Major American victory because if Japan took over, then they would have constant bombardment of Hawaii
+	- The aircraft carriers were very important
+	- Important turning point
