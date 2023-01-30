@@ -300,7 +300,8 @@ Created: 01-18-2023
 	- Many worked as secretaries, typists, working for the war department
 	- 6 Million will work during WW2 → Made up $1/3$ of the workforce
 		- Many were married, so there were 2 incomes streaming in
-			- Since there were not many products in the market, 
+			- Since there were not many products in the market, many families started to save
 			- Since women were working, many daycares were opened by the government
-
+	- $2/3$ of these women left the workforce after the war ended
+	- However, many women learned to work and many people say that the push for more equality, education, etc comes from their service in the war
 
