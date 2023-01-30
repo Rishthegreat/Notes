@@ -320,5 +320,10 @@ Created: 01-18-2023
 - Roosevelt does not want this civil rights in the middle of the war
 	- Passed the Order 8802 to please Randolph
 	- Stated that race is not a factor in hiring of jobs in the war industry
-- There were segregated Units
+- There were Segregated Units
+	- 1 Million served in army
+	- Most Africans were not given combat roles
+- The war made civil rights more relevant
+	- Some said that they were fighting against facism abroad and racism at home
+	- 
 
