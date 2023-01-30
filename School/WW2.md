@@ -393,7 +393,7 @@ Created: 01-18-2023
 	- America thinks that they would have to launch a massive American invasion of Japan in order for them to surrender
 		- US did not know that they would use the atomic bomb
 ##### War in Europe and North Africa
-- Battle of the Atlantic
+- **Battle of the Atlantic**
 	- In 1942, over 500 American supply ships are sunk by Germans
 	- 1943  is the turning point
 		- After they are able to begin winning the Pacific, they can focus more on Atlantic
@@ -401,7 +401,7 @@ Created: 01-18-2023
 		- Supply ships are protected through aircrafts
 		- Cracking of the German enigma code by the British scientists
 		- Control the shipping lanes and being able to send goods to Europe in order to fight
-- Battle in North Africa
+- **Battle in North Africa**
 	- German and Italians trying to taking over the Suez Canal in order to cut off the British in Egypt
 	- Fierce fighting between the Germans and the Brits
 	- November 1942 - Operation Torch
@@ -432,4 +432,7 @@ Created: 01-18-2023
 	- Agreed on allied invasion of France in spring of 1944 with soviet attack on the Eastern front to pressure Germay
 	- Soviets will eventually join the war with Japan
 		- US wants them to join the war and they join the US against Japan once Germany is defeated
-		- 
+- **D-Day**
+	- Massive invasion of Northern France by the allies June 6 1944
+	- Most troops were American, so General Eisenhower was well liked and he was American and was given command
+	- America used fake maneuvers to trick the Germans into thinking that they are going to invade more North
