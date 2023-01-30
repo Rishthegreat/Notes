@@ -338,5 +338,7 @@ Created: 01-18-2023
 - Influx of Mexicans led to racial riots
 	- Zoot Suit riots
 		- In L.A.
-		- Naval Soldiers were
+		- Naval Soldiers were attacking the Mexicans
+- Navajo “Code Talkers”
+	- Navajo Indians should be used 
 
