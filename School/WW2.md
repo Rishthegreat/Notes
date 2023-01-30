@@ -307,5 +307,9 @@ Created: 01-18-2023
 - **Major Demographic shifts**
 	- Great migration of African Americans to the North
 		- Higher chance to get job in factory
-	- Government located major defense plants, and bases and some factories in the South because the South was lagging behind economicall
+	- Government located major defense plants, and bases and some factories in the South because the South was lagging behind economically
+		- So some moved to the South
+	- Many moved to the west coast like seattle from especially places like the midwest because of the war effort against Japan on the Pacific
+		- Many jobs open there
+	- 
 
