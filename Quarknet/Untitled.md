@@ -62,7 +62,7 @@ We define the following quantum circuit:
 
 Let us describe what we see in the picture. Initially, the system is as state:
 
-$|\mathbf{\varphi}_0\rangle = |00\rangle = \begin{bmatrix} 1 \\ 0 \\ 0 \\ 0 \end{bmatrix}.\]
+$|\mathbf{\varphi}_0\rangle = |00\rangle = \begin{bmatrix} 1 \\ 0 \\ 0 \\ 0 \end{bmatrix}.$
 
 Remember that when we concatenate two 1-qubit states, we get the following 2-qubit representation:
 
@@ -88,7 +88,7 @@ Here, we leave the top input as it is, but we transform the bottom input – whi
 
 Let’s go over this circuit and check its state at its time slot. At the beginning, we have:
 
-\[|\mathbf{\varphi}_0 \rangle = |x, 1\rangle\]
+$|\mathbf{\varphi}_0 \rangle = |x, 1\rangle\
 
 Using the Hadamard transform, at the next time “click” we obtain the state:
 
