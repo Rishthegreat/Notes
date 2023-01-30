@@ -373,4 +373,10 @@ Created: 01-18-2023
 #### America in WW2
 ##### Pacific Theater of Operations
 - Churchill comes to US and the strategize to get Germany first because if the British loose, then US would be alone against both Germany and Japan
-- Initally Japan kicks US’s butt 
+- Initally Japan kicks US’s butt, taking many US territories in Southeast Asia
+	- US Surrenders of Philippines
+		- Bataan Death Match
+		- Cruel treatment of prisoners of war by the Japanese
+	- Take over Dutch East Indies, New Ginea
+	- They took over too much too quickly, overextended and made themselves weak
+- Battle of the Coral Sea - 
