@@ -292,3 +292,5 @@ Created: 01-18-2023
 		- Government during the war can take over any industry which has workers striking
 		- Roosevelt tried to veto it, but Congress passed it over the veto
 		- Railroad workers striked during WW2 and this act was used against them
+
+
