@@ -432,7 +432,9 @@ Created: 01-18-2023
 	- Agreed on allied invasion of France in spring of 1944 with soviet attack on the Eastern front to pressure Germay
 	- Soviets will eventually join the war with Japan
 		- US wants them to join the war and they join the US against Japan once Germany is defeated
-- **D-Day**
+- **D-Day** Codename was Operation Overlord
 	- Massive invasion of Northern France by the allies June 6 1944
 	- Most troops were American, so General Eisenhower was well liked and he was American and was given command
-	- America used fake maneuvers to trick the Germans into thinking that they are going to invade more North
+	- America used fake maneuvers to trick the Germans into thinking that they are going to invade more North in Calais
+	- But, the invasion was south in Normandy where there were cliffs
+	- First wave experienced massive losses, but in the end, it was a success
