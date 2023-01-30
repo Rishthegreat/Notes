@@ -124,15 +124,15 @@ $|\mathbf{\varphi}_1 \rangle = |H \cdot 0, H \cdot 1\rangle = \frac{|0\rangle + 
 
 In the next step, we go through the function $f$; remember that this function uses the top input to define the output. So far, the top input has the form:
 
-\[\frac{|0\rangle + |1\rangle }{\sqrt{2}}\]
+$\frac{|0\rangle + |1\rangle }{\sqrt{2}}$
 
 By using the abstract description of the output of $f$ in the previous attempt, a different way to write that output is:
 
-\[(-1)^{f(x)} \frac{|x, 0\rangle - |x, 1\rangle}{\sqrt{2}} = (-1)^{f(x)} |x\rangle \otimes \frac{|0\rangle - |1\rangle}{\sqrt{2}}.\]
+$(-1)^{f(x)} \frac{|x, 0\rangle - |x, 1\rangle}{\sqrt{2}} = (-1)^{f(x)} |x\rangle \otimes \frac{|0\rangle - |1\rangle}{\sqrt{2}}.$
 
 Then, using this information in our new circuit, we obtain altogether:
 
-\[|\mathbf{\varphi}_2 \rangle = \frac{(-1)^{f(0)}|0\rangle + (-1)^{f(1)}|1\rangle }{\sqrt{2}} \otimes \frac{|0\rangle - |1\rangle }{\sqrt{2}}\]
+$|\mathbf{\varphi}_2 \rangle = \frac{(-1)^{f(0)}|0\rangle + (-1)^{f(1)}|1\rangle }{\sqrt{2}} \otimes \frac{|0\rangle - |1\rangle }{\sqrt{2}}$
 
 Let’s see what happens when we take cases of $f$: in our case, $f(0) = 1$ and $f(1) = 0$. Thus:
 
