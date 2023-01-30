@@ -340,5 +340,7 @@ Created: 01-18-2023
 		- In L.A.
 		- Naval Soldiers were attacking the Mexicans
 - Navajo “Code Talkers”
-	- Navajo Indians should be used 
+	- Navajo Indians should be used as code talkers because their native language is very unique
+	- Used in the Korean War and WW2
+	- Code was unbroken during the war
 
