@@ -304,4 +304,8 @@ Created: 01-18-2023
 			- Since women were working, many daycares were opened by the government
 	- $2/3$ of these women left the workforce after the war ended
 	- However, many women learned to work and many people say that the push for more equality, education, etc comes from their service in the war
+- **Major Demographic shifts**
+	- Great migration of African Americans to the North
+		- Higher chance to get job in factory
+	- Government located major defense plants, and bases and some factories in the South because the South was lagging behind economicall
 
