@@ -48,11 +48,11 @@ As you can see, we require two function evaluations to figure out the answer. In
 
 For simplicity, we will make the assumption that $f$ maps inputs as: $f(0) = 1$ and $f(1) = 0$. But we will pretend we do not know that this is $f$; similar logic can be derived for other cases of $f$. The above behavior –assuming we represent bits as vectors
 
-$\[|0 \rangle = \begin{bmatrix} 0 \\ 1 \end{bmatrix} ~\text{and}~ |1\rangle = \begin{bmatrix} 1 \\ 0 \end{bmatrix},\]$
+$|0 \rangle = \begin{bmatrix} 0 \\ 1 \end{bmatrix} ~\text{and}~ |1\rangle = \begin{bmatrix} 1 \\ 0 \end{bmatrix},$
 
 can be represented as:
 
-\[U_f = \begin{bmatrix} 0 & 1 \\ 1 & 0 \end{bmatrix}.\]
+$U_f = \begin{bmatrix} 0 & 1 \\ 1 & 0 \end{bmatrix}.$
 
 We can easily check that mulptilying on the right with any of $|0\rangle$ or $|1\rangle$ we get $|1\rangle$ and $|0\rangle$ respectively.
 
@@ -62,7 +62,7 @@ We define the following quantum circuit:
 
 Let us describe what we see in the picture. Initially, the system is as state:
 
-\[|\mathbf{\varphi}_0\rangle = |00\rangle = \begin{bmatrix} 1 \\ 0 \\ 0 \\ 0 \end{bmatrix}.\]
+$|\mathbf{\varphi}_0\rangle = |00\rangle = \begin{bmatrix} 1 \\ 0 \\ 0 \\ 0 \end{bmatrix}.\]
 
 Remember that when we concatenate two 1-qubit states, we get the following 2-qubit representation:
 
