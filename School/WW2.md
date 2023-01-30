@@ -390,4 +390,9 @@ Created: 01-18-2023
 	- Traditional mitilary strategies said that US should attack all Japan owned islands
 	- “Island-Hopping”
 		- This was more efficient to attack important islands and moving towards mainland Japan
-	- America thinks that they would have to launch a massive American invasion of Japa
+	- America thinks that they would have to launch a massive American invasion of Japan in order for them to surrender
+		- US did not know that they would use the atomic bomb
+##### War in Europe
+- Battle of the Atlantic
+	- In 1942, over 500 American ships are sunk by Germans
+	- 
