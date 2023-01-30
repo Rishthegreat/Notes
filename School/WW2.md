@@ -295,6 +295,9 @@ Created: 01-18-2023
 
 - 15 Million served
 	- 10 Million drafted while 5 million volunteered
-	- Believed that it was their 
+	- Believed that it was their patriotic duty to fight the evil Japanese and Germans
+- Many women served in non-combat roles in the army
+	- Many worked as secretaries, typists, working for the war department
+	- 6 Million will work during 
 
 
