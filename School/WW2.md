@@ -417,3 +417,8 @@ Created: 01-18-2023
 	- Strategy during war is unconditional surrender
 		- No negotiations of terms
 		- The victor is completely in control of the terms and can rebuilt or do whatever however they please
+- The Italian Campaign, 1943
+	- Europe’s “Soft Underbelly”
+		- Fighting in Italy is fierce
+		- Operation Husky
+		- The Italians rebell against Mussolini and then they surrender to the allies
