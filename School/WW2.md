@@ -370,3 +370,7 @@ Created: 01-18-2023
 	- Atomic Bombs
 	- All these new technologies lead to an economic boom
 
+#### America in WW2
+##### Pacific Theater of Operations
+- Churchill comes to US and the strategize to get Germany first because if the British loose, then US would be alone against both Germany and Japan
+- Initally Japan kicks US’s butt 
