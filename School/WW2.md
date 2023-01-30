@@ -406,7 +406,7 @@ Created: 01-18-2023
 	- Fierce fighting between the Germans and the Brits
 	- November 1942 - Operation Torch
 		- First time Americans attack the Germans
-- Casablanca Conference
+- **Casablanca Conference**
 	- There are a bunch of these meetings but 4 major ones
 	- January 14 to 24, 1943
 	- The Soviets (not at the conference) feel that they are taking the brunt of the war. Thinks that the other allies purposefully delayed the front so that the Soviets bleed out
@@ -417,7 +417,7 @@ Created: 01-18-2023
 	- Strategy during war is unconditional surrender
 		- No negotiations of terms
 		- The victor is completely in control of the terms and can rebuilt or do whatever however they please
-- The Italian Campaign, 1943 aka the Mediteranian campaign
+- **The Italian Campaign, 1943 aka the Mediteranian campaign**
 	- Europe’s “Soft Underbelly”
 		- Fighting in Italy is fierce against the Germans
 		- Operation Husky
@@ -425,5 +425,11 @@ Created: 01-18-2023
 			- By the time the Germans surrender, we reached close to the top, but not all of it
 	- The Allies Liberate Rome June 5 1944
 		- Overshadowed by D-Day the next day
-- Tehran Conference
-	- In Persian Capital of Tehran from November 28 to
+- **Tehran Conference**
+	- In Persian Capital of Tehran from November 28 to December 1 1943
+	- Concerns about safety during travel so it required a lot of secrecy and planning
+	- First meeting of the big three
+	- Agreed on allied invasion of France in spring of 1944 with soviet attack on the Eastern front to pressure Germay
+	- Soviets will eventually join the war with Japan
+		- US wants them to join the war and they join the US against Japan once Germany is defeated
+		- 
