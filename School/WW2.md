@@ -409,8 +409,11 @@ Created: 01-18-2023
 - Casablanca Conference
 	- There are a bunch of these meetings but 4 major ones
 	- January 14 to 24, 1943
-	- The soviets (not at the conference) feel that they are taking the brunt of the war
+	- The Soviets (not at the conference) feel that they are taking the brunt of the war. Thinks that the other allies purposefully delayed the front so that the Soviets bleed out
 		- They want the Americans to attack France
 		- Roosevelt is not opposed to this, but Churchill thinks that the allies are not ready
 			- He wants it to be a winning move because otherwise, it will end in a stalemate
-				- They invade Sicilly and Italy
+				- They invade Sicilly and Italy, and then step-up the war in Japan
+	- Strategy during war is unconditional surrender
+		- No negotiations of terms
+		- The victor is completely in control of the terms and can rebuilt or do whatever however they please
