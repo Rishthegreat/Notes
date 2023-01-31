@@ -64,4 +64,5 @@ REVIEW TOPICS:
 - Disulfide Bridges/Protein Structure
 	- The bridges are typically seen in the tertiary level
 	- For example, if there is a Cysteine and another Cysteine, they will covalently bond and fold the protein. That is called a Disulfide Bridges. It can be found as $S-S$
+	- covalent links between the Sulphur atoms of two cysteine amino acids and their formation stabilizes the tertiary and higher order structure of proteins.
 - Hydrogen Bonds
