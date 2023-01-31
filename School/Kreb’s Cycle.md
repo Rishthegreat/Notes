@@ -46,3 +46,5 @@ Payoff
 - The Kreb’s Cycle produced 2 APT through substrate-level phosphorylation (Must occur twice for one glucose to be consumed)
 	- The enzyme is bringing together ADP and Pi to make ATP
 	- This is not as efficient as ETC (Oxidative Phosphorelation)
+
+- Next comes the [[Electron Transport Chain (ETC) and Oxydative Phosphorylation]]
