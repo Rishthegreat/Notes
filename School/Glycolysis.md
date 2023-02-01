@@ -6,6 +6,7 @@ Created: 01-12-2023
 # Glycolysis
 ---
 
+- Occurs in the cytoplasm
 Required for the Reaction - 
 - Glucose
 - 4 ATP formed - 2 ATP used

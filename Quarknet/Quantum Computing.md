@@ -8,7 +8,7 @@
 
 - Electron in spin up direction in z  - $|0>$, spin down in z is $|1>$
 - $1/sqrt(2) (|0> + |1>)$ - spin up in x
-- $1/sqrt(2) (|0> - |1>)$ - spin down in x
+- $1/\sqrt{2} (|0> - |1>)$ - spin down in x
 - Spin up in z and spin down in z are orthogonal
 
 - Quantum Mechanics needs imaginary numbers
