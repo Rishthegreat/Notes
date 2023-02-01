@@ -438,4 +438,9 @@ Created: 01-18-2023
 	- America used fake maneuvers to trick the Germans into thinking that they are going to invade more North in Calais
 	- But, the invasion was south in Normandy where there were cliffs
 	- First wave experienced massive losses, but in the end, it was a success
-	- Libera
+	- Liberation of Paris on August 25, 1944
+- **Election of 1944**
+	- Thomas E. Dewey for Republican
+		- He was well-liked, well-known republican governor of New York
+	- FDR as Democratic
+	- 
