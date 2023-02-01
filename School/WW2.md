@@ -453,4 +453,6 @@ Created: 01-18-2023
 					- He was a relatively new politician
 						- Recently elected senator by Missouri
 					- There was really nothing against him
+- **Battle of the Bulge - Hitler’s Last Offensive**
+	- Their plan was to break the allied lines and to Antwerp and push all the allies out of France
 	- 
