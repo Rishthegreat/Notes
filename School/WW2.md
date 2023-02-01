@@ -457,7 +457,12 @@ Created: 01-18-2023
 	- Their plan was to break the allied lines and to Antwerp and push all the allies out of France
 	- December 16, 1944 to January 28, 1945
 	- It was famously snowing during the battle
-	- As allies start moving towards Germany, we have to take Berlin and we are racing the USSR to Berlin so we can have greater control
-		- During this, many Horrors of the Holocaust were revealed
-		- The Soviets get to Berlin first
-			- Hitler
+- As allies start moving towards Germany, we have to take **Berlin** and we are racing the USSR to Berlin so we can have greater control
+	- During this, many Horrors of the Holocaust were revealed
+	- The Soviets get to Berlin first
+		- Hitler commits suicide April 30, 1945
+	- Germans eventually surrender - May 8th 1945
+		- V-E Day
+			- Victory in Europe because we are still fighting the Japanese
+- **Death of FDR - April 12, 1945**
+	- Happens shortly after the war
