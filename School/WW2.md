@@ -471,7 +471,13 @@ Created: 01-18-2023
 ##### Pacific Theatre
 - **General MacWrthur “Returns” to the Philippines on October 20th, 1944**
 	- Retaking it for the US
-- Largest Naval battle in History of world
+- **Largest Naval battle in History of world**
 	- Leyte Gulf (October 23-26, 1944)
 	- Overwhelming victory for the US
-- As US moves to Japan, it was important to take
+- **As US moves to Japan**
+	- Japan defends ths islands more fiercely
+- **Battle of Iwo Jima - Feb - March 1945**
+	- Kamakaze bombers
+	- Struck fear in the Americans because the Japanese were willing to go to any lengths
+- **Battle of Okinowa April-June 1945**
+	- 
