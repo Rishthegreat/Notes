@@ -496,5 +496,11 @@ Created: 01-18-2023
 - Bomb was dropped because according to Truman, there would have been more casualties and the war would have been longer
 - **Hiroshima - August 6, 1945**
 	- Uranium bomb called Little Boy
-	- 8
-- ****
+	- 80,000 killed immediately
+	- 48,000 buildings destroyed
+	- 100,000s died of radiation poisoning and cancer later
+	- Still refuse to surrender
+- **Nagasaki - August 9, 1945**
+	- Fat Man - Plutonium bomb
+	- 40, 000 killed immediately
+- US demands unconditional surrender, but the 
