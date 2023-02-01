@@ -486,4 +486,8 @@ Created: 01-18-2023
 	- Einstein sent a letter to FDR talking about the Germans building the bomb
 	- Major General Lesley R. Groves
 	- Dr. Robert Oppenheimer
-- The Germans abandoned their project to focus on other things while
+- The Germans abandoned their project to focus on other things, but the US did not know about this
+- **July 1945 - Potsdam Conference**
+	- At the conference, project trinity happened
+		- They tell Truman that the bomb works when he was at the conference
+	- 
