@@ -443,4 +443,9 @@ Created: 01-18-2023
 	- Thomas E. Dewey for Republican
 		- He was well-liked, well-known republican governor of New York
 	- FDR as Democratic
-	- 
+		- Why would you change your leadership in the middle of the war
+			- The war was successful at this point
+		- Roosevelt is ill and doctors know that he may not live for 4 more years
+			- Democrats are concerned who will take over if FDR dies
+			- Wallace (cu) is very liberal - too liberal and radical according to some
+				- He was an uncompromising liberal - moderate democrats did not like him
