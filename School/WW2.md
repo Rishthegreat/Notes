@@ -502,5 +502,7 @@ Created: 01-18-2023
 	- Still refuse to surrender
 - **Nagasaki - August 9, 1945**
 	- Fat Man - Plutonium bomb
-	- 40, 000 killed immediately
-- US demands unconditional surrender, but the 
+	- 40,000 killed immediately
+- US demands unconditional surrender, but the emperor was still a figurehead in Japan
+	- V-J Day, September 2, 1945
+	- 
