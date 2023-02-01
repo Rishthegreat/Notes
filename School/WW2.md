@@ -480,4 +480,10 @@ Created: 01-18-2023
 	- Kamakaze bombers
 	- Struck fear in the Americans because the Japanese were willing to go to any lengths
 - **Battle of Okinowa April-June 1945**
-	- 
+
+###### Why the Bomb?
+- The Manhattan Project
+	- Einstein sent a letter to FDR talking about the Germans building the bomb
+	- Major General Lesley R. Groves
+	- Dr. Robert Oppenheimer
+- The Germans abandoned their project to focus on other things while
