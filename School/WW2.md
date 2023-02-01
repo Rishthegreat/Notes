@@ -494,6 +494,9 @@ Created: 01-18-2023
 		- Phamplets were dropped over the island of Japan telling Japan to surrender to be destroyed
 	- War Crime trials to be held for Nazi leaders
 - Bomb was dropped because according to Truman, there would have been more casualties and the war would have been longer
+- **Why Drop it?**
+	- Some believe it was to test the bomb
+	- Some say that there was a lot of money invested, s
 - **Hiroshima - August 6, 1945**
 	- Uranium bomb called Little Boy
 	- 80,000 killed immediately
@@ -508,3 +511,4 @@ Created: 01-18-2023
 - US emerges as the dominant country in the world
 	- US now acts differenly, because isolationist was bad based on the events after WW1
 - **Massive Human Dislocation**
+	- Millions of people moving to different areas, new nationalities, countries
