@@ -496,7 +496,10 @@ Created: 01-18-2023
 - Bomb was dropped because according to Truman, there would have been more casualties and the war would have been longer
 - **Why Drop it?**
 	- Some believe it was to test the bomb
-	- Some say that there was a lot of money invested, s
+	- Some say that there was a lot of money invested, so economically it should have been dropped
+	- Show the Soviets that the US is powerful
+		- Show that the US is the most powerful nation in the world
+	- 
 - **Hiroshima - August 6, 1945**
 	- Uranium bomb called Little Boy
 	- 80,000 killed immediately
