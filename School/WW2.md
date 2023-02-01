@@ -455,4 +455,7 @@ Created: 01-18-2023
 					- There was really nothing against him
 - **Battle of the Bulge - Hitler’s Last Offensive**
 	- Their plan was to break the allied lines and to Antwerp and push all the allies out of France
-	- 
+	- December 16, 1944 to January 28, 1945
+	- It was famously snowing during the battle
+	- As allies start moving towards Germany, we have to take Berlin and we are racing the USSR to Berlin so we can have greater control
+		- During this, many Holocaust 
