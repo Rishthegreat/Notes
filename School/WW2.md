@@ -490,4 +490,7 @@ Created: 01-18-2023
 - **July 1945 - Potsdam Conference**
 	- At the conference, project trinity happened
 		- They tell Truman that the bomb works when he was at the conference
-	- 
+	- Demand unconditional surrender of Japan
+		- Phamplets were dropped over the island of Japan telling Japan to surrender to be destroyed
+	- War Crime trials to be held for Nazi leaders
+- 
