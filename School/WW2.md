@@ -458,4 +458,6 @@ Created: 01-18-2023
 	- December 16, 1944 to January 28, 1945
 	- It was famously snowing during the battle
 	- As allies start moving towards Germany, we have to take Berlin and we are racing the USSR to Berlin so we can have greater control
-		- During this, many Holocaust 
+		- During this, many Horrors of the Holocaust were revealed
+		- The Soviets get to Berlin first
+			- Hitler
