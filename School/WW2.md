@@ -493,4 +493,8 @@ Created: 01-18-2023
 	- Demand unconditional surrender of Japan
 		- Phamplets were dropped over the island of Japan telling Japan to surrender to be destroyed
 	- War Crime trials to be held for Nazi leaders
-- 
+- Bomb was dropped because according to Truman, there would have been more casualties and the war would have been longer
+- **Hiroshima - August 6, 1945**
+	- Uranium bomb called Little Boy
+	- 8
+- ****
