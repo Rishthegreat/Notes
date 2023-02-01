@@ -391,7 +391,7 @@ Created: 01-18-2023
 	- “Island-Hopping”
 		- This was more efficient to attack important islands and moving towards mainland Japan
 	- America thinks that they would have to launch a massive American invasion of Japan in order for them to surrender
-		- US did not know that they would use the atomic bomb
+		- US did not know that they would use the atomic bomb [[WW2]]
 ##### War in Europe and North Africa
 - **Battle of the Atlantic**
 	- In 1942, over 500 American supply ships are sunk by Germans
@@ -466,3 +466,6 @@ Created: 01-18-2023
 			- Victory in Europe because we are still fighting the Japanese
 - **Death of FDR - April 12, 1945**
 	- Happens shortly after the war
+	- Truman takes over
+
+##### Pacific Theatre
