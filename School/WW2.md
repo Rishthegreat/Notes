@@ -505,4 +505,6 @@ Created: 01-18-2023
 	- 40,000 killed immediately
 - US demands unconditional surrender, but the emperor was still a figurehead in Japan
 	- V-J Day, September 2, 1945
-	- 
+- US emerges as the dominant country in the world
+	- US now acts differenly, because isolationist was bad based on the events after WW1
+- **Massive Human Dislocation**
