@@ -447,5 +447,10 @@ Created: 01-18-2023
 			- The war was successful at this point
 		- Roosevelt is ill and doctors know that he may not live for 4 more years
 			- Democrats are concerned who will take over if FDR dies
-			- Wallace (cu) is very liberal - too liberal and radical according to some
+			- Wallace (current vice prez) is very liberal - too liberal and radical according to some
 				- He was an uncompromising liberal - moderate democrats did not like him
+				- Movement to replace Wallace with Harry Truman
+					- He was a relatively new politician
+						- Recently elected senator by Missouri
+					- There was really nothing against him
+	- 
