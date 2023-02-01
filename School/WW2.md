@@ -391,7 +391,7 @@ Created: 01-18-2023
 	- “Island-Hopping”
 		- This was more efficient to attack important islands and moving towards mainland Japan
 	- America thinks that they would have to launch a massive American invasion of Japan in order for them to surrender
-		- US did not know that they would use the atomic bomb [[WW2]]
+		- US did not know that they would use the atomic bomb [[WW2#Pacific Theatre]]
 ##### War in Europe and North Africa
 - **Battle of the Atlantic**
 	- In 1942, over 500 American supply ships are sunk by Germans
@@ -469,3 +469,9 @@ Created: 01-18-2023
 	- Truman takes over
 
 ##### Pacific Theatre
+- **General MacWrthur “Returns” to the Philippines on October 20th, 1944**
+	- Retaking it for the US
+- Largest Naval battle in History of world
+	- Leyte Gulf (October 23-26, 1944)
+	- Overwhelming victory for the US
+- As US moves to Japan, it was important to take
