@@ -6,7 +6,7 @@ Created: 02-03-2023
 # Cold War
 ---
 
-#### Russia as a Communist
+##### Russia as a Communist
 - Russia becomes communist during [[WW1]] in 1918
 - This scares the US because they do not like this
 	- The Red Scare
@@ -22,5 +22,8 @@ Created: 02-03-2023
 ##### Yalta Conference - 1945
 - FDR is alive for 2 more months
 - Germany is divided into occupation zones
-- Free elections in the liberation countries in Eastern Europe (Currently under Soviet control) (POLAND)
-- A new world peace organization would be formed at a fon
+- Free elections in the liberation countries in Eastern Europe (Currently under Soviet control)
+	- US does not think that the Soviets are
+- A new world peace organization would be formed at a conference in San Francisco
+- Soviets would enter war against Japan
+	- In exchange for Kurile Islands in Pacific, southern half of Sakhalin Island and special concessions in Manchuria and control of key seaports in Manchuria
