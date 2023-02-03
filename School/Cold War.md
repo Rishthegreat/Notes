@@ -53,4 +53,12 @@ Created: 02-03-2023
 		- Original purpose to rebuild war torn Europe
 		- Loans to developing nations
 		- Soviets decline to participate
-- US ends 
+	- Both are still around today
+- US ends Lend Lease aid to Soviets, denies reconstruction loans
+	- Tension because the loans were given to the British
+###### UN
+- April 1945 in San Francisco (FDR dead for about 2 weeks)
+- UN General Assembly - legislative body
+- UN Security 
+- 
+
