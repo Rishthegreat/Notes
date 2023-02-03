@@ -37,4 +37,11 @@ Created: 02-03-2023
 - America learned from WW1 that the US should not be isolationist and instead promote world trade, build up the nations in Europe, and take advantage of capitalism
 - On the other hand, the Soviets want to overthrow capitalism in as many countries as possible
 	- Germany had attacked the Soviets 2 times in the last 25 years and the Soviets do not want to build up Germany and instead want to have a buffer zone between itself and Germany through the different European countries
-- Europe is des
+- Europe is destroyed after WW2
+	- Cities are bombed out
+	- They will look toward American leadership and help
+	- Really only 2 countries with the most influence
+		- US and Soviets
+		- The US is more powerful due to boom in economy, best military in the world
+		- The Soviets also were destroyed and were not economically very stable
+- 
