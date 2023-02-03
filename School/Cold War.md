@@ -59,6 +59,12 @@ Created: 02-03-2023
 ###### UN
 - April 1945 in San Francisco (FDR dead for about 2 weeks)
 - UN General Assembly - legislative body
-- UN Security 
-- 
+- UN Security Council - “action agency”
+	- 15 countries
+	- US, Great Britain, France, China, and Soviets
+		- Permanent seats and veto power
+	- Other seats are rotated with other nations
+- Plans for Atomic Energy Comission
+	- Bernard Baruch
+	- Rejected by US 
 
