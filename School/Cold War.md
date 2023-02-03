@@ -78,3 +78,4 @@ Created: 02-03-2023
 	- London Charter
 - Document the horrors of the Holocaust
 - Put Germans on trial for war crimes
+	- Some say that they are legally blurry because the generals at the time of the crime
