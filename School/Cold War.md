@@ -23,7 +23,10 @@ Created: 02-03-2023
 - FDR is alive for 2 more months
 - Germany is divided into occupation zones
 - Free elections in the liberation countries in Eastern Europe (Currently under Soviet control)
-	- US does not think that the Soviets are
+	- US does not think that the Soviets are going to leave the countries in Eastern Europe ebcause they were under the control of the Red Army
+	- Especially concerned about Poland
 - A new world peace organization would be formed at a conference in San Francisco
 - Soviets would enter war against Japan
 	- In exchange for Kurile Islands in Pacific, southern half of Sakhalin Island and special concessions in Manchuria and control of key seaports in Manchuria
+		- Offered incentives to enter the war against Japan
+		- US kinda sold out its ally, the Chinese by giving away their islands and land
