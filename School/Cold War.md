@@ -71,9 +71,10 @@ Created: 02-03-2023
 		- Soviets wanted to develop their own weapons and felt that the US would still have power over the Soviets in the UN
 	- Rejected by US and Soviet for eliminating nuclear weapons and regulating nuclear energy, free from UN veto
 - Food and Agricultural Administration, World Haalth, UNESCO (United Nations Educational, Scientific, and Cultural Organization)
-###### Nuremberg Trials
+###### Nuremberg Trials 1945 - 1949
 - Decided at the Postdam Conference
 - Came up with a code because each country has differing laws
 	- International tribunal laws
+	- London Charter
 - Document the horrors of the Holocaust
 - Put Germans on trial for war crimes
