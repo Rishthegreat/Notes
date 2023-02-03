@@ -5,7 +5,7 @@ Links:
 Created: 02-03-2023
 # Cold War
 ---
-
+### Background
 ##### Russia as a Communist
 - Russia becomes communist during [[WW1]] in 1918
 - This scares the US because they do not like this
@@ -84,4 +84,7 @@ Created: 02-03-2023
 - This set a precedent as it set law to put future criminals on trial
 ###### Tokyo War Crimes
 - Not as popular as the Nuremberg
-- 
+- Main person to be put on trial was the military leader
+- Did not take pictures because the person in charge of the trials defied Truman when the emperor wished not to have pictures because of their culture
+
+#### What was the Cold War
