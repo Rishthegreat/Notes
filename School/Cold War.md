@@ -30,3 +30,8 @@ Created: 02-03-2023
 	- In exchange for Kurile Islands in Pacific, southern half of Sakhalin Island and special concessions in Manchuria and control of key seaports in Manchuria
 		- Offered incentives to enter the war against Japan
 		- US kinda sold out its ally, the Chinese by giving away their islands and land
+	- Soviets declare Japan a day or 2 after the US drops the first bomb and only fought for roughly a week
+- Some criticized this conference for giving the land away, but the US really wanted the Soviets to join the war
+
+##### Post War Aims
+- America learned from WW1 that the US would not be isolationist 
