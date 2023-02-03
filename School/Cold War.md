@@ -6,7 +6,7 @@ Created: 02-03-2023
 # Cold War
 ---
 ### Background
-##### Russia as a Communist
+#### Russia as a Communist
 - Russia becomes communist during [[WW1]] in 1918
 - This scares the US because they do not like this
 	- The Red Scare
@@ -19,7 +19,7 @@ Created: 02-03-2023
 	- Racing to Berlin
 	- Dropping bomb to show power over the Soviets
 
-##### Yalta Conference - 1945
+#### Yalta Conference - 1945
 - FDR is alive for 2 more months
 - Germany is divided into occupation zones
 - Free elections in the liberation countries in Eastern Europe (Currently under Soviet control)
@@ -33,7 +33,7 @@ Created: 02-03-2023
 	- Soviets declare Japan a day or 2 after the US drops the first bomb and only fought for roughly a week
 - Some criticized this conference for giving the land away, but the US really wanted the Soviets to join the war
 
-##### Post War Aims
+#### Post War Aims
 - America learned from WW1 that the US should not be isolationist and instead promote world trade, build up the nations in Europe, and take advantage of capitalism
 - On the other hand, the Soviets want to overthrow capitalism in as many countries as possible
 	- Germany had attacked the Soviets 2 times in the last 25 years and the Soviets do not want to build up Germany and instead want to have a buffer zone between itself and Germany through the different European countries
@@ -45,7 +45,7 @@ Created: 02-03-2023
 		- The US is more powerful due to boom in economy, best military in the world
 		- The Soviets also were destroyed and were not economically very stable
 
-##### Postwar Cooperation
+#### Postwar Cooperation
 - Bretton Woods, New Hampshire, July, 1944 - Conference during the War
 	- International Monetary Fund (IMF)
 		- Regulate currency exchange rates
@@ -56,7 +56,7 @@ Created: 02-03-2023
 	- Both are still around today
 - US ends Lend Lease aid to Soviets, denies reconstruction loans
 	- Tension because the loans were given to the British
-###### UN
+##### UN
 - April 1945 in San Francisco (FDR dead for about 2 weeks)
 - UN General Assembly - legislative body
 - UN Security Council - “action agency”
@@ -71,7 +71,7 @@ Created: 02-03-2023
 		- Soviets wanted to develop their own weapons and felt that the US would still have power over the Soviets in the UN
 	- Rejected by US and Soviet for eliminating nuclear weapons and regulating nuclear energy, free from UN veto
 - Food and Agricultural Administration, World Haalth, UNESCO (United Nations Educational, Scientific, and Cultural Organization)
-###### Nuremberg Trials 1945 - 1949
+##### Nuremberg Trials 1945 - 1949
 - Decided at the Postdam Conference
 - Came up with a code because each country has differing laws
 	- International tribunal laws
@@ -82,9 +82,9 @@ Created: 02-03-2023
 		- What the generals at the time of the crimes, were not considered crimes
 		- The allies also commited war crimes and killed many civillians
 - This set a precedent as it set law to put future criminals on trial
-###### Tokyo War Crimes
+##### Tokyo War Crimes
 - Not as popular as the Nuremberg
 - Main person to be put on trial was the military leader
 - Did not take pictures because the person in charge of the trials defied Truman when the emperor wished not to have pictures because of their culture
 
-#### What was the Cold War
+### What was the Cold War
