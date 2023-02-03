@@ -65,6 +65,9 @@ Created: 02-03-2023
 		- Permanent seats and veto power
 	- Other seats are rotated with other nations
 - Plans for Atomic Energy Comission
-	- Bernard Baruch
-	- Rejected by US 
+	- Bernard Baruch proposed all atomic weapons and energy run by the UN
+		- Some say that this was a missed opportunity
+		- US did not
+	- Rejected by US and Soviet for eliminating nuclear weapons and regulating nuclear energy, free from UN veto
+- Food and Agricultural Administration, World Haalth, UNESCO (United Nations Educational, Scientific, and Cultural Organization)
 
