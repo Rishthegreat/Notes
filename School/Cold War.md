@@ -78,4 +78,10 @@ Created: 02-03-2023
 	- London Charter
 - Document the horrors of the Holocaust
 - Put Germans on trial for war crimes
-	- Some say that they are legally blurry because the generals at the time of the crime
+	- Some say that they are legally blurry
+		- What the generals at the time of the crimes, were not considered crimes
+		- The allies also commited war crimes and killed many civillians
+- This set a precedent as it set law to put future criminals on trial
+###### Tokyo War Crimes
+- Not as popular as the Nuremberg
+- 
