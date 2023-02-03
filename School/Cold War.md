@@ -17,4 +17,10 @@ Created: 02-03-2023
 	- Allied with them out of necessity in [[WW2]]
 - There is a lot of distrust between the allies and the Soviet Union
 	- Racing to Berlin
-	- Dropping bomb to show power over the Soeits
+	- Dropping bomb to show power over the Soviets
+
+##### Yalta Conference - 1945
+- FDR is alive for 2 more months
+- Germany is divided into occupation zones
+- Free elections in the liberation countries in Eastern Europe (Currently under Soviet control) (POLAND)
+- A new world peace organization would be formed at a fon
