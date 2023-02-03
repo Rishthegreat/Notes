@@ -23,5 +23,6 @@ from #apush
 	- [[Great Depression]]
 	- [[The New Deal]]
 	- [[WW2]]
-- [[Unit 8 - Co]]
+- Unit 8 - 1945 - 1980
+	- [[Cold War]]
 ## Notes
