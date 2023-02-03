@@ -44,4 +44,13 @@ Created: 02-03-2023
 		- US and Soviets
 		- The US is more powerful due to boom in economy, best military in the world
 		- The Soviets also were destroyed and were not economically very stable
-- 
+
+##### Postwar Cooperation
+- Bretton Woods, New Hampshire, July, 1944 - Conference during the War
+	- International Monetary Fund (IMF)
+		- Regulate currency exchange rates
+	- World Bank
+		- Original purpose to rebuild war torn Europe
+		- Loans to developing nations
+		- Soviets decline to participate
+- US ends 
