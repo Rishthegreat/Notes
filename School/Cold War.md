@@ -34,4 +34,7 @@ Created: 02-03-2023
 - Some criticized this conference for giving the land away, but the US really wanted the Soviets to join the war
 
 ##### Post War Aims
-- America learned from WW1 that the US would not be isolationist 
+- America learned from WW1 that the US should not be isolationist and instead promote world trade, build up the nations in Europe, and take advantage of capitalism
+- On the other hand, the Soviets want to overthrow capitalism in as many countries as possible
+	- Germany had attacked the Soviets 2 times in the last 25 years and the Soviets do not want to build up Germany and instead want to have a buffer zone between itself and Germany through the different European countries
+- Europe is des
