@@ -17,7 +17,8 @@ Created: 02-06-2023
 - Pathways can act over **long distances** or **short distances**
 	- Send signals to nearby cells to repair localized damage
 	- Hormones that travel through blood to a target cell
-- Some affect how body proceses drugs. Others can maintain b
+- Some affect how body proceses drugs. Others can maintain balance, control how the pupil dialates, etc
+- When something
 
 #### Introduction to Signal Transduction 4.2
 #### Signal Transduction 4.3
