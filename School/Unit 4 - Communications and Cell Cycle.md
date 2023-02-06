@@ -14,7 +14,8 @@ Created: 02-06-2023
 - Cells are constantly receiving chemical cues prompted by things like injuries, infection, stress or even the presence or lack of food
 - Cells send and recieve signals through biological pathways
 - The moleucles that make up the pathway interact with signals, as well as with each other, to do their task
-- 
+- Pathways can act over **long distances** or **short distances**
+	- Send signals ro nearby cells to repair localized 
 
 #### Introduction to Signal Transduction 4.2
 #### Signal Transduction 4.3
