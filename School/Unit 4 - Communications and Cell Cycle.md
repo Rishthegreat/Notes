@@ -10,7 +10,11 @@ Created: 02-06-2023
 
 **Biological Pathway** - Series of actions among molecules in a cell that leads to a certain product or a change in the cell. It can trigger the assembly of new molecules, such as a fat or protein, turn genes on and off, or spur a cell to move
 
-
+##### How do they work?
+- Cells are constantly receiving chemical cues prompted by things like injuries, infection, stress or even the presence or lack of food
+- Cells send and recieve signals through biological pathways
+- The moleucles that make up the pathway interact with signals, as well as with each other, to do their task
+- 
 
 #### Introduction to Signal Transduction 4.2
 #### Signal Transduction 4.3
