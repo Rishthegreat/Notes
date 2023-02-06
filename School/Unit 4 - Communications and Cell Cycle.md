@@ -15,7 +15,9 @@ Created: 02-06-2023
 - Cells send and recieve signals through biological pathways
 - The moleucles that make up the pathway interact with signals, as well as with each other, to do their task
 - Pathways can act over **long distances** or **short distances**
-	- Send signals ro nearby cells to repair localized 
+	- Send signals to nearby cells to repair localized damage
+	- Hormones that travel through blood to a target cell
+- Some affect how body proceses drugs. Others can maintain b
 
 #### Introduction to Signal Transduction 4.2
 #### Signal Transduction 4.3
