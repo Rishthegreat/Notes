@@ -20,8 +20,8 @@ Created: 02-06-2023
 - Some affect how body proceses drugs. Others can maintain balance, control how the pupil dialates, etc
 - When something goes wrong, the result can be a disease like cancer or diabetes
 
-##### Types of Pathways?
-
+##### Types of Pathways
+- Most well-known are pathways involved in metabolism, in the regulation of genes and in the transmission of signals
 
 #### Introduction to Signal Transduction 4.2
 #### Signal Transduction 4.3
