@@ -18,7 +18,10 @@ Created: 02-06-2023
 	- Send signals to nearby cells to repair localized damage
 	- Hormones that travel through blood to a target cell
 - Some affect how body proceses drugs. Others can maintain balance, control how the pupil dialates, etc
-- When something
+- When something goes wrong, the result can be a disease like cancer or diabetes
+
+##### Types of Pathways?
+
 
 #### Introduction to Signal Transduction 4.2
 #### Signal Transduction 4.3
