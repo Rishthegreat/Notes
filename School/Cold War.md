@@ -109,4 +109,4 @@ Created: 02-03-2023
 	- Stalin does not leave, just like how Truman feared
 	- 1946 to 1949
 		- Soviets begin to interfere with the elections
-	- Comunists spread over
+	- Comunists spread over the Eastern nations and many people does not like this
