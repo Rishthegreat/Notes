@@ -88,4 +88,7 @@ Created: 02-03-2023
 - Did not take pictures because the person in charge of the trials defied Truman when the emperor wished not to have pictures because of their culture
 
 #### The Ideological Struggle
-
+| Soviet & Eastern Bloc Nations (“Iron Curtain”) | US & the Western Democracies                                                     |
+| ---------------------------------------------- | -------------------------------------------------------------------------------- |
+| Goal → Spread Worldwide Communism              | Goal → “Containment” of Communism & the eventual collapse of the Communist world |
+**Methodologies**
