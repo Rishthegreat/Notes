@@ -87,4 +87,5 @@ Created: 02-03-2023
 - Main person to be put on trial was the military leader
 - Did not take pictures because the person in charge of the trials defied Truman when the emperor wished not to have pictures because of their culture
 
-### What was the Cold War
+#### The Ideological Struggle
+
