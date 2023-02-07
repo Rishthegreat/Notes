@@ -98,3 +98,10 @@ Created: 02-03-2023
 - Bi-Polarization of Europe
 	- NATO vs Warsaw Pact
 - Arms Race (Nuclear escalation)
+
+- After WW2 in the Yalta Conference
+	- Germany is split into 4 zones
+		- France, British, Soviets, US
+		- The allies want to build up Germany
+		- Soviets want to keep Germany weak
+	- Berlin, which is in the Soviet occupa
