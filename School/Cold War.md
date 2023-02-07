@@ -91,4 +91,10 @@ Created: 02-03-2023
 | Soviet & Eastern Bloc Nations (“Iron Curtain”) | US & the Western Democracies                                                     |
 | ---------------------------------------------- | -------------------------------------------------------------------------------- |
 | Goal → Spread Worldwide Communism              | Goal → “Containment” of Communism & the eventual collapse of the Communist world |
+| Warsaw Pact                                    | NATO                                                                                 |
 **Methodologies**
+- Ideological Competition for the minds and hearts of Third World peoples
+- Proxy Wars
+- Bi-Polarization of Europe
+	- NATO vs Warsaw Pact
+- Arms Race (Nuclear escalation)
