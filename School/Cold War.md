@@ -104,4 +104,9 @@ Created: 02-03-2023
 		- France, British, Soviets, US
 		- The allies want to build up Germany
 		- Soviets want to keep Germany weak
-	- Berlin, which is in the Soviet occupa
+	- Berlin, which is in the Soviet occupation zone, is also broken into 4 zone
+- Soviet Satellite States
+	- Stalin does not leave, just like how Truman feared
+	- 1946 to 1949
+		- Soviets begin to interfere with the elections
+	- Comunists spread over
