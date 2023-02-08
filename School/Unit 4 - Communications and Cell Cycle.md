@@ -65,7 +65,9 @@ Created: 02-06-2023
 
 - This example shows how the cholera toxin causes the epithelial cells to release ions and water, causing diarrhea
 - Arrows indicate that the next step is going to be “activated” or “more likely to occur”
-- If the enkephalin activates the opioid receptor, the receptor will activate
+- If the enkephalin activates the opioid receptor, the receptor will activate another G-protein (not the same, but from the same family of G-proteins) and it will inhibit the process of adenylate cyclase binding to the G-protein.
+- The line with the bar at the end instead of arrow indicates inhibition
+- 
 #### Changes in Signal Transduction Pathways 4.4
 #### Feedback 4.5
 #### Cell Cycle 4.6
