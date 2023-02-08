@@ -22,6 +22,13 @@ Created: 02-06-2023
 
 ##### Types of Pathways
 - Most well-known are pathways involved in metabolism, in the regulation of genes and in the transmission of signals
+	- **Metabolic Pathways**
+		- eg - process by which cells break down food into energy molecules that can be stored for later use
+	- **Gene Regulation Pathways**
+		- Turn genes on and off
+			- Genes provide instruction to build proteins
+	- **Signal Transduction Pathways**
+		- 
 
 #### Introduction to Signal Transduction 4.2
 #### Signal Transduction 4.3
