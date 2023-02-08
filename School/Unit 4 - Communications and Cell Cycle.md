@@ -80,8 +80,10 @@ Created: 02-06-2023
 			- a dimer is a chemical compound formed when 2 usually similar moleucles join together
 		- This enables their intracellular domains to come into close contact and activate each other
 
-##### Binding Initiates a Signaling Pathway
 - Signaling pathway is also known as signaling cascade
+- 2nd messengers, enzymes and activated proteins interact with specific proteins which are in tirn actiaved in a chain reaction that eventually leads to a change in the cell’s environment
+	- Interactions that occur before a certain point →upstream
+	- After a certain point → downstream
 
 #### Changes in Signal Transduction Pathways 4.4
 #### Feedback 4.5
