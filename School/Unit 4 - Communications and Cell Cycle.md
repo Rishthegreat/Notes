@@ -122,7 +122,10 @@ Created: 02-06-2023
 ###### Autocrine
 - Signals are produced by signaling cells that can also bing to the ligand that is released
 	- The signaling and target cell can be the same or similar cell
-- 
+- Happens during early development of an organism, ensuring that cells develop into correct tissues
+	- In embryological d
+- Regulates pain sensation and inflamatory responses
+- If a cell gets attacked by a virus, it can signal itself to kill itself, killing the virus as well
 ###### Paracrine
 ###### Direct Signaling Across Gap Junctions
 ###### Endocrine
