@@ -37,7 +37,13 @@ Created: 02-06-2023
 - **Biological Network** - When multiple biological pathways interact with each other
 
 #### Introduction to Signal Transduction 4.2
-
+**Reasons to Communicate**
+- Regulate its own or another cell’s growth
+- Coordinate movement with other cells
+- Alter its own or another cell’s metabolism
+- Cause another cell to die
+- Altering expression of certain genes
+- Remodeling the cell’s cytoskeleton
 
 
 #### Signal Transduction 4.3
