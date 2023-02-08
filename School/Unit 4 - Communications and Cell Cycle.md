@@ -141,7 +141,7 @@ Created: 02-06-2023
 	- In plants, plasmodesmata are ubiquitous, making the entire plant into a giant communication network
 #### Paracrine
 - Act locally between cells that are close together
-- Move by diffusion through the extracellular matrix
+- Move by diffusion through the **extracellular matrix**
 	- Elicit quick responses that last only a short amount of time
 - To keep the response localized, ligand molecules are normally quickly degraded by enzymes or removed by neighboring cells. 
 	- This will recreate the concentration gradient for the signal, allowing them to quickly diffuse if released again
@@ -151,8 +151,10 @@ Created: 02-06-2023
 	- When these reach the end of the axon, they go to the dendrite of the next cell through the release of chemical ligands called **neurotransmitters** by the **presynaptic cell** (The cell emitting the signal)
 		- The small synapse allows signal to travel quick
 	- When the ligand binds to the receptor on the surface of the **postsynaptic cell**, the electrochemical potential of the target cell changes, and the next electrical impulse is launched. The ligands get quickly reabsorbed by the presynaptic cell or degrade
-
 #### Endocrine
+- Originate from endocrine cells
+	- These cells are located in the endocrine glands such as the thyroid, hypothalamus, and the pituitary gland
+- 
 ## Changes in Signal Transduction Pathways 4.4
 ## Feedback 4.5
 ## Cell Cycle 4.6
