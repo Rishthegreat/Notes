@@ -143,7 +143,11 @@ Created: 02-06-2023
 - Act locally between cells that are close together
 - Move by diffusion through the extracellular matrix
 	- Elicit quick responses that last only a short amount of time
-- To keep the response localized, ligand molecules are normally quickly degraded by enzymes or removed by neighbor
+- To keep the response localized, ligand molecules are normally quickly degraded by enzymes or removed by neighboring cells. 
+	- This will recreate the concentration gradient for the signal, allowing them to quickly diffuse if released again
+- ![[Pasted image 20230208180621.jpg|400]]
+	- 
+
 #### Endocrine
 ## Changes in Signal Transduction Pathways 4.4
 ## Feedback 4.5
