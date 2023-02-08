@@ -131,8 +131,12 @@ Created: 02-06-2023
 	- In embryological development, this may help to direct the differentiation of identical cells into the same cell type, this ensuring proper developmental outcome
 - Regulates pain sensation and inflamatory responses
 - If a cell gets attacked by a virus, it can signal itself to kill itself, killing the virus as well
-###### Paracrine
 ###### Direct Signaling Across Gap Junctions
+- Gap junctions in animals and plasmodesmata in plants are connections between the plasma membranes of neighboring cells
+- These gaps allow intracellular mediators to diffuse between the 2 cells
+	- Small molecules like calcium ions are able to move between cells, but large molecules like DNA cannot fit through the channels
+	- 
+###### Paracrine
 ###### Endocrine
 #### Changes in Signal Transduction Pathways 4.4
 #### Feedback 4.5
