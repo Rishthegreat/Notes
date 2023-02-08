@@ -146,11 +146,11 @@ Created: 02-06-2023
 - To keep the response localized, ligand molecules are normally quickly degraded by enzymes or removed by neighboring cells. 
 	- This will recreate the concentration gradient for the signal, allowing them to quickly diffuse if released again
 - ![[Pasted image 20230208180621.jpg|400]]
-	- A nerve has a cell body, several short dendrites (revieve stimuli), and a long extension called axon (transmits signals to other nerve cells or muscle cells)
+	- A nerve has a cell body, several short **dendrites** (revieve stimuli), and a long extension called **axon** (transmits signals to other nerve cells or muscle cells)
 	- Signals within the nerve cells are propogated by fast moving electrical impulses
-	- When these reach the end of the axon, they go to the dendrite of the next cell through the release of chemical ligands called neurotransmitters by the presynaptic cell (The cell emitting the signal)
+	- When these reach the end of the axon, they go to the dendrite of the next cell through the release of chemical ligands called **neurotransmitters** by the **presynaptic cell** (The cell emitting the signal)
 		- The small synapse allows signal to travel quick
-	- When the ligand binds to the receptor on the sur
+	- When the ligand binds to the receptor on the surface of the **postsynaptic cell**, the electrochemical potential of the target cell changes, and the next electrical impulse is launched. The ligands get quickly reabsorbed by the presynaptic cell or degrade
 
 #### Endocrine
 ## Changes in Signal Transduction Pathways 4.4
