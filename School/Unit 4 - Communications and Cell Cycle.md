@@ -104,7 +104,10 @@ Created: 02-06-2023
 
 **Cyclic AMP (cAMP)**
 - Synthesized by the enzyme adenylyl cyclase from ATP
-- Main role is to bind to and actiavte an en
+- Main role is to bind to and actiavte an enzyme called **cAMP-Dependent Kinase (A-Kinase)**
+	- This enzyme regulated vital metabolic pathways
+	- It phosphorylates serine and threonine residues of its target proteins, activating them
+	- Response to this actiavtion is different in different types of cells
 
 #### Changes in Signal Transduction Pathways 4.4
 #### Feedback 4.5
