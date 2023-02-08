@@ -64,7 +64,7 @@ Created: 02-06-2023
 		- From the Adrenal gland, epinephrine hormone is produced and released into the blodstream
 		- This hormone signals cells in the liver to break down glycogen into glucose, producing elevated blood glucose levels. It also stimulates target cells in the lungs and in the heart to increase the respiratory rate and heart rate
 
-#### Signal Transduction 4.3
+## Signal Transduction 4.3
 
 ![[Pasted image 20230207234321.png|550]]
 
@@ -73,7 +73,7 @@ Created: 02-06-2023
 - If the enkephalin activates the opioid receptor, the receptor will activate another G-protein (not the same, but from the same family of G-proteins) and it will inhibit the process of adenylate cyclase binding to the G-protein.
 - The line with the bar at the end instead of arrow indicates inhibition
 
-##### Binding Initiates a Signaling Pathway
+### Binding Initiates a Signaling Pathway
 ![[Pasted image 20230208122128.png|400]]
 - In **Signal Transduction**, a series of relay proteins inside the cytoplasm of the target cells activate target proteins, resulting in a cellular response.
 	- Complex due to interplay between proteins
@@ -94,24 +94,24 @@ Created: 02-06-2023
 - **Signal Integration** - 2 or more different cell-surface receptors merge to activate the same response in the cell. This process can ensure that multiple external requirements are met before a cell commits to a specific response
 - The effects of extracellular signals can also be amplified by enzymatic cascades. At the initiation of the signal, a single ligand binds to a single receptor. However, activation of a receptor-linked enzyme can activate many copies of a component of the signaling cascade, which amplifies the signal.
 
-##### Methods of Intracellular Signaling
+### Methods of Intracellular Signaling
 **Second Messengers**
 - Small molecules that propogate a signal after it has been initiated by the binding of the signaling molecule to the receptor
 - Alter behavior of certain cellular proteins
-###### Calcium
+#### Calcium
 - Calcium is a widely used 2nd messenger
 	- It has a very low free concentration because ion pumps in the plasma membrane continously use ATP to remove it
 	- Stored in cytoplasmic vesicles, suchg as the endoplasmic reticulum or accessed from outside the cell to signal
 - Ligand - gated calcium ion channels allow the higer levels of Calcium to flow into the cytoplasm
 - Response to increased concentration depends on the type of cell
 	- In $\beta$-cells of the pancreas, it leads to the release of insulin, and in muscle cells, it leads to muscle contractions
-###### Cyclic AMP (cAMP)
+#### Cyclic AMP (cAMP)
 - Synthesized by the enzyme adenylyl cyclase from ATP
 - Main role is to bind to and actiavte an enzyme called **cAMP-Dependent Kinase (A-Kinase)**
 	- This enzyme regulated vital metabolic pathways
 	- It phosphorylates serine and threonine residues of its target proteins, activating them
 	- Response to this actiavtion is different in different types of cells
-###### Inositol Phospholipids
+#### Inositol Phospholipids
 - Lipids that can be converted into second messengers
 - Can be found in small concentrations in the plasma membrane
 	- Located near membrane-bound receptors and can easily interact with them.
@@ -122,16 +122,16 @@ Created: 02-06-2023
 	- PKC then phosphorylates serine and threonine residues in its target proteins
 	- $IP_3$ diffuses into the cytoplasm and binds to ligand-gated calcium channels in the endoplasmic reticulum to release $Ca^{2+}$ that continues the signal cascade.
 
-##### Forms of Signaling
+### Forms of Signaling
 ![[Pasted image 20230208174746.jpg|350]]
-###### Autocrine
+#### Autocrine
 - Signals are produced by signaling cells that can also bing to the ligand that is released
 	- The signaling and target cell can be the same or similar cell
 - Happens during early development of an organism, ensuring that cells develop into correct tissues
 	- In embryological development, this may help to direct the differentiation of identical cells into the same cell type, this ensuring proper developmental outcome
 - Regulates pain sensation and inflamatory responses
 - If a cell gets attacked by a virus, it can signal itself to kill itself, killing the virus as well
-###### Direct Signaling Across Gap Junctions
+#### Direct Signaling Across Gap Junctions
 - Gap junctions in animals and plasmodesmata in plants are connections between the plasma membranes of neighboring cells
 - These gaps allow intracellular mediators to diffuse between the 2 cells
 	- Small molecules like calcium ions are able to move between cells, but large molecules like DNA cannot fit through the channels
@@ -139,11 +139,11 @@ Created: 02-06-2023
 	- Communicate the current state of the cell that is directly next to the target cell
 		- Coordinate their response to a signal that only one of them may have received
 	- In plants, plasmodesmata are ubiquitous, making the entire plant into a giant communication network
-###### Paracrine
+### Paracrine
 
-###### Endocrine
-#### Changes in Signal Transduction Pathways 4.4
-#### Feedback 4.5
-#### Cell Cycle 4.6
-#### Regulation of Cell Cycle 4.7
+#### Endocrine
+## Changes in Signal Transduction Pathways 4.4
+## Feedback 4.5
+## Cell Cycle 4.6
+## Regulation of Cell Cycle 4.7
 
