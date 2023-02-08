@@ -14,9 +14,10 @@ Created: 02-06-2023
 - Cells are constantly receiving chemical cues prompted by things like injuries, infection, stress or even the presence or lack of food
 - Cells send and recieve signals through biological pathways
 - The moleucles that make up the pathway interact with signals, as well as with each other, to do their task
-- Pathways can act over **long distances (juxtacrine/direct signaling)** or **short distances ()**
-	- Send signals to nearby cells to repair localized damage
+- Pathways can act over **short distances (juxtacrine/direct signaling)** or **medium distances (paracine signaling)**
+	- ![[Pasted image 20230207231137.png|300]]
 	- Hormones that travel through blood to a target cell
+	- ![[Pasted image 20230207231158.png|300]]
 - Some affect how body proceses drugs. Others can maintain balance, control how the pupil dialates, etc
 - When something goes wrong, the result can be a disease like cancer or diabetes
 
