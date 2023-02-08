@@ -68,7 +68,8 @@ Created: 02-06-2023
 - If the enkephalin activates the opioid receptor, the receptor will activate another G-protein (not the same, but from the same family of G-proteins) and it will inhibit the process of adenylate cyclase binding to the G-protein.
 - The line with the bar at the end instead of arrow indicates inhibition
 
-- In **Signal Transduction**, a series 
+- In **Signal Transduction**, a series of relay proteins inside the cytoplasm of the target cells activate target proteins, resulting in a cellular response.
+	- Complex due to interplay between proteins
 
 #### Changes in Signal Transduction Pathways 4.4
 #### Feedback 4.5
