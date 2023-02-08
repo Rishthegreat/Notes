@@ -152,8 +152,14 @@ Created: 02-06-2023
 		- The small synapse allows signal to travel quick
 	- When the ligand binds to the receptor on the surface of the **postsynaptic cell**, the electrochemical potential of the target cell changes, and the next electrical impulse is launched. The ligands get quickly reabsorbed by the presynaptic cell or degrade
 #### Endocrine
+- Called hormones
 - Originate from endocrine cells
 	- These cells are located in the endocrine glands such as the thyroid, hypothalamus, and the pituitary gland
+- Slower response, longer-lasting effect
+- Hormones get diluted and are present in low concentrations when they act on the target cells
+### Types of Receptors
+- Protein molecules in the target cell or on its surfac
+#### Internal Receptors
 - 
 ## Changes in Signal Transduction Pathways 4.4
 ## Feedback 4.5
