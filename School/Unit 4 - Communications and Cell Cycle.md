@@ -63,6 +63,7 @@ Created: 02-06-2023
 
 ![[Pasted image 20230207234321.png|550]]
 
+- This e
 - Arrows indicate that the next step is going to be “activated” or “more likely to occur”
 #### Changes in Signal Transduction Pathways 4.4
 #### Feedback 4.5
