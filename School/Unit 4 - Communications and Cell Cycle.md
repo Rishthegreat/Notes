@@ -90,7 +90,10 @@ Created: 02-06-2023
 - The effects of extracellular signals can also be amplified by enzymatic cascades. At the initiation of the signal, a single ligand binds to a single receptor. However, activation of a receptor-linked enzyme can activate many copies of a component of the signaling cascade, which amplifies the signal.
 
 ##### Methods of Intracellular Signaling
-**Second Messengers**
+###### Second Messengers
+- Small molecules that propogate a signal after it has been initiated by the binding of the signaling molecule to the receptor
+- Alter behavior of certain cellular proteins
+- Calcium is a widely used 2nd messenger
 
 
 #### Changes in Signal Transduction Pathways 4.4
