@@ -15,7 +15,7 @@ Created: 01-04-2023
 	- OIL RIG
 		- Oxidation is less electrons, Reduction is gain electrons
 - -ase suffix is enzymes (Are proteins)
-- Phosphate groups can’t be attached to just any part of a protein. Instead, they are typically linked to one of the three amino acids that have hydroxl groups in their side chains: tyrosine, threonine, and serine. 
+- Phosphate groups can’t be attached to just any part of a protein. Instead, they are typically linked to one of the three amino acids that have hydroxl groups in their side chains: tyrosine, threonine, and serine. The transfer of the phosphate group in catalyzed by an enzyme calle
 #### Enzyme Catalysis 3.2
 #### Environmental Impacts on Enzyme Function 3.3
 #### Cellular Energy 3.4
