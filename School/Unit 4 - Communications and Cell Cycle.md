@@ -94,6 +94,8 @@ Created: 02-06-2023
 - Small molecules that propogate a signal after it has been initiated by the binding of the signaling molecule to the receptor
 - Alter behavior of certain cellular proteins
 - Calcium is a widely used 2nd messenger
+	- It has a very low free concentration because ion pumps in the plasma membrane continously use ATP to remove it
+	- Stored in cytoplasmic vesicles, suchg as the endoplasmic reticulum
 
 
 #### Changes in Signal Transduction Pathways 4.4
