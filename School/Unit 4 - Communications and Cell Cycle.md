@@ -113,7 +113,9 @@ Created: 02-06-2023
 - **Phosphatidylinositol (PI)** is the main one
 	- Kinases phosphorylate to form PI-Phosphate (PIP) and PI-Biphosphate ($PIP_2$)
 	- The enzyme phospholipase C cleaves $PIP_2$ to form Disacylglycerol (DAG) and inositol triphosphate ($IP_3$)
-
+	- Diacylglycerol (DAG) remains in the plasma membrane and activates protein kinase C (PKC)
+	- PKC then phosphorylates serine and threonine residues in its target proteins
+	- $IP_3$ diffuses into the cytoplasm and binds to ligand-gated calcium channels in the endoplasmic reticulum to release $Ca^{2+}$ that continues the signal cascade.
 
 #### Changes in Signal Transduction Pathways 4.4
 #### Feedback 4.5
