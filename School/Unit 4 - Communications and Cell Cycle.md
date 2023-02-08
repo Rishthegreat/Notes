@@ -61,8 +61,9 @@ Created: 02-06-2023
 
 #### Signal Transduction 4.3
 
+![[Pasted image 20230207234321.png|550]]
 
-
+- Arrows indicate that the next step is going to be “activated” or “more likely to occur”
 #### Changes in Signal Transduction Pathways 4.4
 #### Feedback 4.5
 #### Cell Cycle 4.6
