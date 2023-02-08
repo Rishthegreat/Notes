@@ -74,7 +74,11 @@ Created: 02-06-2023
 		- This changes the shape of the protein and then activates or deactivates them
 - Second messengers like cAMP and $Ca^{2+}$ are often used to transmit signals within a cell
 - When a ligand binds to its receptor, conformational changes occur that affect the receptor’s intracellular domain. 
-- This change propogates through the membrane region of the receptor and leads
+- This change propogates through the membrane region of the receptor and leads to the activation of the intracellular domain or its associated proteins.
+	- Binding of the ligand may cause **dimerization** of the receptor
+		- 2 receptors bind to each other to form a stable complex called a **dimer**
+			- a dimer is a chemical compound formed when 2 usually similar moleucles join together
+		- 
 
 #### Changes in Signal Transduction Pathways 4.4
 #### Feedback 4.5
