@@ -46,6 +46,7 @@ Created: 02-06-2023
 - Activating or deactivating certain enzymes
 
 - ![[Pasted image 20230208174054.png|550]]
+	- [[Unit 4 - Communications and Cell Cycle#Autocrine]]
 - ![[Pasted image 20230207231137.png|300]]
 	- Examples
 	- 2 cells that are growing close together can signal to each other to stop growing through interactions of proteins on their surfaces
@@ -119,11 +120,12 @@ Created: 02-06-2023
 	- $IP_3$ diffuses into the cytoplasm and binds to ligand-gated calcium channels in the endoplasmic reticulum to release $Ca^{2+}$ that continues the signal cascade.
 
 ##### Forms of Signaling
+![[Pasted image 20230208174746.jpg|350]]
 ###### Autocrine
 - Signals are produced by signaling cells that can also bing to the ligand that is released
 	- The signaling and target cell can be the same or similar cell
 - Happens during early development of an organism, ensuring that cells develop into correct tissues
-	- In embryological d
+	- In embryological development, this may help to direct the differentiation of identical cells into the same cell type, this ensuring proper developmental outcome
 - Regulates pain sensation and inflamatory responses
 - If a cell gets attacked by a virus, it can signal itself to kill itself, killing the virus as well
 ###### Paracrine
