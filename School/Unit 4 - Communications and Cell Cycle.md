@@ -18,8 +18,10 @@ Created: 02-06-2023
 	- ![[Pasted image 20230207231137.png|300]]
 		- Examples
 		- 2 cells that are growing close together can signal to each other to stop growing through interactions of proteins on their surfaces
-			- Eg Sking cells interact through E-cad
+			- Eg: Skin cells interact through a protein called E-cadherin on their surface
 	- ![[Pasted image 20230207231158.png|300]]
+		- Examples
+			- A signaling neuron communicates with a target neuron by releasing small molecules called neurotransmitters into the space between the two cells (synapse)
 	- ![[Pasted image 20230207231408.png|300]]
 - Some affect how body proceses drugs. Others can maintain balance, control how the pupil dialates, etc
 - When something goes wrong, the result can be a disease like cancer or diabetes
