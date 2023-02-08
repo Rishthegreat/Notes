@@ -48,15 +48,18 @@ Created: 02-06-2023
 - ![[Pasted image 20230208174054.png|550]]
 	- [[Unit 4 - Communications and Cell Cycle#Autocrine]]
 - ![[Pasted image 20230207231137.png|300]]
+	- [[Unit 4 - Communications and Cell Cycle#Direct Signaling Across Gap Junctions]]
 	- Examples
 	- 2 cells that are growing close together can signal to each other to stop growing through interactions of proteins on their surfaces
 		- Eg: Skin cells interact through a protein called E-cadherin on their surface
 - ![[Pasted image 20230207231158.png|300]]
+	- [[Unit 4 - Communications and Cell Cycle#Paracrine]]
 	- Examples
 		- A signaling neuron communicates with a target neuron by releasing small molecules called neurotransmitters into the space between the two cells (synapse)
 			- One example of a neurotransmitter is serotonin
 - ![[Pasted image 20230207231408.png|300]]
 	- ![[Pasted image 20230207232852.png|225]]
+	- [[Unit 4 - Communications and Cell Cycle#Endocrine]]
 	- Examples
 		- From the Adrenal gland, epinephrine hormone is produced and released into the blodstream
 		- This hormone signals cells in the liver to break down glycogen into glucose, producing elevated blood glucose levels. It also stimulates target cells in the lungs and in the heart to increase the respiratory rate and heart rate
