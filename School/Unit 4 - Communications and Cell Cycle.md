@@ -95,7 +95,8 @@ Created: 02-06-2023
 - Alter behavior of certain cellular proteins
 - Calcium is a widely used 2nd messenger
 	- It has a very low free concentration because ion pumps in the plasma membrane continously use ATP to remove it
-	- Stored in cytoplasmic vesicles, suchg as the endoplasmic reticulum
+	- Stored in cytoplasmic vesicles, suchg as the endoplasmic reticulum or accessed from outside the cell to signal
+- Ligand - gated calcium ion channels allow the higer levels of 
 
 
 #### Changes in Signal Transduction Pathways 4.4
