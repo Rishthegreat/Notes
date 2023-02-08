@@ -135,7 +135,10 @@ Created: 02-06-2023
 - Gap junctions in animals and plasmodesmata in plants are connections between the plasma membranes of neighboring cells
 - These gaps allow intracellular mediators to diffuse between the 2 cells
 	- Small molecules like calcium ions are able to move between cells, but large molecules like DNA cannot fit through the channels
-	- 
+		- Cells remain independent, but can quickly trasmit signals
+	- Communicate the current state of the cell that is directly next to the target cell
+		- Coordinate their response to a signal that only one of them may have received
+	- in plants, plasmodesmata are ubiquitous, making the entire plant intoa giant communication network
 ###### Paracrine
 ###### Endocrine
 #### Changes in Signal Transduction Pathways 4.4
