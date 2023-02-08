@@ -15,7 +15,6 @@ Created: 01-04-2023
 	- OIL RIG
 		- Oxidation is less electrons, Reduction is gain electrons
 - -ase suffix is enzymes (Are proteins)
-- [[Phosphorylation]]
 
 #### Enzyme Catalysis 3.2
 #### Environmental Impacts on Enzyme Function 3.3

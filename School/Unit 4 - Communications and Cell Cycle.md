@@ -70,6 +70,7 @@ Created: 02-06-2023
 
 - In **Signal Transduction**, a series of relay proteins inside the cytoplasm of the target cells activate target proteins, resulting in a cellular response.
 	- Complex due to interplay between proteins
+	- 
 
 #### Changes in Signal Transduction Pathways 4.4
 #### Feedback 4.5
