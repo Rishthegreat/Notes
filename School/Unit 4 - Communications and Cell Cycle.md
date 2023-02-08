@@ -73,5 +73,3 @@ Created: 02-06-2023
 #### Cell Cycle 4.6
 #### Regulation of Cell Cycle 4.7
 
-
-mklpoiujhbvgytfcxdreswqazxdertyuytfgbvcxdfghjuioikoij
