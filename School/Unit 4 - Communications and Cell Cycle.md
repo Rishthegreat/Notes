@@ -108,6 +108,10 @@ Created: 02-06-2023
 	- Response to this actiavtion is different in different types of cells
 ###### Inositol Phospholipids
 - Lipids that can be converted into second messengers
+- Can be found in small concentrations in the plasma membrane
+	- Located near membrane-bound receptors and can easily interact with them.
+- **Phosphatidylinositol (PI)** is the main one
+	- Kinases phosphorylate to form PI-Phosphate (PIP) and PI-Biphos
 
 
 #### Changes in Signal Transduction Pathways 4.4
