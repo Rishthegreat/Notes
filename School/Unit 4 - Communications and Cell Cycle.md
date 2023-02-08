@@ -6,11 +6,11 @@ Created: 02-06-2023
 # Unit 4 - Communications and Cell Cycle
 ---
 
-#### Cell Communication 4.1
+## Cell Communication 4.1
 
 **Biological Pathway** - Series of actions among molecules in a cell that leads to a certain product or a change in the cell. It can trigger the assembly of new molecules, such as a fat or protein, turn genes on and off, or spur a cell to move
 
-##### How do they work?
+### How do they work?
 - Cells are constantly receiving chemical cues prompted by things like injuries, infection, stress or even the presence or lack of food
 - Cells send and recieve signals through biological pathways
 - The moleucles that make up the pathway interact with signals, as well as with each other, to do their task
@@ -18,7 +18,7 @@ Created: 02-06-2023
 - Some affect how body proceses drugs. Others can maintain balance, control how the pupil dialates, etc
 - When something goes wrong, the result can be a disease like cancer or diabetes
 
-##### Types of Pathways
+### Types of Pathways
 - Most well-known are pathways involved in metabolism, in the regulation of genes and in the transmission of signals
 	- **Metabolic Pathways**
 		- eg - process by which cells break down food into energy molecules that can be stored for later use
@@ -34,7 +34,7 @@ Created: 02-06-2023
 
 - **Biological Network** - When multiple biological pathways interact with each other
 
-#### Introduction to Signal Transduction 4.2
+## Introduction to Signal Transduction 4.2
 **Reasons to Communicate**
 - Regulate its own or another cell’s growth
 - Coordinate movement with other cells
@@ -138,8 +138,9 @@ Created: 02-06-2023
 		- Cells remain independent, but can quickly trasmit signals
 	- Communicate the current state of the cell that is directly next to the target cell
 		- Coordinate their response to a signal that only one of them may have received
-	- in plants, plasmodesmata are ubiquitous, making the entire plant intoa giant communication network
+	- In plants, plasmodesmata are ubiquitous, making the entire plant into a giant communication network
 ###### Paracrine
+
 ###### Endocrine
 #### Changes in Signal Transduction Pathways 4.4
 #### Feedback 4.5
