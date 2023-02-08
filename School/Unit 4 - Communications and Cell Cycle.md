@@ -15,15 +15,6 @@ Created: 02-06-2023
 - Cells send and recieve signals through biological pathways
 - The moleucles that make up the pathway interact with signals, as well as with each other, to do their task
 - Pathways can act over **short distances (juxtacrine/direct signaling)**, **medium distances (paracine signaling)**, or **long distances (endocrine signaling)**
-	- ![[Pasted image 20230207231137.png|300]]
-		- Examples
-		- 2 cells that are growing close together can signal to each other to stop growing through interactions of proteins on their surfaces
-			- Eg: Skin cells interact through a protein called E-cadherin on their surface
-	- ![[Pasted image 20230207231158.png|300]]
-		- Examples
-			- A signaling neuron communicates with a target neuron by releasing small molecules called neurotransmitters into the space between the two cells (synapse)
-				- One example of a neurotransmitter is serotonin
-	- ![[Pasted image 20230207231408.png|300]]
 - Some affect how body proceses drugs. Others can maintain balance, control how the pupil dialates, etc
 - When something goes wrong, the result can be a disease like cancer or diabetes
 
@@ -54,8 +45,20 @@ Created: 02-06-2023
 - Changing the concentration of cellular ions and small molecules
 - Activating or deactivating certain enzymes
 
-
 #### Signal Transduction 4.3
+
+- ![[Pasted image 20230207231137.png|300]]
+	- Examples
+	- 2 cells that are growing close together can signal to each other to stop growing through interactions of proteins on their surfaces
+		- Eg: Skin cells interact through a protein called E-cadherin on their surface
+- ![[Pasted image 20230207231158.png|300]]
+	- Examples
+		- A signaling neuron communicates with a target neuron by releasing small molecules called neurotransmitters into the space between the two cells (synapse)
+			- One example of a neurotransmitter is serotonin
+- ![[Pasted image 20230207231408.png|300]]
+	- ![[Pasted image 20230207232852.png|225]]
+	- 
+
 #### Changes in Signal Transduction Pathways 4.4
 #### Feedback 4.5
 #### Cell Cycle 4.6
