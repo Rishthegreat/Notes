@@ -45,7 +45,7 @@ Created: 02-06-2023
 - Changing the concentration of cellular ions and small molecules
 - Activating or deactivating certain enzymes
 
-- 
+- ![[Pasted image 20230208174054.png|550]]
 - ![[Pasted image 20230207231137.png|300]]
 	- Examples
 	- 2 cells that are growing close together can signal to each other to stop growing through interactions of proteins on their surfaces
@@ -118,6 +118,8 @@ Created: 02-06-2023
 	- PKC then phosphorylates serine and threonine residues in its target proteins
 	- $IP_3$ diffuses into the cytoplasm and binds to ligand-gated calcium channels in the endoplasmic reticulum to release $Ca^{2+}$ that continues the signal cascade.
 
+##### Forms of Signaling
+###### Paracrine
 #### Changes in Signal Transduction Pathways 4.4
 #### Feedback 4.5
 #### Cell Cycle 4.6
