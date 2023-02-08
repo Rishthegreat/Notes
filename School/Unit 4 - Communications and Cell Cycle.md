@@ -28,7 +28,11 @@ Created: 02-06-2023
 		- Turn genes on and off
 			- Genes provide instruction to build proteins
 	- **Signal Transduction Pathways**
-		- 
+		- Move a signal from a cell’s exterior to its interior
+		- Receive specific signals through structures on their surfaces called receptors
+		- Singal travels into the cell and transmitted by special proteins that trigger a specific reaction in the cell
+
+![[Pasted image 20230207230242.jpg|425]]
 
 #### Introduction to Signal Transduction 4.2
 #### Signal Transduction 4.3
