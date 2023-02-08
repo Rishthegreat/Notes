@@ -1,5 +1,5 @@
 Tags:
-Links: 
+Links: [[Bio]]
 
 ---
 Created: 02-06-2023
@@ -158,9 +158,10 @@ Created: 02-06-2023
 - Slower response, longer-lasting effect
 - Hormones get diluted and are present in low concentrations when they act on the target cells
 ### Types of Receptors
-- Protein molecules in the target cell or on its surfac
+- Protein molecules in the target cell or on its surface that bind to the ligand
 #### Internal Receptors
-- 
+- Also known as intracellular or cytoplasmic receptors
+- Found in cytoplasm of cell and respond to hydrophobic ligand molecules that are able to travel across the plasma membrane
 ## Changes in Signal Transduction Pathways 4.4
 ## Feedback 4.5
 ## Cell Cycle 4.6
