@@ -69,7 +69,7 @@ Created: 02-06-2023
 - The line with the bar at the end instead of arrow indicates inhibition
 
 ##### Binding Initiates a Signaling Pathway
-![[Pasted image 20230208122128.png]]
+![[Pasted image 20230208122128.png|400]]
 - In **Signal Transduction**, a series of relay proteins inside the cytoplasm of the target cells activate target proteins, resulting in a cellular response.
 	- Complex due to interplay between proteins
 	- [[Phosphorylation]] is very important
@@ -86,6 +86,7 @@ Created: 02-06-2023
 - 2nd messengers, enzymes and activated proteins interact with specific proteins which are in tirn actiaved in a chain reaction that eventually leads to a change in the cell’s environment
 	- Interactions that occur before a certain point →upstream
 	- After a certain point → downstream
+- **Signal Integration** - 2 or more different cell-surface receptors merge to activate the same response in the cell. This process can ensure that multiple external requirements are
 
 #### Changes in Signal Transduction Pathways 4.4
 #### Feedback 4.5
