@@ -83,10 +83,15 @@ Created: 02-06-2023
 		- This enables their intracellular domains to come into close contact and activate each other
 
 - Signaling pathway is also known as signaling cascade
-- 2nd messengers, enzymes and activated proteins interact with specific proteins which are in tirn actiaved in a chain reaction that eventually leads to a change in the cell’s environment
+- **2nd messengers**, enzymes and activated proteins interact with specific proteins which are in tirn actiaved in a chain reaction that eventually leads to a change in the cell’s environment
 	- Interactions that occur before a certain point →upstream
 	- After a certain point → downstream
-- **Signal Integration** - 2 or more different cell-surface receptors merge to activate the same response in the cell. This process can ensure that multiple external requirements are
+- **Signal Integration** - 2 or more different cell-surface receptors merge to activate the same response in the cell. This process can ensure that multiple external requirements are met before a cell commits to a specific response
+- The effects of extracellular signals can also be amplified by enzymatic cascades. At the initiation of the signal, a single ligand binds to a single receptor. However, activation of a receptor-linked enzyme can activate many copies of a component of the signaling cascade, which amplifies the signal.
+
+##### Methods of Intracellular Signaling
+**Second Messengers**
+
 
 #### Changes in Signal Transduction Pathways 4.4
 #### Feedback 4.5
