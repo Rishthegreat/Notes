@@ -111,7 +111,8 @@ Created: 02-06-2023
 - Can be found in small concentrations in the plasma membrane
 	- Located near membrane-bound receptors and can easily interact with them.
 - **Phosphatidylinositol (PI)** is the main one
-	- Kinases phosphorylate to form PI-Phosphate (PIP) and PI-Biphos
+	- Kinases phosphorylate to form PI-Phosphate (PIP) and PI-Biphosphate ($PIP_2$)
+	- The enzyme phospholipase C cleaves $PIP_2$ to form Disacylglycerol (DAG) and inositol triphosphate ($IP_3$)
 
 
 #### Changes in Signal Transduction Pathways 4.4
