@@ -17,7 +17,8 @@ Created: 02-06-2023
 - Pathways can act over **short distances (juxtacrine/direct signaling)**, **medium distances (paracine signaling)**, or **long distances (endocrine signaling)**
 	- ![[Pasted image 20230207231137.png|300]]
 		- Examples
-		- 2 cells that are growing close together can signal to each other to stop 
+		- 2 cells that are growing close together can signal to each other to stop growing through interactions of proteins on their surfaces
+			- Eg Sking cells interact through E-cad
 	- ![[Pasted image 20230207231158.png|300]]
 	- ![[Pasted image 20230207231408.png|300]]
 - Some affect how body proceses drugs. Others can maintain balance, control how the pupil dialates, etc
