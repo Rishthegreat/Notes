@@ -63,8 +63,9 @@ Created: 02-06-2023
 
 ![[Pasted image 20230207234321.png|550]]
 
-- This e
+- This example shows how the cholera toxin causes the epithelial cells to release ions and water, causing diarrhea
 - Arrows indicate that the next step is going to be “activated” or “more likely to occur”
+- If the enkephalin activates the opioid receptor, the receptor will activate
 #### Changes in Signal Transduction Pathways 4.4
 #### Feedback 4.5
 #### Cell Cycle 4.6
