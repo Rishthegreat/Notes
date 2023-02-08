@@ -45,6 +45,7 @@ Created: 02-06-2023
 - Changing the concentration of cellular ions and small molecules
 - Activating or deactivating certain enzymes
 
+- 
 - ![[Pasted image 20230207231137.png|300]]
 	- Examples
 	- 2 cells that are growing close together can signal to each other to stop growing through interactions of proteins on their surfaces
