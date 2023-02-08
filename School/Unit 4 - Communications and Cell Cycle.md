@@ -119,7 +119,13 @@ Created: 02-06-2023
 	- $IP_3$ diffuses into the cytoplasm and binds to ligand-gated calcium channels in the endoplasmic reticulum to release $Ca^{2+}$ that continues the signal cascade.
 
 ##### Forms of Signaling
+###### Autocrine
+- Signals are produced by signaling cells that can also bing to the ligand that is released
+	- The signaling and target cell can be the same or similar cell
+- 
 ###### Paracrine
+###### Direct Signaling Across Gap Junctions
+###### Endocrine
 #### Changes in Signal Transduction Pathways 4.4
 #### Feedback 4.5
 #### Cell Cycle 4.6
