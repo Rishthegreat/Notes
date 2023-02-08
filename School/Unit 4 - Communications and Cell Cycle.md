@@ -90,24 +90,25 @@ Created: 02-06-2023
 - The effects of extracellular signals can also be amplified by enzymatic cascades. At the initiation of the signal, a single ligand binds to a single receptor. However, activation of a receptor-linked enzyme can activate many copies of a component of the signaling cascade, which amplifies the signal.
 
 ##### Methods of Intracellular Signaling
-###### Second Messengers
+**Second Messengers**
 - Small molecules that propogate a signal after it has been initiated by the binding of the signaling molecule to the receptor
 - Alter behavior of certain cellular proteins
-
-**Calcium**
+###### Calcium
 - Calcium is a widely used 2nd messenger
 	- It has a very low free concentration because ion pumps in the plasma membrane continously use ATP to remove it
 	- Stored in cytoplasmic vesicles, suchg as the endoplasmic reticulum or accessed from outside the cell to signal
 - Ligand - gated calcium ion channels allow the higer levels of Calcium to flow into the cytoplasm
 - Response to increased concentration depends on the type of cell
 	- In $\beta$-cells of the pancreas, it leads to the release of insulin, and in muscle cells, it leads to muscle contractions
-
-**Cyclic AMP (cAMP)**
+###### Cyclic AMP (cAMP)
 - Synthesized by the enzyme adenylyl cyclase from ATP
 - Main role is to bind to and actiavte an enzyme called **cAMP-Dependent Kinase (A-Kinase)**
 	- This enzyme regulated vital metabolic pathways
 	- It phosphorylates serine and threonine residues of its target proteins, activating them
 	- Response to this actiavtion is different in different types of cells
+###### Inositol Phospholipids
+- Lipids that can be converted into second messengers
+
 
 #### Changes in Signal Transduction Pathways 4.4
 #### Feedback 4.5
