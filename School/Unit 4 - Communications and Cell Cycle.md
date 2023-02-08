@@ -73,6 +73,8 @@ Created: 02-06-2023
 	- [[Phosphorylation]] is very important
 		- This changes the shape of the protein and then activates or deactivates them
 - Second messengers like cAMP and $Ca^{2+}$ are often used to transmit signals within a cell
+- When a ligand binds to its receptor, conformational changes occur that affect the receptor’s intracellular domain. 
+- This change propogates through the membrane region of the receptor and leads
 
 #### Changes in Signal Transduction Pathways 4.4
 #### Feedback 4.5
