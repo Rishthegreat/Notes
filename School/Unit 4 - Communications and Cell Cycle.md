@@ -139,8 +139,11 @@ Created: 02-06-2023
 	- Communicate the current state of the cell that is directly next to the target cell
 		- Coordinate their response to a signal that only one of them may have received
 	- In plants, plasmodesmata are ubiquitous, making the entire plant into a giant communication network
-### Paracrine
-
+#### Paracrine
+- Act locally between cells that are close together
+- Move by diffusion through the extracellular matrix
+	- Elicit quick responses that last only a short amount of time
+- To keep the response localized, ligand molecules are normally quickly degraded by enzymes or removed by neighbor
 #### Endocrine
 ## Changes in Signal Transduction Pathways 4.4
 ## Feedback 4.5
