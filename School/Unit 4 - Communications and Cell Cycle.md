@@ -93,6 +93,7 @@ Created: 02-06-2023
 ###### Second Messengers
 - Small molecules that propogate a signal after it has been initiated by the binding of the signaling molecule to the receptor
 - Alter behavior of certain cellular proteins
+
 **Calcium**
 - Calcium is a widely used 2nd messenger
 	- It has a very low free concentration because ion pumps in the plasma membrane continously use ATP to remove it
@@ -101,6 +102,9 @@ Created: 02-06-2023
 - Response to increased concentration depends on the type of cell
 	- In $\beta$-cells of the pancreas, it leads to the release of insulin, and in muscle cells, it leads to muscle contractions
 
+**Cyclic AMP (cAMP)**
+- Synthesized by the enzyme adenylyl cyclase from ATP
+- Main role is to bind to and actiavte an en
 
 #### Changes in Signal Transduction Pathways 4.4
 #### Feedback 4.5
