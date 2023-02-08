@@ -59,7 +59,7 @@ Created: 02-06-2023
 	- ![[Pasted image 20230207232852.png|225]]
 	- Examples
 		- From the Adrenal gland, epinephrine hormone is produced and released into the blodstream
-		- This hormone signals cells in the liver to break down glycogen into glucose, producing elevated blood glucose levels
+		- This hormone signals cells in the liver to break down glycogen into glucose, producing elevated blood glucose levels. It also stimulates target cells in the lungs and in the heart to increase the respiratory rate and heart rate
 
 #### Changes in Signal Transduction Pathways 4.4
 #### Feedback 4.5
