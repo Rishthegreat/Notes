@@ -70,7 +70,9 @@ Created: 02-06-2023
 
 - In **Signal Transduction**, a series of relay proteins inside the cytoplasm of the target cells activate target proteins, resulting in a cellular response.
 	- Complex due to interplay between proteins
-	- [[Phosphorylation]] is very importa
+	- [[Phosphorylation]] is very important
+		- This changes the shape of the protein and then activates or deactivates them
+- Second messengers like cAMP and $Ca^{2+}$ are often used to transmit signals within a cell
 
 #### Changes in Signal Transduction Pathways 4.4
 #### Feedback 4.5
