@@ -34,6 +34,8 @@ Created: 02-06-2023
 
 ![[Pasted image 20230207230242.jpg|425]]
 
+- **Biological Network** - When multiple biological pathways interact with each other
+
 #### Introduction to Signal Transduction 4.2
 #### Signal Transduction 4.3
 #### Changes in Signal Transduction Pathways 4.4
