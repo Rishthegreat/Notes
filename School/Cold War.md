@@ -209,5 +209,9 @@ Created: 02-03-2023
 - Soon after, the Soviets also develop their own bomb
 
 ### Cold War in Asia
+- There will be much more failures for the US in Asia
+#### American Occupation of Japan
+- Controlled until 1951
+- Best way to get rid of US is for Japan to cooperate
 
 
