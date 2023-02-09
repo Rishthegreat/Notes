@@ -110,5 +110,10 @@ Created: 02-03-2023
 	- 1946 to 1949
 		- Soviets begin to interfere with the elections
 	- Comunists spread over the Eastern nations and many people did not like this
-	- “From Stettin in the Balkans, to Triste in the Adriatic, an iron curtain has descended across the Continent. Behind that line lies the ancient capitals of Central and Eastern Europe” - Sir Winston Churchill, 1946
+	- “From Stettin in the Balkans, to Triste in the Adriatic, an **iron curtain** has descended across the Continent. Behind that line lies the ancient capitals of Central and Eastern Europe” - Sir Winston Churchill, 1946
+
+- **George F. Kennan**
+	- Sent a Long Telegram to the United States
+	- Soviets are inherently expansionist
+	- “Contain” the spread of communism around the globe
 
