@@ -113,10 +113,14 @@ Created: 02-03-2023
 	- “From Stettin in the Balkans, to Triste in the Adriatic, an **iron curtain** has descended across the Continent. Behind that line lies the ancient capitals of Central and Eastern Europe” - Sir Winston Churchill, 1946
 
 - **George F. Kennan**
+	- American diplomat stationed in Moscow
 	- Sent a Long Telegram to the United States
 	- Soviets are inherently expansionist
 	- “Contain” the spread of communism around the globe
 	- Until the 1990s, this shaped US foreign policy
+		- It would be too risky to invade the Soviet Union or the satellite states directly
+
+[[Truman Doctrine]]
 
 
 
