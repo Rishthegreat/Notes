@@ -151,9 +151,15 @@ Created: 02-03-2023
 
 #### Truman Recognizes Isreal (1948)
 - British Palestine was mostly Islamic
-- After WW2, there was a lot of sympathy
+- After WW2, there was a lot of sympathy for the Jews
 - The UN then creates the Jewish state of Isreal
-	- The original plan was to 
+	- The original plan was to have Isreal and Palestine
+	- Gave them a year to come up with governments, etc
+- Palestine does not like that their land is being taken away
+- Isreal wants more land
+	- Isreal starts off with a war and wins the war against Palestine
+- Truman recognizes Isreal
+	- Many middle eastern nations do not like Isreal
 
 
 
