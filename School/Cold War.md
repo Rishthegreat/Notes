@@ -116,4 +116,8 @@ Created: 02-03-2023
 	- Sent a Long Telegram to the United States
 	- Soviets are inherently expansionist
 	- “Contain” the spread of communism around the globe
+	- Until the 1990s, this shaped US foreign policy
+
+
+
 
