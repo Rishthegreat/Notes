@@ -132,12 +132,15 @@ Created: 02-03-2023
 #### Division of Berlin
 - West Berlin is doing much better than Eastern Berlin
 - Stalin hates this
+- June 1948 - May 1949
 - **Berlin Blockade**
-	- First big Cold War crisis in th US
+	- First big Cold War crisis in the US
+	- Stalin puts a blockade, trying to starve West Berlin and make the Americans leave
 - **Airlift**
 	- A plane landing in West Berlin for 11 months every few minutes
-	- One of the biggest US military undertak
-
-
+		- Dropped off supplies
+	- One of the biggest US military undertakings
+	- This is one of the biggest reasons he wins reelection in 1948
+	- Popular in West Berlin as well
 
 
