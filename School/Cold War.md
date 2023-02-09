@@ -179,7 +179,23 @@ Created: 02-03-2023
 - Convince the American public that a arms build up was imperative
 - Implemented during the **Korean War**
 
-
+#### North Atlantic Treaty Organization (NATO) - 1949
+- US
+- Belgium
+- Britain
+- Canada
+- Denmark
+- France
+- Iceland
+- Italy
+- Luxemburg
+- Netherlands
+- Norway
+- Portugal
+- 1952: Greece and Turkey
+- 1955: West Germany
+- 1983: Spain
+- Important shift 
 
 
 
