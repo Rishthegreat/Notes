@@ -14,5 +14,5 @@ Created: 02-09-2023
 - $12.5 Billion of US aid to Western Europe
 - While Congress was debating this, Czechoslovakia becomes communist and made Congress realize that this needs to happen
 - Offered to Stalin as well, but he did not let any of the nations under his control to recieve it
-- Ends threat
-- 
+- Ends threat to communism in region as well as bolstering US prosperity
+- Promote American prosperity, stopping communism, and helping nations recover

@@ -120,12 +120,13 @@ Created: 02-03-2023
 	- Until the 1990s, this shaped US foreign policy
 		- It would be too risky to invade the Soviet Union or the satellite states directly
 
-[[Truman Doctrine]]
+[[Truman Doctrine]] - 1947
 - Containment in Action
 - Set a interventionist trend
 
 [[Marshal Plan]] - 1948
 - Well recieved
+
 
 
 
