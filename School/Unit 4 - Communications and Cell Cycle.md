@@ -160,9 +160,13 @@ Created: 02-06-2023
 ### Types of Receptors
 - Protein molecules in the target cell or on its surface that bind to the ligand
 #### Internal Receptors
+![[Pasted image 20230208233235.jpg|400]]
 - Also known as intracellular or cytoplasmic receptors
 - Found in cytoplasm of cell and respond to hydrophobic ligand molecules that are able to travel across the plasma membrane
 - Many of these ligand molecules bind to proteins that act as regulators of mRNA synthesis (transcription) to mediate gene expression
+- When the ligand binds to the internal receptor, a conformational change is triggered that exposes a DNA-binding site on the protein. The ligand-receptor complex moves into the nucleus, then binds to specific regulatory regions of the chromosomal DNA and promotes the initiation of transcription
+	- Transcription is DNA to messenger RNA (mRNA)
+#### Cel
 ## Changes in Signal Transduction Pathways 4.4
 ## Feedback 4.5
 ## Cell Cycle 4.6
