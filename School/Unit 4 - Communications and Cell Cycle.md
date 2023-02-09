@@ -162,6 +162,7 @@ Created: 02-06-2023
 #### Internal Receptors
 - Also known as intracellular or cytoplasmic receptors
 - Found in cytoplasm of cell and respond to hydrophobic ligand molecules that are able to travel across the plasma membrane
+- Many of these ligand molecules bind to proteins that act as regulators of mRNA synthesis (transcription) to mediate gene expression
 ## Changes in Signal Transduction Pathways 4.4
 ## Feedback 4.5
 ## Cell Cycle 4.6
