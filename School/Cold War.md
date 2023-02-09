@@ -180,6 +180,7 @@ Created: 02-03-2023
 - Implemented during the **Korean War**
 
 #### NATO and Warsaw
+- This created a bipolarization of Europe
 ##### North Atlantic Treaty Organization (NATO) - 1949
 - US
 - Belgium
@@ -200,8 +201,11 @@ Created: 02-03-2023
 
 ##### Warsaw Pact (1955)
 - In turn, the Soviets create their own pact to protect all nations under this
-- This created a bipolarization of Europe
 
-
+- The Soviets exploded its first atomic bomb in 1949
+	- Creates a lot of fear in the US
+	- The playing field has been leveled and leads to a massive arms race
+- 3 years later, the US develops the development of the hydrogen-bomb in 1952
+- 
 
 
