@@ -121,7 +121,9 @@ Created: 02-03-2023
 		- It would be too risky to invade the Soviet Union or the satellite states directly
 
 [[Truman Doctrine]]
-- Containme
+- Containment in Action
+
+
 
 
 
