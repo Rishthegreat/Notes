@@ -132,7 +132,11 @@ Created: 02-03-2023
 #### Division of Berlin
 - West Berlin is doing much better than Eastern Berlin
 - Stalin hates this
-	- **Berlin Blockade **
+- **Berlin Blockade**
+	- First big Cold War crisis in th US
+- **Airlift**
+	- A plane landing in West Berlin for 11 months every few minutes
+	- One of the biggest US military undertak
 
 
 
