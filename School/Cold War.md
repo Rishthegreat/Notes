@@ -179,7 +179,8 @@ Created: 02-03-2023
 - Convince the American public that a arms build up was imperative
 - Implemented during the **Korean War**
 
-#### North Atlantic Treaty Organization (NATO) - 1949
+#### NATO and Warsaw
+##### North Atlantic Treaty Organization (NATO) - 1949
 - US
 - Belgium
 - Britain
@@ -195,7 +196,12 @@ Created: 02-03-2023
 - 1952: Greece and Turkey
 - 1955: West Germany
 - 1983: Spain
-- Important shift 
+- Important shift in the US foreign policy
+
+##### Warsaw Pact (1955)
+- In turn, the Soviets create their own pact to protect all nations under this
+- This created a bipolarization of Europe
+
 
 
 
