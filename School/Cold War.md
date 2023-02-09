@@ -122,6 +122,8 @@ Created: 02-03-2023
 
 [[Truman Doctrine]]
 - Containment in Action
+- Set a interventionist trend
+
 
 
 

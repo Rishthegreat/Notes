@@ -7,13 +7,13 @@ Created: 02-09-2023
 ---
 ### Tensions in the Meditteranian
 - There is a Civil War in Greece
-	- NAtionalist greek army vs democratic
+	- Nationalist greek army vs democratic
 	- Made greece very vulnerable to political influence
-	- US scared that Soveit would step in
+	- US scared that Soviets would step in
 - The Soviets are putting a lot of pressure on the Turkish to give them access to a waterway to trade
-	- Soveits wanted to drill for il in Iran
+	- Soveits wanted to drill for oil in Iran and wanted Iran’s support as well as a way to get that oil out
 	- Wanted transit rights in the Turkish Straits as well as a military base there
-- Feared a domino effect
+- US Feared a domino effect
 
 ### Addressing the Crisis
 - Truman gives a speech in 1947 where he says
