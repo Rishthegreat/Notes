@@ -139,8 +139,16 @@ Created: 02-03-2023
 - **Airlift**
 	- A plane landing in West Berlin for 11 months every few minutes
 		- Dropped off supplies
+		- After 11 months, Stalin lifts the blockade
 	- One of the biggest US military undertakings
 	- This is one of the biggest reasons he wins reelection in 1948
 	- Popular in West Berlin as well
+
+- First couple of years, the US is seeming to be winning the Cold War
+- Now, this leads to 2 permanent division of Germany
+	- West Germany and East Germany
+	- They combine into 1 later on
+
+
 
 
