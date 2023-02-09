@@ -149,6 +149,11 @@ Created: 02-03-2023
 	- West Germany and East Germany
 	- They combine into 1 later on
 
+#### Truman Recognizes Isreal (1948)
+- British Palestine was mostly Islamic
+- After WW2, there was a lot of sympathy
+- The UN then creates the Jewish state of Isreal
+	- The original plan was to 
 
 
 
