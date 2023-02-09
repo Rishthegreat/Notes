@@ -168,8 +168,15 @@ Created: 02-03-2023
 - Congress passes this Act
 - Department of Defense
 	- Secretary of Defense
-	- Joint Chiefs
-	- 
+	- Joint Chiefs of Staff
+- National Security Council (NSC)
+- Central Intelligence Agency (CIA)
+- The Pentagon was created in order to house the Department of Defense
+
+#### NSC-68 (1950)
+- Quadruple US government defense spending to 20% of GNP
+- Alliances with non Communist nations
+- Convince the American pu
 
 
 
