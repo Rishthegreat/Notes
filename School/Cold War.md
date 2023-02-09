@@ -176,7 +176,10 @@ Created: 02-03-2023
 #### NSC-68 (1950)
 - Quadruple US government defense spending to 20% of GNP
 - Alliances with non Communist nations
-- Convince the American pu
+- Convince the American public that a arms build up was imperative
+- Implemented during the **Korean War**
+
+
 
 
 
