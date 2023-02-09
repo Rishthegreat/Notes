@@ -160,6 +160,16 @@ Created: 02-03-2023
 	- Isreal starts off with a war and wins the war against Palestine
 - Truman recognizes Isreal
 	- Many middle eastern nations do not like Isreal
+	- US also has a lot of oil trade interests with these nations
+	- Many advisors advised against this because it might create tensions with other Islamic states and harm trade
+	- However, Truman believed it was the right thing to do
+
+#### National Security Act (1947)
+- Congress passes this Act
+- Department of Defense
+	- Secretary of Defense
+	- Joint Chiefs
+	- 
 
 
 
