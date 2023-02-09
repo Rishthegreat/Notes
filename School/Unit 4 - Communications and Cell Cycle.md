@@ -166,7 +166,11 @@ Created: 02-06-2023
 - Many of these ligand molecules bind to proteins that act as regulators of mRNA synthesis (transcription) to mediate gene expression
 - When the ligand binds to the internal receptor, a conformational change is triggered that exposes a DNA-binding site on the protein. The ligand-receptor complex moves into the nucleus, then binds to specific regulatory regions of the chromosomal DNA and promotes the initiation of transcription
 	- Transcription is DNA to messenger RNA (mRNA)
-#### Cel
+#### Cell-Surface Receptors
+- Also known as transmembrane receptors
+- Membrane-anchored (integral) proteins that bind to external ligand molecules
+	- Ligands do not have to enter the cell
+- Spans the plasma membrane and performs singal transduction
 ## Changes in Signal Transduction Pathways 4.4
 ## Feedback 4.5
 ## Cell Cycle 4.6
