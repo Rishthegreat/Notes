@@ -87,6 +87,8 @@ Created: 02-03-2023
 - Main person to be put on trial was the military leader
 - Did not take pictures because the person in charge of the trials defied Truman when the emperor wished not to have pictures because of their culture
 
+### Cold War Begining
+
 #### The Ideological Struggle
 | Soviet & Eastern Bloc Nations (“Iron Curtain”) | US & the Western Democracies                                                     |
 | ---------------------------------------------- | -------------------------------------------------------------------------------- |
@@ -127,7 +129,10 @@ Created: 02-03-2023
 [[Marshal Plan]] - 1948
 - Well recieved
 
-
+#### Division of Berlin
+- West Berlin is doing much better than Eastern Berlin
+- Stalin hates this
+	- **Berlin Blockade **
 
 
 
