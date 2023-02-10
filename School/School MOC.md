@@ -26,8 +26,6 @@ from #assignments
 
 ## Notes
 
-[[Projects]]
-
 Laser Settings
 Old Laser
 - 1/8 Wood
