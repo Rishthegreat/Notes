@@ -5,6 +5,7 @@ Links:
 Created: 02-13-2023
 # Korean War
 ---
+**1950 - 1953**
 ### Background to the War
 - Korea was an independent nation for many centuries
 - Very isolationist and only had contact with China and Japan
