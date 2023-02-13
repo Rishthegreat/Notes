@@ -242,5 +242,9 @@ Created: 02-03-2023
 - Kim Il-Sung was from North Korea, but grew up in China and had a lot of training in Soviet Union
 	- He was appointed leader of North Korea
 - Syngman Rhee was democratically elected for South Korea
-- 
+- In 1948, there was supposed to be an election to unite both sides
+- Rhee was more popular because Sung was not seen as from Korea
+	- South elects Rhee, North does not hold elections, so Korea remains divided
+- Both sides wanted to unify Korea under their own democratic or communist regime
+[[Korean War]]
 
