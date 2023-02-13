@@ -89,7 +89,14 @@ Created: 02-03-2023
 
 ### Cold War Begining
 ___
-#### Theor
+#### Theories
+- Necessary response to Soviet Aggression
+	- Common theory in the US and most Americans would agree with this
+- Overreaction by America and the West
+	- America is the real aggressor?
+	- Spread Capitalism and promote US trade
+- America too soft on communism
+- Both sides to blame - inevitable conflict
 ___
 #### The Ideological Struggle
 | Soviet & Eastern Bloc Nations (“Iron Curtain”) | US & the Western Democracies                                                     |
