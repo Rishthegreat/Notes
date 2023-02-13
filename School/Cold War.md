@@ -229,5 +229,11 @@ Created: 02-03-2023
 		- “Truman lost China”
 		- This decreased Truman’s popularity a bit
 - Chiang Kai-Shek fled to Taiwan and until the 1970s, Taiwan was recognized as the government of China
-
+#### Korean War - 1950 to 1953
+- Korea was an independent nation for many centuries
+- Very isolationist and only had contact with China and Japan
+- Around 1890s, Japan shows a lot of influence and by 1910s, Japan controlled Korea
+	- Very cruel treatment
+- After WW2, Japan loose Korean lands
+- Soviets come into Korea from the North and the US from the 
 
