@@ -16,6 +16,9 @@ Created: 02-13-2023
 - Reaentemente →Recently
 - Conjugation of Haber (indicative)
 	- he, has, ha, hemos, han
-
 - Conjugation of Haber (Subjunctive)
 	- haya, hayas, haya, hayamos, hayan
+
+The past participle is where you add -ado or -ido to the end of the word
+
+Ya is sometimes used as 
