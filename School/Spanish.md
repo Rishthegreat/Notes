@@ -40,3 +40,7 @@ Apuntes para los presentacion
 	- Hay un persona en una silla de ruedas
 		- El medico está empujando el
 	- Son aburridos
+
+
+**Reseñas**
+1. 
