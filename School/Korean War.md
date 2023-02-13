@@ -5,7 +5,7 @@ Links:
 Created: 02-13-2023
 # Korean War
 ---
-### BAck
+### Background to the War
 - Korea was an independent nation for many centuries
 - Very isolationist and only had contact with China and Japan
 - Around 1890s, Japan shows a lot of influence and by 1910s, Japan controlled Korea
@@ -23,9 +23,10 @@ Created: 02-13-2023
 	- South elects Rhee, North does not hold elections, so Korea remains divided
 - Both sides wanted to unify Korea under their own democratic or communist regime
 ### The War
-- In the Summer of North Korea invades South Korea
+- In the Summer of 1950 North Korea invades South Korea
 - Take the capital of Seoul very quickly
 - US does not like this
 	- US does not know who is invading
 		- Is it Korean troops? Chinese troops? Soviet troops?
-- 
+- UN authorized troops (88% troops were American) to help South Korea
+	- “United Nations Police Action”

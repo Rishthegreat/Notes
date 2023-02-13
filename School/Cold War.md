@@ -230,6 +230,5 @@ Created: 02-03-2023
 		- This decreased Truman’s popularity a bit
 - Chiang Kai-Shek fled to Taiwan and until the 1970s, Taiwan was recognized as the government of China
 #### Korean War - 1950 to 1953
-
 [[Korean War]]
 
