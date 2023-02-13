@@ -10,3 +10,5 @@ Created: 02-13-2023
 - Not yet in spanish
 	- Todavía
 	- Aún no
+- Últimamente →Lately
+- Reaentemente →Recently
