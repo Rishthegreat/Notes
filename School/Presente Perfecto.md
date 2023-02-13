@@ -32,4 +32,10 @@ Ya is sometimes used as “yet”
 | Hacer      | Hecho      |
 | Imprimir   | Impreso    |
 | Morir      | Muerto     |
-| Poner      |            |
+| Poner      | Puesto     |
+| Resolver   | Resuelto   |
+| Romper     | Roto       |
+| Satisfacer | Satisfecho |
+| Ver        | Visto      |
+| Volver     | Vuelto     |
+
