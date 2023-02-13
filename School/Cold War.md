@@ -248,5 +248,8 @@ ___
 		- However, a major reason for that signing is the death of Stalin
 
 ### Domestic Fear of Communism
-
+#### First Red Scare (1919-1920) Comparison
+#### Second Red Scare (1947-1954)
+- There is fear that there are Americans that are trying the spread communism in the US
+- Massive vi
 
