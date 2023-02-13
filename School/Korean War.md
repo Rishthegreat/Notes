@@ -30,11 +30,12 @@ Created: 02-13-2023
 		- Is it Korean troops? Chinese troops? Soviet troops?
 			- What we now know is that Korea was supplying troops, Soviets were providing military troops, and Chinese would provide support if needed
 - UN Mandate to restore peace in the area
-- UN authorized troops (88% troops were American) to help South Korea under Douglass McAurthur
+- UN authorized troops (88% troops were American) to help South Korea under Douglas MacArthur
 	- “United Nations Police Action”
 - At first it went badly
 - As American gather their forces, they get pushed back to Pusan
 - Then later, South Korea is able to recapture the peninsula and both sides are again back at the 38th Parallel
-- McArthur wants to take the entirely of Korea while Truman is nervous about China, but agrees
+	- They would encircle the enemy from the sides by attacking from sea
+- MacArthur wants to take the entirely of Korea while Truman is nervous about China, but agrees
 - US troops cross the 38th Parallel and take the capital of North Korean Pyongyang and are on the Chosin Reservoir
 - In October 1950, Chinese troops under the name of the Chinese People's Volunteer Army (CPV) crossed the Yalu River to assist North Korean armies
