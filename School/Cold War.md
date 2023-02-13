@@ -252,9 +252,10 @@ ___
 - There is fear that there are Americans that are trying the spread communism in the US
 - Massive violation of civil liberties
 - The first and second red scare occured after the War
-| First Red Scare                                                                                                                          | Second Red Scare                                      |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| A lot of radicalism after WW1, so US cuts off immigration (Immigration laws) and many were deported. Many were against foreign influence | Fear of radicalism spreading in the US                |
-| Anti-Union sentiment and laws                                                                                                            | Not much anti-union sentiment, though it is prevalent |
-| -                                                                                                                                        | Much more Large Scale                                                      |
+| First Red Scare                                                                                                                          | Second Red Scare                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| A lot of radicalism after WW1, so US cuts off immigration (Immigration laws) and many were deported. Many were against foreign influence | Fear of radicalism spreading in the US                            |
+| Anti-Union sentiment and laws                                                                                                            | Not much anti-union sentiment, though it is prevalent             |
+| -                                                                                                                                        | Much more Large Scale                                             |
+| Not in a war against any country                                                                                                         | Fear of being bombed by the soviets, massive scale investigations |
 
