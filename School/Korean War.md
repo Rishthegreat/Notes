@@ -50,4 +50,4 @@ Created: 02-13-2023
 - People continue to fight at the 38th parallel and die while the lines do not move for 2 years as negotiations continue for ceasefire
 - Truman continues to decline in popularity
 - In July 1953,  the Armstice was signed and the credit is given to President Eisenhower
-	- This was not a peace treaty, so technically, the Korean War is technically n
+	- This was not a peace treaty, so technically, the Korean War is technically not yet over
