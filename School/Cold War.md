@@ -221,5 +221,9 @@ Created: 02-03-2023
 	- Current Nationalist leader is Chiang Kai-Shek
 	- The Nationalist government is fighting against communist Mao Zedong
 		- Most Chinese support Mao Zedong because most of them are peasants
-	- 
+	- The current government is also pretty corrupt
+- US does not want China to turn communist, but it does not want to enter a war
+	- It gives some money to the nationalist government, but since it was corrupt, 80% of that money goes to the communist
+- In 1949, China becomes communist
+	- Some people said that Truman was weak on communism and it was his fault that China fell
 
