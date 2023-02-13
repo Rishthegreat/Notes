@@ -28,6 +28,8 @@ Created: 02-13-2023
 - US does not like this
 	- US does not know who is invading
 		- Is it Korean troops? Chinese troops? Soviet troops?
-- 
-- UN authorized troops (88% troops were American) to help South Korea
+			- What we now know is that Korea was supplying troops, Soviets were providing military troops, and Chinese 
+- UN Mandate to restore peace in the area
+- UN authorized troops (88% troops were American) to help South Korea under Douglass McAurthur
 	- “United Nations Police Action”
+- 
