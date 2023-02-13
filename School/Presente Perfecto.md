@@ -23,4 +23,13 @@ The past participle is where you add -ado or -ido to the end of the word
 
 Ya is sometimes used as “yet”
 
-- Abierto
+| Infinitivo | Participio |
+| ---------- | ---------- |
+| Abrir      | Abierto    |
+| Cubrir     | Cubierto   |
+| Decir      | Dicho      |
+| Escribir   | Escrito    |
+| Hacer      | Hecho      |
+| Imprimir   | Impreso    |
+| Morir      | Muerto     |
+| Poner      |            |
