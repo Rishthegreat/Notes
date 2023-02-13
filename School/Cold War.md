@@ -246,5 +246,5 @@ ___
 		- [[Cold War#NSC-68 (1950)]]
 	- Eisenhower during the election said that if elected, he will go to Korea and end the war, and an armstice was signed soon after his election
 		- However, a major reason for that signing is the death of Stalin
-
+### Domes
 
