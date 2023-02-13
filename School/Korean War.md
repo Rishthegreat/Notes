@@ -40,3 +40,5 @@ Created: 02-13-2023
 - US troops cross the 38th Parallel and take the capital of North Korean Pyongyang and appraoched the Yalu River
 - ![[Pasted image 20230213101339.png|300]]
 - In October 1950, Chinese troops under the name of the Chinese People's Volunteer Army (CPV) crossed the Yalu River to assist North Korean armies
+	- UN is outnumbered 2:1 and North Korea pushes down
+	- The with reenforcements, 
