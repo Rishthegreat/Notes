@@ -41,4 +41,9 @@ Created: 02-13-2023
 - ![[Pasted image 20230213101339.png|300]]
 - In October 1950, Chinese troops under the name of the Chinese People's Volunteer Army (CPV) crossed the Yalu River to assist North Korean armies
 	- UN is outnumbered 2:1 and North Korea pushes down
-	- The with reenforcements, 
+	- The with reenforcements, South Korea pushed back up
+- The war stabilizes at the 38th Parallel
+- MacArthur wants to expand the war and declare war against China
+	- Truman disagrees as calls it a “Limited War”
+	- MacArthur calls it “There is No Substitute for Victory”
+		- Critizies Truman in the papers and Truman fires him
