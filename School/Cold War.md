@@ -88,7 +88,9 @@ Created: 02-03-2023
 - Did not take pictures because the person in charge of the trials defied Truman when the emperor wished not to have pictures because of their culture
 
 ### Cold War Begining
-
+___
+#### Theor
+___
 #### The Ideological Struggle
 | Soviet & Eastern Bloc Nations (“Iron Curtain”) | US & the Western Democracies                                                     |
 | ---------------------------------------------- | -------------------------------------------------------------------------------- |
@@ -231,6 +233,7 @@ Created: 02-03-2023
 - Chiang Kai-Shek fled to Taiwan and until the 1970s, Taiwan was recognized as the government of China
 #### Korean War - 1950 to 1953
 - [[Korean War]] 
+	- First proxy War
 	- Truman leaves in 1952 after his term as one of the lowest approval ratings in history due to how the Americans viewed him as “soft” on communism
 	- Sparked massive military defensive spending against communism
 		- NSC-68
