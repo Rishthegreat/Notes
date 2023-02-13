@@ -48,4 +48,5 @@ Created: 02-13-2023
 	- MacArthur calls it “There is No Substitute for Victory”
 		- Critizies Truman in the papers and Truman fires him
 - People continue to fight at the 38th parallel and die while the lines do not move for 2 years as negotiations continue for ceasefire
-- President Eisenhower in 
+- Truman continues to decline in popularity
+- In July 1953,  the Armstice was signed and the credit is given to President Eisenhower
