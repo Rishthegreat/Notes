@@ -47,5 +47,5 @@ Apuntes para los presentacion
 2.  Mi experiencia en ese hotel fue muy mala. El restaurante del hotel tiene comidas que no son sabrosas. Cuando al botones subía mis equipajes, él rompió mis cosas. La habitación no tiene manta o toallas para mí. También, en la noche, yo le dije a la operadora del hotel que me despertara a las seis y media, pero él me despertó a las siete y media y perdí mi vuelo. El hotel era muy pequeño y tenía mucha gente. El hotel se sentía muy lleno y no había espacio para caminar. Este es un hotel que debes evitar si puedes.
 
 **Resumenes**
-1. El dormitorio es muy limpio y organizado. La camarera es muy amable. La cama y la comida es muy bien. El precio no es mas
-2. 
+1. El dormitorio es muy limpio y organizado. La camarera es muy amable. La cama es muy bonita y cómodo y la comida es muy sabrosa. El precio no es mas.
+2. El hotel era muy pequeno, muchas turostas, no camarera, comida malo, 
