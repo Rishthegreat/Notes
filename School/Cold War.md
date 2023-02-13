@@ -215,4 +215,5 @@ Created: 02-03-2023
 - Best way to get rid of US is for Japan to cooperate
 - Forced a democratic government with more freedoms for citizens and women in general
 - Japan could invest in the industry since they did not have to maintain their army because the US was there
+- Deemed as successful and became one of US’s strongest allies
 
