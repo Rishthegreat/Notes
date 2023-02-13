@@ -28,8 +28,11 @@ Created: 02-13-2023
 - US does not like this
 	- US does not know who is invading
 		- Is it Korean troops? Chinese troops? Soviet troops?
-			- What we now know is that Korea was supplying troops, Soviets were providing military troops, and Chinese 
+			- What we now know is that Korea was supplying troops, Soviets were providing military troops, and Chinese would provide support if needed
 - UN Mandate to restore peace in the area
 - UN authorized troops (88% troops were American) to help South Korea under Douglass McAurthur
 	- “United Nations Police Action”
-- 
+- At first it went badly
+- As American gather their forces, they get pushed back to Pusan
+- Then later, South Korea is able to recapture the peninsula and both sides are again back at the 38th Parallel
+- McArthur wants to take 
