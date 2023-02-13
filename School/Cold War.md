@@ -226,4 +226,8 @@ Created: 02-03-2023
 	- It gives some money to the nationalist government, but since it was corrupt, 80% of that money goes to the communist
 - In 1949, China becomes communist
 	- Some people said that Truman was weak on communism and it was his fault that China fell
+		- “Truman lost China”
+		- This decreased Truman’s popularity a bit
+- Chiang Kai-Shek fled to Taiwan and until the 1970s, Taiwan was recognized as the government of China
+
 
