@@ -186,7 +186,7 @@ ___
 - Quadruple US government defense spending to 20% of GNP
 - Alliances with non Communist nations
 - Convince the American public that a arms build up was imperative
-- Implemented during the **Korean War**
+- Implemented during the [[Korean War]]
 
 #### NATO and Warsaw
 - This created a bipolarization of Europe
@@ -243,7 +243,7 @@ ___
 	- First proxy War
 	- Truman leaves in 1952 after his term as one of the lowest approval ratings in history due to how the Americans viewed him as “soft” on communism
 	- Sparked massive military defensive spending against communism
-		- NSC-68
+		- [[Cold War#NSC-68 (1950)]]
 	- Eisenhower during the election said that if elected, he will go to Korea and end the war, and an armstice was signed soon after his election
 		- However, a major reason for that signing is the death of Stalin
 
