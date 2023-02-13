@@ -5,7 +5,6 @@ Links:
 Created: 02-13-2023
 # Korean War
 ---
-**1950 - 1953**
 ### Background to the War
 - Korea was an independent nation for many centuries
 - Very isolationist and only had contact with China and Japan
@@ -23,7 +22,7 @@ Created: 02-13-2023
 - Rhee was more popular because Sung was not seen as from Korea
 	- South elects Rhee, North does not hold elections, so Korea remains divided
 - Both sides wanted to unify Korea under their own democratic or communist regime
-### The War
+### The War - **1950 - 1953**
 - In the Summer of 1950 North Korea invades South Korea
 - Take the capital of Seoul very quickly
 - US does not like this
@@ -51,3 +50,4 @@ Created: 02-13-2023
 - People continue to fight at the 38th parallel and die while the lines do not move for 2 years as negotiations continue for ceasefire
 - Truman continues to decline in popularity
 - In July 1953,  the Armstice was signed and the credit is given to President Eisenhower
+	- This was not a peace treaty, so technically, the Korean War is technically n

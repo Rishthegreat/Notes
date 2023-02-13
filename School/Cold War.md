@@ -232,5 +232,7 @@ Created: 02-03-2023
 #### Korean War - 1950 to 1953
 - [[Korean War]] 
 	- Truman leaves in 1952 after his term as one of the lowest approval ratings in history due to how the Americans viewed him as “soft” on communism
+	- Sparked massive military defensive spending against communism
+		- NSC-68
 
 
