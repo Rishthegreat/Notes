@@ -248,8 +248,11 @@ ___
 		- However, a major reason for that signing is the death of Stalin
 
 ### Domestic Fear of Communism
-#### First Red Scare (1919-1920) Comparison
 #### Second Red Scare (1947-1954)
 - There is fear that there are Americans that are trying the spread communism in the US
-- Massive vi
+- Massive violation of civil liberties
+- The first and second red scare occured after the War
+| First Red Scare                                                                 | Second Red Scare |
+| ------------------------------------------------------------------------------- | ---------------- |
+| A lot of radicalism after WW1, so US cuts off immigration and many were deported |                  |
 
