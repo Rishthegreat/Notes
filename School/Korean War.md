@@ -37,5 +37,6 @@ Created: 02-13-2023
 - Then later, South Korea is able to recapture the peninsula and both sides are again back at the 38th Parallel
 	- They would encircle the enemy from the sides by attacking from sea
 - MacArthur wants to take the entirely of Korea while Truman is nervous about China, but agrees
-- US troops cross the 38th Parallel and take the capital of North Korean Pyongyang and are on the Chosin Reservoir
+- US troops cross the 38th Parallel and take the capital of North Korean Pyongyang and appraoched the Yalu River
+- ![[Pasted image 20230213101339.png|300]]
 - In October 1950, Chinese troops under the name of the Chinese People's Volunteer Army (CPV) crossed the Yalu River to assist North Korean armies
