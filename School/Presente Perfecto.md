@@ -22,3 +22,5 @@ Created: 02-13-2023
 The past participle is where you add -ado or -ido to the end of the word
 
 Ya is sometimes used as “yet”
+
+- Abierto
