@@ -43,7 +43,9 @@ Created: 02-13-2023
 	- UN is outnumbered 2:1 and North Korea pushes down
 	- The with reenforcements, South Korea pushed back up
 - The war stabilizes at the 38th Parallel
-- MacArthur wants to expand the war and declare war against China
+- MacArthur wants to expand the war and declare war against China, maybe even using nuclear weapons
 	- Truman disagrees as calls it a “Limited War”
 	- MacArthur calls it “There is No Substitute for Victory”
 		- Critizies Truman in the papers and Truman fires him
+- People continue to fight at the 38th parallel and die while the lines do not move for 2 years as negotiations continue for ceasefire
+- 
