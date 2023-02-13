@@ -216,4 +216,10 @@ Created: 02-03-2023
 - Forced a democratic government with more freedoms for citizens and women in general
 - Japan could invest in the industry since they did not have to maintain their army because the US was there
 - Deemed as successful and became one of US’s strongest allies
+#### Communist China
+- Prior to WW2, there is a civil war in China
+	- Current Nationalist leader is Chiang Kai-Shek
+	- The Nationalist government is fighting against communist Mao Zedong
+		- Most Chinese support Mao Zedong because most of them are peasants
+	- 
 
