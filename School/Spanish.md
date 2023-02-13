@@ -48,4 +48,4 @@ Apuntes para los presentacion
 
 **Resumenes**
 1. El dormitorio es muy limpio y organizado. La camarera es muy amable. La cama es muy bonita y cómodo y la comida es muy sabrosa. El precio no es mas.
-2. El hotel era muy pequeno, muchas turostas, no camarera, comida malo, 
+2. El hotel era muy pequeña y hay muchas turistas. El hotel no tiene camareras, y la comida fue muy malo
