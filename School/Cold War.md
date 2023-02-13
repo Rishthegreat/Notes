@@ -235,5 +235,12 @@ Created: 02-03-2023
 - Around 1890s, Japan shows a lot of influence and by 1910s, Japan controlled Korea
 	- Very cruel treatment
 - After WW2, Japan loose Korean lands
-- Soviets come into Korea from the North and the US from the 
+- Soviets come into Korea from the North and the US from the South
+	- Agree to Divide Korea along the 38th parallel
+	- Only supposed to be temporarily
+		- Free elections to later unite Korea
+- Kim Il-Sung was from North Korea, but grew up in China and had a lot of training in Soviet Union
+	- He was appointed leader of North Korea
+- Syngman Rhee was democratically elected for South Korea
+- 
 
