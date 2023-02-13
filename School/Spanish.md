@@ -43,4 +43,8 @@ Apuntes para los presentacion
 
 
 **Reseñas**
+1.  El hotel fue una experiencia increíble para mí. Mi habitación era enorme y me sentí como en casa. El personal era increíble con su amabilidad interminable. La parte favorita de mi visita fueron las fiestas de baile. Mi esposa y yo siempre miramos hacia adelante y estábamos listos para mostrar nuestros movimientos. El hotel es un hotel increíble que debería ser la mejor opción para cualquier visitante de México.
+2.  Mi experiencia en ese hotel fue muy mala. El restaurante del hotel tiene comidas que no son sabrosas. Cuando al botones subía mis equipajes, él rompió mis cosas. La habitación no tiene manta o toallas para mí. También, en la noche, yo le dije a la operadora del hotel que me despertara a las seis y media, pero él me despertó a las siete y media y perdí mi vuelo. El hotel era muy pequeño y tenía mucha gente. El hotel se sentía muy lleno y no había espacio para caminar. Este es un hotel que debes evitar si puedes.
+
+**Resumenes**
 1. 
