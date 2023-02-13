@@ -14,5 +14,8 @@ Created: 02-13-2023
 	- Aún no
 - Últimamente →Lately
 - Reaentemente →Recently
-- Conjugation of Haber
-|
+- Conjugation of Haber (indicative)
+	- he, has, ha, hemos, han
+
+- Conjugation of Haber (Subjunctive)
+	- haya, hayas, haya, hayamos, hayan
