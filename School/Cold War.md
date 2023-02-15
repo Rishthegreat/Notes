@@ -292,5 +292,10 @@ ___
 	- There is a revival in religion
 	- Pledge of allegiance gets “one nation, under god”
 ##### Joseph McCarthy
-- He was a relatively unknown senator from Missouri
-	- He was a Republican and most of them 
+- He was a relatively unknown senator from Wisconsin
+	- He was a Republican and most of them were harsher on communism
+- 1950 →205 known Communists in State Department - fails to identity one with evidence
+- One of the most powerful and feared men in Americca very soon
+	- Ruthless and Brutal Tactics
+- Edward R. Murrow
+	- 1954 → first 
