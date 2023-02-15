@@ -51,9 +51,11 @@ Apuntes para los presentacion
 2. El hotel era muy pequeña y hay muchas turistas. El hotel no tiene camareras, y la comida fue muy malo
 
 **Bailey Daily 2/15/2023**
-1. La camarera ha puesto toallas en el baño
-	1. Es bueno que la camarera haya puesto toallas en el baño
+1. Es bueno que la camarera haya puesto toallas en el baño
 2. No es cierto que hayamos reservado una habitacion doble
 3. Me hace feliz que el botones haya subido mi equipaje
 4. Mi mamá dudo que yo haya pagado con efectivo
-5. Dudo que los hués ped
+5. Dudo que los hués pedes hayan desocupado el cuarto
+
+
+
