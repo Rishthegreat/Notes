@@ -18,3 +18,6 @@ Created: 02-15-2023
 	- “Since/Because”
 	- Al no ver a mis amigos, me fui
 	- Al no reservar una habitación, ne había disponibilidad
+
+Ejemplos
+- Al salir del ho
