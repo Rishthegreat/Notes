@@ -314,4 +314,8 @@ ___
 	- More soldiers come back home for work
 	- Just like WW1, there is a massive wave of postwar labor strikes
 		- 4.6 million workers go on strike in 1946
-- 
+		- Union memberships in US peaks in 1955
+			- Peak of manufacturing
+			- As US moves towards a more technology based economy, there is less unskilled labor and the number of strikes decreases
+- Taft-Hartley Act - 1946
+-
