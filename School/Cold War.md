@@ -310,4 +310,8 @@ ___
 - Becomes president
 - People are worried that another Depression would come after WW2
 	- After the war, there is a little economic downturn - like WW1
-	- Then it stabilizes and then an economic bo
+	- Then it stabilizes and then an economic boom - like WW1
+	- More soldiers come back home for work
+	- Just like WW1, there is a massive wave of postwar labor strikes
+		- 4.6 million workers go on strike in 1946
+- 
