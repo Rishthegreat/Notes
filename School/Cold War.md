@@ -280,4 +280,7 @@ ___
 		- He “found” government papers in a hollowed out pumpkin in some state
 	- Hiss was sent to jail for 5 years
 		- He did lie a bit during the trial
-	- Based on Soviet files now, we do think that he is a Soviet spy
+	- Based on Soviet files now, we do have convincing evidence that he is a Soviet spy
+- **Julius and Ethel Rosenberg**
+	- These 2 scientists helped the Soviet Union steal information regarding the Manhattan project and sentenced to die by electric chair
+	- Many felt that they were being persecuted for being Jewish and victim to this mass hysteria
