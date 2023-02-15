@@ -250,6 +250,7 @@ ___
 ### Domestic Fear of Communism
 #### Second Red Scare (1947-1954)
 - First Red Scare was from 1919-1920
+	- [[Roaring 20s#The First Red Scare (1919-1920)]]
 - There is fear that there are Americans that are trying the spread communism in the US
 - Massive violation of civil liberties
 - The first and second red scare occured after the War
@@ -259,3 +260,6 @@ ___
 | Anti-Union sentiment and laws                                                                                                            | Not much anti-union sentiment, though it is prevalent             |
 | -                                                                                                                                        | Much more Large Scale                                             |
 | Not in a war against any country                                                                                                         | Fear of being bombed by the soviets, massive scale investigations |
+
+- Truman for the most part is against the red scare, but in 1947, he signed the **Loyalty Review Board**
+	- 
