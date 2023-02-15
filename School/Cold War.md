@@ -298,4 +298,8 @@ ___
 - One of the most powerful and feared men in Americca very soon
 	- Ruthless and Brutal Tactics
 - Edward R. Murrow
-	- 1954 → first 
+	- 1954 → first journalist to remain relatively unscathed from McCarthy’s accusations of being communist after exposing him
+	- See it Now show →investigative exposition
+		- Exposes McCarthy
+- Army - McCarthy Hearing
+	- People watched McCarthy as he cracked and other politicians criticized him
