@@ -286,4 +286,11 @@ ___
 	- These 2 scientists helped the Soviet Union steal information regarding the Manhattan project and sentenced to die by electric chair
 	- Many felt that they were being persecuted for being Jewish and victim to this mass hysteria
 - People who were in general just liberal were seen as communist
-	- MLK was followed by the FBI for being a communist 
+	- MLK was followed by the FBI for being a communist
+- Communist are supposed not to have a god (Godless)
+	- So Americans have to become god-fearing 
+	- There is a revival in religion
+	- Pledge of allegiance gets “one nation, under god”
+##### Joseph McCarthy
+- He was a relatively unknown senator from Missouri
+	- He was a Republican and most of them 
