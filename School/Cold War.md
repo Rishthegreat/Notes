@@ -263,9 +263,12 @@ ___
 
 - Truman for the most part is against the red scare, but in 1947, he signed the **Loyalty Review Board**
 	- Citizens had to sign loyalty oaths that said that they were loyal and had never joined a communist party and the board would review these oaths
-- **Mc**
+- **McCarran Internal Security Act (1950)**
 	- Made it illegal to advocate for totalitarian government
 	- Made it illegal to be communist
 	- Passed over Truman
-- **House of Un-American Ac**
-	- Created during WW2 to find Nazis and 
+- **House of Un-American Activities Committee (HUAC)**
+	- Created during WW2 to find Nazis and now used to find communists
+	- Hollywood Ten
+		- A group of writers did not cooperate and were sent to jail for over a year for refusing to cooperate with the committe
+	- Many actors, writers would be blacklisted and they would 
