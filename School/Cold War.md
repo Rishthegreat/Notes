@@ -304,3 +304,5 @@ ___
 - Army - McCarthy Hearing
 	- People watched McCarthy as he cracked and other politicians criticized him
 - 1947 - 1954 is the height of the fear of communism and the violation of liberties in the name of protection
+### Truman’s Actions
+- 
