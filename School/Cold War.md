@@ -322,7 +322,7 @@ ___
 		- Response to economic downturn after war
 	- Passed over Truman’s veto
 	- Unions called it a “Slave-labor law”
-	- MAde it harder for Unions to unionize
+	- Hurt the effectiveness of unions
 	- Made all union members sign non-communist oaths
 	- Outlawed the closed shop
 		- Closed shop is where in order to be hired, you needed to be a part of a union - This is now illegal in the US, but then, it just became the state’s choice to outlaw
