@@ -17,4 +17,4 @@ Created: 02-15-2023
 - To express a cause-and-effect relationship, use the construction → al + negativo (no) infinitive
 	- “Since/Because”
 	- Al no ver a mis amigos, me fui
-	- Al no reservar u
+	- Al no reservar una habitación, ne había disponibilidad
