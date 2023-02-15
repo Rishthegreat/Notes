@@ -20,4 +20,6 @@ Created: 02-15-2023
 	- Al no reservar una habitación, ne había disponibilidad
 
 Ejemplos
-- Al salir del ho
+- Al salir del hotel, Manuel duerme después de un vuelo largo
+- Al pasar por la aduana yo mostré mis maletas a la mujer
+- 
