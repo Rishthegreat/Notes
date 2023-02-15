@@ -262,4 +262,10 @@ ___
 | Not in a war against any country                                                                                                         | Fear of being bombed by the soviets, massive scale investigations |
 
 - Truman for the most part is against the red scare, but in 1947, he signed the **Loyalty Review Board**
-	- 
+	- Citizens had to sign loyalty oaths that said that they were loyal and had never joined a communist party and the board would review these oaths
+- **Mc**
+	- Made it illegal to advocate for totalitarian government
+	- Made it illegal to be communist
+	- Passed over Truman
+- **House of Un-American Ac**
+	- Created during WW2 to find Nazis and 
