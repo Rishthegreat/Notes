@@ -304,7 +304,7 @@ ___
 - Army - McCarthy Hearing
 	- People watched McCarthy as he cracked and other politicians criticized him
 - 1947 - 1954 is the height of the fear of communism and the violation of liberties in the name of protection
-### Truman’s Actions
+### Truman’s Presidency
 - Most of his life, he was a businessman
 - Becomes senator of Missouri
 - Becomes president
@@ -317,5 +317,12 @@ ___
 		- Union memberships in US peaks in 1955
 			- Peak of manufacturing
 			- As US moves towards a more technology based economy, there is less unskilled labor and the number of strikes decreases
-- Taft-Hartley Act - 1946
--
+- **Taft-Hartley Act - 1947**
+	- Republicans controlled congress
+		- Response to economic downturn after war
+	- Passed over Truman’s veto
+	- Unions called it a “Slave-labor law”
+	- MAde it harder for Unions to unionize
+	- Made all union members sign non-communist oaths
+	- 
+	- Gave the president power to invoke an 80 day colling off period between strikes
