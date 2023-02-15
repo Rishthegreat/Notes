@@ -324,5 +324,7 @@ ___
 	- Unions called it a “Slave-labor law”
 	- MAde it harder for Unions to unionize
 	- Made all union members sign non-communist oaths
-	- 
+	- Outlawed the closed shop
+		- Closed shop is where in order to be hired, you needed to be a part of a union - This is now illegal in the US, but then, it just became the state’s choice to outlaw
+		- Permit states to pass right to work laws
 	- Gave the president power to invoke an 80 day colling off period between strikes
