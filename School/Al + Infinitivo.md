@@ -22,4 +22,5 @@ Created: 02-15-2023
 Ejemplos
 - Al salir del hotel, Manuel duerme después de un vuelo largo
 - Al pasar por la aduana yo mostré mis maletas a la mujer
-- 
+- Al embarcarse en el avión, los viajeros find sus sientos
+- El turist
