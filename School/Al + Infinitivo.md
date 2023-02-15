@@ -22,7 +22,7 @@ Created: 02-15-2023
 Ejemplos
 - Al salir del hotel, Manuel duerme después de un vuelo largo
 - Al pasar por la aduana yo mostré mis maletas a la mujer
-- Al embarcarse en el avión, los viajeros find sus sientos
-- Al descubrió una equivocación en la cuenta, el turista
-- Al concontrar un hormiga en la sopa, la cliente grit
+- Al embarcarse en el avión, los viajeros buscaron sus sientos
+- Al descubrió una equivocación en la cuenta, el turista 
+- Al concontrar un hormiga en la sopa, la cliente grité mucho
 - Al ver a su novia con otra chica, Amalia se enojó
