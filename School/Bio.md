@@ -27,3 +27,6 @@ from #bio
 - T-cell receptor on the T-cell interacts with the MHC molecule and the peptide
 
 **2nd signal**
+- Zeta protein chains (In homodimer form) are present which have 3 ITAMs on each chain
+- CD3 protein exists as heterodimer form as CD3 Epsilon and CD3 Delta
+	- 
