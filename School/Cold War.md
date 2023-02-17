@@ -161,6 +161,15 @@ ___
 	- West Germany and East Germany
 	- They combine into 1 later on
 
+#### National Security Act (1947)
+- Congress passes this Act
+- Department of Defense
+	- Secretary of Defense
+	- Joint Chiefs of Staff
+- National Security Council (NSC)
+- Central Intelligence Agency (CIA)
+- The Pentagon was created in order to house the Department of Defense
+
 #### Truman Recognizes Isreal (1948)
 - British Palestine was mostly Islamic
 - After WW2, there was a lot of sympathy for the Jews
@@ -175,15 +184,6 @@ ___
 	- US also has a lot of oil trade interests with these nations
 	- Many advisors advised against this because it might create tensions with other Islamic states and harm trade
 	- However, Truman believed it was the right thing to do
-
-#### National Security Act (1947)
-- Congress passes this Act
-- Department of Defense
-	- Secretary of Defense
-	- Joint Chiefs of Staff
-- National Security Council (NSC)
-- Central Intelligence Agency (CIA)
-- The Pentagon was created in order to house the Department of Defense
 
 #### NSC-68 (1950)
 - Quadruple US government defense spending to 20% of GNP
