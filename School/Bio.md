@@ -21,4 +21,9 @@ from #bio
 - [[Unit 7 - Natural Selection]]
 
 **Bio Video Script Notes**
+
+**1st signal**
 - MHC (Major Histocompatibility Complex) Class 2 presents the antigen as a peptide
+- T-cell receptor on the T-cell interacts with the MHC molecule and the peptide
+
+**2nd signal**
