@@ -40,4 +40,4 @@ from #bio
 - Between CD28 protein of T-cell and B7 protein on the APC
 
 - Because of this, LCK gets attached to the cytoplasmic tail of the CD4 protein
-	- Lymphocyte Tyrosine Kinase (LCK)
+	- Lymphocyte Tyrosine Kinase (LCK) phosphorylates the ITAM domains in the zeta chain
