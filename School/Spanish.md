@@ -17,7 +17,8 @@ from #spanish
 ## Notes
 - All [[Tenses]]
 -  [[Al + Infinitivo]]
-### El uso
+### El uso del infinitivo después de ciertas preposiciones
+- Antes de, después de, para, por, sin, en vez de + infinitivo
 
 ## Bailey Dailey
 1. No creo que te sientas bien
