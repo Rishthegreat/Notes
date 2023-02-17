@@ -39,4 +39,5 @@ from #bio
 **2nd Costiumulatory signal**
 - Between CD28 protein of T-cell and B7 protein on the APC
 
-Because of this, LCK gets attached to the cytoplasmic tail of the CD4 protein
+- Because of this, LCK gets attached to the cytoplasmic tail of the CD4 protein
+	- Lymphocyte Tyrosine Kinase (LCK)
