@@ -270,7 +270,7 @@ ___
 - **McCarran Internal Security Act (1950)**
 	- Made it illegal to advocate for totalitarian government
 	- Made it illegal to be communist
-	- Passed over Truman
+	- Passed over Truman veto
 - **House of Un-American Activities Committee (HUAC)**
 	- Created during WW2 to find Nazis and now used to find communists
 	- Hollywood Ten
