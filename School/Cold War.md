@@ -20,7 +20,7 @@ Created: 02-03-2023
 	- Dropping bomb to show power over the Soviets
 
 #### Yalta Conference - 1945
-- Held near Yalta in Crimea, Soviet Un
+- Held near Yalta in Crimea, Soviet Union
 - FDR is alive for 2 more months
 - Germany is divided into occupation zones
 - Free elections in the liberation countries in Eastern Europe (Currently under Soviet control)
