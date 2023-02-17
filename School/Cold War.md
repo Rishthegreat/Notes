@@ -68,7 +68,7 @@ Created: 02-03-2023
 - Plans for Atomic Energy Comission
 	- Bernard Baruch (American) proposed all atomic weapons and energy run by the UN
 		- Some say that this was a missed opportunity
-		- US did not want to veto because it was the only nation with the power and it did not want to give away the power
+		- US wanted to veto because it was the only nation with the power and it did not want to give away the power
 		- Soviets wanted to develop their own weapons and felt that the US would still have power over the Soviets in the UN
 	- Rejected by US and Soviet for eliminating nuclear weapons and regulating nuclear energy, free from UN veto
 - Food and Agricultural Administration, World Haalth, UNESCO (United Nations Educational, Scientific, and Cultural Organization)
