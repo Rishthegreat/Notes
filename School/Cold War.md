@@ -392,4 +392,4 @@ ___
 At the time when he left office, Truman was not well-liked, now though, he is seen as a good president
 ##### 22nd Amendment
 - Maximum of 2 consecutive terms
-- Republican Congress passed this tPrevented popular presidents from keep winning like FDR
+- Republican Congress passed this and this prevented popular presidents from keep winning like FDR
