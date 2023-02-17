@@ -149,7 +149,7 @@ ___
 	- First big Cold War crisis in the US
 	- Stalin puts a blockade, trying to starve West Berlin and make the Americans leave
 - **Airlift**
-	- A plane landing in West Berlin for 11 months every few minutes
+	- A plane landing in West Berlin for 15 months every few minutes
 		- Dropped off supplies
 		- After 11 months, Stalin lifts the blockade
 	- One of the biggest US military undertakings
