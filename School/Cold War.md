@@ -332,3 +332,7 @@ ___
 		- Closed shop is where in order to be hired, you needed to be a part of a union - This is now illegal in the US, but then, it just became the state’s choice to outlaw
 		- Permit states to pass right to work laws
 	- Gave the president power to invoke an 80 day colling off period between strikes
+- **Operation Dixie**
+	- Big fail for Unions
+	- Post-World War II campaign by the Congress of Industrial Organizations to unionize industry in the Southern United States, particularly the textile industry
+- **Coal and Railway Strikes**
