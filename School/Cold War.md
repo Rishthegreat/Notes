@@ -387,3 +387,8 @@ ___
 - Committee on Civil Rights
 	- To investigate Civil Rights issues
 - Ended racial discrimination in government and desegregate the armed forces by Executive Order (1948)
+	- This took decades to actually happen
+	- Cost him political goodwill and some support
+At the time when he left office, Truman was not well-liked, now though, he was 
+##### 22nd Amendment
+- 
