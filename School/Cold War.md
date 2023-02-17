@@ -359,4 +359,9 @@ ___
 	- Ran again FDR in 1944 and lost
 	- He was the favored candidate to win the election
 	- Governor of New York
-- 
+- Dixiecrats Strom Thurmond
+- Progressive Party Henry A. Wallace
+	- He did not like the Cold War and felt that it was way too aggressive
+	- Did not like the military and defense spending
+- Henry, Strom and Truman are predicted to split the democratic vote and therefore, Dewey is projected to win
+	- Public opinion polls show that
