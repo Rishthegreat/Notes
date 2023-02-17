@@ -360,6 +360,7 @@ ___
 	- He was the favored candidate to win the election
 	- Governor of New York
 - Dixiecrats Strom Thurmond
+	- Segregationsist Southerner
 - Progressive Party Henry A. Wallace
 	- He did not like the Cold War and felt that it was way too aggressive
 	- Did not like the military and defense spending
@@ -368,3 +369,5 @@ ___
 - Truman goes around the nation giving fiery speeches
 	- He attacked the Taft-Hartley Act, etc
 - Since Dewey was projected to win, he ran a more conservative campaign
+- In the end Truman won
+	- One more reason, the Berlin Airlift helped increase his popularity
