@@ -23,6 +23,6 @@ Ejemplos
 - Al salir del hotel, Manuel duerme en la coche que 
 - Al pasar por la aduana yo mostré mis maletas a la mujer
 - Al embarcarse en el avión, los viajeros buscaron sus sientos
-- Al descubrió una equivocación en la cuenta, el turista. equivocación is a mistake
+- Al descubrió una equivocación en la cuenta, el turista. equivocación is a mistake.
 - Al concontrar un hormiga en la sopa, la cliente grité mucho
 - Al ver a su novia con otra chica, Amalia se enojó
