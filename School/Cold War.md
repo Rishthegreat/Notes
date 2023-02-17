@@ -375,4 +375,10 @@ ___
 - Most of Truman’s second term was very unsuccessful
 	- China became communist
 	- Soviets exploded their atomic bombs
-	- The Korean War
+	- The Korean War started
+##### The Fair Deal
+- Truman called for
+	- National Health Care, Civil Rights legislation, federal aid to eduation, a new farm program, new TVAs, and funds for public housing
+- Only passes increases in minimum wage and more workers under Social Security
+- Most acts were blocked by Republican and Southern Democrats
+#####
