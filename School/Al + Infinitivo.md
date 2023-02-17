@@ -31,4 +31,5 @@ Más ejemplos
 - Al llegar al hotel, nosotros vamos a comer comida antés de explorar la cuidad
 - Al desocupar el cuarto, nosotros fuimos a la aeropuerto
 - Al ver la habitación tan sucia, el hombre gritaría a la camarera
-- Al pagar la cuen
+- Al pagar la cuenta, la recepcionista thanked la mujer
+- Al llamar al recepcionista, ella va a ayudarte pronto
