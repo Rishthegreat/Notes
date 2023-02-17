@@ -37,4 +37,6 @@ from #bio
 	- Interacts with the beta chain of the the MHC molecule and stabilizes the interaction
 
 **2nd Costiumulatory signal**
-- Between 
+- Between CD28 protein of T-cell and B7 protein on the APC
+
+Because of this, LCK gets attached to the cytoplasmic tail of the CD4 protein
