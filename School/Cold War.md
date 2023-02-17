@@ -371,3 +371,8 @@ ___
 - Since Dewey was projected to win, he ran a more conservative campaign
 - In the end Truman won
 	- One more reason, the Berlin Airlift helped increase his popularity
+#### Rest of his Term
+- Most of Truman’s second term was very unsuccessful
+	- China became communist
+	- Soviets exploded their atomic bombs
+	- The Korean War
