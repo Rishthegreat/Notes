@@ -341,4 +341,8 @@ ___
 		- Would cause a strain on the economy
 	- Congress passed this servicement act also called the GI Bill of Rights
 	- Set aside $14 Billion to advance their education
-		- Most of them were vocational or technica
+		- Most of them were vocational or technical schools
+		- 8 million advanced their education
+			- 2 million of them went to a 4 year college
+	- After WW2 there was a housing boom and many veterans were going to move to the suburbs
+		- This act enabled $16 Billion to be set aside for veterans to get low cost 
