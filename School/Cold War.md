@@ -219,7 +219,7 @@ ___
 	- Creates a lot of fear in the US
 	- The playing field has been leveled and leads to a massive arms race
 - 3 years later, the US develops the development of the hydrogen-bomb in 1952
-- Soon after, the Soviets also develop their own bomb
+- Soon after in 1955, the Soviets also develop their own hydrogen bomb
 
 ### Cold War in Asia
 - There will be much more failures for the US in Asia
