@@ -351,5 +351,12 @@ ___
 - Truman is not the favored
 	- Economy was not doing well
 	- Not overly loved by the democrats
+		- In 1948, the democrats actually asked Eisenhower to be the nominee and he declines before Truman
+		- He is a champion of Civil Rights and this alienated Southern Democrats
+			- During the convention when Truman gets nominated, these democats storm out and create their own party
+				- The Dixiecrats
 - Republican Thomas Dewey
 	- Ran again FDR in 1944 and lost
+	- He was the favored candidate to win the election
+	- Governor of New York
+- 
