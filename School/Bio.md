@@ -21,4 +21,4 @@ from #bio
 - [[Unit 7 - Natural Selection]]
 
 **Bio Video Script Notes**
-- 
+- MHC (Major Histocompatibility Complex) Class 2
