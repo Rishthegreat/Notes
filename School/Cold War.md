@@ -179,6 +179,7 @@ ___
 - Palestine does not like that their land is being taken away
 - Isreal wants more land
 	- Isreal starts off with a war and wins the war against Palestine
+	- The Arab-Israeli War of 1948 broke out when five Arab nations invaded territory in the former Palestinian mandate immediately following the announcement of the independence of the state of Israel on May 14, 1948.
 - Truman recognizes Isreal
 	- Many middle eastern nations do not like Isreal
 	- US also has a lot of oil trade interests with these nations
