@@ -336,3 +336,9 @@ ___
 	- Big fail for Unions
 	- Post-World War II campaign by the Congress of Industrial Organizations to unionize industry in the Southern United States, particularly the textile industry
 - **Coal and Railway Strikes**
+- **Servicemen’s Readjustment Act - 1944**
+	- Congress anticipated all the problems of all the soliders returning home and competing for jobs
+		- Would cause a strain on the economy
+	- Congress passed this servicement act also called the GI Bill of Rights
+	- Set aside $14 Billion to advance their education
+		- Most of them were vocational or technica
