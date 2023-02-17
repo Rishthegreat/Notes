@@ -58,6 +58,7 @@ Created: 02-03-2023
 - US ends Lend Lease aid to Soviets, denies reconstruction loans
 	- Tension because the loans were given to the British
 ##### UN
+- Established in an attempt to maintain international peace and security and to achieve cooperation among nations on economic, social, and humanitarian problems.
 - April 1945 in San Francisco (FDR dead for about 2 weeks)
 - UN General Assembly - legislative body
 - UN Security Council - “action agency”
@@ -71,7 +72,7 @@ Created: 02-03-2023
 		- US wanted to veto because it was the only nation with the power and it did not want to give away the power
 		- Soviets wanted to develop their own weapons and felt that the US would still have power over the Soviets in the UN
 	- Rejected by US and Soviet for eliminating nuclear weapons and regulating nuclear energy, free from UN veto
-- Food and Agricultural Administration, World Haalth, UNESCO (United Nations Educational, Scientific, and Cultural Organization)
+- Food and Agricultural Administration, World Health, UNESCO (United Nations Educational, Scientific, and Cultural Organization)
 ##### Nuremberg Trials 1945 - 1949
 - Decided at the Postdam Conference
 - Came up with a code because each country has differing laws
