@@ -345,4 +345,11 @@ ___
 		- 8 million advanced their education
 			- 2 million of them went to a 4 year college
 	- After WW2 there was a housing boom and many veterans were going to move to the suburbs
-		- This act enabled $16 Billion to be set aside for veterans to get low cost 
+		- This act enabled $16 Billion to be set aside for veterans to get low cost loans to buy their houses
+	- Considered very successful and promoted the housing boom as well as furthering education
+#### Election of 1948
+- Truman is not the favored
+	- Economy was not doing well
+	- Not overly loved by the democrats
+- Republican Thomas Dewey
+	- Ran again FDR in 1944 and lost
