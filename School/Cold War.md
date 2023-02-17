@@ -188,7 +188,7 @@ ___
 #### NSC-68 (1950)
 - Quadruple US government defense spending to 20% of GNP
 - Alliances with non Communist nations
-- Convince the American public that a arms build up was imperative
+- Convince the American public that an arms build up was imperative
 - Implemented during the [[Korean War]]
 
 #### NATO and Warsaw
