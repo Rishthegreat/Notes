@@ -381,4 +381,9 @@ ___
 	- National Health Care, Civil Rights legislation, federal aid to eduation, a new farm program, new TVAs, and funds for public housing
 - Only passes increases in minimum wage and more workers under Social Security
 - Most acts were blocked by Republican and Southern Democrats
-#####
+##### Civil Rights
+- Uses Power of office to challenge civil rights
+	- One of the first presidents to do this
+- Committee on Civil Rights
+	- To investigate Civil Rights issues
+- Ended racial discrimination in government and desegregate the armed forces by Executive Order (1948)
