@@ -17,7 +17,9 @@ from #spanish
 ## Notes
 - All [[Tenses]]
 -  [[Al + Infinitivo]]
+### El uso
 
+## Bailey Dailey
 1. No creo que te sientas bien
 2. El médico no está seguro de que los pacientes se vayan a recuperar
 3. No es obvio que todos estemos cansados
