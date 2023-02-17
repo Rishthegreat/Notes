@@ -26,11 +26,15 @@ from #bio
 - MHC (Major Histocompatibility Complex) Class 2 presents the antigen as a peptide
 - T-cell receptor on the T-cell interacts with the MHC molecule and the peptide
 
-**2nd signal**
+**Proteins on the surface**
 - Zeta protein chains (In homodimer form) are present which have 3 ITAMs on each chain
 - CD3 protein exists as heterodimer form as CD3 Epsilon and CD3 Delta
 	- 1 ITAM on each chain
 - Another CD3 protein exists as heterodimer form as CD3 Epsilon and CD3 Gamma
 	- 1 ITAM on each chain
 - 1 Trans-membrane protein called the Linker for Activation of T-Cells (LAT)
-- CD4 Protein made up of 4 subunits
+- CD4 Protein made up of 4 subunits as D1, D2, D3, and D4
+	- Interacts with the beta chain of the the MHC molecule and stabilizes the interaction
+
+**2nd Costiumulatory signal**
+- Between 
