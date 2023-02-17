@@ -26,3 +26,6 @@ Ejemplos
 - Al descubrió una equivocación en la cuenta, el turista. equivocación is a mistake.
 - Al concontrar un hormiga en la sopa, la cliente grité mucho
 - Al ver a su novia con otra chica, Amalia se enojó
+
+Más ejemplos
+- Al llegar al hotel, nosotros vamos a comer comida antés de explorar 
