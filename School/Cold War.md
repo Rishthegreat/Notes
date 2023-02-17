@@ -364,4 +364,7 @@ ___
 	- He did not like the Cold War and felt that it was way too aggressive
 	- Did not like the military and defense spending
 - Henry, Strom and Truman are predicted to split the democratic vote and therefore, Dewey is projected to win
-	- Public opinion polls show that
+	- Public opinion polls show that Truman is likely to loose
+- Truman goes around the nation giving fiery speeches
+	- He attacked the Taft-Hartley Act, etc
+- Since Dewey was projected to win, he ran a more conservative campaign
