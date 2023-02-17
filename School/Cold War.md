@@ -85,6 +85,7 @@ Created: 02-03-2023
 		- The allies also commited war crimes and killed many civillians
 - This set a precedent as it set law to put future criminals on trial
 ##### Tokyo War Crimes
+- May 1946 to November 1948
 - Not as popular as the Nuremberg
 - Main person to be put on trial was the military leader
 - Did not take pictures because the person in charge of the trials defied Truman when the emperor wished not to have pictures because of their culture
