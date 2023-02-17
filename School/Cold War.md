@@ -20,6 +20,7 @@ Created: 02-03-2023
 	- Dropping bomb to show power over the Soviets
 
 #### Yalta Conference - 1945
+- Held near Yalta in Crimea, Soviet Union
 - FDR is alive for 2 more months
 - Germany is divided into occupation zones
 - Free elections in the liberation countries in Eastern Europe (Currently under Soviet control)
@@ -57,6 +58,7 @@ Created: 02-03-2023
 - US ends Lend Lease aid to Soviets, denies reconstruction loans
 	- Tension because the loans were given to the British
 ##### UN
+- Established in an attempt to maintain international peace and security and to achieve cooperation among nations on economic, social, and humanitarian problems.
 - April 1945 in San Francisco (FDR dead for about 2 weeks)
 - UN General Assembly - legislative body
 - UN Security Council - “action agency”
@@ -67,10 +69,10 @@ Created: 02-03-2023
 - Plans for Atomic Energy Comission
 	- Bernard Baruch (American) proposed all atomic weapons and energy run by the UN
 		- Some say that this was a missed opportunity
-		- US did not want to veto because it was the only nation with the power and it did not want to give away the power
+		- US wanted to veto because it was the only nation with the power and it did not want to give away the power
 		- Soviets wanted to develop their own weapons and felt that the US would still have power over the Soviets in the UN
 	- Rejected by US and Soviet for eliminating nuclear weapons and regulating nuclear energy, free from UN veto
-- Food and Agricultural Administration, World Haalth, UNESCO (United Nations Educational, Scientific, and Cultural Organization)
+- Food and Agricultural Administration, World Health, UNESCO (United Nations Educational, Scientific, and Cultural Organization)
 ##### Nuremberg Trials 1945 - 1949
 - Decided at the Postdam Conference
 - Came up with a code because each country has differing laws
@@ -83,6 +85,7 @@ Created: 02-03-2023
 		- The allies also commited war crimes and killed many civillians
 - This set a precedent as it set law to put future criminals on trial
 ##### Tokyo War Crimes
+- May 1946 to November 1948
 - Not as popular as the Nuremberg
 - Main person to be put on trial was the military leader
 - Did not take pictures because the person in charge of the trials defied Truman when the emperor wished not to have pictures because of their culture
@@ -146,7 +149,7 @@ ___
 	- First big Cold War crisis in the US
 	- Stalin puts a blockade, trying to starve West Berlin and make the Americans leave
 - **Airlift**
-	- A plane landing in West Berlin for 11 months every few minutes
+	- A plane landing in West Berlin for 15 months every few minutes
 		- Dropped off supplies
 		- After 11 months, Stalin lifts the blockade
 	- One of the biggest US military undertakings
@@ -158,21 +161,6 @@ ___
 	- West Germany and East Germany
 	- They combine into 1 later on
 
-#### Truman Recognizes Isreal (1948)
-- British Palestine was mostly Islamic
-- After WW2, there was a lot of sympathy for the Jews
-- The UN then creates the Jewish state of Isreal
-	- The original plan was to have Isreal and Palestine
-	- Gave them a year to come up with governments, etc
-- Palestine does not like that their land is being taken away
-- Isreal wants more land
-	- Isreal starts off with a war and wins the war against Palestine
-- Truman recognizes Isreal
-	- Many middle eastern nations do not like Isreal
-	- US also has a lot of oil trade interests with these nations
-	- Many advisors advised against this because it might create tensions with other Islamic states and harm trade
-	- However, Truman believed it was the right thing to do
-
 #### National Security Act (1947)
 - Congress passes this Act
 - Department of Defense
@@ -182,10 +170,26 @@ ___
 - Central Intelligence Agency (CIA)
 - The Pentagon was created in order to house the Department of Defense
 
+#### Truman Recognizes Isreal (1948)
+- British Palestine was mostly Islamic
+- After WW2, there was a lot of sympathy for the Jews
+- The UN then creates the Jewish state of Isreal
+	- The original plan was to have Isreal and Palestine
+	- Gave them a year to come up with governments, etc
+- Palestine does not like that their land is being taken away
+- Isreal wants more land
+	- Isreal starts off with a war and wins the war against Palestine
+	- The Arab-Israeli War of 1948 broke out when five Arab nations invaded territory in the former Palestinian mandate immediately following the announcement of the independence of the state of Israel on May 14, 1948.
+- Truman recognizes Isreal
+	- Many middle eastern nations do not like Isreal
+	- US also has a lot of oil trade interests with these nations
+	- Many advisors advised against this because it might create tensions with other Islamic states and harm trade
+	- However, Truman believed it was the right thing to do
+
 #### NSC-68 (1950)
 - Quadruple US government defense spending to 20% of GNP
 - Alliances with non Communist nations
-- Convince the American public that a arms build up was imperative
+- Convince the American public that an arms build up was imperative
 - Implemented during the [[Korean War]]
 
 #### NATO and Warsaw
@@ -215,7 +219,7 @@ ___
 	- Creates a lot of fear in the US
 	- The playing field has been leveled and leads to a massive arms race
 - 3 years later, the US develops the development of the hydrogen-bomb in 1952
-- Soon after, the Soviets also develop their own bomb
+- Soon after in 1955, the Soviets also develop their own hydrogen bomb
 
 ### Cold War in Asia
 - There will be much more failures for the US in Asia
