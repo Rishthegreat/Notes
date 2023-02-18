@@ -37,11 +37,11 @@ from #bio
 - Due to the first signal, the LCK protein attaches to the cytoplasmic tail of the CD4 protein
 - It then phosphorylates all the ITAMs on the zeta chain and the CD3 protein next to it
 - This causes the ZAP-70 protein to attach to the ITAMs. ZAP-70 gets phosphorylated and activated and it phosphorylates the LAT protein
-- The LAT protein activates the SLP-76 protein and it binds to the LAT through the GADS protein
+- The LAT protein activates the SLP-76 protein and it binds to it through the GADS protein
 - TEC protein then binds to the SLP-76
 - From here, many different pathways are driven which lead to different cellular responses that work together to activate and proliferate this T-cell
 - One such pathway is the MAPK/ERK pathway with actiaves transcription factors that induce the expression of genes involved in T-cell proliferation
-- The second signal is used for activating other
+- The second signal is used for activating other pathways in the cell
 
 **1st signal**
 - MHC (Major Histocompatibility Complex) Class 2 presents the antigen as a peptide
