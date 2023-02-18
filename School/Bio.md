@@ -21,7 +21,7 @@ from #bio
 - [[Unit 7 - Natural Selection]]
 
 **Bio Video Script Notes**
-
+- The Antigen Presenting Cell, APC, has a structure called the Major Histocompatibility Complex type 2, which presents the antigen ligand as a peptide
 **1st signal**
 - MHC (Major Histocompatibility Complex) Class 2 presents the antigen as a peptide
 - T-cell receptor on the T-cell interacts with the MHC molecule and the peptide
