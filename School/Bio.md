@@ -32,7 +32,7 @@ from #bio
 	- A protein homodimer is formed by 2 identical proteins
 - We then have 1 CD3 protein made from CD3 Epsilon and CD3 Gamma which has 1 ITAM on each
 - On the other side, we have another CD3 protein made from CD3 Epsilon and CD3 Delta which has 1 ITAM on each
-- The CD3 proteins are heterod
+- The CD3 proteins are heterodimer since they are formed by 2 different proteins
 - Finally, we have the LAT protein which stands for Linker for Activation of T-Cells
 
 **1st signal**
