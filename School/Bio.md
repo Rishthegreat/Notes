@@ -28,7 +28,7 @@ from #bio
 - Once TCR interacts with the peptide and MHC, the CD4 protein made up of 4 subunits interacts with the beta chain of the MHC molecule and assits in stablizing the reaction
 - The second reaction occurs between the CD28 protein and the B7 protein
 - Before we talk about how these signals lead to the cellular response, here are some of the major proteins that we will be talking about
-- The zeta protein chains 
+- The zeta protein chains in homodimer form have 3 ITAMs on each chain
 
 **1st signal**
 - MHC (Major Histocompatibility Complex) Class 2 presents the antigen as a peptide
