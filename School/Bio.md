@@ -29,6 +29,7 @@ from #bio
 - The second reaction occurs between the CD28 protein and the B7 protein
 - Before we talk about how these signals lead to the cellular response, here are some of the major proteins that we will be talking about
 - The zeta protein chains in homodimer form have 3 ITAMs on each chain
+	- A protein homodimer is formed by 2 identical proteins and ITAM stands for 
 
 **1st signal**
 - MHC (Major Histocompatibility Complex) Class 2 presents the antigen as a peptide
