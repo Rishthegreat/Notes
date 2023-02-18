@@ -26,6 +26,7 @@ from #bio
 - The APC, has a structure called the Major Histocompatibility Complex type 2, which presents the antigen ligand as a peptide
 - The T-cell has a similar structure called the T-Cell Receptor (TCR)
 - Once TCR interacts with the peptide and MHC, the CD4 protein made up of 4 subunits interacts with the beta chain of the MHC molecule and assits in stablizing the reaction
+- The second reaction occurs betwe
 
 **1st signal**
 - MHC (Major Histocompatibility Complex) Class 2 presents the antigen as a peptide
