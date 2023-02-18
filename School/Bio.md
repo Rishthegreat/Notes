@@ -34,6 +34,7 @@ from #bio
 - On the other side, we have another CD3 protein made from CD3 Epsilon and CD3 Delta which has 1 ITAM on each
 - The CD3 proteins are heterodimer since they are formed by 2 different proteins
 - Finally, we have the LAT protein which stands for Linker for Activation of T-Cells
+- Due to the first signal, the LCK protein attaches to the cytoplasmic tail of the CD4 protein
 
 **1st signal**
 - MHC (Major Histocompatibility Complex) Class 2 presents the antigen as a peptide
