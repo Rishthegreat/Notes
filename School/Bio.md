@@ -21,8 +21,9 @@ from #bio
 - [[Unit 7 - Natural Selection]]
 
 **Bio Video Script Notes**
-- Here is the internal structure of 2 cells, the Antigen Presenting Cell (APC) and the CD4+ 
-- The Antigen Presenting Cell, APC, has a structure called the Major Histocompatibility Complex type 2, which presents the antigen ligand as a peptide
+- Here is the internal structure of 2 cells, the Antigen Presenting Cell (APC) the CD4+ T-cell which will be activated by the end of this pathway
+- The APC, has a structure called the Major Histocompatibility Complex type 2, which presents the antigen ligand as a peptide
+- The T-cell has a similar structure called the T-Cell Receptor (TCR)
 **1st signal**
 - MHC (Major Histocompatibility Complex) Class 2 presents the antigen as a peptide
 - T-cell receptor on the T-cell interacts with the MHC molecule and the peptide
