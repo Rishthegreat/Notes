@@ -22,8 +22,10 @@ from #bio
 
 **Bio Video Script Notes**
 - Here is the internal structure of 2 cells, the Antigen Presenting Cell (APC) the CD4+ T-cell which will be activated by the end of this pathway
+- There are 2 main signals needed to activate the T-cell. This is the First one.
 - The APC, has a structure called the Major Histocompatibility Complex type 2, which presents the antigen ligand as a peptide
 - The T-cell has a similar structure called the T-Cell Receptor (TCR)
+- Once TCR interacts with the peptide and MHC, the C4D protein made up of 4 subunits interacts
 **1st signal**
 - MHC (Major Histocompatibility Complex) Class 2 presents the antigen as a peptide
 - T-cell receptor on the T-cell interacts with the MHC molecule and the peptide
