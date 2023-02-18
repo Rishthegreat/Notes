@@ -21,6 +21,7 @@ from #bio
 - [[Unit 7 - Natural Selection]]
 
 **Bio Video Script Notes**
+- Here is the internal structure of 2 cells, the Antigen Presenting Cell (APC) and the CD4+ 
 - The Antigen Presenting Cell, APC, has a structure called the Major Histocompatibility Complex type 2, which presents the antigen ligand as a peptide
 **1st signal**
 - MHC (Major Histocompatibility Complex) Class 2 presents the antigen as a peptide
