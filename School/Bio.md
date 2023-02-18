@@ -37,6 +37,7 @@ from #bio
 - Due to the first signal, the LCK protein attaches to the cytoplasmic tail of the CD4 protein
 - It then phosphorylates all the ITAMs on the zeta chain and the CD3 protein next to it
 - This causes the ZAP-70 protein to attach to the ITAMs. ZAP-70 gets phosphorylated and activated and it phosphorylates the LAT protein
+- The LAT protein activates the SLP-76 protein and 
 
 **1st signal**
 - MHC (Major Histocompatibility Complex) Class 2 presents the antigen as a peptide
