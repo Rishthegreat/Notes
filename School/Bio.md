@@ -30,7 +30,9 @@ from #bio
 - Before we talk about how these signals lead to the cellular response, here are some of the major proteins that we will be talking about
 - The zeta protein chains in homodimer form have 3 ITAMs on each chain
 	- A protein homodimer is formed by 2 identical proteins
-- We then have 1 CD3 protein made from CD3 Epsilon and CD3 Gamma
+- We then have 1 CD3 protein made from CD3 Epsilon and CD3 Gamma which has 1 ITAM on each
+- On the other side, we have another CD3 protein made from CD3 Epsilon and CD3 Delta which has 1 ITAM on each
+- Finally, we have the L
 
 **1st signal**
 - MHC (Major Histocompatibility Complex) Class 2 presents the antigen as a peptide
