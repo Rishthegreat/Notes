@@ -182,8 +182,11 @@ Created: 02-06-2023
 	- Catalyses the transfer of phosphate groups
 - RTKs are always in pairs
 - ![[Unit 4 - Communications and Cell Cycle 2023-02-21 11.38.00.excalidraw]]
-	- When the ligands bind, the 2 RTKs undergo dimerization and join together
-	- 
+	- When the ligands bind, the 2 RTKs undergo dimerization and join together and act together
+	- It causes neighboring RTKs to work together
+		- cross-linked dimer
+		- This activates the Tyrosines through phosphorylation
+				- This is why they come in pairs
 ##### Ion Channel Receptors
 ## Changes in Signal Transduction Pathways 4.4
 
