@@ -24,5 +24,6 @@ from #apush
 	- [[The New Deal]]
 	- [[WW2]]
 - Unit 8 - 1945 - 1980
-	- [[Cold War]]
+	- [[Truman and the Cold War]]
+	- [[1950s]]
 ## Notes
