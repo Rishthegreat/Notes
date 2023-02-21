@@ -361,3 +361,5 @@ Created: 11-01-2022
 - Louis Brandeis - first Jewish man appointed to the Supreme Court
 - Wilson was born in the South post-civil war and he was very racist
 	- He was not supportive of racial equality and Civil Rights
+
+#### Next → [[WW1]]

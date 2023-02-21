@@ -320,3 +320,5 @@ Created: 11-14-2022
 	- Prohibition - 18th amendment
 		- Many of the Europeans favored “Wet” laws because alcohol was more tied to their culture
 		- Many of the breweries were run by Germans
+
+#### Next → [[Roaring 20s]]

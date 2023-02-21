@@ -304,3 +304,5 @@ Created: 12-02-2022
 	- This plan would have benefited the US most
 	- 1924 - 1930
 		- After this, the US stopped loaning because of the great depression
+
+#### Next → [[Great Depression]]
