@@ -198,6 +198,7 @@ Created: 02-06-2023
 	- Can lead to Phosphorylation Cascade
 		- Kinases can phosphorylate and activate other kinases which can amplify a signal
 ##### Ion Channel Receptors
+- Ligand gated ion channels
 ## Changes in Signal Transduction Pathways 4.4
 
 ## Feedback 4.5
