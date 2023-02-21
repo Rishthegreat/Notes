@@ -185,12 +185,13 @@ Created: 02-06-2023
 	- When the ligands bind, the 2 RTKs undergo dimerization and join together and act together
 	- It causes neighboring RTKs to work together
 		- cross-linked dimer
-			- This activates the Tyrosines through phosphorylation
-				- This is why they come in pairs
-				- Cross-phosphorylation
-				- ATP gets converted into ADP and the phosphate group gets attached to the tyrosines
-			- Now other proteins can dock onto the phosphorylated tyrosines
-				- Activation of multiple different signaling pathways at the same time
+	- This activates the Tyrosines through phosphorylation
+		- This is why they come in pairs
+		- Cross-phosphorylation
+			- Kinases can phosphorylate and activate other kinases
+		- ATP gets converted into ADP and the phosphate group gets attached to the tyrosines
+	- Now other proteins can dock onto the phosphorylated tyrosines
+		- Activation of multiple different signaling pathways at the same time
 ##### Ion Channel Receptors
 ## Changes in Signal Transduction Pathways 4.4
 
