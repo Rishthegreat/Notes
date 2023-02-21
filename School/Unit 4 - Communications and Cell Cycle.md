@@ -176,6 +176,8 @@ Created: 02-06-2023
 ![[Unit 4 - Communications and Cell Cycle 2023-02-21 11.32.59.excalidraw]]
 ##### G - Protein Coupled Receptors (GCPR)
 - When a ligand binds to the receptor side on the outside of the cell membrane the G protein changes conformation and guanosine triphosphate replaces the guanosine diphosphate on the alpha subunit of the G-protein
+- The activated alpha subunit then separates from the beta and gamma subunits
+- The alpha subunit, with the guanosine
 ##### Tyrosine Kinases Receptors (RTK)
 - They are unique because they have tyrosine on the intracellular ezymatic portion
 - Kinases [[Phosphorylation]]
