@@ -182,7 +182,7 @@ Created: 02-06-2023
 	- Catalyses the transfer of phosphate groups
 - RTKs are always in pairs
 - ![[Unit 4 - Communications and Cell Cycle 2023-02-21 11.38.00.excalidraw]]
-	- Tyrosines are amino acids
+	- Tyrosines are amino acids and they act as kinases
 	- When the ligands bind, the 2 RTKs undergo dimerization and join together and act together
 	- It causes neighboring RTKs to work together
 		- cross-linked dimer
