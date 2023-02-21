@@ -20,7 +20,7 @@ Created: 11-14-2022
 		- Added Bill of Rights to the Philippine Constitution and added made suffrage
 		- And "promised" independence
 			- Never stated when
-	- Puerto Rico 1917 (Went over this in Imperialism Unit - [[Unit 7 (1890 - 1945)]])
+	- Puerto Rico 1917 (Went over this in Imperialism Unit - [[Imperialism]])
 		- Granted US citizenship to all inhabitants
 
 - However, sometimes, Wilson did act like Roosevelt and Taft

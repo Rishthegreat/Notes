@@ -11,5 +11,5 @@ Created: 10-09-2022
 - Conservative Christianity supported this idea
 - Many were anti-immigrant
 	- White superiority
-	- Used to justify imperialism - [[Unit 7 (1890 - 1945)]]
+	- Used to justify imperialism - [[Imperialism]]
 

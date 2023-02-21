@@ -3,7 +3,7 @@ Links: [[APUSH]]
 
 ---
 Created: 10-07-2022
-# Unit 7 (1890 - 1945)
+# Imperialism
 
 ## Main Idea - 
 - After the Gilded Age and the end of Western Expansion, darwinist motives and economical advantages, the United States started to expand outside its borders
