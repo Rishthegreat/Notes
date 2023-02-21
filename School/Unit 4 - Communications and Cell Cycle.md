@@ -171,6 +171,10 @@ Created: 02-06-2023
 - Membrane-anchored (integral) proteins that bind to external ligand molecules
 	- Ligands do not have to enter the cell
 - Spans the plasma membrane and performs singal transduction
+### Membrane Receptors
+#### G - Protein Cell Receptors (GCPR)
+#### Tyrosine Kinases Receptors
+#### Ion Channel Receptors
 ## Changes in Signal Transduction Pathways 4.4
 
 ## Feedback 4.5
