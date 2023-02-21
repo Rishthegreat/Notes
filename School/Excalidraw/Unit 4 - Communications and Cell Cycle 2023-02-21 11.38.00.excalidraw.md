@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Text Elements
 Ligands ^4ztVdK29
 
-Tyr ^xX8P9zdH
+Tyrosine ^xX8P9zdH
 
 %%
 # Drawing
@@ -23613,8 +23613,8 @@ Tyr ^xX8P9zdH
 			"type": "arrow",
 			"x": -48.452088435154565,
 			"y": 144.4133636729041,
-			"width": 103.13249441385125,
-			"height": 39.15219787819956,
+			"width": 82.980990636276,
+			"height": 35.332462371131896,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -23628,11 +23628,11 @@ Tyr ^xX8P9zdH
 				"type": 2
 			},
 			"seed": 432894518,
-			"version": 47,
-			"versionNonce": 1385463542,
+			"version": 139,
+			"versionNonce": 106853558,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1676997931612,
+			"updated": 1676998058596,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23641,13 +23641,17 @@ Tyr ^xX8P9zdH
 					0
 				],
 				[
-					103.13249441385125,
-					39.15219787819956
+					82.980990636276,
+					35.332462371131896
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": null,
-			"endBinding": null,
+			"endBinding": {
+				"elementId": "xX8P9zdH",
+				"focus": 0.21505132519851095,
+				"gap": 8.18870049871191
+			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
 		},
@@ -23656,8 +23660,8 @@ Tyr ^xX8P9zdH
 			"type": "arrow",
 			"x": 182.64099904999995,
 			"y": 136.77396551416393,
-			"width": 109.81697690967326,
-			"height": 42.971860529872174,
+			"width": 76.08752543433772,
+			"height": 42.01687201155892,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -23671,11 +23675,11 @@ Tyr ^xX8P9zdH
 				"type": 2
 			},
 			"seed": 490525430,
-			"version": 82,
-			"versionNonce": 1330564458,
+			"version": 215,
+			"versionNonce": 1819859370,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1676997944692,
+			"updated": 1676998058596,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23684,22 +23688,26 @@ Tyr ^xX8P9zdH
 					0
 				],
 				[
-					-109.81697690967326,
-					42.971860529872174
+					-76.08752543433772,
+					42.01687201155892
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": null,
-			"endBinding": null,
+			"endBinding": {
+				"elementId": "xX8P9zdH",
+				"focus": -0.009870885988947078,
+				"gap": 9.143689017025054
+			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
 		},
 		{
 			"id": "xX8P9zdH",
 			"type": "text",
-			"x": 43.2212723128888,
-			"y": 191.75426204981557,
-			"width": 35,
+			"x": 26.987487477095215,
+			"y": 187.9345265427479,
+			"width": 82,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -23712,22 +23720,31 @@ Tyr ^xX8P9zdH
 			"groupIds": [],
 			"roundness": null,
 			"seed": 736007734,
-			"version": 5,
-			"versionNonce": 1930100918,
+			"version": 56,
+			"versionNonce": 53298922,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1676997960722,
+			"boundElements": [
+				{
+					"id": "-dHAtpTN0xIbZEPjvSv2J",
+					"type": "arrow"
+				},
+				{
+					"id": "SlxAfHuTZCDD9bubqGKrw",
+					"type": "arrow"
+				}
+			],
+			"updated": 1676998058595,
 			"link": null,
 			"locked": false,
-			"text": "Tyr",
-			"rawText": "Tyr",
+			"text": "Tyrosine",
+			"rawText": "Tyrosine",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 18,
 			"containerId": null,
-			"originalText": "Tyr"
+			"originalText": "Tyrosine"
 		}
 	],
 	"appState": {
