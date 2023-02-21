@@ -179,7 +179,7 @@ Created: 02-06-2023
 ##### Tyrosine Kinases Receptors (RTK)
 - They are unique because they have tyrosine on the intracellular ezymatic portion
 - Kinases [[Phosphorylation]]
-	- Phosphorylates things
+	- Catalyses the transfer of phosphate groups
 - RTKs are always in pairs
 - ![[Unit 4 - Communications and Cell Cycle 2023-02-21 11.38.00.excalidraw]]
 ##### Ion Channel Receptors
