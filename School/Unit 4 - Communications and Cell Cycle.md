@@ -188,10 +188,11 @@ Created: 02-06-2023
 	- This activates the Tyrosines through phosphorylation
 		- This is why they come in pairs
 		- Cross-phosphorylation
-			- Kinases can phosphorylate and activate other kinases
 		- ATP gets converted into ADP and the phosphate group gets attached to the tyrosines
 	- Now other proteins can dock onto the phosphorylated tyrosines
 		- Activation of multiple different signaling pathways at the same time
+	- Can lead to Phosphorylation Cascade
+		- Kinases can phosphorylate and activate other kinases which can amplify a signal
 ##### Ion Channel Receptors
 ## Changes in Signal Transduction Pathways 4.4
 
