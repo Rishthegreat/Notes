@@ -172,7 +172,10 @@ Created: 02-06-2023
 	- Ligands do not have to enter the cell
 - Spans the plasma membrane and performs singal transduction
 ## Changes in Signal Transduction Pathways 4.4
+
 ## Feedback 4.5
+
 ## Cell Cycle 4.6
+
 ## Regulation of Cell Cycle 4.7
 
