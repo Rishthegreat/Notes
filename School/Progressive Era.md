@@ -10,7 +10,7 @@ Created: 11-01-2022
 	- Roosevelt becomes president in 1901
 	- WW1 is the end of this period
 - Domestic issues
-	- During the Gilded Age([[Unit 6 (1865 - 1900)]]), America experiences numerous problems that it had never faced before
+	- During the Gilded Age([[Gilded Age]]), America experiences numerous problems that it had never faced before
 	- These issues have not been addressed by the [[Laissez-Faire]] government
 - A Fierce Discontent - Michawl McGerr
 	- He classifies the Progressive Era in a positive light

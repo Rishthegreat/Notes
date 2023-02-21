@@ -15,8 +15,9 @@ from #apush
 
 ## Units
 
-- [[Unit 6 (1865 - 1900)]] - Gilded Age
-- Unit 7 (19)
+- Unit 6 (1865 - 1900)
+	- [[Gilded Age]]
+- Unit 7 (1890 - 1945)
 	- [[Imperialism]]
 	- [[Progressive Era]]
 	- [[WW1]]

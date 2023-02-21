@@ -3,7 +3,7 @@ Links: [[APUSH]]
 
 ---
 Created: 10-07-2022
-# Unit 6 (1865 - 1900)
+# Gilded Age
 
 ## Main Idea - 
 - The Gilded Age in a time period of prosperity, hence the world gilded which signifies coated with gold.
@@ -45,3 +45,5 @@ Created: 10-07-2022
 - Growing [[Social Darwinism]] to justify the wealth gap
 	- Herbert Spencer and William Graham Sumner are examples of people who supported this notion
 - Another justification for the wealth gap was the [[Gospel of Wealth]]
+
+#### Next → [[Imperialism]]

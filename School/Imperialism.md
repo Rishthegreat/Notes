@@ -189,5 +189,5 @@ Created: 10-07-2022
 - We really control the Caribbean and Pacific region by the start of WW1
 - Roosevelt was essential to promoting these imperialistic ideas
 
-#### Next - [[Progressive Era]] 1820-1920
+#### Next → [[Progressive Era]] 1820-1920
 
