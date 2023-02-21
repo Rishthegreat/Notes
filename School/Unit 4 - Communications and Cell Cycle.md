@@ -188,7 +188,8 @@ Created: 02-06-2023
 		- cross-linked dimer
 	- This activates the Tyrosines through phosphorylation
 		- This is why they come in pairs
-		- Cross-phosphorylation
+			- Cross-phosphorylation
+			- Tyrosine on one side phosphorylates the tyrosine on the other side
 		- ATP gets converted into ADP and the phosphate group gets attached to the tyrosines
 	- Now other proteins can dock onto the phosphorylated tyrosines
 		- Activation of multiple different signaling pathways at the same time
