@@ -188,7 +188,9 @@ Created: 02-06-2023
 			- This activates the Tyrosines through phosphorylation
 				- This is why they come in pairs
 				- Cross-phosphorylation
-				- ATP gets converted into ADP and the phosphate group gets attached to 
+				- ATP gets converted into ADP and the phosphate group gets attached to the tyrosines
+			- Now other proteins can dock onto the phosphorylated tyrosines
+				- Activation of multiple different signaling pathways at the same time
 ##### Ion Channel Receptors
 ## Changes in Signal Transduction Pathways 4.4
 
