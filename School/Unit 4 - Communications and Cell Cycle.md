@@ -171,9 +171,11 @@ Created: 02-06-2023
 - Membrane-anchored (integral) proteins that bind to external ligand molecules
 	- Ligands do not have to enter the cell
 - Spans the plasma membrane and performs singal transduction
-- Enzyme Linke
+- Enzyme Linked Receptors can also act as enzymes that are activated and help catalyze a reaction when a ligand bonds to it
 ##### G - Protein Cell Receptors (GCPR)
+
 ##### Tyrosine Kinases Receptors (RTK)
+![[Unit 4 - Communications and Cell Cycle 2023-02-21 11.32.59.excalidraw]]
 ##### Ion Channel Receptors
 ## Changes in Signal Transduction Pathways 4.4
 
