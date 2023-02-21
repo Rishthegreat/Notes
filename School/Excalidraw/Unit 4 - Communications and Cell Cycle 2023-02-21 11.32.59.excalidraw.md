@@ -8,7 +8,9 @@ tags: [excalidraw]
 
 
 # Text Elements
-Ligand Binding ^YYt8psMa
+Ligand Binding Domain ^YYt8psMa
+
+Enzyme functioning Domain ^G959aG7X
 
 %%
 # Drawing
@@ -10446,7 +10448,7 @@ Ligand Binding ^YYt8psMa
 			"type": "text",
 			"x": 77,
 			"y": -228.84375,
-			"width": 135,
+			"width": 211,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -10459,22 +10461,100 @@ Ligand Binding ^YYt8psMa
 			"groupIds": [],
 			"roundness": null,
 			"seed": 620960490,
-			"version": 33,
-			"versionNonce": 1526400746,
+			"version": 40,
+			"versionNonce": 1037471530,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1676997282608,
+			"updated": 1676997330213,
 			"link": null,
 			"locked": false,
-			"text": "Ligand Binding",
-			"rawText": "Ligand Binding",
+			"text": "Ligand Binding Domain",
+			"rawText": "Ligand Binding Domain",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 18,
 			"containerId": null,
-			"originalText": "Ligand Binding"
+			"originalText": "Ligand Binding Domain"
+		},
+		{
+			"id": "-3f_6Ys_3E_tcg6pcgOKo",
+			"type": "arrow",
+			"x": 10.5999755859375,
+			"y": 73.75628662109375,
+			"width": 44.800048828125,
+			"height": 23.199951171875,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 388606390,
+			"version": 25,
+			"versionNonce": 1139902646,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1676997296951,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					44.800048828125,
+					23.199951171875
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "G959aG7X",
+			"type": "text",
+			"x": 71.4000244140625,
+			"y": 77.5562744140625,
+			"width": 255,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1414596010,
+			"version": 29,
+			"versionNonce": 384322730,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1676997334088,
+			"link": null,
+			"locked": false,
+			"text": "Enzyme functioning Domain",
+			"rawText": "Enzyme functioning Domain",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "Enzyme functioning Domain"
 		}
 	],
 	"appState": {
