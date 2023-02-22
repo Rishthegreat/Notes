@@ -14,7 +14,6 @@ from #apush
 ```
 
 ## Units
-
 - Unit 6 (1865 - 1900)
 	- [[Gilded Age]]
 - Unit 7 (1890 - 1945)
@@ -25,7 +24,7 @@ from #apush
 	- [[Great Depression]]
 	- [[The New Deal]]
 	- [[WW2]]
-- Unit 8 - 1945 - 1980
+- Unit 8 - (1945 - 1980)
 	- [[Truman and the Cold War]]
 	- [[1950s]]
 ## Notes

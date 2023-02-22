@@ -208,4 +208,4 @@ Created: 12-16-2022
 		- Like a hoovervile, mostly in the west, but for farmers
 		- Hooverviles were mostly metal, but migrant camps were tents
 
-#### Next → [[]]
+#### Next → [[The New Deal]]

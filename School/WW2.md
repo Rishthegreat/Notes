@@ -515,3 +515,5 @@ Created: 01-18-2023
 	- US now acts differenly, because isolationist was bad based on the events after WW1
 - **Massive Human Dislocation**
 	- Millions of people moving to different areas, new nationalities, countries
+
+#### Next → [[Truman and the Cold War]]
