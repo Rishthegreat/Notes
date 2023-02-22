@@ -278,7 +278,7 @@ ___
 	- Many actors, writers would be blacklisted and it would be hard for them to find jobs
 - **Alger Hiss Espionage Trial**
 	- High ranking government official with access to security and clearnace
-	- Whittance Chambers admitted to being a communist and said that Alger Hiss was one of the people giving him information
+	- Whittaker Chambers admitted to being a communist and said that Alger Hiss was one of the people giving him information
 		- There was not much information
 	- Richard Nixon understood that this was a way to become famous
 		- He “found” government papers in a hollowed out pumpkin in some state
