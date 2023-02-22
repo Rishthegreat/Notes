@@ -30,6 +30,8 @@ Created: 02-13-2023
 		- Is it Korean troops? Chinese troops? Soviet troops?
 			- What we now know is that Korea was supplying troops, Soviets were providing military troops, and Chinese would provide support if needed
 - UN Mandate to restore peace in the area
+	- Formal decleratin of war was required from US congress and that might have been difficult to obtain.
+	- UN also provided greater international legitimacy for the military intervention, as it was pcercieved as a multilateral effort to protect a member state from aggression
 - UN authorized troops (88% troops were American) to help South Korea under Douglas MacArthur
 	- “United Nations Police Action”
 - At first it went badly
