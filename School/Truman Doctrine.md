@@ -1,5 +1,5 @@
 Tags:
-Links: 
+Links: [[Truman and the Cold War]]
 
 ---
 Created: 02-09-2023

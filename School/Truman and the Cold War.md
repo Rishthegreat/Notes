@@ -138,7 +138,7 @@ ___
 - Containment in Action
 - Set a interventionist trend
 
-[[Marshal Plan]] - 1948
+[[Marshall Plan]] - 1948
 - Well recieved
 
 #### Division of Berlin

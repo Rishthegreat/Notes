@@ -1,9 +1,9 @@
 Tags:
-Links: 
+Links: [[Truman and the Cold War]]
 
 ---
 Created: 02-09-2023
-# Marshal Plan
+# Marshall Plan
 ---
 
 - AKA European Recovery Plan or Good Deed Policy
