@@ -208,7 +208,7 @@ Created: 02-06-2023
 ### Interphase
 - Growth and preparation in order for cell division
 #### G1
-- In this phase, the Cell is grow
+- In this phase, the Cell is growing
 ### M-Phase
 - Mitosis → Division of the nucleus
 - Cytokinesis → Division of the cytoplasm
