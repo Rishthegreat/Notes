@@ -204,7 +204,7 @@ Created: 02-06-2023
 ## Feedback 4.5
 
 ## Cell Cycle 4.6
-- In eukaryotes, cells transfer genetic information via a highly regualted process
+- In eukaryotes, cells transfer genetic information via a highly regulated process
 	- Mitosis plays a role in growth, tissue repair, and asexual reproduction
 	- Mitosis ensures the transfer of a complete genome from a parent cell to 2 genetically identical daughter cells
 	- It alternates with interphase in the cell cycle
@@ -220,7 +220,5 @@ Created: 02-06-2023
 - Mitosis → Division of the nucleus
 - Cytokinesis → Division of the cytoplasm
 	- Ensures equal distribution of cytoplasm to daughter cells
-
-
 ## Regulation of Cell Cycle 4.7
 
