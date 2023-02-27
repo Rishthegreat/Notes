@@ -211,14 +211,13 @@ Created: 02-06-2023
 	- Cells can enter G0 where cell division no longer occurs, a cell can reenter division with appropriate signals
 	- Nondividing cells may exit the cell cycle or be held in a particular stage
 #### Interphase
-- Growth and preparation in order for cell division
 - **G1**
 	- Cell is growing
 - **S**
 	- DNA is being copied
 - **G2**
 	- Cytoplasmic components are doubled in preparation for division
-- Allow newly divided cells opportunity to grow, maintain no
+- Allow newly divided cells opportunity to grow, maintain normal cell function, and prepare for division
 #### M-Phase
 - Mitosis → Division of the nucleus
 	- Prophase
