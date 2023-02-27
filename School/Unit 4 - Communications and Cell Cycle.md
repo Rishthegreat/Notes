@@ -205,6 +205,12 @@ Created: 02-06-2023
 
 ## Cell Cycle 4.6
 - Highly regulated series of events for the growthand reproduction of cells
-## efer
+### Interphase
+- Growth and preparation in order for cell division
+#### G1
+- In this phase, the Cell is grow
+### M-Phase
+- Mitosis → Division of the nucleus
+- Cytokinesis → Division of the cytoplasm
 ## Regulation of Cell Cycle 4.7
 
