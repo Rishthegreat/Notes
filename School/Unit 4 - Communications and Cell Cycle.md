@@ -219,6 +219,8 @@ Created: 02-06-2023
 #### M-Phase
 - Mitosis → Division of the nucleus
 - Cytokinesis → Division of the cytoplasm
-	- ensure
+	- Ensures equal distribution of cytoplasm to daughter cells
+
+
 ## Regulation of Cell Cycle 4.7
 
