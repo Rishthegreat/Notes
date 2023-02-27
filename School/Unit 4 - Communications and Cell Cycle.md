@@ -208,6 +208,8 @@ Created: 02-06-2023
 	- Mitosis plays a role in growth, tissue repair, and asexual reproduction
 	- Mitosis ensures the transfer of a complete genome from a parent cell to 2 genetically identical daughter cells
 	- It alternates with interphase in the cell cycle
+	- Cells can enter G0 where cell division no longer occurs, a cell can reenter division with appropriate signals
+	- Nondividing cells may exit the cell cycle or be held in a particular stage
 #### Interphase
 - Growth and preparation in order for cell division
 - **G1**
