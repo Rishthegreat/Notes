@@ -218,8 +218,13 @@ Created: 02-06-2023
 	- DNA is being copied
 - **G2**
 	- Cytoplasmic components are doubled in preparation for division
+- Allow newly divided cells opportunity to grow, maintain no
 #### M-Phase
 - Mitosis → Division of the nucleus
+	- Prophase
+	- Metaphase
+	- anaphase
+	- Telophase
 - Cytokinesis → Division of the cytoplasm
 	- Ensures equal distribution of cytoplasm to daughter cells
 ## Regulation of Cell Cycle 4.7
