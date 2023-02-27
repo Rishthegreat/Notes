@@ -205,11 +205,17 @@ Created: 02-06-2023
 
 ## Cell Cycle 4.6
 - Highly regulated series of events for the growthand reproduction of cells
-### Interphase
+- In eukaryotes, cells transfer genetic information via a highly regualted process
+	- Mitosis plays a role in growth, tissue repair, and asexua
+#### Interphase
 - Growth and preparation in order for cell division
 - **G1**
-	- 
-### M-Phase
+	- Cell is growing
+- **S**
+	- DNA is being copied
+- **G2**
+	- Cytoplasmic components are doubled in preparation for division
+#### M-Phase
 - Mitosis → Division of the nucleus
 - Cytokinesis → Division of the cytoplasm
 ## Regulation of Cell Cycle 4.7
