@@ -204,6 +204,7 @@ Created: 02-06-2023
 ## Feedback 4.5
 
 ## Cell Cycle 4.6
-
+- Highly regulated series of events for the growthand reproduction of cells
+## efer
 ## Regulation of Cell Cycle 4.7
 
