@@ -207,8 +207,8 @@ Created: 02-06-2023
 - Highly regulated series of events for the growthand reproduction of cells
 ### Interphase
 - Growth and preparation in order for cell division
-#### G1
-- In this phase, the Cell is growing
+- **G1**
+	- 
 ### M-Phase
 - Mitosis → Division of the nucleus
 - Cytokinesis → Division of the cytoplasm
