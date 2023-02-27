@@ -204,9 +204,10 @@ Created: 02-06-2023
 ## Feedback 4.5
 
 ## Cell Cycle 4.6
-- Highly regulated series of events for the growthand reproduction of cells
 - In eukaryotes, cells transfer genetic information via a highly regualted process
-	- Mitosis plays a role in growth, tissue repair, and asexua
+	- Mitosis plays a role in growth, tissue repair, and asexual reproduction
+	- Mitosis ensures the transfer of a complete genome from a parent cell to 2 genetically identical daughter cells
+	- It alternates with interphase in the cell cycle
 #### Interphase
 - Growth and preparation in order for cell division
 - **G1**
@@ -218,5 +219,6 @@ Created: 02-06-2023
 #### M-Phase
 - Mitosis → Division of the nucleus
 - Cytokinesis → Division of the cytoplasm
+	- ensure
 ## Regulation of Cell Cycle 4.7
 
