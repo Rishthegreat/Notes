@@ -220,7 +220,11 @@ Created: 02-06-2023
 - Allow newly divided cells opportunity to grow, maintain normal cell function, and prepare for division
 #### M-Phase
 ##### Mitosis → Division of the nucleus
+- Genomes identical to the parent cell genome
 ###### Prophase
+- Nuclear envelope begins to disappear
+- DNA coils into visible chromosomes
+- Fibers begin to move double chromosomes toward the center of the cell
 ###### Metaphase
 ###### Anaphase
 ###### Telophase
