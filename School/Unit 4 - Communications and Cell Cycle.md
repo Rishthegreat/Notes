@@ -235,8 +235,10 @@ Created: 02-06-2023
 - Chromosomes separate at the centromere
 - Chromatids migrate to opposite sides of the cell
 ###### Telophase
+![[Pasted image 20230227191810.png]]
 - Nuclear envelope reappears and established 2 separate nuclei
-- Each nucleus contains
+- Each nucleus contains a complete genome
+- Chromsomes will begin to uncoil
 ##### Cytokinesis → Division of the cytoplasm
 Ensures equal distribution of cytoplasm to daughter cells
 ## Regulation of Cell Cycle 4.7
