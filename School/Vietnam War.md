@@ -21,6 +21,7 @@ Created: 03-01-2023
 	- However, Ho Chi Minh leads slightly towards the left and is a bit socialist and communist, so the US lends support to France
 		- $1 Bill a year in financial aid to France to fight
 - French had a hard time fighting a geurilla war and after 8 years, they were in trouble and surrounded by the Vietnamese army
+	- The socialist army was called the Viet Minh
 	- They wanted military assistance from US
 	- Eisenhower did not want to military commit to fighting, and the French surrender
 #### Geneva Conference - 1954
