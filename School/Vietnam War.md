@@ -28,3 +28,7 @@ Created: 03-01-2023
 - North Vietnam is sponsored by the communist with Ho Chi Minh as the leader
 - South Vietnam is propped up by the US and ruled by Ngo Dinh Diem
 - In 2 years there was supposed to be an election to unify both sides
+#### Aftermath
+- However, the election did not happen because the US did not allow the free elections in the South
+	- Ho Chi Minh was more popular and the Vietnamese did not want US interference
+- 
