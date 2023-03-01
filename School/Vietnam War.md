@@ -23,3 +23,8 @@ Created: 03-01-2023
 - French had a hard time fighting a geurilla war and after 8 years, they were in trouble and surrounded by the Vietnamese army
 	- They wanted military assistance from US
 	- Eisenhower did not want to military commit to fighting, and the French surrender
+#### Geneva Conference - 1954
+- At this conference, they deccide to split Vietnam along the 17th parallel
+- North Vietnam is sponsored by the communist with Ho Chi Minh as the leader
+- South Vietnam is propped up by the US and ruled by Ngo Dinh Diem
+- In 2 years there was supposed to be an election to unify both sides
