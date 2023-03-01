@@ -204,6 +204,42 @@ Created: 02-06-2023
 ## Feedback 4.5
 
 ## Cell Cycle 4.6
-
+- In eukaryotes, cells transfer genetic information via a highly regulated process
+	- Mitosis plays a role in growth, tissue repair, and asexual reproduction
+	- Mitosis ensures the transfer of a complete genome from a parent cell to 2 genetically identical daughter cells
+	- It alternates with interphase in the cell cycle
+	- Cells can enter G0 where cell division no longer occurs, a cell can reenter division with appropriate signals
+	- Nondividing cells may exit the cell cycle or be held in a particular stage
+#### Interphase
+- **G1**
+	- Cell is growing
+- **S**
+	- DNA is being copied
+- **G2**
+	- Cytoplasmic components are doubled in preparation for division
+- Allow newly divided cells opportunity to grow, maintain normal cell function, and prepare for division
+#### M-Phase
+##### Mitosis → Division of the nucleus
+- Genomes identical to the parent cell genome
+###### Prophase
+![[Pasted image 20230227191547.png]]
+- Nuclear envelope begins to disappear
+- DNA coils into visible chromosomes
+- Fibers begin to move double chromosomes toward the center of the cell
+###### Metaphase
+![[Pasted image 20230227191603.png]]
+- Fibers align double chromosomes across the center of the cell
+###### Anaphase
+![[Pasted image 20230227191621.png]]
+- Fibers separate double chromosomes into single chromosomes (chromatids)
+- Chromosomes separate at the centromere
+- Chromatids migrate to opposite sides of the cell
+###### Telophase
+![[Pasted image 20230227191810.png]]
+- Nuclear envelope reappears and established 2 separate nuclei
+- Each nucleus contains a complete genome
+- Chromsomes will begin to uncoil
+##### Cytokinesis → Division of the cytoplasm
+Ensures equal distribution of cytoplasm to daughter cells
 ## Regulation of Cell Cycle 4.7
 
