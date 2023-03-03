@@ -25,7 +25,7 @@ Created: 03-03-2023
 - NAACP Legal Defense Team
 	- Thurgood Marshall
 - All These events are the reason why we see some push for change in the 50s and 60s
-## Causes
+## Movements/Rulings
 ### Brown vs Board of Education
 - Before Brown vs Board of Education in 1954, many southern states required segregated schools
 - The Chief Justice was Earl Warren
@@ -43,7 +43,10 @@ Created: 03-03-2023
 	- One of the few Women in Alabama registered to vote
 - Many African-Americans were arrested and NAACP was waiting for the right person to be arrested
 - So, the day after she was arrested, the African Americans refused to take the bus and lasted for about a year
-- This is when Dr. King rose as the face o
+- This is when Dr. King rose as the face of the civil rights movement
 	- He was new to Montgomery as a Baptist leader
 	- He was from a middle-class family who had a decent sum of money
 	- He promoted the boycott
+- Montgomery fought against this and arrested people like King and went all the way to the Supreme Court
+	- It ruled that the busses must integrate
+- This was the first massive movement of the civil rights movement
