@@ -28,3 +28,6 @@ Created: 03-03-2023
 ## Causes
 ### Brown vs Board of Education
 - Before Brown vs Board of Education in 1954, many southern states required segregated schools
+- The Chief Justice was Earl Warren
+	- As the Chief Justice, he made a lot of liberal rulings and Eisenhower did not like him even though he appointed him
+- 14th amendment says that all classes of citizens need to have the same laws and therefore equality, therefore, segregation is inherently unequal
