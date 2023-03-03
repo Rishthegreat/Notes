@@ -53,6 +53,9 @@ Created: 03-03-2023
 ### Little Rock Central High - Fall of 1957
 - This was an all white central high school
 - There were federal rulings that this school must integrate as an experiment to see how it went
-- They chose a few African-Americans who
-- - The governor of Arkansas was a moderate on Civil Rights and he supported this
-	- So his political career was over
+- They chose a few African-Americans who had high grades to attend
+	- 9 black teenagers
+	- Contemporaties of Emett Till
+- The governor of Arkansas was a moderate on Civil Rights and he supported this
+	- So his political career was over if he continued on this path
+	- So, he thus used the National  to prevent the black kids from going to school
