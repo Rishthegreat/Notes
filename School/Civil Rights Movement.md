@@ -100,7 +100,9 @@ Created: 03-03-2023
 ##### Civil Rights Laws on 1957
 - First Civil Rights legislation since Reconstruction
 - Modest in scope - Civil Rights commussion and powerto protect voting rights of African Americans
-- Eisenhower was hesitant to address the issue of rocail
+- Eisenhower was hesitant to address the issue of racial equality
+	- One a side note → one of the largest deportation of illegal immigrants during WW2 was called the Operation Wetback
+		- Deported over 3 million Mexicans
 #### The Student Nonviolent Coordinating Committee - SNCC
 - Most radical of the groups
 #### CORE
