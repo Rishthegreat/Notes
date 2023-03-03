@@ -68,7 +68,9 @@ Created: 03-03-2023
 	- Then next year, the schools closed
 ### Sit in Movement 1960
 - Many department stores used to have restaurants in them
-- A group of 4 African American college students went to one of them and waited to be served
+- A group of 4 African American college students went to one of them that was reserved for whites and waited to be served
+	- Greensboro Four, North Carolina
 - A movement sparked from this and many were beaten, and arrested
 - This was coordinated
-- 
+	- Student Nonviolent Coordinating Committee - SNCC
+- They kept doing this to keep pressure on Southern cities
