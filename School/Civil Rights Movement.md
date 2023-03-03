@@ -87,10 +87,17 @@ Created: 03-03-2023
 		- He said that if a law is morally wrong, then you have an obligation to not follow it
 	- The Bible and Christianity
 		- The Bible says that racism was wrong
+- Strategies
+	- Nonviolent Protest
+	- Passive Resistance
+	- Economic Challenges and Boycotts
+	- Legal Challenges through the Courts
+	- Media Attention (TV)
+	- Legislation??
 #### The Student Nonviolent Coordinating Committee - SNCC
 - Most radical of the groups
-- CORE
-	- Found during WW2
-- NAACP
-	- The largest group and focused on the court and court ruling
-	- Founded in 1909
+#### CORE
+- Found during WW2
+#### NAACP
+- The largest group and focused on the court and court ruling
+- Founded in 1909
