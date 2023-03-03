@@ -31,3 +31,6 @@ Created: 03-03-2023
 - The Chief Justice was Earl Warren
 	- As the Chief Justice, he made a lot of liberal rulings and Eisenhower did not like him even though he appointed him
 - 14th amendment says that all classes of citizens need to have the same laws and therefore equality, therefore, segregation is inherently unequal
+	- Many studies were conducted that showed that segregation develops a mindset of inferiority in the African Americans
+- 10 years after the ruling, the South still had not integrated their schools
+	- Massiv
