@@ -14,7 +14,7 @@ Created: 03-03-2023
 	- Racism and segregation still very prevalent, but more opportunites
 - African-Americans being to move northward and switch from Republicans to Democratics
 - Urban Black Middle Class begin to rise as more educational and career opportunities arise
-	- As education increases
-- Cold War showed the h
-- Why now?
-	- As people 
+- Cold War showed the hypocritical nature of America as they wanted freedom abroad, but surpressed at home
+- Baseball was the most popular sport to watch
+	- Jackie Robinson in 1947 was a great baseball player and he was black
+- En
