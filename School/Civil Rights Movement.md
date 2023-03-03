@@ -58,4 +58,6 @@ Created: 03-03-2023
 	- Contemporaties of Emett Till
 - The governor of Arkansas was a moderate on Civil Rights and he supported this
 	- So his political career was over if he continued on this path
-	- So, he thus used the National  to prevent the black kids from going to school
+	- So, he thus used the National Guard to prevent the black kids from going to school
+- Out of the 9 kids, 8 of them went together and were denied by the National Guard
+	- 1 of them went alone and many white kids insulted her
