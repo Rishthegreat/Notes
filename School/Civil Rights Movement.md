@@ -41,4 +41,9 @@ Created: 03-03-2023
 - Rosa Parks was a seamstress who was just arrested
 	- Member of the NAACP
 	- One of the few Women in Alabama registered to vote
-- Many African-Americans were arrested and NA
+- Many African-Americans were arrested and NAACP was waiting for the right person to be arrested
+- So, the day after she was arrested, the African Americans refused to take the bus and lasted for about a year
+- This is when Dr. King rose as the face o
+	- He was new to Montgomery as a Baptist leader
+	- He was from a middle-class family who had a decent sum of money
+	- He promoted the boycott
