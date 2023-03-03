@@ -36,4 +36,9 @@ Created: 03-03-2023
 	- Massive Resistance - Southern Manifesto
 		- The South would do anything to resist racial integration
 	- In some cases, the public schools would close, the white kids would go to private schools and the African-Americans had to work hard to find education
-	- It took a lot of time and this is considere
+	- It took a lot of time and this is considered the start of the civil rights movement
+### Montgomery Bus Boycott - Dec 1955
+- Rosa Parks was a seamstress who was just arrested
+	- Member of the NAACP
+	- One of the few Women in Alabama registered to vote
+- Many African-Americans were arrested and NA
