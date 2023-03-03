@@ -50,3 +50,9 @@ Created: 03-03-2023
 - Montgomery fought against this and arrested people like King and went all the way to the Supreme Court
 	- It ruled that the busses must integrate
 - This was the first massive movement of the civil rights movement
+### Little Rock Central High - Fall of 1957
+- This was an all white central high school
+- There were federal rulings that this school must integrate as an experiment to see how it went
+- They chose a few African-Americans who
+- - The governor of Arkansas was a moderate on Civil Rights and he supported this
+	- So his political career was over
