@@ -66,3 +66,9 @@ Created: 03-03-2023
 	- The police did not fight against the mob because they did not want to fight against the whites
 - To stop the riots and mob, Eisenhower places the army in Arkansas to ensure that the kids stay in school
 	- Then next year, the schools closed
+### Sit in Movement 1960
+- Many department stores used to have restaurants in them
+- A group of 4 African American college students went to one of them and waited to be served
+- A movement sparked from this and many were beaten, and arrested
+- This was coordinated
+- 
