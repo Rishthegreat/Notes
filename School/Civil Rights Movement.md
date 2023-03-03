@@ -82,9 +82,13 @@ Created: 03-03-2023
 - Led by Dr. King
 - Kings influences came from
 	- Gandhi and India
-	- Civil Disobedience - Henry 
-- The Student Nonviolent Coordinating Committee - SNCC
-	- Most radical of the groups
+		- He understood that it had to be nonviolent passive resistance because if the blacks committed violence, then it would hurt the movement
+	- Civil Disobedience - Henry David Thoreau
+		- He said that if a law is morally wrong, then you have an obligation to not follow it
+	- The Bible and Christianity
+		- The Bible says that racism was wrong
+#### The Student Nonviolent Coordinating Committee - SNCC
+- Most radical of the groups
 - CORE
 	- Found during WW2
 - NAACP
