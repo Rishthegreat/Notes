@@ -56,10 +56,11 @@ Created: 03-03-2023
 - They chose a few African-Americans who had high grades to attend
 	- 9 black teenagers
 	- Contemporaties of Emett Till
-- The governor of Arkansas was a moderate on Civil Rights and he supported this
+- The governor of Arkansas was a moderate on Civil Rights and he supported this - his name was Faubus
 	- So his political career was over if he continued on this path
 	- So, he thus used the National Guard to prevent the black kids from going to school
 - Out of the 9 kids, 8 of them went together and were denied by the National Guard
 	- 1 of them went alone and many white kids insulted her and threatened to kill her
 - Eisenhower talks to the governor to let this happen and thinks that he has convinced him
-	- However, 2 weeks later when the kids try to come again, the local police were there
+	- However, 2 weeks later when the kids try to come again, the local police were there to protect the kids
+	- The police did not fight against the mob because they did not want to fight against the whites
