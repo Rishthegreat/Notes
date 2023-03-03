@@ -1,12 +1,12 @@
 Tags:
-Links: [[1950]]
+Links: [[1950s]]
 
 ---
 Created: 03-03-2023
 # Cuban Revolution
 ---
 
-Fulgencio Batista
+- Fulgencio Batista was the original leader
 - In 1959 there is a revolution in Cuba and Fidel Castro
 	- He begins to become very communist, seizing land
 	- Has ties with Krushchev
