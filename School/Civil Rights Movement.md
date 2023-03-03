@@ -64,3 +64,5 @@ Created: 03-03-2023
 - Eisenhower talks to the governor to let this happen and thinks that he has convinced him
 	- However, 2 weeks later when the kids try to come again, the local police were there to protect the kids
 	- The police did not fight against the mob because they did not want to fight against the whites
+- To stop the riots and mob, Eisenhower places the army in Arkansas to ensure that the kids stay in school
+	- Then next year, the schools closed
