@@ -74,3 +74,10 @@ Created: 03-03-2023
 - This was coordinated
 	- Student Nonviolent Coordinating Committee - SNCC
 - They kept doing this to keep pressure on Southern cities
+- This was somewhat successful in Nashville
+
+- There were many different Civil Rights groups
+- Many leader of these movements were ministers, reverends, and pastors due to the integration of Christianity in African-American culture
+- The Souther Christian Leadership Conference
+	- Led by Dr. King
+- The Student Nonviolent 
