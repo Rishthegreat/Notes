@@ -93,6 +93,8 @@ Created: 03-03-2023
 	- Economic Challenges and Boycotts
 	- Legal Challenges through the Courts
 	- Media Attention (TV)
+		- One of the major reasons for the success of these movements
+		- Northern whites and politicans become sympathetic
 	- Legislation??
 #### The Student Nonviolent Coordinating Committee - SNCC
 - Most radical of the groups
