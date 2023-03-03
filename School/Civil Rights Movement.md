@@ -95,7 +95,12 @@ Created: 03-03-2023
 	- Media Attention (TV)
 		- One of the major reasons for the success of these movements
 		- Northern whites and politicans become sympathetic
-	- Legislation??
+	- Push for Legislation
+		- In the 50s, not very effective other than the Civil Rights Laws of 1957
+##### Civil Rights Laws on 1957
+- First Civil Rights legislation since Reconstruction
+- Modest in scope - Civil Rights commussion and powerto protect voting rights of African Americans
+- Eisenhower was hesitant to address the issue of rocail
 #### The Student Nonviolent Coordinating Committee - SNCC
 - Most radical of the groups
 #### CORE
