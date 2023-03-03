@@ -33,4 +33,7 @@ Created: 03-03-2023
 - 14th amendment says that all classes of citizens need to have the same laws and therefore equality, therefore, segregation is inherently unequal
 	- Many studies were conducted that showed that segregation develops a mindset of inferiority in the African Americans
 - 10 years after the ruling, the South still had not integrated their schools
-	- Massiv
+	- Massive Resistance - Southern Manifesto
+		- The South would do anything to resist racial integration
+	- In some cases, the public schools would close, the white kids would go to private schools and the African-Americans had to work hard to find education
+	- It took a lot of time and this is considere
