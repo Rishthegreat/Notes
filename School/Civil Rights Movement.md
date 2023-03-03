@@ -75,9 +75,18 @@ Created: 03-03-2023
 	- Student Nonviolent Coordinating Committee - SNCC
 - They kept doing this to keep pressure on Southern cities
 - This was somewhat successful in Nashville
-
+### Civil Rights Groups
 - There were many different Civil Rights groups
 - Many leader of these movements were ministers, reverends, and pastors due to the integration of Christianity in African-American culture
-- The Souther Christian Leadership Conference
-	- Led by Dr. King
-- The Student Nonviolent 
+#### The Souther Christian Leadership Conference
+- Led by Dr. King
+- Kings influences came from
+	- Gandhi and India
+	- Civil Disobedience - Henry 
+- The Student Nonviolent Coordinating Committee - SNCC
+	- Most radical of the groups
+- CORE
+	- Found during WW2
+- NAACP
+	- The largest group and focused on the court and court ruling
+	- Founded in 1909
