@@ -20,4 +20,6 @@ Created: 03-03-2023
 - Emmett Till was spending his time at his uncle’s house
 	- Outside a shop, there was a white girl and rumors say that he whistled at her, or did not even do anything
 	- Later, a white mob killed Till and dumped him in the river
-	- 
+	- It awakened the North to the segregation in the South
+- NAACP Legal Defense Team
+	- Thurgood Marshall
