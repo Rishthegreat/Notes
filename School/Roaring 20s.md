@@ -131,8 +131,8 @@ Created: 12-02-2022
 - Return to conservatism
 	- Reaction against the war, reaction against foreignism
 - 3 conservative old guard republicans, pro business
-	- Warren G. Harding [[]]
-	- Calvin Coolidge [[Roaring 20s#Calvin Coolidge]]
+	- Warren G. Harding [[#Warren Harding]]
+	- Calvin Coolidge [[#Calvin Coolidge]]
 	- Herbert Hoover
 - Limited government regulation to aid business
 - Business and pursuit of profits will benefit the economy
