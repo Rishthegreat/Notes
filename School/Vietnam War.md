@@ -1,5 +1,5 @@
 Tags:
-Links: 
+Links: [[1950s]]
 
 ---
 Created: 03-01-2023
@@ -25,7 +25,7 @@ Created: 03-01-2023
 	- They wanted military assistance from US
 	- Eisenhower did not want to military commit to fighting, and the French surrender
 #### Geneva Conference - 1954
-- At this conference, they deccide to split Vietnam along the 17th parallel
+- At this conference, they decide to split Vietnam along the 17th parallel
 - North Vietnam is sponsored by the communist with Ho Chi Minh as the leader
 - South Vietnam is propped up by the US and ruled by Ngo Dinh Diem
 - In 2 years there was supposed to be an election to unify both sides
