@@ -250,13 +250,14 @@ Ensures equal distribution of cytoplasm to daughter cells
 	- Chromosomes from different parents, but contain some types of genes in same location
 - A particular location on a particular chromosome is called a loci
 	- AKA a particular gene file
-- When reading a karyotype, scientists do a few things
-	- Ensure that there are 46 chromosomes
-		- Monosomy
-			- Having only one chromosome in a homologous pair
-		- Trisomy
-			- f
-			- Non-disjunction
-		- When a pair of similar chromosomes does not split up because the spindle makes a mistake, so both chromosomes move
+##### Reading Karyotypes
+- Ensure that there are 46 chromosomes
+	- **Monosomy**
+		- Having only one chromosome in a homologous pair
+	- **Trisomy** (Down syndrome)
+		- Having 3 homologous chromosomes
+		- Non-disjunction
+			- When a pair of similar chromosomes does not split up because the spindle makes a mistake, so both chromosomes move rather than just 1
+- Ensure that the lengths of the chromosomes are correct
 ## Regulation of Cell Cycle 4.7
 
