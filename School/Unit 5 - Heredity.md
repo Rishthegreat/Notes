@@ -14,4 +14,6 @@ Created: 03-14-2023
 
 ## Non-Mendelian Genetics 5.4
 
-## Environment Effects on Pheno
+## Environment Effects on Phenotypes 5.5
+
+## Chromosomal Inheritance 5.6

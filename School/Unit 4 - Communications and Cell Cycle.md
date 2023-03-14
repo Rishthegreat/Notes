@@ -243,6 +243,6 @@ Created: 02-06-2023
 Ensures equal distribution of cytoplasm to daughter cells
 #### Karyotypes
 - Non-disjunction
-	- 
+	- When a pair of similar chromosomes does not split up because the spindle makes a mistake, so both chromosomes move
 ## Regulation of Cell Cycle 4.7
 
