@@ -241,5 +241,7 @@ Created: 02-06-2023
 - Chromsomes will begin to uncoil
 ##### Cytokinesis → Division of the cytoplasm
 Ensures equal distribution of cytoplasm to daughter cells
+#### Karyotypes
+
 ## Regulation of Cell Cycle 4.7
 
