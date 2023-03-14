@@ -244,7 +244,9 @@ Ensures equal distribution of cytoplasm to daughter cells
 #### Karyotypes
 - Non-disjunction
 	- When a pair of similar chromosomes does not split up because the spindle makes a mistake, so both chromosomes move
-- The X chromosomes come from the egg while from the sperm, it can either be another X chromosome or a 
+- The X chromosomes come from the egg while from the sperm, it can either be another X chromosome or a Y chromosome
+	- This is the sex chromosome, one of the 23 pairs
+	- The Y chromosome has much less genetic information than the X chromosome
 - Homologous chromosomes
 	- Chromosomes from different parents, but contain some types of genes in same location
 - A particular location on a particular chromosome is called a loci
