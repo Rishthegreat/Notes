@@ -242,6 +242,7 @@ Created: 02-06-2023
 ##### Cytokinesis → Division of the cytoplasm
 Ensures equal distribution of cytoplasm to daughter cells
 #### Karyotypes
-
+- Non-disjunction
+	- 
 ## Regulation of Cell Cycle 4.7
 
