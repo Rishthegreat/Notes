@@ -112,9 +112,11 @@ Created: 03-03-2023
 - Founded in 1909
 ### Freedom Rides - 1961
 - Plan to ride black and white together on buses
-- Commit to 
-- Leads 13 people on a bus to Washing DC from NEw Orleans
+- Commit to non-violence
+- Leads 13 people on a bus to Washing DC from New Orleans
 	- 10 days later, enters Alabama
 		- Largest KKK organization in US
 		- They knew that the riders were coming
 		- They slashed the tires of the bus
+		- They try to escape, but soon after the the Klan surrounds the bus and firebombed
+			- No one was harmed, but the passe
