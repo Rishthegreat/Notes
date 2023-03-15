@@ -111,3 +111,10 @@ Created: 03-03-2023
 - The largest group and focused on the court and court ruling
 - Founded in 1909
 ### Freedom Rides - 1961
+- Plan to ride black and white together on buses
+- Commit to 
+- Leads 13 people on a bus to Washing DC from NEw Orleans
+	- 10 days later, enters Alabama
+		- Largest KKK organization in US
+		- They knew that the riders were coming
+		- They slashed the tires of the bus
