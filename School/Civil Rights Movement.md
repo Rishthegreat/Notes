@@ -122,5 +122,11 @@ Created: 03-03-2023
 			- No one was harmed, but the passengers were beaten
 - Kennedy is concerned about the lives of the people
 	- He does not want the freedom riders to continue, but wants to enforce the laws
-	- Bobby, Kennedy’s brother who was Sent some people, but they still
+	- Bobby, Kennedy’s brother who was Attorney General
+		- Sent some people, but they still beat the crap out of them
 	- Forced to send in US Marshall troops to protect the Freedom Riders
+### Ole Miss Integration - Oct 1962
+- James Meredith allowed to attend the University of Mississippi
+- Kennedy forced to send in federal troops to protect the student
+### University of Alabama - Spring 1963
+- 
