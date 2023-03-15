@@ -110,3 +110,4 @@ Created: 03-03-2023
 #### NAACP
 - The largest group and focused on the court and court ruling
 - Founded in 1909
+### Freedom Rides - 1961
