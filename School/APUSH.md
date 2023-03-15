@@ -29,4 +29,5 @@ from #apush
 	- [[Truman and the Cold War]]
 	- [[1950s]]
 	- [[1960s]]
+	- Through 1950s and 1960s → [[Civil Rights Movement]]
 ## Notes
