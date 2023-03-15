@@ -130,6 +130,6 @@ Created: 03-03-2023
 - Kennedy forced to send in federal troops to protect the student
 ### University of Alabama - Spring 1963
 - The governor is a big segregationist
-- He blocks the University of Alabama doorway to block them from entering
+- He blocks the University of Alabama doorway to block 2 black students from entering
 	- The members of the government tells him that he will be removed because he is breaking the law
-	- Then, Kennedy is forced to send in troops to protect the student
+	- Then, Kennedy is forced to send in troops to protect the students
