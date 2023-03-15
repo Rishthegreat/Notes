@@ -119,4 +119,8 @@ Created: 03-03-2023
 		- They knew that the riders were coming
 		- They slashed the tires of the bus
 		- They try to escape, but soon after the the Klan surrounds the bus and firebombed
-			- No one was harmed, but the passe
+			- No one was harmed, but the passengers were beaten
+- Kennedy is concerned about the lives of the people
+	- He does not want the freedom riders to continue, but wants to enforce the laws
+	- Bobby, Kennedy’s brother who was Sent some people, but they still
+	- Forced to send in US Marshall troops to protect the Freedom Riders
