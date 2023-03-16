@@ -26,6 +26,10 @@ Created: 03-14-2023
 - Ensure that the lengths of the chromosomes are correct
 
 - Crossover happens in miosis, but not in mitosis
+- Tetrad →
+	- 4 chromatids line up
+	- During synapsis (When the 4 chromatids are close together)
+		- Then some information gets swapped
 ## Meiosis and Genetic Diversity 5.2
 
 ## Mendelian Genetics 5.3
