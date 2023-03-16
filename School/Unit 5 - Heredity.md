@@ -25,6 +25,7 @@ Created: 03-14-2023
 			- When a pair of similar chromosomes does not split up because the spindle makes a mistake, so both chromosomes move rather than just 1
 - Ensure that the lengths of the chromosomes are correct
 
+- Crossover happens in miosis, but not in mitosis
 ## Meiosis and Genetic Diversity 5.2
 
 ## Mendelian Genetics 5.3
