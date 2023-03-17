@@ -188,4 +188,9 @@ Created: 03-03-2023
 - He criticized King’s movements
 - Towards the end of his life (prior to his assassination)
 	- He becomes more like King and separates from the Nation of Islam
-	- He separates from the NAti
+	- He is then assassinated from the Nation of Islam
+### His Teachings
+- Black Power is a term that emphasized racial pride and the desire for AFrican Americans to achieve equality
+- Promoted the created of Black political and social institutions
+- The term was popularized by Stokely Carmichael
+- Many SNCC (Student )
