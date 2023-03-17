@@ -183,3 +183,9 @@ Created: 03-03-2023
 			- Shot tear gas into the crowds, and beat the protesters
 - King led a group of 3000 demonstrators against what happened during Bloody Sunday
 - LBJ calls for Congress to pass the voting rights
+## Nation of Islam and Malcom X
+- Message of black nationalism, self-discipline, separatism and self-reliance
+- He criticized King’s movements
+- Towards the end of his life (prior to his assassination)
+	- He becomes more like King and separates from the Nation of Islam
+	- He separates from the NAti
