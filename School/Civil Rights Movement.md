@@ -133,3 +133,5 @@ Created: 03-03-2023
 - He blocks the University of Alabama doorway to block 2 black students from entering
 	- The members of the government tells him that he will be removed because he is breaking the law
 	- Then, Kennedy is forced to send in troops to protect the students
+
+- Doctor King and his group the SCLC wanted to target the 
