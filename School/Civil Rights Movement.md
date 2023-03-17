@@ -141,5 +141,9 @@ Created: 03-03-2023
 - George Willis, the governor was strongly separated
 - King expected resistance and said not to expect everyone to come back alive
 	- Many blacks were afraid to do because they were afraid of being killed and arrested which could mean they would loose their jobs and would not be able to support their family
-- 9 days in, the campaign was in trouble because he was arrested and wrote the “Letter from Birmingham Jail”
+- 9 days in, the campaign was in trouble because he was arrested. However, he wrote the “Letter from Birmingham Jail”
 	- This was a response to a few clergymen that criticized King and his movement and called the demonstrations “untimely”
+- King gets out of jail on April 20th to find the movement in peril
+	- The black children of the city rose up and demonstrated
+	- Many were arrested
+	- The next day, the fire department was called to 
