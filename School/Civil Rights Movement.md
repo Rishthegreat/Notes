@@ -175,6 +175,9 @@ Created: 03-03-2023
 - King’s group decided to hit up Selma in order to demonstrate and get blacks to be registered to vote
 - Jimmy Lee Jackson was murdered at point blank range
 	- Killed during one of the protests
+### Bloody Sunday
 - Proposed a march from Selma to Montgomery, Alabama
 	- They do not have a permit to march, so marching means death
 	- State troops waited with gas masks on the other side
+		- Called bloody sunday due to the massive police brutality
+- King led a group of 3000 demonstrators against what happened during Bloody Sunday
