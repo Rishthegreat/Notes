@@ -167,4 +167,9 @@ Created: 03-03-2023
 - Happened in 1964
 - Disappearance of 3 of the volunteers
 	- 2 whites and 1 black man went missing 1 night for 7 weeks
-	- Since there were white northers involved, the FBI 
+	- Since there were white northers involved, the FBI launched an investigation
+	- A lot of media attention
+	- They were found kiled 7 weeks later and the sherrif was in on it, so it was hard for the FBI to punish and prosecute
+### Selma Voting Rights Campaign
+- Blacks were not allowed to vote in the South
+- King’s gr
