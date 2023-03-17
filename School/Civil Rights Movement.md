@@ -154,3 +154,7 @@ Created: 03-03-2023
 	- In the north, many people begin to think differently about race including the president at this time, Kennedy
 - Soon, the business owners negotiated and the city began to desegregate
 - Kennedy called for the Civil Rights Act of 1964 which will be passed under LBJ
+### March on Washington - August 28, 1963
+- During WW2, A Philip Randolf called for this during WW2 and he led this movement now
+- This demonstration was supported by Kennedy because it was in support of the Civil Rights Act of 1964
+- King stole the show 
