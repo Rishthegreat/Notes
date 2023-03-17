@@ -145,8 +145,12 @@ Created: 03-03-2023
 	- This was a response to a few clergymen that criticized King and his movement and called the demonstrations “untimely”
 - King gets out of jail on April 20th to find the movement in peril
 	- The black children of the city rose up and demonstrated
-		- Children and teens 
+		- Children and teens left school and marched
 	- Many were arrested
-	- The next day, the fire department was called to hose down the demonstrators and police dogs were there
+	- The next day, the fire department was called to hose down the demonstrators and police dogs were there and they bit many people
 		- Many newspaper articles critized the response of the city and said that it made a mockery of the law process
+- Many people over the country watched
+	- Many northern whites reacted to this
+	- In the north, many people begin to think differently about race including the president at this time, Kennedy
 - Soon, the business owners negotiated and the city began to desegregate
+- Kennedy called for the Civil Rights Act of 1964 which will be passed under LBJ
