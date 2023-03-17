@@ -213,4 +213,5 @@ Created: 03-03-2023
 	- He was assassinated
 	- James Earl Ray was arrested for the killing
 		- To this day, the King family does not think that James Earl Ray was the killer and there are many controversies around this
-- The Fair Housing Act was also pa
+- The Fair Housing Act was also passed in 1968
+	- Made housing more fair and outlawed redlining
