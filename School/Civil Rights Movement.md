@@ -209,3 +209,5 @@ Created: 03-03-2023
 	- Due to a lot of frustration
 - After 1965, King becomes very unsuccessful for the blacks
 	- Tried to integrate Chicago, but met severe resistance
+- On April 4, 1968
+	- He was assassinated
