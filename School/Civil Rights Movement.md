@@ -134,4 +134,8 @@ Created: 03-03-2023
 	- The members of the government tells him that he will be removed because he is breaking the law
 	- Then, Kennedy is forced to send in troops to protect the students
 
-- Doctor King and his group the SCLC wanted to target the 
+- Doctor King and his group the SCLC wanted to target the city, Birmingham, Alabama
+	- The police were very corrupt and would not stop the KKK violence
+	- Nicknamed Bombingham due to the bombings of black people’s homes
+- George Willis, the governor supporte
+- King expected resistance and said not to expect everyone to come back alive
