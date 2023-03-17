@@ -133,9 +133,11 @@ Created: 03-03-2023
 - He blocks the University of Alabama doorway to block 2 black students from entering
 	- The members of the government tells him that he will be removed because he is breaking the law
 	- Then, Kennedy is forced to send in troops to protect the students
-
+### Birmingham Campaign - 1963
 - Doctor King and his group the SCLC wanted to target the city, Birmingham, Alabama
 	- The police were very corrupt and would not stop the KKK violence
+	- They launched Project “C”
 	- Nicknamed Bombingham due to the bombings of black people’s homes
-- George Willis, the governor supporte
+- George Willis, the governor was strongly separated
 - King expected resistance and said not to expect everyone to come back alive
+- 9 days in, the campaign was in trouble because he was arrested and wrote the “Letter from Birmingham Jail”
