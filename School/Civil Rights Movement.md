@@ -170,6 +170,7 @@ Created: 03-03-2023
 	- Since there were white northers involved, the FBI launched an investigation
 	- A lot of media attention
 	- They were found kiled 7 weeks later and the sherrif was in on it, so it was hard for the FBI to punish and prosecute
-### Selma Voting Rights Campaign
+### Selma Voting Rights Campaign - 1965
 - Blacks were not allowed to vote in the South
-- King’s gr
+- King’s group decided to hit up Selma in order to demonstrate and get blacks to be registered to vote
+- Jimmy Le JAc
