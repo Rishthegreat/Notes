@@ -173,4 +173,8 @@ Created: 03-03-2023
 ### Selma Voting Rights Campaign - 1965
 - Blacks were not allowed to vote in the South
 - King’s group decided to hit up Selma in order to demonstrate and get blacks to be registered to vote
-- Jimmy Le JAc
+- Jimmy Lee Jackson was murdered at point blank range
+	- Killed during one of the protests
+- Proposed a march from Selma to Montgomery, Alabama
+	- They do not have a permit to march, so marching means death
+	- State troops waited with gas masks on the other side
