@@ -211,4 +211,6 @@ Created: 03-03-2023
 	- Tried to integrate Chicago, but met severe resistance
 - On April 4, 1968
 	- He was assassinated
-	- James Earl Ray was 
+	- James Earl Ray was arrested for the killing
+		- To this day, the King family does not think that James Earl Ray was the killer and there are many controversies around this
+- The Fair Housing Act was also pa
