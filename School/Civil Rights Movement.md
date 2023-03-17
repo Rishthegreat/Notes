@@ -211,3 +211,4 @@ Created: 03-03-2023
 	- Tried to integrate Chicago, but met severe resistance
 - On April 4, 1968
 	- He was assassinated
+	- James Earl Ray was 
