@@ -193,4 +193,5 @@ Created: 03-03-2023
 - Black Power is a term that emphasized racial pride and the desire for AFrican Americans to achieve equality
 - Promoted the created of Black political and social institutions
 - The term was popularized by Stokely Carmichael
-- Many SNCC (Student )
+- Many SNCC (Student Nonviolent Coordinating Committee) members were become critical of leaders that articulated non-violent repsonses to racism
+- King and many other leader did not like his teachings because it was too radical and would loose the support of the white people, especially the northern white people who were necessary for 
