@@ -157,4 +157,9 @@ Created: 03-03-2023
 ### March on Washington - August 28, 1963
 - During WW2, A Philip Randolf called for this during WW2 and he led this movement now
 - This demonstration was supported by Kennedy because it was in support of the Civil Rights Act of 1964
-- King stole the show 
+- King stole the show and gave his I have a dream speech
+### Birmingham Baptist Church
+- White supremist bombed a church and killed 4 young girls in the process
+### Assassination of Medgar Evans
+- Evans was a big Civil Rights leader
+- The very night of Kennedy’s speech, Medgar Evers was assassinated on his driveway
