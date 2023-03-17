@@ -182,3 +182,4 @@ Created: 03-03-2023
 		- Called bloody sunday due to the massive police brutality
 			- Shot tear gas into the crowds, and beat the protesters
 - King led a group of 3000 demonstrators against what happened during Bloody Sunday
+- LBJ calls for Congress to pass the voting rights
