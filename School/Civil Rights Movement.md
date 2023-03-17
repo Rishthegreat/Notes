@@ -163,3 +163,8 @@ Created: 03-03-2023
 ### Assassination of Medgar Evans
 - Evans was a big Civil Rights leader
 - The very night of Kennedy’s speech, Medgar Evers was assassinated on his driveway
+### Freedom Summer - 1964
+- Happened in 1964
+- Disappearance of 3 of the volunteers
+	- 2 whites and 1 black man went missing 1 night for 7 weeks
+	- Since there were white northers involved, the FBI 
