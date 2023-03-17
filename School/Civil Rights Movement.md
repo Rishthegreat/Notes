@@ -203,4 +203,9 @@ Created: 03-03-2023
 - The FBI did not like them and tried to convinve the public that they were a terrorist organization
 - 2 Olympic athletes who won gold and bronze made the fist in their picture as a sign for supporting black power
 	- Their medals were stripped and they were mad
-	- There was a lot of controversy aroun
+	- There was a lot of controversy around this
+### Race Riots
+- There were alot of race riots between 1965-1968
+	- Due to a lot of frustration
+- After 1965, King becomes very unsuccessful for the blacks
+	- Tried to integrate Chicago, but met severe resistance
