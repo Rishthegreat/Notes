@@ -201,3 +201,6 @@ Created: 03-03-2023
 - Believed in gun rights because the police never protected
 - They did get invovled in some crime
 - The FBI did not like them and tried to convinve the public that they were a terrorist organization
+- 2 Olympic athletes who won gold and bronze made the fist in their picture as a sign for supporting black power
+	- Their medals were stripped and they were mad
+	- There was a lot of controversy aroun
