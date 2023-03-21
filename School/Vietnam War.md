@@ -63,7 +63,13 @@ Created: 03-01-2023
 - US is also fighting the South Vietnamese people working with the North to get rid of US influence
 	- Vietcong (VC)
 - The guerilla war frustrates LBJ, the generals and the public
+	- The soliders did not know where the enemy was, they would spring up, attack, and then dissapear
 #### Ho Chi Minh Trail
 - Trail that went through Laos and Cambodia to support the Vietcong and the army in the South
 - The US tried to disrupt it, but was never able to cause great damage to it
-- This trail was considered one of the 
+- This trail was considered one of the greatest military accomplishments of the North Vietnamese
+#### The Ground War
+- War of Attrition
+	- Favorable Kill Ratio
+	- US throught tha
+- Search and Destroy
