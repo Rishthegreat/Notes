@@ -89,4 +89,10 @@ Created: 03-01-2023
 #### The Tet Offensive Jan 1968
 - Changes how the Americans look at the war
 - the Tet is the Vietnamese new year
-- The Vietnamese launched a coordinated attack against all
+- The Vietnamese launched a coordinated attack on every major Southern city, base, and the US embassy Saigon
+- US forced beat back the offensive
+- Viet Cong and NVA greatly debilitated
+- But its seen as an American defeat by the media
+- Army asks for 200, 000 more troops to win the war
+- Johnson says no to the generals
+	- 
