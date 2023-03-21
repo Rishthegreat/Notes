@@ -52,5 +52,9 @@ Created: 03-01-2023
 	- Johnson went before Congress and asked for this
 	- Gave the president unprecedented authority to wage war in Vietnam
 - War never officially declared by Congress
-- Paved the way for the 1973 Powers of War A
-
+- Paved the way for the 1973 Powers of War Act
+#### The Air War 1965 - 1968
+- This is really the start of the War
+- 1965: Sustained bombing of North Vietnam
+- Operation Rolling Thunder (March 1965)
+- April 1965, First US ground troops sent
