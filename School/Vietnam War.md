@@ -89,3 +89,4 @@ Created: 03-01-2023
 #### The Tet Offensive Jan 1968
 - Changes how the Americans look at the war
 - the Tet is the Vietnamese new year
+- The Vietnamese launched a coordinated attack against all
