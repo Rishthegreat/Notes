@@ -98,4 +98,5 @@ Created: 03-01-2023
 - Unprecedented media coverage
 - Domestic US reaction
 	- Disbelief, anger, distrust and Johnson Aministration
-	- Much of the anger 
+	- Much of the anger and critisism was directed at LBJ
+- Johnson announces in March 1968 that he will not seek the nomoination for another term
