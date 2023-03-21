@@ -46,9 +46,11 @@ Created: 03-01-2023
 - [[1960s#Johnson and Vietnam]]
 #### Tonkin Gulf Incident → August 1964
 - North Vietnamese gunboats allegedly fired at US warships
+- No one was really sure what exactly happened, but LBJ took advantage of this to appeal to Congress
 ##### Tonkin Gulf of Resolution
 - “The Blank Check” - “All necessary measures”
 	- Johnson went before Congress and asked for this
 	- Gave the president unprecedented authority to wage war in Vietnam
 - War never officially declared by Congress
+- Paved the way for the 1973 Powers of War A
 
