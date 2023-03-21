@@ -103,4 +103,11 @@ Created: 03-01-2023
 	- He is still however the president for another 10 months
 ##### American Morale Begins to Dip
 - Disproportionate representation of poor people and minorities
+	- College students were often deferred from drafts during their education (largely the wealthy white)
+	- Dr. King opposes the war
+- Severe racial problems
+- Major drugs problems
+	- Many soldiers returned from the war addicted to drugs
+- War is insanely expensive
+	- Over $30 billion a year
 	- 
