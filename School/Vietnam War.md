@@ -57,4 +57,6 @@ Created: 03-01-2023
 - This is really the start of the War
 - 1965: Sustained bombing of North Vietnam
 - Operation Rolling Thunder (March 1965)
-- April 1965, First US ground troops sent
+- April 1965, first US ground troops sent
+- We are fighting the regular army of the North Vietnamese ruled by the Communists
+- US is also fighting the South
