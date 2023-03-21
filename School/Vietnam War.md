@@ -110,4 +110,6 @@ Created: 03-01-2023
 	- Many soldiers returned from the war addicted to drugs
 - War is insanely expensive
 	- Over $30 billion a year
-	- 
+	- Undermines effectiveness of Greast Society
+- Many people anger directed their anger at the soldiers as well
+	- Now, there is a lot of propoganda and advertisements to support the American army
