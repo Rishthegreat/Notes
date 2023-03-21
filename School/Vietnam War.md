@@ -38,3 +38,6 @@ Created: 03-01-2023
 ##### SEATO
 - Southeast Asian Treaty Organization 1954
 - Like NATO, but not as important
+
+### Kennedy’s Response
+- [[1960s#Kennedy and Vietnam]]
