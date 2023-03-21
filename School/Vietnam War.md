@@ -59,4 +59,8 @@ Created: 03-01-2023
 - Operation Rolling Thunder (March 1965)
 - April 1965, first US ground troops sent
 - We are fighting the regular army of the North Vietnamese ruled by the Communists
-- US is also fighting the South
+	- North Vietnamese Army (NVA)
+- US is also fighting the South Vietnamese people working with the North to get rid of US influence
+	- Vietcong (VC)
+- The guerilla war frustrates LBJ, the generals and the public
+#### Ho 
