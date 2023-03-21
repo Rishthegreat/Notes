@@ -82,3 +82,5 @@ Created: 03-01-2023
 - Some of the criticisms come from college students
 	- Generation Gap (Hawks vs Doves)
 		- “Credibility Gap”
+		- Hawks were older and more conservative and the supported the war
+		- The doves were younger and more liberal and did not support the war
