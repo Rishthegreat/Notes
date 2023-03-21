@@ -44,5 +44,10 @@ Created: 03-01-2023
 
 ### Johnson’s Response
 - [[1960s#Johnson and Vietnam]]
-- ####
+#### Tonkin Gulf Incident → August 1964
+- North Vietnamese gunboats allegedly fired at US warships
+##### Tonkin Gulf Resolution
+- “The Blank Check” - “All necessary measures”
+	- Johnson went before Congress and asked for
+- War never officially declared by Congress
 
