@@ -41,3 +41,8 @@ Created: 03-01-2023
 
 ### Kennedy’s Response
 - [[1960s#Kennedy and Vietnam]]
+
+### Johnson’s Response
+- [[1960s#Johnson and Vietnam]]
+- ####
+
