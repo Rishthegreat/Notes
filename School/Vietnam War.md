@@ -81,6 +81,11 @@ Created: 03-01-2023
 	- first  “living room”
 - Some of the criticisms come from college students
 	- Generation Gap (Hawks vs Doves)
-		- “Credibility Gap”
 		- Hawks were older and more conservative and the supported the war
 		- The doves were younger and more liberal and did not support the war
+- People begin to stop believing the government
+	- “Credibility Gap”
+	- This trend still exists today
+#### The Tet Offensive Jan 1968
+- Changes how the Americans look at the war
+- the Tet is the Vietnamese new year
