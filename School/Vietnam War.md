@@ -63,4 +63,7 @@ Created: 03-01-2023
 - US is also fighting the South Vietnamese people working with the North to get rid of US influence
 	- Vietcong (VC)
 - The guerilla war frustrates LBJ, the generals and the public
-#### Ho 
+#### Ho Chi Minh Trail
+- Trail that went through Laos and Cambodia to support the Vietcong and the army in the South
+- The US tried to disrupt it, but was never able to cause great damage to it
+- This trail was considered one of the 
