@@ -111,5 +111,11 @@ Created: 03-01-2023
 - War is insanely expensive
 	- Over $30 billion a year
 	- Undermines effectiveness of Greast Society
+		- Many of the programs in the Great Society were put on the back shelf because US could not support both the war and the Great Society programs
+	- Destroys the presidency of LBJ
 - Many people anger directed their anger at the soldiers as well
 	- Now, there is a lot of propoganda and advertisements to support the American army
+#### Charlie Company, 1st Battalion, 20th Infantry
+- Mylai Massacre, 1968
+- 200-500 unarmed villagers were killed
+- One of the soldier
