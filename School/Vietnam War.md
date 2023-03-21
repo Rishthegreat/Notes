@@ -74,3 +74,4 @@ Created: 03-01-2023
 	- US throught that the enemey would crumble over time
 - Search and Destroy
 	- Often burn and attack South Vietnamese villages
+- US uses many chemicals and herbicides and on the enemy against the Vietnamese such as Agent Orange 
