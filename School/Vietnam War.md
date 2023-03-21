@@ -118,4 +118,6 @@ Created: 03-01-2023
 #### Charlie Company, 1st Battalion, 20th Infantry
 - Mylai Massacre, 1968
 - 200-500 unarmed villagers were killed
-- One of the soldier
+- One of the soldiers wrote a letter back to the government to report about this, but they did nothing
+- In the 70s, this was leaked to the press and media
+- Some of the soldiers involved were put on trial
