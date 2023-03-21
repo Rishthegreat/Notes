@@ -71,5 +71,6 @@ Created: 03-01-2023
 #### The Ground War
 - War of Attrition
 	- Favorable Kill Ratio
-	- US throught tha
+	- US throught that the enemey would crumble over time
 - Search and Destroy
+	- Often burn and attack South Vietnamese villages
