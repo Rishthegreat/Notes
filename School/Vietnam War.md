@@ -75,3 +75,10 @@ Created: 03-01-2023
 - Search and Destroy
 	- Often burn and attack South Vietnamese villages
 - US uses many chemicals and herbicides and on the enemy against the Vietnamese such as Agent Orange 
+#### The Living Room War
+- At first, the Vietnam War is popular
+- Body counts on TV every night
+	- first  “living room”
+- Some of the criticisms come from college students
+	- Generation Gap (Hawks vs Doves)
+		- “Credibility Gap”
