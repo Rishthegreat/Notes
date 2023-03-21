@@ -95,4 +95,7 @@ Created: 03-01-2023
 - But its seen as an American defeat by the media
 - Army asks for 200, 000 more troops to win the war
 - Johnson says no to the generals
-	- 
+- Unprecedented media coverage
+- Domestic US reaction
+	- Disbelief, anger, distrust and Johnson Aministration
+	- Much of the anger 
