@@ -17,3 +17,8 @@ Created: 03-27-2023
 		- Treaty limited anti-ballistic defensive missiles
 		- Significant step towards reducing tensions, beginning negotiations between the two nations
 		- Leonid Brezhnev was the leader of the Soviets at this time
+## Arab-Isreali Tensions
+- 1967 → 6 day war
+	- Egypt, Jordan, and Syria attack Isreal
+- Isreal wins and gets more land
+- 6 years later, on Yom Kippur, the Jewish holiday, the same 3 countries attack again, and gets pushed bac
