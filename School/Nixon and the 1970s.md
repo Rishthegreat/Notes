@@ -21,4 +21,11 @@ Created: 03-27-2023
 - 1967 → 6 day war
 	- Egypt, Jordan, and Syria attack Isreal
 - Isreal wins and gets more land
-- 6 years later, on Yom Kippur, the Jewish holiday, the same 3 countries attack again, and gets pushed bac
+- 6 years later, on Yom Kippur, the Jewish holiday, the same 3 countries attack again, and gets pushed back
+	- Sneak attack, Isreal recovers in 20 days
+	- Technically an Isreali victory
+- Kissinger is Jewish and Nixon heavily supports Isreal
+	- Nixon
+## The Oil Crisis
+- Arab nations (OPEC) declared in October 1973 that they would not sell oil to the US because of its expressed support for Isreal
+- Within a few months, the price of a barrel of oil quadrupled - O
