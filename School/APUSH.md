@@ -30,4 +30,5 @@ from #apush
 	- [[1950s]]
 	- [[1960s]]
 	- Through 1950s and 1960s → [[Civil Rights Movement]]
+	- [[Nixon and the 1970s]]
 ## Notes
