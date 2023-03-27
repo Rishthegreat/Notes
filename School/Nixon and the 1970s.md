@@ -28,4 +28,10 @@ Created: 03-27-2023
 	- Nixon
 ## The Oil Crisis
 - Arab nations (OPEC) declared in October 1973 that they would not sell oil to the US because of its expressed support for Isreal
-- Within a few months, the price of a barrel of oil quadrupled - O
+- Within a few months, the price of a barrel of oil quadrupled - Oil Crisis
+- Negative effect on US economy, jobs, and inflation
+- Worldwide Oil shortages and long lines at gas stations
+- American switch to fuel efficient Japanese cars, 55 mile per hour speed limits
+- Suffering US economy gets even worse
+- Long term changes to US oil based economy
+- This is the first of 2 massive oil shocks in the US
