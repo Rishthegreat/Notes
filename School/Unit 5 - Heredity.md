@@ -25,6 +25,8 @@ Created: 03-14-2023
 		- Example → if the hair color is codominant in cows, then a brown cow crossed with a white cow ends in a spotted cow
 		- Uppercase letter for both alleles
 	- Incomplete dominance
+		- Neither allele is dominant
+		- For example, if flower color is incompletely dominant, then a red color flower crossed with pink flowers lead to a flower with a blend
 	- Multiple Alleles
 	- Sex-linked traits
 ## Environment Effects on Phenotypes 5.5
