@@ -12,7 +12,7 @@ Created: 03-14-2023
 
 ## Mendelian Genetics 5.3
 - It assumes that the alleles or genes (he called them factors because DNA was not discovered yet) are on separate chromosomes → non-linked
-	- During the discovery, medelian got lucky by choosing 7 genes that were on different chromosomes
+	- During the discovery, Mendel got lucky by choosing 7 genes that were on different chromosomes
 - Phenotype
 	- Physical appearance like purple, short, white, etc
 - Genotype
