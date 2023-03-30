@@ -28,6 +28,8 @@ Created: 03-14-2023
 		- Neither allele is dominant
 		- For example, if flower color is incompletely dominant, then a red color flower crossed with white flowers lead to a flower with a blend of both
 	- Multiple Alleles
+		- Many genes exist in multiple forms and are said to have multiple alleles
+		- Alleles are written as a small superscript in the upper right hand co
 	- Sex-linked traits
 ## Environment Effects on Phenotypes 5.5
 
