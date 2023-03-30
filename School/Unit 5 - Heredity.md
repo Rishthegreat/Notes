@@ -22,6 +22,8 @@ Created: 03-14-2023
 - **Major Non-Mendelian Inheritance Patterns**
 	- Codominance
 		- Both alleles are dominant and both are expressed
+		- Example → if the hair color is codominant in cows, then a brown cow crossed with a white cow ends in a spotted cow
+		- Uppercase letter for both alleles
 	- Incomplete dominance
 	- Multiple Alleles
 	- Sex-linked traits
