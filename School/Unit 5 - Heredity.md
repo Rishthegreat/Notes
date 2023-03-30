@@ -30,7 +30,9 @@ Created: 03-14-2023
 	- Multiple Alleles
 		- Many genes exist in multiple forms and are said to have multiple alleles
 		- Alleles are written as a small superscript in the upper right hand corner
-		- 
+		- For example in human blood type
+			- $I^AI^B=AB$
+			- $I^AI^A and I^A_i$
 	- Sex-linked traits
 ## Environment Effects on Phenotypes 5.5
 
