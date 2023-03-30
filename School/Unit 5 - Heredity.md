@@ -26,7 +26,7 @@ Created: 03-14-2023
 		- Uppercase letter for both alleles
 	- Incomplete dominance
 		- Neither allele is dominant
-		- For example, if flower color is incompletely dominant, then a red color flower crossed with pink flowers lead to a flower with a blend
+		- For example, if flower color is incompletely dominant, then a red color flower crossed with pink flowers lead to a flower with a blend of both
 	- Multiple Alleles
 	- Sex-linked traits
 ## Environment Effects on Phenotypes 5.5
