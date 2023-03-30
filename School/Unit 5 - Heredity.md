@@ -32,8 +32,12 @@ Created: 03-14-2023
 		- Alleles are written as a small superscript in the upper right hand corner
 		- For example in human blood type
 			- $I^AI^B=AB$
-			- $I^AI^A and I^A_i$
+			- $I^AI^A$ & $I^A_i=A$
 	- Sex-linked traits
+		- Disorders carried on the X or Y chromosomes
+			- Much more common on the X chromosomes
+		- More frequent in males than females
+		- Ex. Colorblindness, hemophilia, duchenne muscular dystrophy
 ## Environment Effects on Phenotypes 5.5
 
 ## Chromosomal Inheritance 5.6
