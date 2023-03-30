@@ -18,7 +18,8 @@ Created: 03-14-2023
 - Genotype
 	- The genetic component like homozygous dominant, heterozygous, etc
 ## Non-Mendelian Genetics 5.4
-
+- A vast majority of traits are not inherited in the traditional Mendelian way
+- **Major Non-Mendelian Inheritance Patterns**
 ## Environment Effects on Phenotypes 5.5
 
 ## Chromosomal Inheritance 5.6
