@@ -36,7 +36,7 @@ Created: 03-14-2023
 	- Sex-linked traits
 		- Disorders carried on the X or Y chromosomes
 			- Much more common on the X chromosomes
-		- More frequent in males than females
+		- More frequent in males than females becuause there is nothing much on the Y chromosomes, so the X is always dominant and if something is wrong, then it is bad
 		- Ex. Colorblindness, hemophilia, duchenne muscular dystrophy
 ## Environment Effects on Phenotypes 5.5
 
