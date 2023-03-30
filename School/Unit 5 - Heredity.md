@@ -20,6 +20,11 @@ Created: 03-14-2023
 ## Non-Mendelian Genetics 5.4
 - A vast majority of traits are not inherited in the traditional Mendelian way
 - **Major Non-Mendelian Inheritance Patterns**
+	- Codominance
+		- Both alleles are dominant and both are expressed
+	- Incomplete dominance
+	- Multiple Alleles
+	- Sex-linked traits
 ## Environment Effects on Phenotypes 5.5
 
 ## Chromosomal Inheritance 5.6
