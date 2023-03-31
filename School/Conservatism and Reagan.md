@@ -39,4 +39,9 @@ Created: 03-31-2023
 	- There was an AIDS epidemic and many gay men died due to this
 		- Many conservatives were not sympathetic and saw it as god’s punishment on homosexuality
 ## Reagan’s Presidency
-- His slogan when running against Jimmy Carter in 1980 → “Are”
+- His slogan when running against Jimmy Carter in 1980 → “Are you better off now that you were four years ago”
+- Reagan was originally an actor and then transitions to politics in California and liked liked Barry Goldwater
+- Reagan is very good on camera
+- He was called “The Great Communicator”
+	- He is still popular and beloved by the republicans today
+- 
