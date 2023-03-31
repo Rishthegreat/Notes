@@ -16,3 +16,16 @@ Created: 03-31-2023
 - [[1970s]] has a bad economy and end of postwar growth ([[1950s]] - [[1960s]])
 - Military failure from Vietnam, Iran Hostage Crisis
 	- People thought US lost respect and prestige in the world
+- Economic problems are blamed on the government
+- What did they argue for?
+	- Lower Taxes (Tax Revolt)
+		- Inflation moved Americans into a higher tax bracket due to inflation
+	- States Right
+	- Pro National Defense
+	- Deregulate Business
+	- Free Market Capitalism
+		- Milton Friedman
+	- Pro-Life
+		- Opposed Roe v. Wade
+	- “Moral Majority” - Jerry Falwell
+		- Christian - “”
