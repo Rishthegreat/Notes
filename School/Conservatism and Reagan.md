@@ -80,7 +80,8 @@ Created: 03-31-2023
 	- Mondale Ferraro picked his wife Geraldine Ferraro as his vice president and it was the first time a female was on the vice presidency ticket
 - Impact of Reaganomics
 	- Tax Cuts with increase in military spending - national debt triples to over 2.7 trillion
+		- It has increased and this trend continues to this day
 	- Staggering US trade deficit - 150 billion a year
 	- Debtor nation - first time since WW1
 	- Contained growth of social welfare programs
-	- I
+	- Income Equality
