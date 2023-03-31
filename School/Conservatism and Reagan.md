@@ -38,3 +38,5 @@ Created: 03-31-2023
 		- Reagan’s wife said “Just Say No”
 	- There was an AIDS epidemic and many gay men died due to this
 		- Many conservatives were not sympathetic and saw it as god’s punishment on homosexuality
+## Reagan’s Presidency
+- His slogan when running against Jimmy Carter in 1980 → “Are”
