@@ -71,3 +71,8 @@ Created: 03-31-2023
 			- Widened income gap
 			- Middle class income stagnated
 			- Increase in homelessness
+		- Yuppies
+	- Overall idea is that the economy got better and in 1984 he destroys the election
+- 1984 Election
+	- He turned many more people into Democrats
+		- 
