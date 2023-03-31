@@ -25,7 +25,8 @@ Created: 03-31-2023
 	- Deregulate Business
 	- Free Market Capitalism
 		- Milton Friedman
+			- Famous conservative economist
 	- Pro-Life
 		- Opposed Roe v. Wade
 	- “Moral Majority” - Jerry Falwell
-		- Christian - “”
+		- Christian - “moral decay”
