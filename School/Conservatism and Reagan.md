@@ -78,3 +78,4 @@ Created: 03-31-2023
 		- Reagan Democrats - blue collar workers
 		- 2/3 of white males voted for him
 	- Mondale Ferraro picked his wife Geraldine Ferraro as his vice president and it was the first time a female was on the vice presidency ticket
+	- 
