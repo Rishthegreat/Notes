@@ -63,4 +63,11 @@ Created: 03-31-2023
 		- Most of this is due to the decline in manufacturing
 	- Air traffic controllers (PATCO)
 		- They all went on strike and Reagan fired them all as some of his get tough on union policies
-- 1982 → Biggest Recession since the 
+- 1982 → Biggest Recession since the Great Depression
+	- 1983 - begin to experience a long period of recovery
+		- Upper income groups benefit
+		- Stock market soars
+		- Inflation drops drastically, but…
+			- Widened income gap
+			- Middle class income stagnated
+			- Increase in homelessness
