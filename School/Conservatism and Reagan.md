@@ -30,3 +30,5 @@ Created: 03-31-2023
 		- Opposed Roe v. Wade
 	- “Moral Majority” - Jerry Falwell
 		- Christian - “moral decay”
+		- A lot of Christian Conservatives see a decay in society and start supporting leaders who have Christian ideas and issues
+			- Rise in divorce rates, rise in teen pregnancies, drug use
