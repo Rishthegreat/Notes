@@ -75,4 +75,6 @@ Created: 03-31-2023
 	- Overall idea is that the economy got better and in 1984 he destroys the election
 - 1984 Election
 	- He turned many more people into Democrats
-		- 
+		- Reagan Democrats - blue collar workers
+		- 2/3 of white males voted for him
+	- Mondale Ferraro picked his wife Geraldine Ferraro as his vice president and it was the first time a female was on the vice presidency ticket
