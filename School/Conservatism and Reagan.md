@@ -49,3 +49,12 @@ Created: 03-31-2023
 	- He had scandals, but they did not affect his popularity much
 - “Government is not the solution to our problem. Government is the problem”
 - “Getting government off the backs of the people”
+### Reaganomics
+- “Supply Side Economics”
+- Tax Cuts
+	- Economic Recovery Act - Coporate, Capital Gains, Inheritance - Upper Class
+	- High Interest Rates
+- Spending Cuts - $40 bill from domestic Programs
+	- But not Social Security because it was popular
+- Decreased government regulations (Deregulation)
+	- Automobile, Mer
