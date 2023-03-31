@@ -57,4 +57,10 @@ Created: 03-31-2023
 - Spending Cuts - $40 bill from domestic Programs
 	- But not Social Security because it was popular
 - Decreased government regulations (Deregulation)
-	- Automobile, Mer
+	- Automobile, Mergers, Emissions, Savings and Loans
+- Anti-Union Policies
+	- Decline in membership
+		- Most of this is due to the decline in manufacturing
+	- Air traffic controllers (PATCO)
+		- They all went on strike and Reagan fired them all as some of his get tough on union policies
+- 1982 → Biggest Recession since the 
