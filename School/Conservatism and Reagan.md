@@ -33,6 +33,8 @@ Created: 03-31-2023
 		- A lot of Christian Conservatives see a decay in society and start supporting leaders who have Christian ideas and issues
 			- Rise in divorce rates, rise in teen pregnancies, drug use
 - They are against →
-	- Gun control, Feminism, Gay Rights, Big Government, Communism, Welfarem Sexual Permissivemess - “Revolution”, Drug Use “War on Drugs”, Crime - Rising Crime Rates, Affirmative Action - “White Backlash” or Reverse Discrimination
+	- Gun control, Feminism, Gay Rights, Big Government, Communism, Welfarem Sexual Permissivemess - “Revolution”, Drug Use “War on Drugs”, Crime - Rising Crime Rates, Affirmative Action because of “White Backlash” or Reverse Discrimination
+	- Nixon started the war on drugs and Reagan continued it
+		- Reagan’s wife said “Just Say No”
 	- There was an AIDS epidemic and many gay men died due to this
 		- Many conservatives were not sympathetic and saw it as god’s punishment on homosexuality
