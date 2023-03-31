@@ -32,3 +32,5 @@ Created: 03-31-2023
 		- Christian - “moral decay”
 		- A lot of Christian Conservatives see a decay in society and start supporting leaders who have Christian ideas and issues
 			- Rise in divorce rates, rise in teen pregnancies, drug use
+- They are against →
+	- Gun control, Feminism, Gay Rights, Big Government, Communism, Welfarem Sexual Permissivemess - “Revolution”, Drug Use “War on Drugs”, Crime - Rising Crime Rates, Affirmative Action - “White Bac”
