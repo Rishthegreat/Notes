@@ -44,4 +44,8 @@ Created: 03-31-2023
 - Reagan is very good on camera
 - He was called “The Great Communicator”
 	- He is still popular and beloved by the republicans today
-- 
+- Reagan was Shot on March 1981, but he made a full recovery
+- “Teflon President”
+	- He had scandals, but they did not affect his popularity much
+- “Government is not the solution to our problem. Government is the problem”
+- “Getting government off the backs of the people”
