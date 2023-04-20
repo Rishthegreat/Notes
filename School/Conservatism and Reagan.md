@@ -85,4 +85,3 @@ Created: 03-31-2023
 	- Debtor nation - first time since WW1
 	- Contained growth of social welfare programs
 	- Income Equality
-- 
