@@ -101,4 +101,10 @@ Created: 03-31-2023
 	- US was aiding a group called the Contra rebels
 		- They were also involved in drug trafficking
 	- Through the Boland Amendment, the US prohibited from sending further aid to the Contra Rebels in 1982
-	- Iran and Iraq in bloody wa
+	- Iran and Iraq in bloody war since 1980
+		- US is kinda supporting Iraq publically
+			- Iran held the hostages and we did not like them
+		- US secretly sells arms to Iran
+			- helped in negotiating release of hostages in Lebanon
+	- That money earned went to fund the Contras in Nicaragua
+	- Regan was very popular at that time
