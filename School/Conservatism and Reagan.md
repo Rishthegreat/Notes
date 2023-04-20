@@ -96,4 +96,9 @@ Created: 03-31-2023
 		- Regan wanted a defense system consisting of satellites and lasers to protect the US
 			- The Soviets believed him, but also this was illegal anyway because you cannot have weapons in space
 - Iran Contra Affair
-	- 
+	- Early 80s, the governemnt in power in Nicaragua was a leftist Sandinista Government
+		- Regan did not like this
+	- US was aiding a group called the Contra rebels
+		- They were also involved in drug trafficking
+	- Through the Boland Amendment, the US prohibited from sending further aid to the Contra Rebels in 1982
+	- Iran and Iraq in bloody wa
