@@ -107,4 +107,5 @@ Created: 03-31-2023
 		- US secretly sells arms to Iran
 			- helped in negotiating release of hostages in Lebanon
 	- That money earned went to fund the Contras in Nicaragua
-	- Regan was very popular at that time
+	- Many people went to jail for this and people were just blaming each other
+	- Regan was very popular at that time and he was not that affected by it
