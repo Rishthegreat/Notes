@@ -117,4 +117,6 @@ Created: 03-31-2023
 - Soviet Union collapses in 1990 and most people give the credit to Regan rather than the president at that time, George Herbert Walker Bush
 	- He is riding on the popularity of Regan and the republicans
 	- There is a series of rebellions at this time, and Gorbachev does nothing (they were not powerful enough) and lets them happen (Starts with Poland)
+		- Bush cal
 	- Gorbachev is removed from power, but also wins the nobel peace prize for letting this happen
+	- Bush and Gorbachev signed the Start 1 and Start 2 treaties, limiting nuclear weapons to 3000
