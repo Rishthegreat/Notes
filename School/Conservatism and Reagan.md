@@ -87,4 +87,9 @@ Created: 03-31-2023
 	- Income Equality
 - Military Build Up
 	- Regan is very agressive against the Soviet Union and called them an “Evil Empire”
-	- 
+	- Increased military spending
+		- Largest American military buildup in US history
+	- There were so many nuclear weapons that there was a “nuclear freeze” and people protesting against this
+	- Regan said that this was part of his master plan
+		- He is forcing the Soviets to also build up and place strain on their economy
+	- Strategic Defensive I
