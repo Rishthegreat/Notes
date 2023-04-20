@@ -103,9 +103,8 @@ Created: 03-31-2023
 	- Through the Boland Amendment, the US prohibited from sending further aid to the Contra Rebels in 1982
 	- Iran and Iraq in bloody war since 1980
 		- US is kinda supporting Iraq publically
-			- Iran held the hostages and we did not like them
 		- US secretly sells arms to Iran
-			- helped in negotiating release of hostages in Lebanon
+			- helped in negotiating release of 7 hostages in Lebanon
 	- That money earned went to fund the Contras in Nicaragua
 	- Many people went to jail for this and people were just blaming each other
 	- Regan was very popular at that time and he was not that affected by it
