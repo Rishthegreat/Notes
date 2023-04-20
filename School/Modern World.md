@@ -15,3 +15,4 @@ Created: 04-20-2023
 - 5 weeks of airstrikes and then only 100 hours on the ground - February 1991
 - US stops short of driving Saddam Hussein from power - follow UN mandate to remove Iraqi troops from Kuwait and leave it at that
 - This kicked the Vietnam syndrome because it showed the US military prowess
+
