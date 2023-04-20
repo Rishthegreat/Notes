@@ -92,4 +92,8 @@ Created: 03-31-2023
 	- There were so many nuclear weapons that there was a “nuclear freeze” and people protesting against this
 	- Regan said that this was part of his master plan
 		- He is forcing the Soviets to also build up and place strain on their economy
-	- Strategic Defensive I
+	- Strategic Defensive Initiative “Star Wars”
+		- Regan wanted a defense system consisting of satellites and lasers to protect the US
+			- The Soviets believed him, but also this was illegal anyway because you cannot have weapons in space
+- Iran Contra Affair
+	- 
