@@ -110,4 +110,7 @@ Created: 03-31-2023
 	- Regan was very popular at that time and he was not that affected by it
 		- He left office with one of the highest approval ratings in US history
 - American policy now becomes involved in the Middle East (starts in the late 70s and up to now)
-- Mid 80s, Mikhail Gorbachev 
+- Mid 80s, Mikhail Gorbachev becomes leader of the Soviet Union and he was a reformer
+	- Glasnost - political openness
+	- Perestrokia - restructuring of Soviet Economy
+	- Regan has a lot of summit meetings with him and there was a nuclear reduction in his 2nd term
