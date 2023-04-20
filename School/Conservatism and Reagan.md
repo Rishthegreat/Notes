@@ -115,4 +115,5 @@ Created: 03-31-2023
 	- Perestrokia - restructuring of Soviet Economy
 	- Regan has a lot of summit meetings with him and there was a nuclear reduction in his 2nd term
 - Soviet Union collapses in 1990 and most people give the credit to Regan rather than the president at that time, George Herbert Walker Bush
-	- He is riding on the popularity of Regan and the 
+	- He is riding on the popularity of Regan and the republicans
+	- There is a series of rebellions at this time, and 
