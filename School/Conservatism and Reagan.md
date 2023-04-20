@@ -108,3 +108,6 @@ Created: 03-31-2023
 	- That money earned went to fund the Contras in Nicaragua
 	- Many people went to jail for this and people were just blaming each other
 	- Regan was very popular at that time and he was not that affected by it
+		- He left office with one of the highest approval ratings in US history
+- American policy now becomes involved in the Middle East (starts in the late 70s and up to now)
+- Mid 80s, Mikhail Gorbachev 
