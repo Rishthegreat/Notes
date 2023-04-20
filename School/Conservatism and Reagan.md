@@ -85,6 +85,7 @@ Created: 03-31-2023
 	- Debtor nation - first time since WW1
 	- Contained growth of social welfare programs
 	- Income Equality
+### End of Cold War
 - Military Build Up
 	- Regan is very agressive against the Soviet Union and called them an “Evil Empire”
 	- Increased military spending
