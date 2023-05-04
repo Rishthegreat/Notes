@@ -34,3 +34,7 @@ from #apush
 		- [[Conservatism and Reagan]]
 	- [[Modern World]]
 ## Notes
+- Woman Mystique
+- The gulf war
+- GI bill
+- After revolutionary war, republican motherhood was more common. After WW1 and WW2 it is more different
