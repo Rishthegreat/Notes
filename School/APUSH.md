@@ -38,6 +38,8 @@ from #apush
 - The gulf war
 - GI bill
 - After revolutionary war, republican motherhood was more common. After WW1 and WW2 it is more different
+- Neutrality Acts
+	- After the rise of totalitarian governments elsewhere, congress added neutrality acts
 - Supreme court cases to know
 	- Marbury v Madison 1803 judicial review
 	- Marshall court, expansion of power
