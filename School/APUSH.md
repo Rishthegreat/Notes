@@ -38,3 +38,8 @@ from #apush
 - The gulf war
 - GI bill
 - After revolutionary war, republican motherhood was more common. After WW1 and WW2 it is more different
+- Supreme court cases to know
+	- Marbury v Madison 1803 judicial review
+	- Marshall court, expansion of power
+	- Dred Scot 1857 rights of dred scot as a slave
+	- 
