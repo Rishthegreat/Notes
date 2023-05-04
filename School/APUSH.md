@@ -42,4 +42,6 @@ from #apush
 	- Marbury v Madison 1803 judicial review
 	- Marshall court, expansion of power
 	- Dred Scot 1857 rights of dred scot as a slave
-	- 
+	- Plessy v Ferguson 1896 separate but equal
+	- Shank v United States
+	- Brown v Board 1954 (Warren Court)
