@@ -70,7 +70,7 @@ Created: 01-18-2023
 	- When the president proclaimed the existence of a foreign war, certain restrictions would automatically go into effect
 		- Prohibited sales of arms to belligerent nations (1935)
 		- Forbade Americans to travel on vessels of nations at war (1935)
-		- Prohibited lans and credits to belligerent nations (1936)
+		- Prohibited loans and credits to belligerent nations (1936)
 		- Banned involvement in the Spanish Civil War (1937)
 	- These acts limited the options of the president in a crisis
 	- American in the 1930s declined to build up its forces
