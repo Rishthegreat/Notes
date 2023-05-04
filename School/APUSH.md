@@ -46,6 +46,6 @@ from #apush
 	- Both support violation of civil liberties during a war
 		- Shank v United States 1919 Espionage and sedition acts
 		- Kolemutsu v United States 1994
-	- Warren court was liberal and supported the rights revolution
+	- Warren court was liberal and supported the rights revolution (50s and 60s)
 	- Brown v Board 1954 (Warren Court)
-	- Roe v Wade (1972)
+	- Roe v Wade (1972) women have access to abortion - was not warren court
