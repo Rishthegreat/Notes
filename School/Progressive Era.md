@@ -300,6 +300,7 @@ Created: 11-01-2022
 - All the candidates are liberal, most conservative is Taft
 
 - Most probable winners were Roosevelt and Wilson
+
 | **Roosevelt**                                                (New Nationalism)                                                                | **Wilson**      (From Virginia) (New Freedom)                                                                                        |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | Women's suffrage                                                                                                                              | State's Rights                                                                                                                       |
