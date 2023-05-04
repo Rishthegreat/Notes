@@ -43,5 +43,9 @@ from #apush
 	- Marshall court, expansion of power
 	- Dred Scot 1857 rights of dred scot as a slave
 	- Plessy v Ferguson 1896 separate but equal
-	- Shank v United States
+	- Both support violation of civil liberties during a war
+		- Shank v United States 1919 Espionage and sedition acts
+		- Kolemutsu v United States 1994
+	- Warren court was liberal and supported the rights revolution
 	- Brown v Board 1954 (Warren Court)
+	- Roe v Wade (1972)
