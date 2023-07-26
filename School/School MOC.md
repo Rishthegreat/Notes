@@ -38,6 +38,11 @@ Old Laser
 
 
 ### Reduction of Tonal Propeller Noise by Means of Uneven Blade Spacing
+objective of the study is to understand and reduce the perceived noise from general avaiation propellers with uneven blade spacing.
+- SHow than you can use rapid prototyping to test propellers
+- The noise can be predicted with simplified theoretical models
+- 
+
 - Harmonic/Tonal Noise
 	- Created just by spinning
 	- As Blade Passage Frequency increases, tonal noise increases
