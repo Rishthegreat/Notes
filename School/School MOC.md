@@ -62,3 +62,4 @@ objective of the study is to understand and reduce the perceived noise from gene
 
 - Uneven blade spacing distributes the tonal noise over a larger number of tones spread across a broader range of frequencies, making the percieved noise lesser (more like white noise)
 - equation says that noise due to drag is considered negligible because it is small compared to lift (has correlation between experiment and theory)
+	- the equations predict noise of 
