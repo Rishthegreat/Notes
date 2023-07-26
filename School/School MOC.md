@@ -70,3 +70,4 @@ objective of the study is to understand and reduce the perceived noise from gene
 
 - 3 designs chosen to be manufactured using sterolithography (20 deg and 30 deg)
 	- less than 20 would cause oo much interference and losses in efficiency
+![[Pasted image 20230726191841.png]]
