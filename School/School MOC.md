@@ -68,4 +68,5 @@ objective of the study is to understand and reduce the perceived noise from gene
 - Blade used → Beechcraft King Air 350 series aircraft (older model and modified for reinforcement) (factor of safety of 1.2 under certifugal loads at 50, 000 rpm)
 	- ![[Pasted image 20230726191520.png]]
 
-- 3 designs 
+- 3 designs chosen to be manufactured using sterolithography (20 deg and 30 deg)
+	- less than 20 would cause oo much interference and losses in efficiency
