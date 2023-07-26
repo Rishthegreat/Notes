@@ -53,4 +53,6 @@ Old Laser
 	- tonal - thinner blade sections, tip speed, changing blade number, blade length, etc
 	- broadband - controlling turbulent vortices
 	- Create significant design changes, losses in efficency and outweight the benefits in noise reduction
-	- Blade sweep is done whe
+	- Blade sweep is done and it improved aerodynamic efficiency and noise reduction
+
+- Uneven blade spacing distributes the tonal noise over a larger number of tones spread across a broader range of frequencies, making the percieved noise lesser 
