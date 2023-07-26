@@ -41,6 +41,7 @@ Old Laser
 - Harmonic/Tonal Noise
 	- Created just by spinning
 	- As Blade Passage Frequency increases, tonal noise increases
+	- Thickness of blade, lift, and drag induced noise
 - Narrow-Band Noise
 	- Periodic motion of propeller blades in unsteady flow conditions
 	- Propeller axis is misaligned with flow
@@ -49,4 +50,5 @@ Old Laser
 	- Found at all frequencies
 
 - Current ways to reduce are to find individual noise source and reducing their impact
-	- thnner blade sections
+	- tonal - thinner blade sections, tip speed, changing blade number, blade length, etc
+	- broadband - 
