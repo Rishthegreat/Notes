@@ -33,3 +33,8 @@ Old Laser
 - 1/8 Acrylic
 	- 15/100/Chart cut
 	- default settings on laser
+
+
+
+
+### Reduction of Tonal Propeller Noise by Means of Uneven Blade Spacing
