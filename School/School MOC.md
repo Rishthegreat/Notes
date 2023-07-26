@@ -79,4 +79,4 @@ objective of the study is to understand and reduce the perceived noise from gene
 				- Possible modification is to change angle of attack to account for this
 	- uneven produce twice as many tones as regular
 	- ![[Pasted image 20230726193205.png]]
-	- 
+	- There is more broadband noise due to unknown effects due to close proximity of blades
