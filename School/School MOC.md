@@ -87,3 +87,4 @@ objective of the study is to understand and reduce the perceived noise from gene
 	- Taking into account the human capability to hear certain frequencies and then weighting the recorded sound, the E20 and E30 showed 2 and 5 decibels reduction near the plane of the rotor. behind the propeller, is when uneven spacing had more sound
 
 ![[Pasted image 20230726195245.png]]
+
