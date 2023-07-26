@@ -75,3 +75,6 @@ objective of the study is to understand and reduce the perceived noise from gene
 - Results
 	- Uneven blade spacing typically reduced thrust
 		- the 20 deg one experieneced 8.5% loss in thrust
+			- Reason is interaction and the trailing blade getting caught in the downwash of the leading blade
+				- Possible modification is to change angle of attack to account for this
+	- uneven produce twice as many tones as regular
