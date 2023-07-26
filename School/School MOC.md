@@ -42,7 +42,11 @@ Old Laser
 	- Created just by spinning
 	- As Blade Passage Frequency increases, tonal noise increases
 - Narrow-Band Noise
-	- 
+	- Periodic motion of propeller blades in unsteady flow conditions
+	- Propeller axis is misaligned with flow
 - Broadband Noise
 	- Interaction with turbulence
 	- Found at all frequencies
+
+- Current ways to reduce are to find individual noise source and reducing their impact
+	- thnner blade sections
