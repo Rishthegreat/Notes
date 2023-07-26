@@ -1,0 +1,1 @@
+When propellers spin, they make unwanted noise that can often be an annoyance. some of the ways to reduce this noise is to alt
