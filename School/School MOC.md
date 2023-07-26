@@ -78,3 +78,5 @@ objective of the study is to understand and reduce the perceived noise from gene
 			- Reason is interaction and the trailing blade getting caught in the downwash of the leading blade
 				- Possible modification is to change angle of attack to account for this
 	- uneven produce twice as many tones as regular
+	- ![[Pasted image 20230726193205.png]]
+	- 
