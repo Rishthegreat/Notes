@@ -39,6 +39,7 @@ Old Laser
 
 ### Reduction of Tonal Propeller Noise by Means of Uneven Blade Spacing
 - Harmonic/Tonal Noise
-	- 
+	- As Blade Passage Frequency increases, tonal noise increases
 - Narrow-Band Noise
+	- 
 - Broadband Noise
