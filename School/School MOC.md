@@ -81,4 +81,5 @@ objective of the study is to understand and reduce the perceived noise from gene
 	- ![[Pasted image 20230726193205.png]]
 	- ![[Pasted image 20230726193520.png]]
 	- There is more broadband noise due to unknown effects due to close proximity of blades
-		- One reason is that as the propellers get closer to the hub, they begin to merge into 
+		- One reason is that as the propellers get closer to the hub, they begin to merge
+		- Another experiment was done with hobby grade propellers with axial separation and was proven that with the separation this increase was broadband noise was not present
