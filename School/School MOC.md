@@ -53,3 +53,4 @@ Old Laser
 	- tonal - thinner blade sections, tip speed, changing blade number, blade length, etc
 	- broadband - controlling turbulent vortices
 	- Create significant design changes, losses in efficency and outweight the benefits in noise reduction
+	- Blade sweep is done whe
