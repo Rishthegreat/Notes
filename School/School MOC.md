@@ -51,4 +51,5 @@ Old Laser
 
 - Current ways to reduce are to find individual noise source and reducing their impact
 	- tonal - thinner blade sections, tip speed, changing blade number, blade length, etc
-	- broadband - 
+	- broadband - controlling turbulent vortices
+	- Create significant design changes, losses in efficency and outweight the benefits in noise reduction
