@@ -1,1 +1,1 @@
-When propellers spin, they make unwanted noise that can often be an annoyance. some of the ways to reduce this noise is to alt
+When propellers spin, they make unwanted noise that can often be an annoyance. some of the ways to reduce this noise is to alter the shape, and thickness of the blades. However, making too many changes negatively affects the efficiency of the propellers. 
