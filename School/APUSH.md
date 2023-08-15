@@ -14,7 +14,6 @@ from #apush
 ```
 
 ## Units
-[[APUSH Canvas.canvas]]
 - Unit 6 (1865 - 1900)
 	- [[Gilded Age]]
 - Unit 7 (1890 - 1945)
