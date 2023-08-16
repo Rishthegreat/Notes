@@ -3,7 +3,7 @@
 ## Classes
 
 ```dataview
-Table Without ID block as Block, file.link as Course
+Table Without ID file.link as Course, block as Block, file
 from #course and !"Templates"
 sort block
 ```
