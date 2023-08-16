@@ -138,19 +138,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "templates:Insert template": true,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "daily-notes:Open today's daily note": false,
       "canvas:Create new canvas": true,
-      "graph:Open graph view": false,
-      "cmdr:Obsidian Git: Pull": false,
-      "cmdr:Obsidian Git: Commit all changes": false,
-      "cmdr:Obsidian Git: Push": false
+      "graph:Open graph view": false
     }
   },
   "active": "6f5b1e22ef3f5f08",
