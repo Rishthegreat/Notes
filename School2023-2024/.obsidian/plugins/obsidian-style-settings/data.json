@@ -1,0 +1,9 @@
+{
+  "obsidian-prism-theme@@h1-text-color-dt": "var(--color-red-text)",
+  "obsidian-prism-theme@@h2-text-color-dt": "var(--color-yellow-text)",
+  "obsidian-prism-theme@@h3-text-color-dt": "var(--color-green-text)",
+  "obsidian-prism-theme@@h4-text-color-dt": "var(--color-blue-text)",
+  "obsidian-prism-theme@@h5-text-color-dt": "var(--color-purple-text)",
+  "obsidian-prism-theme@@h6-text-color-dt": "var(--color-pink-text)",
+  "obsidian-prism-theme@@inline-title-size": 2.4
+}

@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "5b5cff84e4229a56",
+    "type": "split",
+    "children": [
+      {
+        "id": "082325c3ffa611b4",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a4e59018de02dfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "f40e489f00198771",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "074afd827ce4490e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4849714b7642fe57",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c693cc458446b533",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7c358fd90d599600",
+    "type": "split",
+    "children": [
+      {
+        "id": "79664ce59ee6a5d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab0620f77f30a8f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da3cab1187db4eb0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5328f3c26840bd26",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0b912d2e35045874",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "074afd827ce4490e",
+  "lastOpenFiles": [
+    "Obsidian Phone Testing.md",
+    "Quantum Computing.md",
+    "Neutrinos.md",
+    "Testing File.md"
+  ]
+}

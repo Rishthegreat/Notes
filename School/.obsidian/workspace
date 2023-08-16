@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "5b5cff84e4229a56",
+    "type": "split",
+    "children": [
+      {
+        "id": "12f99ef98794463e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "School MOC.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a4e59018de02dfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "f40e489f00198771",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "074afd827ce4490e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4849714b7642fe57",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c693cc458446b533",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5
+  },
+  "right": {
+    "id": "7c358fd90d599600",
+    "type": "split",
+    "children": [
+      {
+        "id": "79664ce59ee6a5d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab0620f77f30a8f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "School MOC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da3cab1187db4eb0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "School MOC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5328f3c26840bd26",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0b912d2e35045874",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "School MOC.md"
+              }
+            }
+          },
+          {
+            "id": "4779ba931f22637e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2d685e72a170ff4f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "12f99ef98794463e",
+  "lastOpenFiles": [
+    "Tenses.md",
+    "Spanish.md",
+    "Assignments/Spanish Assignments.md",
+    "School MOC.md",
+    "Assignments/APUSH Assignments.md",
+    "Assignments/Regular Assignments.md",
+    "APUSH.md",
+    "Unit 7 (1890 - 1945).md",
+    "Platt Amendment.md",
+    "Spanish-American War.md"
+  ]
+}

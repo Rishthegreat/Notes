@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "d35329042ce6e80d",
+    "type": "split",
+    "children": [
+      {
+        "id": "27036f7e71709dcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f5b1e22ef3f5f08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26615beaeb55b737",
+    "type": "split",
+    "children": [
+      {
+        "id": "26b4910f7c7aa6c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b17abf9481d63625",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "65b3ff271707eb92",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "adc62145af95c4b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239.5
+  },
+  "right": {
+    "id": "6d4026ee71b56d4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbcb2995187c005e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "477cf39f5c80199a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a5ed9861afcec483",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a0505fcee031878",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "93d4047e48c420c1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "daily-notes:Open today's daily note": false,
+      "canvas:Create new canvas": true,
+      "graph:Open graph view": false,
+      "cmdr:Obsidian Git: Pull": false,
+      "cmdr:Obsidian Git: Commit all changes": false,
+      "cmdr:Obsidian Git: Push": false
+    }
+  },
+  "active": "6f5b1e22ef3f5f08",
+  "lastOpenFiles": [
+    "AP Econ/AP Econ.md",
+    "Home.md",
+    "AP Econ",
+    "conflict-files-obsidian-git.md",
+    "Templates/Course Template.md",
+    "Templates/Note Template.md",
+    "Templates/README.md",
+    "README.md",
+    "{{filename}}.md",
+    "Media",
+    "Templates"
+  ]
+}
