@@ -3,7 +3,7 @@
 ## Classes
 
 ```dataview
-Table block as Block
+Table block as Block, file
 from #course and !"Templates"
 sort block
 ```
