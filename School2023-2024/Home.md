@@ -1,9 +1,9 @@
-# Today is `$= dv.span(moment().format("dddd, MMMM D - MM/DD"))`
+# Today is $= dv.span(moment().format("dddd, MMMM D - MM/DD"))
 
 ## Classes
 
 ```dataview
-Table Without ID block as Block, file.link as Course
+Table block as Block, file.path
 from #course and !"Templates"
 sort block
 ```
