@@ -138,22 +138,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "templates:Insert template": true,
       "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "daily-notes:Open today's daily note": false,
       "canvas:Create new canvas": true,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "cmdr:Obsidian Git: Pull": false,
+      "cmdr:Obsidian Git: Commit all changes": false,
+      "cmdr:Obsidian Git: Push": false
     }
   },
   "active": "6f5b1e22ef3f5f08",
   "lastOpenFiles": [
-    "AP Econ/AP Econ.md",
+    "Templates/Note Template.md",
+    "Templates/Course Template.md",
     "Home.md",
+    "AP Econ/AP Econ.md",
     "AP Econ",
     "conflict-files-obsidian-git.md",
-    "Templates/Course Template.md",
-    "Templates/Note Template.md",
     "Templates/README.md",
     "README.md",
     "{{filename}}.md",
