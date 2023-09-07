@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "20439cf193e0608a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +164,7 @@
       "cmdr:Obsidian Git: Push": false
     }
   },
-  "active": "6f5b1e22ef3f5f08",
+  "active": "20439cf193e0608a",
   "lastOpenFiles": [
     "Templates/Note Template.md",
     "Templates/Course Template.md",
