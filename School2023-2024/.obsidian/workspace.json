@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d9a0f2ce0a41151b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,6 +139,16 @@
                 "file": "Home.md"
               }
             }
+          },
+          {
+            "id": "2bfcb3352612dac1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -153,7 +174,7 @@
       "cmdr:Obsidian Git: Push": false
     }
   },
-  "active": "20439cf193e0608a",
+  "active": "d9a0f2ce0a41151b",
   "lastOpenFiles": [
     "Templates/Note Template.md",
     "Templates/Course Template.md",
